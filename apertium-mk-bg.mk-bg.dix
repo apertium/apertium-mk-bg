@@ -1,0 +1,34 @@
+<dictionary>
+  <alphabet/>
+  <sdefs>
+    <sdef n="n"       c="Noun"/>
+    <sdef n="num"     c="Numeral"/>
+    <sdef n="adj"     c="Adjective"/>
+    <sdef n="adv"     c="Adverb"/>
+    <sdef n="vblex"   c="Verb"/>
+    <sdef n="pr"      c="Preposition"/>
+    <sdef n="prn"     c="Pronoun"/>
+    <sdef n="np"      c="Proper noun"/>
+    <sdef n="cnjcoo"  c="Coordinator"/>
+    <sdef n="cnjsub"  c="Subordinator"/>
+    <sdef n="ij"      c="Interjection"/>
+  </sdefs>
+  <section id="main" type="standard">
+    <!-- Conjunctions -->
+     
+    <e><p><l>и<s n="cnjcoo"/></l><r>и<s n="cnjcoo"/></r></p></e>
+    
+    <!-- Prepositions -->
+    <!-- Pronouns -->
+    <!-- Determiners -->
+    <!-- Numerals -->
+
+    <!-- Nouns -->
+    <!-- Proper nouns -->
+    <!-- Adjectives -->
+    <!-- Verbs -->
+    <!-- Adverbs -->
+    <!-- Interjections -->
+
+  </section>
+</dictionary>

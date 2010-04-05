@@ -1,3 +1,4 @@
 * text=auto !eol
 /apertium-mk-bg.bg.dix -text
+/apertium-mk-bg.mk-bg.dix -text
 /apertium-mk-bg.mk.dix -text
