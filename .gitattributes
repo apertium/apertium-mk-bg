@@ -10,5 +10,6 @@ dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
 dev/interwiki.bg-mk -text
 dev/interwiki.mk-bg -text
+dev/testvoc-summary.txt -text
 /mk-bg.prob -text
 /modes.xml -text
