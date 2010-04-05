@@ -6,30 +6,70 @@
     <sdef n="adj"     c="Adjective"/>
     <sdef n="adv"     c="Adverb"/>
     <sdef n="vblex"   c="Verb"/>
+    <sdef n="pref"    c="Prefix"/>
     <sdef n="pr"      c="Preposition"/>
     <sdef n="prn"     c="Pronoun"/>
     <sdef n="np"      c="Proper noun"/>
     <sdef n="cnjcoo"  c="Coordinator"/>
     <sdef n="cnjsub"  c="Subordinator"/>
     <sdef n="ij"      c="Interjection"/>
+
+    <sdef n="m"       c="Masculine"/>
+    <sdef n="f"       c="Feminine"/>
+
+    <sdef n="top"     c="Toponym"/>
+
     <sdef n="sent"    c="End of sentence"/>
     <sdef n="cm"      c="Comma"/>
   </sdefs>
   <section id="main" type="standard">
+    <!-- Prefixes -->
+
+    <e><p><l>adj<s n="pref"/></l><r>adj<s n="pref"/></r></p></e> <!-- po- and naj- -->
+
     <!-- Conjunctions -->
      
     <e><p><l>и<s n="cnjcoo"/></l><r>и<s n="cnjcoo"/></r></p></e>
     
     <!-- Prepositions -->
+
+    <e><p><l>на<s n="pr"/></l><r>на<s n="pr"/></r></p></e>
+
     <!-- Pronouns -->
+
     <!-- Determiners -->
+
     <!-- Numerals -->
 
+    <e><p><l>један<s n="num"/></l><r>един<s n="num"/></r></p></e>
+    <e><p><l>два<s n="num"/></l><r>две<s n="num"/></r></p></e>
+    <e><p><l>три<s n="num"/></l><r>три<s n="num"/></r></p></e>
+    <e><p><l>четири<s n="num"/></l><r>четири<s n="num"/></r></p></e>
+    <e><p><l>пет<s n="num"/></l><r>пет<s n="num"/></r></p></e>
+
     <!-- Nouns -->
+
+    <e><p><l>аеродром<s n="n"/><s n="m"/></l><r>летище<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>енциклопедија<s n="n"/><s n="f"/></l><r>енциклопедия<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>шеќер<s n="n"/><s n="f"/></l><r>захар<s n="n"/><s n="f"/></r></p></e>
+
     <!-- Proper nouns -->
+
+    <e><p><l>Бугарија<s n="np"/><s n="top"/><s n="f"/></l><r>България<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Македонија<s n="np"/><s n="top"/><s n="f"/></l><r>Македония<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+
     <!-- Adjectives -->
+
+    <e><p><l>нов<s n="adj"/></l><r>нов<s n="adj"/></r></p></e>
+
     <!-- Verbs -->
+
+    <e><p><l>знае<s n="vblex"/></l><r>зна<s n="vblex"/></r></p></e>
+
     <!-- Adverbs -->
+
+    <e><p><l>денес<s n="adv"/></l><r>днес<s n="adv"/></r></p></e>
+
     <!-- Interjections -->
 
     <!-- Punctuation -->

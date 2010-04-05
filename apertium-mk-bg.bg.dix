@@ -21,6 +21,7 @@
     <sdef n="ij"       c="Interjection"/>
     <sdef n="vblex"    c="Verb"/>
     <sdef n="vaux"     c="Auxilliary verb"/>
+    <sdef n="pref"     c="Prefix"/>
     <sdef n="cnjcoo"   c="Co-ordinating conjunction"/>
     <sdef n="cnjsub"   c="Sub-ordinating conjunction"/>
 
@@ -52260,13 +52261,13 @@
       <e>
         <p>
           <l>по-</l>
-          <r>adj<s n="comp"/><j/></r>
+          <r>adj<s n="pref"/><s n="comp"/><j/></r>
         </p>
       </e>
       <e>
         <p>
           <l>най-</l>
-          <r>adj<s n="sup"/><j/></r>
+          <r>adj<s n="pref"/><s n="sup"/><j/></r>
         </p>
       </e>
     </pardef>
