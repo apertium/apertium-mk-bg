@@ -13,3 +13,4 @@ dev/interwiki.mk-bg -text
 dev/testvoc-summary.txt -text
 /mk-bg.prob -text
 /modes.xml -text
+/pending-tests.sh -text
