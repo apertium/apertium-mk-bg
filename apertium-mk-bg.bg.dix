@@ -10030,16 +10030,17 @@
       <e>        <p>          <l>най-</l>          <r>adj<s n="pref"/><s n="sup"/><j/></r></p></e>
     </pardef>
 
-    <pardef n="п/ърви__adj">      <e r="LR"> <p>          <l>ръв</l>          <r>ърви<s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ърви</l>          <r>ърви<s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ървия</l>          <r>ърви<s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="obj"/></r></p></e>
-      <e>        <p>          <l>ървият</l>          <r>ърви<s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="subj"/></r></p></e>
-      <e>        <p>          <l>ърва</l>          <r>ърви<s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ървата</l>          <r>ърви<s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>ърво</l>          <r>ърви<s n="adj"/><s n="ord"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ървото</l>          <r>ърви<s n="adj"/><s n="ord"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>ърви</l>          <r>ърви<s n="adj"/><s n="ord"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ървите</l>          <r>ърви<s n="adj"/><s n="ord"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+    <pardef n="п/ърви__adj">      
+      <e r="LR"> <p>          <l>ръв</l>       <r>ърви<s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ърви</l>      <r>ърви<s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ървия</l>     <r>ърви<s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="obj"/></r></p></e>
+      <e>        <p>          <l>ървият</l>    <r>ърви<s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="subj"/></r></p></e>
+      <e>        <p>          <l>ърва</l>      <r>ърви<s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ървата</l>    <r>ърви<s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ърво</l>      <r>ърви<s n="adj"/><s n="ord"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ървото</l>    <r>ърви<s n="adj"/><s n="ord"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ърви</l>      <r>ърви<s n="adj"/><s n="ord"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ървите</l>    <r>ърви<s n="adj"/><s n="ord"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
     </pardef>
 
     <pardef n="втор/и__adj">
