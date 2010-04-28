@@ -4,7 +4,7 @@
   <section-def-cats>
     
     <def-cat n="nom">
-      <cat-item tags="n"/>
+      <cat-item tags="n.*"/>
     </def-cat>
    
   </section-def-cats>
@@ -14,6 +14,7 @@
     <def-attr n="gen">
       <attr-item tags="m"/>
       <attr-item tags="f"/>
+      <attr-item tags="nt"/>
       <attr-item tags="GD"/>
     </def-attr>
  
@@ -39,7 +40,14 @@
       <attr-item tags="p2"/>
       <attr-item tags="p3"/>
     </def-attr>
-    
+
+    <def-attr n="defnes">
+      <attr-item tags="ind"/>
+      <attr-item tags="def"/>
+      <attr-item tags="prx"/>
+      <attr-item tags="dst"/>
+    </def-attr>
+
   </section-def-attrs>
  
   <section-def-vars>
@@ -53,6 +61,26 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
+<!--
+input: prx, dst
+output: def 
+-->
+	<choose> 		<!-- if -->
+		<when>
+			<test>
+				<not><equal>
+					<clip pos="1" side="sl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+					<lit-tag v="ind"/>
+					
+				</equal></not>
+			</test>
+			<let>
+				<clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+				<lit-tag v="def"/>
+			</let>
+			
+		</when>
+	</choose>
         <out>
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
@@ -60,7 +88,10 @@
             <clip pos="1" side="tl" part="gen"/>
             <clip pos="1" side="tl" part="nbr"/>
             <clip pos="1" side="tl" part="cas"/>
+            <clip pos="1" side="tl" part="defnes"/>
+
             <clip pos="1" side="tl" part="lemq"/>
+
           </lu>
         </out>
       </action>
