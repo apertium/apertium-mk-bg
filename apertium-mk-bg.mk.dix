@@ -432,9 +432,9 @@
     </pardef>
 
     <pardef n="има__vbhaver">
-      <e>        <p>          <l>м</l>          <r><s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>с</l>          <r><s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l/>          <r><s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>м</l>           <r><s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>с</l>           <r><s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l/>               <r><s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
       <e>        <p>          <l>ме</l>          <r><s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
       <e>        <p>          <l>те</l>          <r><s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>        <p>          <l>ат</l>          <r><s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
@@ -457,6 +457,22 @@
       <e>        <p>          <l>еме</l>          <r>е<s n="vbmod"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
       <e>        <p>          <l>ете</l>          <r>е<s n="vbmod"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>        <p>          <l>ат</l>          <r>е<s n="vbmod"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="мора__vaux">
+      <e>        <p>          <l>м</l>           <r><s n="vaux"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>ш</l>           <r><s n="vaux"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l/>               <r><s n="vaux"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>ме</l>          <r><s n="vaux"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>те</l>          <r><s n="vaux"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>ат</l>          <r><s n="vaux"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e>        <p>          <l>в</l>           <r><s n="vaux"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>ше</l>          <r><s n="vaux"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>ше</l>          <r><s n="vaux"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>вме</l>         <r><s n="vaux"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>вте</l>         <r><s n="vaux"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>а</l>           <r><s n="vaux"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="вик/а__vblex">
@@ -876,6 +892,9 @@
       <e>        <p>          <l/>	  <r><s n="part"/><s n="exp"/></r></p></e>
     </pardef>
 
+    <pardef n="да__part">
+      <e>        <p>          <l/>	  <r><s n="part"/></r></p></e>
+    </pardef>
  
   </pardefs>
 
@@ -894,6 +913,7 @@
    <e lm="тој"><i/><par n="/тој__prn"/></e>
 
    <e lm="ќе"><i>ќе</i><par n="C__ќе"/></e>
+   <e lm="да"><i>да</i><par n="да__part"/></e>
 
    <!-- adverbs of manner -->
    <e lm="како"><i>како</i><par n="како__adv"/></e>
@@ -1787,6 +1807,8 @@
    <!-- Глаголи -->
    <e lm="е"><i/><par n="/е__vbser"/></e>			<!-- to be -->
    <e lm="има"><i>има</i><par n="има__vbhaver"/></e>		<!-- to have -->
+
+   <e lm="мора"><i>мора</i><par n="мора__vaux"/></e>		<!-- must -->
 
    <!-- Verbs ending on e -->
    <e lm="може"><i>мож</i><par n="мож/е__vbmod"/></e>		<!-- to have the ability to -->

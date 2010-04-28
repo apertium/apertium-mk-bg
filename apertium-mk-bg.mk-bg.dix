@@ -14,6 +14,7 @@
     <sdef n="np"      c="Proper noun"/>
     <sdef n="cnjcoo"  c="Coordinator"/>
     <sdef n="cnjsub"  c="Subordinator"/>
+    <sdef n="part"    c="Particle"/>
     <sdef n="ij"      c="Interjection"/>
 
     <sdef n="m"       c="Masculine"/>
@@ -23,6 +24,7 @@
     <sdef n="top"     c="Toponym"/>
 
     <sdef n="enc"     c="Enclitic"/>
+    <sdef n="dem"     c="Demonstrative"/>
 
     <sdef n="sent"    c="End of sentence"/>
     <sdef n="cm"      c="Comma"/>
@@ -31,6 +33,10 @@
     <!-- Prefixes -->
 
     <e><p><l>adj<s n="pref"/></l><r>adj<s n="pref"/></r></p></e> <!-- po- and naj- -->
+
+    <!-- Particles -->
+
+    <e><p><l>да<s n="part"/></l><r>да<s n="part"/></r></p></e>
 
     <!-- Conjunctions -->
      
@@ -49,6 +55,8 @@
 
     <e><p><l>prpers<s n="prn"/></l><r>free<s n="prn"/></r></p></e>
     <e><p><l>prpers<s n="prn"/><s n="enc"/></l><r>clitic<s n="prn"/></r></p></e>
+
+    <e><p><l>тој<s n="prn"/><s n="dem"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
 
     <!-- Determiners -->
 
@@ -594,6 +602,8 @@
     <e><p><l>мора<s n="vaux"/></l><r>трябва<s n="vaux"/></r></p></e>
 
     <e><p><l>знае<s n="vblex"/></l><r>зна<s n="vblex"/></r></p></e>
+    <e><p><l>оди<s n="vblex"/></l><r>отид<s n="vblex"/></r></p></e>
+    <e><p><l>помогне<s n="vblex"/></l><r>помогне<s n="vblex"/></r></p></e>
 
     <!-- Adverbs -->
 
@@ -632,6 +642,8 @@
     <e><p><l>често<s n="adv"/></l><r>често<s n="adv"/></r></p></e>
 
     <!-- Interjections -->
+
+    <e><p><l>да<s n="ij"/></l><r>да<s n="ij"/></r></p></e>
 
     <!-- Punctuation -->
 
