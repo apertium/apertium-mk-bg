@@ -734,6 +734,26 @@
       <e>        <p>          <l/>          <r></r></p></e>
     </pardef>
 
+    <pardef n="теж/ок__adj">
+      <e>        <p>          <l>ок</l>           <r>ок<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>киот</l>         <r>ок<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>киов</l>         <r>ок<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>кион</l>         <r>ок<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+
+      <e>        <p>          <l>ка</l>           <r>ок<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ката</l>         <r>ок<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>кава</l>         <r>ок<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>кана</l>         <r>ок<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>ко</l>           <r>ок<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>кото</l>         <r>ок<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ково</l>         <r>ок<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>коно</l>         <r>ок<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>ки</l>           <r>ок<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ките</l>         <r>ок<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>киве</l>         <r>ок<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>кине</l>         <r>ок<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+    </pardef>
+
     <pardef n="висок__adj">
       <e>        <p>          <l/>          <r><s n="adj"/><s n="m"/><s n="sg"/></r></p><par n="S__m_sg_def"/></e>
 
@@ -2697,7 +2717,8 @@
    <e lm="дваесет"><i>дваесет</i><par n="нула__num"/></e>	  <!-- twenty -->
 
     <!-- придавки -->
-   <e lm="висок"><par n="P__adj"/><i>висок</i><par n="висок__adj"/></e>		<!-- tall -->
+   <e lm="висок"><par n="P__adj"/><i>вис</i><par n="теж/ок__adj"/></e>		<!-- tall -->
+   <e lm="тежок"><par n="P__adj"/><i>теж</i><par n="теж/ок__adj"/></e>
    <e lm="весел"><par n="P__adj"/><i>весел</i><par n="висок__adj"/></e>
    <e lm="тажен"><par n="P__adj"/><i>тажен</i><par n="висок__adj"/></e>
    <e lm="тмурен"><par n="P__adj"/><i>тмурен</i><par n="висок__adj"/></e>
@@ -3141,7 +3162,6 @@
    <e lm="жив"><par n="P__adj"/><i>жив</i><par n="висок__adj"/></e>
    <e lm="минат"><par n="P__adj"/><i>минат</i><par n="висок__adj"/></e>
    <e lm="прв"><par n="P__adj"/><i>прв</i><par n="висок__adj"/></e>
-   <e lm="тежок"><par n="P__adj"/><i>тежок</i><par n="висок__adj"/></e>
    <e lm="кисел"><par n="P__adj"/><i>кисел</i><par n="висок__adj"/></e>
    <e lm="цел"><par n="P__adj"/><i>цел</i><par n="висок__adj"/></e>
    <e lm="поврзан"><par n="P__adj"/><i>поврзан</i><par n="висок__adj"/></e>
