@@ -6,6 +6,7 @@
     <sdef n="adj"     c="Adjective"/>
     <sdef n="adv"     c="Adverb"/>
     <sdef n="vblex"   c="Verb"/>
+    <sdef n="vbhaver" c="Verb 'to have'"/>
     <sdef n="pref"    c="Prefix"/>
     <sdef n="pr"      c="Preposition"/>
     <sdef n="prn"     c="Pronoun"/>
@@ -19,6 +20,8 @@
     <sdef n="nt"      c="Neuter"/>
 
     <sdef n="top"     c="Toponym"/>
+
+    <sdef n="enc"     c="Enclitic"/>
 
     <sdef n="sent"    c="End of sentence"/>
     <sdef n="cm"      c="Comma"/>
@@ -39,6 +42,9 @@
     <e><p><l>на<s n="pr"/></l><r>на<s n="pr"/></r></p></e>
 
     <!-- Pronouns -->
+
+    <e><p><l>prpers<s n="prn"/></l><r>free<s n="prn"/></r></p></e>
+    <e><p><l>prpers<s n="prn"/><s n="enc"/></l><r>clitic<s n="prn"/></r></p></e>
 
     <!-- Determiners -->
 
@@ -277,6 +283,8 @@
     <e><p><l>нов<s n="adj"/></l><r>нов<s n="adj"/></r></p></e>
 
     <!-- Verbs -->
+
+    <e><p><l>има<s n="vbhaver"/></l><r>има<s n="vbhaver"/></r></p></e>
 
     <e><p><l>знае<s n="vblex"/></l><r>зна<s n="vblex"/></r></p></e>
 

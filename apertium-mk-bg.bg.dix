@@ -20,6 +20,7 @@
     <sdef n="abbr"     c="Abbreviation"/>
     <sdef n="ij"       c="Interjection"/>
     <sdef n="vblex"    c="Verb"/>
+    <sdef n="vbhaver"  c="Verb 'to have'"/>
     <sdef n="vaux"     c="Auxilliary verb"/>
     <sdef n="pref"     c="Prefix"/>
     <sdef n="cnjcoo"   c="Co-ordinating conjunction"/>
@@ -2377,47 +2378,47 @@
       <e>        <p>          <l>ли</l>          <r><s n="vaux"/><s n="pii"/><s n="part"/><s n="mfn"/><s n="pl"/></r></p></e>
     </pardef>
 
-    <pardef n="/има__vblex">
-      <e>        <p>          <l>имам</l>          <r>има<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имаш</l>          <r>има<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>има</l>          <r>има<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имаме</l>          <r>има<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>        <p>          <l>имате</l>          <r>има<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>        <p>          <l>имат</l>          <r>има<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
-      <e>        <p>          <l>нямам</l>          <r>не<s n="adv"/><j/>има<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>нямаш</l>          <r>не<s n="adv"/><j/>има<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>няма</l>          <r>не<s n="adv"/><j/>има<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>нямаме</l>          <r>не<s n="adv"/><j/>има<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>        <p>          <l>нямате</l>          <r>не<s n="adv"/><j/>има<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>        <p>          <l>нямат</l>          <r>не<s n="adv"/><j/>има<s n="vblex"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
-      <e>        <p>          <l>имах</l>          <r>има<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>има</l>          <r>има<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>има</l>          <r>има<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имахме</l>          <r>има<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>        <p>          <l>имахте</l>          <r>има<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>        <p>          <l>имаха</l>          <r>има<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
-      <e>        <p>          <l>имах</l>          <r>има<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имаше</l>          <r>има<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имаше</l>          <r>има<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имахме</l>          <r>има<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>        <p>          <l>имахте</l>          <r>има<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>        <p>          <l>имаха</l>          <r>има<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
-      <e>        <p>          <l>имащ</l>          <r>има<s n="vblex"/><s n="pres"/><s n="part"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имаща</l>          <r>има<s n="vblex"/><s n="pres"/><s n="part"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имащо</l>          <r>има<s n="vblex"/><s n="pres"/><s n="part"/><s n="nt"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имащи</l>          <r>има<s n="vblex"/><s n="pres"/><s n="part"/><s n="mfn"/><s n="pl"/></r></p></e>
-      <e>        <p>          <l>имал</l>          <r>има<s n="vblex"/><s n="aor"/><s n="part"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имала</l>          <r>има<s n="vblex"/><s n="aor"/><s n="part"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имало</l>          <r>има<s n="vblex"/><s n="aor"/><s n="part"/><s n="nt"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имали</l>          <r>има<s n="vblex"/><s n="aor"/><s n="part"/><s n="mfn"/><s n="pl"/></r></p></e>
-      <e>        <p>          <l>имал</l>          <r>има<s n="vblex"/><s n="pii"/><s n="part"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имала</l>          <r>има<s n="vblex"/><s n="pii"/><s n="part"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имало</l>          <r>има<s n="vblex"/><s n="pii"/><s n="part"/><s n="nt"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имали</l>          <r>има<s n="vblex"/><s n="pii"/><s n="part"/><s n="mfn"/><s n="pl"/></r></p></e>
-      <e>        <p>          <l>иман</l>          <r>има<s n="vblex"/><s n="pass"/><s n="part"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имана</l>          <r>има<s n="vblex"/><s n="pass"/><s n="part"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имано</l>          <r>има<s n="vblex"/><s n="pass"/><s n="part"/><s n="nt"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имани</l>          <r>има<s n="vblex"/><s n="pass"/><s n="part"/><s n="mfn"/><s n="pl"/></r></p></e>
+    <pardef n="/има__vbhaver">
+      <e>        <p>          <l>имам</l>          <r>има<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>имаш</l>          <r>има<s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>има</l>          <r>има<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>имаме</l>          <r>има<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>имате</l>          <r>има<s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>имат</l>          <r>има<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>нямам</l>          <r>не<s n="adv"/><j/>има<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>нямаш</l>          <r>не<s n="adv"/><j/>има<s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>няма</l>          <r>не<s n="adv"/><j/>има<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>нямаме</l>          <r>не<s n="adv"/><j/>има<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>нямате</l>          <r>не<s n="adv"/><j/>има<s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>нямат</l>          <r>не<s n="adv"/><j/>има<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>имах</l>          <r>има<s n="vbhaver"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>има</l>          <r>има<s n="vbhaver"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>има</l>          <r>има<s n="vbhaver"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>имахме</l>          <r>има<s n="vbhaver"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>имахте</l>          <r>има<s n="vbhaver"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>имаха</l>          <r>има<s n="vbhaver"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>имах</l>          <r>има<s n="vbhaver"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>имаше</l>          <r>има<s n="vbhaver"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>имаше</l>          <r>има<s n="vbhaver"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>имахме</l>          <r>има<s n="vbhaver"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>имахте</l>          <r>има<s n="vbhaver"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>имаха</l>          <r>има<s n="vbhaver"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>имащ</l>          <r>има<s n="vbhaver"/><s n="pres"/><s n="part"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>имаща</l>          <r>има<s n="vbhaver"/><s n="pres"/><s n="part"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>имащо</l>          <r>има<s n="vbhaver"/><s n="pres"/><s n="part"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>имащи</l>          <r>има<s n="vbhaver"/><s n="pres"/><s n="part"/><s n="mfn"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>имал</l>          <r>има<s n="vbhaver"/><s n="aor"/><s n="part"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>имала</l>          <r>има<s n="vbhaver"/><s n="aor"/><s n="part"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>имало</l>          <r>има<s n="vbhaver"/><s n="aor"/><s n="part"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>имали</l>          <r>има<s n="vbhaver"/><s n="aor"/><s n="part"/><s n="mfn"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>имал</l>          <r>има<s n="vbhaver"/><s n="pii"/><s n="part"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>имала</l>          <r>има<s n="vbhaver"/><s n="pii"/><s n="part"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>имало</l>          <r>има<s n="vbhaver"/><s n="pii"/><s n="part"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>имали</l>          <r>има<s n="vbhaver"/><s n="pii"/><s n="part"/><s n="mfn"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>иман</l>          <r>има<s n="vbhaver"/><s n="pass"/><s n="part"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>имана</l>          <r>има<s n="vbhaver"/><s n="pass"/><s n="part"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>имано</l>          <r>има<s n="vbhaver"/><s n="pass"/><s n="part"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>имани</l>          <r>има<s n="vbhaver"/><s n="pass"/><s n="part"/><s n="mfn"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="уя/д__vblex">
@@ -22901,7 +22902,7 @@
 
     <!-- Verbs -->
 
-    <e lm="има"><i></i><par n="/има__vblex"/></e>
+    <e lm="има"><i></i><par n="/има__vbhaver"/></e>
     <e lm="трябва"><i>трябва</i><par n="трябва__vaux"/></e>
 
     <!-- TO CHECK -->
