@@ -9,6 +9,9 @@
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
 dev/interwiki.bg-mk -text
+dev/testvoc-summary.bg-mk.txt -text
+dev/testvoc-summary.mk-bg.txt -text
+dev/testvoc.sh -text
 /mk-bg.prob -text
 /modes.xml -text
 /pending-tests.sh -text
