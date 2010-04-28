@@ -2,11 +2,20 @@ INC=$1
 OUT=testvoc-summary.$2.txt
 POS="abbr adj adv cm cnjadv cnjcoo cnjsub det guio ij n np num pr preadv prn rel vaux vbhaver vblex vbser"
 
+ECHOE="echo -e"
+SED=sed
+
+if test x$(uname -s) = xDarwin; then
+        ECHOE="builtin echo"
+        SED=gsed
+fi
+
+
 echo "" > $OUT;
 
 date >> $OUT
-echo -e "===============================================" >> $OUT
-echo -e "POS\tTotal\tClean\tWith @\tWith #\tClean %" >> $OUT
+$ECHOE  "===============================================" >> $OUT
+$ECHOE  "POS\tTotal\tClean\tWith @\tWith #\tClean %" >> $OUT
 for i in $POS; do
 	if [ "$i" = "det" ]; then
 		TOTAL=`cat $INC | grep "<$i>" | grep -v -e '<n>' -e '<np>' | grep -v REGEX | wc -l`; 
@@ -39,8 +48,8 @@ for i in $POS; do
 		TOTPERCLEAN=`calc 100-$PERCLEAN | sed 's/^\W*//g' | sed 's/~//g' | head -c 5`;
 	fi
 
-	echo -e $TOTAL";"$i";"$CLEAN";"$AT";"$HASH";"$TOTPERCLEAN;
+	$ECHOE $TOTAL";"$i";"$CLEAN";"$AT";"$HASH";"$TOTPERCLEAN;
 done | sort -gr | awk -F';' '{print $2"\t"$1"\t"$3"\t"$4"\t"$5"\t"$6}' >> $OUT
 
-echo -e "===============================================" >> $OUT
+$ECHOE "===============================================" >> $OUT
 cat $OUT;
