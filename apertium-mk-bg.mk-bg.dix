@@ -52,10 +52,16 @@
     <!-- Numerals -->
 
     <e><p><l>један<s n="num"/></l><r>един<s n="num"/></r></p></e>
-    <e><p><l>два<s n="num"/></l><r>две<s n="num"/></r></p></e>
+    <e><p><l>два<s n="num"/></l><r>два<s n="num"/></r></p></e>
     <e><p><l>три<s n="num"/></l><r>три<s n="num"/></r></p></e>
     <e><p><l>четири<s n="num"/></l><r>четири<s n="num"/></r></p></e>
     <e><p><l>пет<s n="num"/></l><r>пет<s n="num"/></r></p></e>
+
+    <e><p><l>шест<s n="num"/></l><r>шест<s n="num"/></r></p></e>
+    <e><p><l>седум<s n="num"/></l><r>седем<s n="num"/></r></p></e>
+    <e><p><l>осум<s n="num"/></l><r>осем<s n="num"/></r></p></e>
+    <e><p><l>девет<s n="num"/></l><r>девет<s n="num"/></r></p></e>
+    <e><p><l>десет<s n="num"/></l><r>десет<s n="num"/></r></p></e>
 
     <!-- Nouns -->
 
