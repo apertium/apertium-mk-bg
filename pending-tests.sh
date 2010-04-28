@@ -1,8 +1,16 @@
 #!/bin/bash
 
-SRCLIST=`mktemp`;
-TRGLIST=`mktemp`;
-TSTLIST=`mktemp`;
+SRCLIST=`mktemp -t tmp.mkbg-src.XXXXXXXXXX`;
+TRGLIST=`mktemp -t tmp.mkbg-trg.XXXXXXXXXX`;
+TSTLIST=`mktemp -t tmp.mkbg-tst.XXXXXXXXXX`;
+
+ECHOE="echo -e"
+SED=sed
+
+if test x$(uname -s) = xDarwin; then 
+	ECHOE="builtin echo"
+	SED=gsed
+fi
 
 basedir=`pwd`;
 mode=mk-bg
@@ -28,9 +36,9 @@ for LINE in `paste $SRCLIST $TRGLIST $TSTLIST | sed 's/ /%_%/g' | sed 's/\t/!/g'
 	
 	echo $TRG | grep "^$TST$" > /dev/null;	
 	if [ $? -eq 1 ]; then
-		echo -e $mode"\t  "$SRC"\n\t- $TRG\n\t+ "$TST"\n";
+		$ECHOE $mode"\t  "$SRC"\n\t- $TRG\n\t+ "$TST"\n";
 	else
-		echo -e $mode"\t  "$SRC"\nWORKS\t  $TST\n";
+		$ECHOE $mode"\t  "$SRC"\nWORKS\t  $TST\n";
 		CORRECT=`expr $CORRECT + 1`;
 	fi
 	TOTAL=`expr $TOTAL + 1`;
