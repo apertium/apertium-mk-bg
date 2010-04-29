@@ -26,6 +26,8 @@
 
     <sdef n="enc"     c="Enclitic"/>
     <sdef n="dem"     c="Demonstrative"/>
+    <sdef n="prx"     c="Proximal"/>
+    <sdef n="dst"     c="Distal"/>
 
     <sdef n="sent"    c="End of sentence"/>
     <sdef n="cm"      c="Comma"/>
@@ -58,6 +60,8 @@
     <e><p><l>prpers<s n="prn"/><s n="enc"/></l><r>clitic<s n="prn"/></r></p></e>
 
     <e><p><l>тој<s n="prn"/><s n="dem"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
+    <e r="LR"><p><l>тој<s n="prn"/><s n="dem"/><s n="prx"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
+    <e r="LR"><p><l>тој<s n="prn"/><s n="dem"/><s n="dst"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
 
     <!-- Determiners -->
 
@@ -696,7 +700,7 @@
 
     <e><p><l>знае<s n="vblex"/></l><r>зна<s n="vblex"/></r></p></e>
     <e><p><l>оди<s n="vblex"/></l><r>отид<s n="vblex"/></r></p></e>
-    <e><p><l>помогне<s n="vblex"/></l><r>помогне<s n="vblex"/></r></p></e>
+    <e><p><l>помогне<s n="vblex"/></l><r>помогна<s n="vblex"/></r></p></e>
 
     <!-- Adverbs -->
 
