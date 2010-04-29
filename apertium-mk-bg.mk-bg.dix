@@ -22,10 +22,12 @@
     <sdef n="nt"      c="Neuter"/>
 
     <sdef n="top"     c="Toponym"/>
+    <sdef n="ant"     c="Anthroponym"/>
     <sdef n="al"      c="Altres"/>
 
     <sdef n="enc"     c="Enclitic"/>
     <sdef n="dem"     c="Demonstrative"/>
+    <sdef n="itg"     c="Interrogative"/>
     <sdef n="prx"     c="Proximal"/>
     <sdef n="dst"     c="Distal"/>
 
@@ -62,6 +64,9 @@
     <e><p><l>тој<s n="prn"/><s n="dem"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
     <e r="LR"><p><l>тој<s n="prn"/><s n="dem"/><s n="prx"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
     <e r="LR"><p><l>тој<s n="prn"/><s n="dem"/><s n="dst"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
+
+    <e><p><l>што<s n="prn"/><s n="itg"/></l><r>защо<s n="prn"/><s n="itg"/></r></p></e>
+    <e><p><l>кој<s n="prn"/><s n="itg"/></l><r>кой<s n="prn"/><s n="itg"/></r></p></e>
 
     <!-- Determiners -->
 
@@ -332,7 +337,6 @@
     <e><p><l>Турција<s n="np"/><s n="top"/><s n="f"/></l><r>Турция<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Унгарија<s n="np"/><s n="top"/><s n="f"/></l><r>Унгария<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Франција<s n="np"/><s n="top"/><s n="f"/></l><r>Франция<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>Холандија<s n="np"/><s n="top"/><s n="f"/></l><r>Нидерландия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Швајцарија<s n="np"/><s n="top"/><s n="f"/></l><r>Швейцария<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Шпанија<s n="np"/><s n="top"/><s n="f"/></l><r>Испания<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 
@@ -386,6 +390,7 @@
     <e><p><l>Смолјан<s n="np"/><s n="top"/><s n="m"/></l><r>Смолян<s n="np"/><s n="top"/><s n="m"/></r></p></e>
     <e><p><l>Стара<b/>Загора<s n="np"/><s n="top"/><s n="f"/></l><r>Стара<b/>Загора<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Тројан<s n="np"/><s n="top"/><s n="m"/></l><r>Троян<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>Холандија<s n="np"/><s n="top"/><s n="f"/></l><r>Нидерландия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Холандија<s n="np"/><s n="top"/><s n="f"/></l><r>Холандия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Шумен<s n="np"/><s n="top"/><s n="m"/></l><r>Шумен<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 
@@ -393,6 +398,14 @@
     <e><p><l>СССР<s n="np"/><s n="top"/><s n="m"/></l><r>СССР<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 
     <e><p><l>Википедија<s n="np"/><s n="al"/><s n="f"/></l><r>Уикипедия<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+
+    <e><p><l>Марија<s n="np"/><s n="ant"/><s n="f"/></l><r>Марија<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+    <e><p><l>Лабина<s n="np"/><s n="ant"/><s n="f"/></l><r>Лабина<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+
+    <e><p><l>Бранко<s n="np"/><s n="ant"/><s n="m"/></l><r>Бранко<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Петар<s n="np"/><s n="ant"/><s n="m"/></l><r>Петар<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Дејан<s n="np"/><s n="ant"/><s n="m"/></l><r>Дејан<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Слободан<s n="np"/><s n="ant"/><s n="m"/></l><r>Слободан<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
     <!-- Adjectives -->
 
