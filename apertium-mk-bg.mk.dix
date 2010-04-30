@@ -69,6 +69,7 @@
     <sdef n="ref"     c="Reflexive"/>
     <sdef n="num"     c="Numeral / Number"/>
     <sdef n="ij"      c="Interjection"/>
+    <sdef n="abbr"    c="Abbreviation"/>
  
     <sdef n="tn"      c="Tonico"/>
     <sdef n="adj"     c="Adjective"/>
@@ -177,6 +178,10 @@
 
    <pardef n="да__ij">
      <e>       <p>         <l/>         <r><s n="ij"/></r></p></e>
+   </pardef>
+
+   <pardef n="км__abbr">
+     <e>       <p>         <l/>         <r><s n="abbr"/></r></p></e>
    </pardef>
 
    <pardef n="personal_pronouns__prn">
@@ -6205,8 +6210,16 @@
     <e lm="еднуш"><i>еднуш</i><par n="не__adv"/></e>
 
 
+    <!-- Interjections -->
 
-   <e lm="да"><i>да</i><par n="да__ij"/></e>
+    <e lm="да"><i>да</i><par n="да__ij"/></e>
+
+    <!-- Abbreviations -->
+
+    <e lm="см"><i>см</i><par n="км__abbr"/></e>
+    <e lm="м"><i>м</i><par n="км__abbr"/></e>
+    <e lm="км"><i>км</i><par n="км__abbr"/></e>
+    <e lm="гр"><i>гр</i><par n="км__abbr"/></e>
   </section>
 
   <section id="prefixes" type="standard">

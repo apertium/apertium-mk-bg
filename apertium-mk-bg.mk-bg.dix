@@ -17,6 +17,7 @@
     <sdef n="cnjsub"  c="Subordinator"/>
     <sdef n="part"    c="Particle"/>
     <sdef n="ij"      c="Interjection"/>
+    <sdef n="abbr"    c="Abbreviations"/>
 
     <sdef n="m"       c="Masculine"/>
     <sdef n="f"       c="Feminine"/>
@@ -810,6 +811,13 @@
     <!-- Interjections -->
 
     <e><p><l>да<s n="ij"/></l><r>да<s n="ij"/></r></p></e>
+
+    <!-- Abbreviation -->
+    <e><p><l>см<s n="abbr"/></l><r>см<s n="abbr"/></r></p></e>
+    <e><p><l>м<s n="abbr"/></l><r>м<s n="abbr"/></r></p></e>
+    <e><p><l>км<s n="abbr"/></l><r>км<s n="abbr"/></r></p></e>
+
+    <e><p><l>гр<s n="abbr"/></l><r>гр<s n="abbr"/></r></p></e>
 
     <!-- Punctuation -->
 
