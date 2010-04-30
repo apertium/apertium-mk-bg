@@ -28,6 +28,7 @@
 
     <sdef n="enc"     c="Enclitic"/>
     <sdef n="dem"     c="Demonstrative"/>
+    <sdef n="rel"     c="Relative"/>
     <sdef n="itg"     c="Interrogative"/>
     <sdef n="prx"     c="Proximal"/>
     <sdef n="dst"     c="Distal"/>
@@ -54,6 +55,8 @@
     <e><p><l>но<s n="cnjcoo"/></l><r>но<s n="cnjcoo"/></r></p></e>
     <e><p><l>ниту<s n="cnjcoo"/></l><r>нито<s n="cnjcoo"/></r></p></e>
     <e><p><l>ни<s n="cnjcoo"/></l><r>ни<s n="cnjcoo"/></r></p></e>
+
+    <e><p><l>ако<s n="cnjsub"/></l><r>ако<s n="cnjsub"/></r></p></e>
     
     <!-- Prepositions -->
 
@@ -94,6 +97,8 @@
 
     <e><p><l>што<s n="prn"/><s n="itg"/></l><r>защо<s n="prn"/><s n="itg"/></r></p></e>
     <e><p><l>кој<s n="prn"/><s n="itg"/></l><r>кой<s n="prn"/><s n="itg"/></r></p></e>
+
+    <e><p><l>којшто<s n="prn"/><s n="rel"/></l><r>който<s n="prn"/><s n="rel"/></r></p></e>
 
     <!-- Determiners -->
 

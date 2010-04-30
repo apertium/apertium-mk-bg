@@ -259,6 +259,14 @@
      <e>       <p>         <l>му</l>         <r>ј<s n="prn"/><s n="itg"/><s n="mfn"/><s n="pl"/><s n="dat"/></r></p></e>
    </pardef>
 
+    <pardef n="/којшто__prn">
+      <e>        <p>          <l>којшто</l>       <r>којшто<s n="prn"/><s n="rel"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>        <p>          <l>којашто</l>      <r>којшто<s n="prn"/><s n="rel"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>        <p>          <l>коешто</l>       <r>којшто<s n="prn"/><s n="rel"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>        <p>          <l>коишто</l>       <r>којшто<s n="prn"/><s n="rel"/><s n="mfn"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+
+
    <!-- Именки -->
    <pardef n="молив__n">
      <e>       <p>         <l/>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -887,6 +895,9 @@
     <pardef n="и__cnjcoo">
       <e>        <p>          <l/>	  <r><s n="cnjcoo"/></r></p></e>
     </pardef>
+    <pardef n="ако__cnjsub">
+      <e>        <p>          <l/>	  <r><s n="cnjsub"/></r></p></e>
+    </pardef>
 
     <pardef n="в__pr">
       <e>        <p>          <l/>	  <r><s n="pr"/></r></p></e>
@@ -931,6 +942,7 @@
    <e r="RL"><i>нај</i></e>
 
    <e lm="кој"><i>ко</i><par n="ко/ј__prn"/></e>
+   <e lm="којшто"><i></i><par n="/којшто__prn"/></e>
    <e lm="тој"><i/><par n="/тој__prn"/></e>
 
    <e lm="ќе"><i>ќе</i><par n="C__ќе"/></e>
@@ -5192,6 +5204,8 @@
    <e lm="а"><i>а</i><par n="и__cnjcoo"/></e>
    <e lm="или"><i>или</i><par n="и__cnjcoo"/></e>
    <e lm="па"><i>па</i><par n="и__cnjcoo"/></e>
+
+   <e lm="ако"><i>ако</i><par n="ако__cnjsub"/></e>
 
    <e lm="не"><i>не</i><par n="не__adv"/></e>
    <e lm="каде"><i>каде</i><par n="не__adv"/></e>
