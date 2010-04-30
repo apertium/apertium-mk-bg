@@ -227,19 +227,18 @@
 
    <pardef n="/тој__prn">
      <e>       <p>         <l>тој</l>         <r>тој<s n="prn"/><s n="dem"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
-     <e>       <p>         <l>овој</l>         <r>тој<s n="prn"/><s n="dem"/><s n="prx"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
-     <e>       <p>         <l>оној</l>         <r>тој<s n="prn"/><s n="dem"/><s n="dst"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
      <e>       <p>         <l>таа</l>         <r>тој<s n="prn"/><s n="dem"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-     <e>       <p>         <l>оваа</l>         <r>тој<s n="prn"/><s n="dem"/><s n="prx"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-     <e>       <p>         <l>онаа</l>         <r>тој<s n="prn"/><s n="dem"/><s n="dst"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
      <e>       <p>         <l>тоа</l>         <r>тој<s n="prn"/><s n="dem"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
-     <e>       <p>         <l>ова</l>         <r>тој<s n="prn"/><s n="dem"/><s n="prx"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
-     <e>       <p>         <l>она</l>         <r>тој<s n="prn"/><s n="dem"/><s n="dst"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
-     <e>       <p>         <l>оние</l>         <r>тој<s n="prn"/><s n="dem"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
-   </pardef>
 
-   <pardef n="што__prn">
-     <e>       <p>         <l/>         <r><s n="prn"/><s n="itg"/></r></p></e>
+     <e>       <p>         <l>овој</l>         <r>тој<s n="prn"/><s n="dem"/><s n="prx"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+     <e>       <p>         <l>оваа</l>         <r>тој<s n="prn"/><s n="dem"/><s n="prx"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+     <e>       <p>         <l>ова</l>         <r>тој<s n="prn"/><s n="dem"/><s n="prx"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+
+     <e>       <p>         <l>оној</l>         <r>тој<s n="prn"/><s n="dem"/><s n="dst"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+     <e>       <p>         <l>онаа</l>         <r>тој<s n="prn"/><s n="dem"/><s n="dst"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+     <e>       <p>         <l>она</l>         <r>тој<s n="prn"/><s n="dem"/><s n="dst"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+
+     <e>       <p>         <l>оние</l>         <r>тој<s n="prn"/><s n="dem"/><s n="mfn"/><s n="pl"/><s n="nom"/></r></p></e>
    </pardef>
 
    <pardef n="ко/ј__prn"> <!-- CHECK THIS PARADIGM -->
@@ -901,6 +900,10 @@
       <e>        <p>          <l/>	  <r><s n="adv"/></r></p></e>
     </pardef>
 
+   <pardef n="што__adv">
+     <e>       <p>         <l/>         <r><s n="adv"/><s n="itg"/></r></p></e>
+   </pardef>
+
     <pardef n="P__не">
       <e>        <p>          <l>не</l>	  <r>не<s n="adv"/><j/></r></p></e>
       <e>        <p>          <l/>	  <r/></p></e>
@@ -928,11 +931,12 @@
    <e r="RL"><i>нај</i></e>
 
    <e lm="кој"><i>ко</i><par n="ко/ј__prn"/></e>
-   <e lm="што"><i>што</i><par n="што__prn"/></e>
    <e lm="тој"><i/><par n="/тој__prn"/></e>
 
    <e lm="ќе"><i>ќе</i><par n="C__ќе"/></e>
    <e lm="да"><i>да</i><par n="да__part"/></e>
+
+   <e lm="што"><i>што</i><par n="што__adv"/></e>
 
    <!-- adverbs of manner -->
    <e lm="како"><i>како</i><par n="како__adv"/></e>
