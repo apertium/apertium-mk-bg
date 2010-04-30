@@ -741,7 +741,7 @@
     </pardef>
 
     <pardef n="нула__num">
-      <e>        <p>         <l/>	  <r><s n="num"/><s n="sp"/></r></p></e>
+      <e>        <p>         <l/>	  <r><s n="num"/><s n="mfn"/><s n="sp"/><s n="nom"/><s n="ind"/></r></p></e>
     </pardef>
 
    <pardef n="сел/о__n">
@@ -750,15 +750,15 @@
    </pardef>
 
     <pardef n="ед/ен__num">
-     <e>       <p>         <l>ен</l>         <r>ен<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
-     <e>       <p>         <l>на</l>         <r>ен<s n="num"/><s n="f"/><s n="sp"/></r></p></e>
-     <e>       <p>         <l>но</l>         <r>ен<s n="num"/><s n="nt"/><s n="sp"/></r></p></e>
+     <e>       <p>         <l>ен</l>         <r>ен<s n="num"/><s n="m"/><s n="sp"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>на</l>         <r>ен<s n="num"/><s n="f"/><s n="sp"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>но</l>         <r>ен<s n="num"/><s n="nt"/><s n="sp"/><s n="nom"/><s n="ind"/></r></p></e>
     </pardef>
 
     <pardef n="дв/а__num">
-     <e>       <p>         <l>а</l>         <r>а<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
-     <e>       <p>         <l>е</l>         <r>а<s n="num"/><s n="f"/><s n="sp"/></r></p></e>
-     <e>       <p>         <l>а</l>         <r>а<s n="num"/><s n="nt"/><s n="sp"/></r></p></e>
+     <e>       <p>         <l>а</l>         <r>а<s n="num"/><s n="m"/><s n="sp"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>е</l>         <r>а<s n="num"/><s n="f"/><s n="sp"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>а</l>         <r>а<s n="num"/><s n="nt"/><s n="sp"/><s n="nom"/><s n="ind"/></r></p></e>
     </pardef>
 
     <!-- придавки -->
@@ -1651,6 +1651,7 @@
    <e lm="карта"><i>карт</i><par n="жен/а__n"/></e>   	<!-- -->
    <e lm="средба"><i>средб</i><par n="жен/а__n"/></e>   	<!-- -->
    <e lm="точка"><i>точк</i><par n="жен/а__n"/></e>   	<!-- -->
+   <e lm="вода"><i>вод</i><par n="жен/а__n"/></e>   	<!-- -->
 
    <e lm="полиција"><i>полици</i><par n="полици/ја__n"/></e>   	<!-- country -->
  
@@ -2756,7 +2757,16 @@
    <e lm="седумнаесет"><i>седумнаесет</i><par n="нула__num"/></e> <!-- seventeen -->
    <e lm="осумнаесет"><i>осумнаесет</i><par n="нула__num"/></e>	  <!-- eighteen -->
    <e lm="деветнаесет"><i>деветнаесет</i><par n="нула__num"/></e> <!-- nineteen -->
-   <e lm="дваесет"><i>дваесет</i><par n="нула__num"/></e>	  <!-- twenty -->
+   <e lm="дванаесет"><i>дванаесет</i><par n="нула__num"/></e>
+   <e lm="дваесет"><i>дваесет</i><par n="нула__num"/></e>
+   <e lm="триесет"><i>триесет</i><par n="нула__num"/></e>
+   <e lm="четириесет"><i>четириесет</i><par n="нула__num"/></e>
+   <e lm="педесет"><i>педесет</i><par n="нула__num"/></e>
+   <e lm="шеесет"><i>шеесет</i><par n="нула__num"/></e>
+   <e lm="седумдесет"><i>седумдесет</i><par n="нула__num"/></e>
+   <e lm="осумдесет"><i>осумдесет</i><par n="нула__num"/></e>
+   <e lm="деведесет"><i>деведесет</i><par n="нула__num"/></e>
+
 
     <!-- придавки -->
    <e lm="висок"><par n="P__adj"/><i>вис</i><par n="теж/ок__adj"/></e>		<!-- tall -->
@@ -2789,7 +2799,6 @@
    <e lm="срцев"><par n="P__adj"/><i>срцев</i><par n="висок__adj"/></e>
    <e lm="сончев"><par n="P__adj"/><i>сончев</i><par n="висок__adj"/></e>
    <e lm="див"><par n="P__adj"/><i>див</i><par n="висок__adj"/></e>
-<!--   <e lm="жив"><par n="P__adj"/><i>жив</i><par n="висок__adj"/></e> --> <!-- comment out until tagger trained -->
    <e lm="убедлив"><par n="P__adj"/><i>убедлив</i><par n="висок__adj"/></e>
    <e lm="видлив"><par n="P__adj"/><i>видлив</i><par n="висок__adj"/></e>
    <e lm="невидлив"><par n="P__adj"/><i>невидлив</i><par n="висок__adj"/></e>
@@ -3201,7 +3210,6 @@
    <e lm="голем"><par n="P__adj"/><i>голем</i><par n="висок__adj"/></e>
    <e lm="нем"><par n="P__adj"/><i>нем</i><par n="висок__adj"/></e>
    <e lm="владин"><par n="P__adj"/><i>владин</i><par n="висок__adj"/></e>
-   <e lm="жив"><par n="P__adj"/><i>жив</i><par n="висок__adj"/></e>
    <e lm="минат"><par n="P__adj"/><i>минат</i><par n="висок__adj"/></e>
    <e lm="прв"><par n="P__adj"/><i>прв</i><par n="висок__adj"/></e>
    <e lm="кисел"><par n="P__adj"/><i>кисел</i><par n="висок__adj"/></e>

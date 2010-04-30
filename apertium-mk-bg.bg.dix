@@ -83,12 +83,17 @@
     <sdef n="pii"/>
 
     <sdef n="sent"/>
+    <sdef n="cm"/>
 
   </sdefs>
   
   <pardefs>
 
     <!-- Punctuation -->
+
+    <pardef n="coma">
+      <e>        <p>          <l>,</l>          <r>,<s n="cm"/></r></p></e>
+    </pardef>
 
     <pardef n="separa">
       <e>        <re>[.\?;:!]</re>        <p>          <l></l>          <r><s n="sent"/></r></p></e>
@@ -10432,6 +10437,14 @@
     <e lm="осемнадесет"><i>осемнадесет</i><par n="сто__num"/></e>
     <e lm="деветнадесет"><i>деветнадесет</i><par n="сто__num"/></e>
 
+    <e lm="двадесет"><i>двадесет</i><par n="пет__num"/></e>
+    <e lm="тридесет"><i>тридесет</i><par n="пет__num"/></e>
+    <e lm="четиридесет"><i>четиридесет</i><par n="пет__num"/></e>
+    <e lm="петдесет"><i>петдесет</i><par n="пет__num"/></e>
+    <e lm="шестдесет"><i>шестдесет</i><par n="пет__num"/></e>
+    <e lm="седемдесет"><i>седемдесет</i><par n="пет__num"/></e>
+    <e lm="осемдесет"><i>осемдесет</i><par n="пет__num"/></e>
+    <e lm="деветдесет"><i>деветдесет</i><par n="пет__num"/></e>
 
     <e lm="сто"><i>сто</i><par n="сто__num"/></e>
 
@@ -24806,9 +24819,9 @@
     <e lm="по-"><p><l>по-</l><r>adj<s n="pref"/><s n="comp"/></r></p></e>
   </section>
   <section id="final" type="inconditional">
-
     <e><par n="numeros"/></e>
     <e><par n="separa"/></e>
+    <e><par n="coma"/></e>
   </section>
 </dictionary>
 
