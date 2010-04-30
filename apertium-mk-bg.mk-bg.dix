@@ -7,6 +7,7 @@
     <sdef n="adv"     c="Adverb"/>
     <sdef n="vblex"   c="Verb"/>
     <sdef n="vaux"    c="Auxilliary verb"/>
+    <sdef n="vbser"   c="Verb 'to be'"/>
     <sdef n="vbhaver" c="Verb 'to have'"/>
     <sdef n="pref"    c="Prefix"/>
     <sdef n="pr"      c="Preposition"/>
@@ -708,6 +709,7 @@
 
     <!-- Verbs -->
 
+    <e><p><l>е<s n="vbser"/></l><r>е<s n="vbser"/></r></p></e>
     <e><p><l>има<s n="vbhaver"/></l><r>има<s n="vbhaver"/></r></p></e>
     <e><p><l>мора<s n="vaux"/></l><r>трябва<s n="vaux"/></r></p></e>
 
