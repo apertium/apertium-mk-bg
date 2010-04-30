@@ -84,6 +84,8 @@
 
     <sdef n="sent"/>
     <sdef n="cm"/>
+    <sdef n="lpar"/>
+    <sdef n="rpar"/>
 
   </sdefs>
   
@@ -98,6 +100,15 @@
     <pardef n="separa">
       <e>        <re>[.\?;:!]</re>        <p>          <l></l>          <r><s n="sent"/></r></p></e>
     </pardef>
+
+    <pardef n="paresq">
+      <e>        <re>[\(\[]</re>        <p>          <l/>          <r><s n="lpar"/></r></p></e>
+    </pardef>
+
+    <pardef n="pardret">
+      <e>        <re>[\)\]]</re>        <p>          <l/>          <r><s n="rpar"/></r></p></e>
+    </pardef>
+
 
     <!-- Numerals -->
 
@@ -24822,6 +24833,8 @@
     <e><par n="numeros"/></e>
     <e><par n="separa"/></e>
     <e><par n="coma"/></e>
+    <e><par n="paresq"/></e>
+    <e><par n="pardret"/></e>
   </section>
 </dictionary>
 

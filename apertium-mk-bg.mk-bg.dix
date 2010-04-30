@@ -34,6 +34,8 @@
 
     <sdef n="sent"    c="End of sentence"/>
     <sdef n="cm"      c="Comma"/>
+    <sdef n="lpar"    c="Left parenthesis"/>
+    <sdef n="rpar"    c="Right parenthesis"/>
   </sdefs>
   <section id="main" type="standard">
     <!-- Prefixes -->
@@ -135,6 +137,7 @@
     <e><p><l>аеродром<s n="n"/><s n="m"/></l><r>летище<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>енциклопедија<s n="n"/><s n="f"/></l><r>енциклопедия<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>шеќер<s n="n"/><s n="f"/></l><r>захар<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>земја<s n="n"/><s n="f"/></l><r>земя<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>авион<s n="n"/><s n="m"/></l><r>самолет<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>автомобил<s n="n"/><s n="m"/></l><r>автомобил<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>аеробик<s n="n"/><s n="m"/></l><r>аеробика<s n="n"/><s n="m"/></r></p></e>
@@ -807,6 +810,8 @@
 
     <e><re>[.\?;:!·]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
     <e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
+    <e><p><l>)<s n="rpar"/></l><r>)<s n="rpar"/></r></p></e>
+    <e><p><l>(<s n="lpar"/></l><r>(<s n="lpar"/></r></p></e>
     <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 
   </section>
