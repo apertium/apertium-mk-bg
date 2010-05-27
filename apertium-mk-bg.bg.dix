@@ -536,7 +536,9 @@
     <pardef n="яден/е__n_nt">
       <e>        <p>          <l>е</l>           <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>ето</l>         <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>ия</l>          <r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+    <!--
+    	TODO check this out
+    -->  <e>        <p>          <l>ия</l>          <r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>ията</l>        <r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
     </pardef>
 
@@ -561,7 +563,9 @@
       <e>        <p>          <l>алата</l>       <r>ло<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
     </pardef>
 
-    <pardef n="топя__n_nt">
+<!--
+	TODO 
+-->  <pardef n="топя__n_nt">
       <e>        <p>          <l></l>            <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
     </pardef>
 
@@ -10161,15 +10165,18 @@
     </pardef>
 
     <pardef n="теж/ък__adj">
-      <e>        <p>          <l>ък</l>          <r>ък<s n="adj"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>кия</l>          <r>ък<s n="adj"/><s n="m"/><s n="sg"/><s n="def"/><s n="obj"/></r></p></e>
-      <e>        <p>          <l>кият</l>          <r>ък<s n="adj"/><s n="m"/><s n="sg"/><s n="def"/><s n="subj"/></r></p></e>
-      <e>        <p>          <l>ка</l>          <r>ък<s n="adj"/><s n="f"/><s n="sg"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ката</l>          <r>ък<s n="adj"/><s n="f"/><s n="sg"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>ко</l>          <r>ък<s n="adj"/><s n="nt"/><s n="sg"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>кото</l>          <r>ък<s n="adj"/><s n="nt"/><s n="sg"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>ки</l>          <r>ък<s n="adj"/><s n="mfn"/><s n="pl"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ките</l>          <r>ък<s n="adj"/><s n="mfn"/><s n="pl"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ък</l>          <r>ък<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>кия</l>          <r>ък<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="obj"/></r></p></e>
+      <e>        <p>          <l>кият</l>          <r>ък<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="subj"/></r></p></e>
+      <e>        <p>          <l>ка</l>          <r>ък<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ката</l>          <r>ък<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ко</l>          <r>ък<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>кото</l>          <r>ък<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ки</l>          <r>ък<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ките</l>          <r>ък<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+
+<!-- Add for the VOCATIVE CASE -->
+
     </pardef>
 
     <pardef n="л/етен__adj">
