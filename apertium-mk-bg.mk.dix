@@ -8,11 +8,7 @@
     <sdef n="f"       c="Feminine"/>
     <sdef n="nt"      c="Neuter"/>
     <sdef n="mf"      c="Masculine-Feminine"/>
-<<<<<<< .mine
-    <sdef n="mfn"      c="Masculine-Feminine"/>
-=======
     <sdef n="mfn"     c="Masculine-Feminine-Neuter"/>
->>>>>>> .r22688
 
     <sdef n="mi"      c="Masculine (inanimate)"/>
     <sdef n="ma"      c="Masculine (animate)"/>
@@ -2805,8 +2801,8 @@
 
 
     <!-- придавки -->
-   <e lm="висок"><par n="P__adj"/><i>вис</i><par n="теж/ок__adj"/></e>		<!-- tall -->
-   <e lm="тежок"><par n="P__adj"/><i>теж</i><par n="теж/ок__adj"/></e>
+   <e lm="висок"><par n="P__adj"/><i>вис</i><par n="те/жок__adj"/></e>		<!-- tall --> <!--TODO: CHECK -->
+   <e lm="тежок"><par n="P__adj"/><i>те</i><par n="те/жок__adj"/></e>
    <e lm="весел"><par n="P__adj"/><i>весел</i><par n="висок__adj"/></e>
    <e lm="тажен"><par n="P__adj"/><i>тажен</i><par n="висок__adj"/></e>
    <e lm="тмурен"><par n="P__adj"/><i>тмурен</i><par n="висок__adj"/></e>
