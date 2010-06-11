@@ -806,6 +806,11 @@
 <!--
 	TODO masculine
 -->
+<e>        <p>          <l></l>           <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+ <e>        <p>          <l>иот</l>         <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+ <e>        <p>          <l>иов</l>         <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+ <e>        <p>          <l>ион</l>         <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+
       <e>        <p>          <l>а</l>          <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>ата</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
       <e>        <p>          <l>ава</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
@@ -4373,8 +4378,6 @@
    <e lm="жешки"><par n="P__adj"/><i>жешк</i><par n="летачк/и__adj"/></e>
    <e lm="велешки"><par n="P__adj"/><i>велешк</i><par n="летачк/и__adj"/></e>
    <e lm="букурешки"><par n="P__adj"/><i>букурешк</i><par n="летачк/и__adj"/></e>
-   <e lm="тешки"><par n="P__adj"/><i>тешк</i><par n="летачк/и__adj"/></e>
-   <e lm="тешки"><par n="P__adj"/><i>тешк</i><par n="летачк/и__adj"/></e>
    <e lm="стратешки"><par n="P__adj"/><i>стратешк</i><par n="летачк/и__adj"/></e>
    <e lm="потешки"><par n="P__adj"/><i>потешк</i><par n="летачк/и__adj"/></e>
    <e lm="чешки"><par n="P__adj"/><i>чешк</i><par n="летачк/и__adj"/></e>
