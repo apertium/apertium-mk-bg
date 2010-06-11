@@ -819,16 +819,17 @@
       <e>        <p>          <l>ото</l>         <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
       <e>        <p>          <l>ово</l>         <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
       <e>        <p>          <l>оно</l>         <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
-      <e>        <p>          <l>и</l>           <r><s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ите</l>          <r><s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>иве</l>          <r><s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
-      <e>        <p>          <l>ине</l>          <r><s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>и</l>           <r><s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ите</l>          <r><s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>иве</l>          <r><s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>ине</l>          <r><s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
     </pardef>
 
     <pardef n="кра/ен__adj">
       <e>        <p>          <l>ен</l>          <r>ен<s n="adj"/><s n="m"/><s n="sg"/></r></p><par n="S__m_sg_def"/></e>
 <!--
 	TODO masculine
+	change to mfn
 -->
       <e>        <p>          <l>јна</l>           <r>ен<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>јната</l>         <r>ен<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
