@@ -42,9 +42,9 @@
 <sdef n="itg"      c="Interrogative"/>
 <sdef n="rel"      c="Relative"/>
 <sdef n="neg"      c="Negative"/>
-<sdef n="indef"    c="Indefinite"/>
+<sdef n="ind"      c="Indefinite"/>
 <sdef n="tot"      c="Totalising"/>
-<sdef n="cl"       c="Clitic"/>
+<sdef n="enc"       c="Clitic"/>
      
 
 <!--punctuation-->
@@ -130,13 +130,13 @@
 	Clitics -> в парадигмите могат да се включат дативните форми ми ти ни...
 -->
 
-<e><p><l>ме<s n="prn"/><s n="cl"/></l><r>ме<s n="prn"/><s n="cl"/></r></p></e>
-<e><p><l>те<s n="prn"/><s n="cl"/></l><r>те<s n="prn"/><s n="cl"/></r></p></e>
-<e><p><l>го<s n="prn"/><s n="cl"/></l><r>го<s n="prn"/><s n="cl"/></r></p></e> <!-- м и ср род-->
-<e><p><l>ја<s n="prn"/><s n="cl"/></l><r>я<s n="prn"/><s n="cl"/></r></p></e>
-<e><p><l>не<s n="prn"/><s n="cl"/></l><r>ни<s n="prn"/><s n="cl"/></r></p></e>
-<e><p><l>ве<s n="prn"/><s n="cl"/></l><r>ви<s n="prn"/><s n="cl"/></r></p></e>
-<e><p><l>ги<s n="prn"/><s n="cl"/></l><r>ги<s n="prn"/><s n="cl"/></r></p></e>
+<e><p><l>ме<s n="prn"/><s n="enc"/></l><r>ме<s n="prn"/><s n="enc"/></r></p></e>
+<e><p><l>те<s n="prn"/><s n="enc"/></l><r>те<s n="prn"/><s n="enc"/></r></p></e>
+<e><p><l>го<s n="prn"/><s n="enc"/></l><r>го<s n="prn"/><s n="enc"/></r></p></e> <!-- м и ср род-->
+<e><p><l>ја<s n="prn"/><s n="enc"/></l><r>я<s n="prn"/><s n="enc"/></r></p></e>
+<e><p><l>не<s n="prn"/><s n="enc"/></l><r>ни<s n="prn"/><s n="enc"/></r></p></e>
+<e><p><l>ве<s n="prn"/><s n="enc"/></l><r>ви<s n="prn"/><s n="enc"/></r></p></e>
+<e><p><l>ги<s n="prn"/><s n="enc"/></l><r>ги<s n="prn"/><s n="enc"/></r></p></e>
 
 <!--
 	Possessive -> форми за м ж ср род, мн ч (+членувани) и кратка форма (клитик, несклоняема)
@@ -185,20 +185,20 @@
 
 <!--Demonstrative proximal - These are the same as the unmarked in Bulgarian 
 	ПРАВИЛА-->
-<e c="v0"><p><l>овој<s n="prn"/><s n="prx"/></l><r>този<s n="prn"/><s n="prx"/></r></p></e>
-<e r="RL" c="v1"><p><l>овој<s n="prn"/><s n="prx"/></l><r>тоя<s n="prn"/><s n="prx"/></r></p></e>
-<e r="RL" c="v2"><p><l>овој<s n="prn"/><s n="prx"/></l><r>тоз<s n="prn"/><s n="prx"/></r></p></e>
+<e c="v0"><p><l>овој<s n="prn"/><s n="prx"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
+<e r="RL" c="v1"><p><l>овој<s n="prn"/><s n="prx"/></l><r>тоя<s n="prn"/><s n="dem"/></r></p></e>
+<e r="RL" c="v2"><p><l>овој<s n="prn"/><s n="prx"/></l><r>тоз<s n="prn"/><s n="dem"/></r></p></e>
 
-<e c="v0"><p><l>оваа<s n="prn"/><s n="prx"/></l><r>тази<s n="prn"/><s n="prx"/></r></p></e>
-<e r="RL" c="v1"><p><l>оваа<s n="prn"/><s n="prx"/></l><r>тая<s n="prn"/><s n="prx"/></r></p></e>
-<e r="RL" c="v2"><p><l>оваа<s n="prn"/><s n="prx"/></l><r>таз<s n="prn"/><s n="prx"/></r></p></e>
+<e c="v0"><p><l>оваа<s n="prn"/><s n="prx"/></l><r>тази<s n="prn"/><s n="dem"/></r></p></e>
+<e r="RL" c="v1"><p><l>оваа<s n="prn"/><s n="prx"/></l><r>тая<s n="prn"/><s n="dem"/></r></p></e>
+<e r="RL" c="v2"><p><l>оваа<s n="prn"/><s n="prx"/></l><r>таз<s n="prn"/><s n="dem"/></r></p></e>
 
-<e c="v0"><p><l>ова<s n="prn"/><s n="prx"/></l><r>това<s n="prn"/><s n="prx"/></r></p></e>
-<e r="RL" c="v1"><p><l>ова<s n="prn"/><s n="prx"/></l><r>туй<s n="prn"/><s n="prx"/></r></p></e>
+<e c="v0"><p><l>ова<s n="prn"/><s n="prx"/></l><r>това<s n="prn"/><s n="dem"/></r></p></e>
+<e r="RL" c="v1"><p><l>ова<s n="prn"/><s n="prx"/></l><r>туй<s n="prn"/><s n="dem"/></r></p></e>
 
-<e c="v0"><p><l>овие<s n="prn"/><s n="prx"/></l><r>тези<s n="prn"/><s n="prx"/></r></p></e>
-<e r="RL" c="v1"><p><l>овие<s n="prn"/><s n="prx"/></l><r>тез<s n="prn"/><s n="prx"/></r></p></e>
-<e r="RL" c="v2"><p><l>овие<s n="prn"/><s n="prx"/></l><r>тия<s n="prn"/><s n="prx"/></r></p></e>
+<e c="v0"><p><l>овие<s n="prn"/><s n="prx"/></l><r>тези<s n="prn"/><s n="dem"/></r></p></e>
+<e r="RL" c="v1"><p><l>овие<s n="prn"/><s n="prx"/></l><r>тез<s n="prn"/><s n="dem"/></r></p></e>
+<e r="RL" c="v2"><p><l>овие<s n="prn"/><s n="prx"/></l><r>тия<s n="prn"/><s n="dem"/></r></p></e>
 
 <!--Demonstrative distal-->
 <e c="v0"><p><l>оној<s n="prn"/><s n="dst"/></l><r>онзи<s n="prn"/><s n="dst"/></r></p></e>
@@ -285,14 +285,14 @@
 <!--
 	Indefinite rod i chislo
 -->
-<e><p><l>некој<s n="prn"/><s n="indef"/></l><r>някой<s n="prn"/><s n="indef"/></r></p></e>
-<e><p><l>некого<s n="prn"/><s n="indef"/></l><r>някого<s n="prn"/><s n="indef"/></r></p></e> <!--несклоняемо-->
-<e><p><l>некому<s n="prn"/><s n="indef"/></l><r>някому<s n="prn"/><s n="indef"/></r></p></e> <!--несклоняемо-->
-<e><p><l>некаков<s n="prn"/><s n="indef"/></l><r>някакъв<s n="prn"/><s n="indef"/></r></p></e>
-<e><p><l>неколку<s n="prn"/><s n="indef"/></l><r>няколко<s n="prn"/><s n="indef"/></r></p></e> <!--несклоняемо-->
-<e><p><l>некогаш<s n="prn"/><s n="indef"/></l><r>някога<s n="prn"/><s n="indef"/></r></p></e> <!--несклоняемо-->
-<e><p><l>некаде<s n="prn"/><s n="indef"/></l><r>някъде<s n="prn"/><s n="indef"/></r></p></e> <!--несклоняемо-->
-<e><p><l>нечиј<s n="prn"/><s n="indef"/></l><r>нечий<s n="prn"/><s n="indef"/></r></p></e>
+<e><p><l>некој<s n="prn"/><s n="ind"/></l><r>някой<s n="prn"/><s n="ind"/></r></p></e>
+<e><p><l>некого<s n="prn"/><s n="ind"/></l><r>някого<s n="prn"/><s n="ind"/></r></p></e> <!--несклоняемо-->
+<e><p><l>некому<s n="prn"/><s n="ind"/></l><r>някому<s n="prn"/><s n="ind"/></r></p></e> <!--несклоняемо-->
+<e><p><l>некаков<s n="prn"/><s n="ind"/></l><r>някакъв<s n="prn"/><s n="ind"/></r></p></e>
+<e><p><l>неколку<s n="prn"/><s n="ind"/></l><r>няколко<s n="prn"/><s n="ind"/></r></p></e> <!--несклоняемо-->
+<e><p><l>некогаш<s n="prn"/><s n="ind"/></l><r>някога<s n="prn"/><s n="ind"/></r></p></e> <!--несклоняемо-->
+<e><p><l>некаде<s n="prn"/><s n="ind"/></l><r>някъде<s n="prn"/><s n="ind"/></r></p></e> <!--несклоняемо-->
+<e><p><l>нечиј<s n="prn"/><s n="ind"/></l><r>нечий<s n="prn"/><s n="ind"/></r></p></e>
 
 <!--
 	Totalising обобщителни rod i chislo
