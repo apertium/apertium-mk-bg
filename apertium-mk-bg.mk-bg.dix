@@ -33,17 +33,18 @@
 
 <!--pronouns-->
 
- <sdef n="pers"     c="Personal"/>
- <sdef n="pos"      c="Possessive"/>
- <sdef n="refl"     c="Reflexive"/>
- <sdef n="dem"      c="Demonstrative Unmarked"/>
- <sdef n="prx"      c="Demonstrative Proximal"/>
- <sdef n="dst"      c="Demonstrative Distal"/>
- <sdef n="itg"      c="Interrogative"/>
- <sdef n="neg"      c="Negative"/>
- <sdef n="indef"    c="Indefinite"/>
- <sdef n="tot"      c="Totalising"/>
- <sdef n="cl"       c="Clitic"/>
+<sdef n="pers"     c="Personal"/>
+<sdef n="pos"      c="Possessive"/>
+<sdef n="refl"     c="Reflexive"/>
+<sdef n="dem"      c="Demonstrative Unmarked"/>
+<sdef n="prx"      c="Demonstrative Proximal"/>
+<sdef n="dst"      c="Demonstrative Distal"/>
+<sdef n="itg"      c="Interrogative"/>
+<sdef n="rel"      c="Relative"/>
+<sdef n="neg"      c="Negative"/>
+<sdef n="indef"    c="Indefinite"/>
+<sdef n="tot"      c="Totalising"/>
+<sdef n="cl"       c="Clitic"/>
      
 
 <!--punctuation-->
@@ -99,6 +100,211 @@
     <e><p><l>сред<s n="pr"/></l><r>сред<s n="pr"/></r></p></e>
     <e><p><l>според<s n="pr"/></l><r>според<s n="pr"/></r></p></e>
     <e><p><l>спроти<s n="pr"/></l><r>спроти<s n="pr"/></r></p></e>
+
+
+<!--
+	Stand back! Here come the PRONOUNS
+-->
+
+
+<!--
+	Personal -> в парадигмите да се включат пълните форми за вин и дат падеж
+-->
+
+<e><p><l>јас<s n="prn"/><s n="pers"/></l><r>аз<s n="prn"/><s n="pers"/></r></p></e>
+<e><p><l>ти<s n="prn"/><s n="pers"/></l><r>ти<s n="prn"/><s n="pers"/></r></p></e>
+<e><p><l>тој<s n="prn"/><s n="pers"/></l><r>той<s n="prn"/><s n="pers"/></r></p></e>
+<e><p><l>тоа<s n="prn"/><s n="pers"/></l><r>тя<s n="prn"/><s n="pers"/></r></p></e>
+<e><p><l>таа<s n="prn"/><s n="pers"/></l><r>то<s n="prn"/><s n="pers"/></r></p></e>
+<e><p><l>ние<s n="prn"/><s n="pers"/></l><r>ние<s n="prn"/><s n="pers"/></r></p></e>
+<e><p><l>вие<s n="prn"/><s n="pers"/></l><r>вие<s n="prn"/><s n="pers"/></r></p></e>
+<e><p><l>тие<s n="prn"/><s n="pers"/></l><r>те<s n="prn"/><s n="pers"/></r></p></e>
+
+<!--
+	Възвратни
+-->
+<e><p><l>себе<s n="prn"/><s n="refl"/></l><r>себе<s n="prn"/><s n="refl"/></r></p></e>
+<e><p><l>си<s n="prn"/><s n="refl"/></l><r>си<s n="prn"/><s n="refl"/></r></p></e> <!--this is a clitic-->
+
+<!--
+	Clitics -> в парадигмите могат да се включат дативните форми ми ти ни...
+-->
+
+<e><p><l>ме<s n="prn"/><s n="cl"/></l><r>ме<s n="prn"/><s n="cl"/></r></p></e>
+<e><p><l>те<s n="prn"/><s n="cl"/></l><r>те<s n="prn"/><s n="cl"/></r></p></e>
+<e><p><l>го<s n="prn"/><s n="cl"/></l><r>го<s n="prn"/><s n="cl"/></r></p></e> <!-- м и ср род-->
+<e><p><l>ја<s n="prn"/><s n="cl"/></l><r>я<s n="prn"/><s n="cl"/></r></p></e>
+<e><p><l>не<s n="prn"/><s n="cl"/></l><r>ни<s n="prn"/><s n="cl"/></r></p></e>
+<e><p><l>ве<s n="prn"/><s n="cl"/></l><r>ви<s n="prn"/><s n="cl"/></r></p></e>
+<e><p><l>ги<s n="prn"/><s n="cl"/></l><r>ги<s n="prn"/><s n="cl"/></r></p></e>
+
+<!--
+	Possessive -> форми за м ж ср род, мн ч (+членувани) и кратка форма (клитик, несклоняема)
+-->
+<e><p><l>мој<s n="prn"/><s n="pos"/></l><r>мой<s n="prn"/><s n="pos"/></r></p></e>
+<e><p><l>твој<s n="prn"/><s n="pos"/></l><r>твой<s n="prn"/><s n="pos"/></r></p></e>
+<e><p><l>свој<s n="prn"/><s n="pos"/></l><r>свой<s n="prn"/><s n="pos"/></r></p></e> <!--рефлексив-->
+<e><p><l>негов<s n="prn"/><s n="pos"/></l><r>негов<s n="prn"/><s n="pos"/></r></p></e>
+<e><p><l>нејзин<s n="prn"/><s n="pos"/></l><r>неин<s n="prn"/><s n="pos"/></r></p></e>
+<e><p><l>наш<s n="prn"/><s n="pos"/></l><r>наш<s n="prn"/><s n="pos"/></r></p></e>
+<e><p><l>ваш<s n="prn"/><s n="pos"/></l><r>ваш<s n="prn"/><s n="pos"/></r></p></e>
+<e><p><l>нивни<s n="prn"/><s n="pos"/></l><r>техен<s n="prn"/><s n="pos"/></r></p></e>
+
+<!--
+	DEMONSTRATIVE
+	
+	Unmarked -> these are the same as the personal in Macedonian
+	ще трябват ПРАВИЛА тук
+-->
+
+<!--tezi se sklanqt po rod i chislo и степен-->
+<e c="v0"><p><l>таков<s n="prn"/><s n="dem"/></l><r>такъв<s n="prn"/><s n="dem"/></r></p></e>
+<e r="RL" c="v1"><p><l>ваков<s n="prn"/><s n="dem"/></l><r>такъв<s n="prn"/><s n="dem"/></r></p></e>
+<e r="RL" c="v2"><p><l>онаков<s n="prn"/><s n="dem"/></l><r>такъв<s n="prn"/><s n="dem"/></r></p></e>
+<e r="RL" c="v3"><p><l>олкав<s n="prn"/><s n="dem"/></l><r>такъв<s n="prn"/><s n="dem"/></r></p></e>
+<e r="RL" c="v4"><p><l>толкав<s n="prn"/><s n="dem"/></l><r>такъв<s n="prn"/><s n="dem"/></r></p></e>
+<e r="RL" c="v5"><p><l>онолкав<s n="prn"/><s n="dem"/></l><r>такъв<s n="prn"/><s n="dem"/></r></p></e>
+<e><p><l>инаков<s n="prn"/><s n="dem"/></l><r>инакъв<s n="prn"/><s n="dem"/></r></p></e>
+
+
+<!---------------------->
+<e c="v0"><p><l>тој<s n="prn"/><s n="dem"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
+<e r="RL" c="v1"><p><l>тој<s n="prn"/><s n="dem"/></l><r>тоя<s n="prn"/><s n="dem"/></r></p></e>
+<e r="RL" c="v2"><p><l>тој<s n="prn"/><s n="dem"/></l><r>тоз<s n="prn"/><s n="dem"/></r></p></e>
+
+<e c="v0"><p><l>таа<s n="prn"/><s n="dem"/></l><r>тази<s n="prn"/><s n="dem"/></r></p></e>
+<e r="RL" c="v1"><p><l>таа<s n="prn"/><s n="dem"/></l><r>тая<s n="prn"/><s n="dem"/></r></p></e>
+<e r="RL" c="v2"><p><l>таа<s n="prn"/><s n="dem"/></l><r>таз<s n="prn"/><s n="dem"/></r></p></e>
+
+<e c="v0"><p><l>тоа<s n="prn"/><s n="dem"/></l><r>това<s n="prn"/><s n="dem"/></r></p></e>
+<e r="RL" c="v1"><p><l>тоа<s n="prn"/><s n="dem"/></l><r>туй<s n="prn"/><s n="dem"/></r></p></e>
+
+<e c="v0"><p><l>тие<s n="prn"/><s n="dem"/></l><r>тези<s n="prn"/><s n="dem"/></r></p></e>
+<e r="RL" c="v1"><p><l>тие<s n="prn"/><s n="dem"/></l><r>тез<s n="prn"/><s n="dem"/></r></p></e>
+<e r="RL" c="v2"><p><l>тие<s n="prn"/><s n="dem"/></l><r>тия<s n="prn"/><s n="dem"/></r></p></e>
+
+<!--Demonstrative proximal - These are the same as the unmarked in Bulgarian 
+	ПРАВИЛА-->
+<e c="v0"><p><l>овој<s n="prn"/><s n="prx"/></l><r>този<s n="prn"/><s n="prx"/></r></p></e>
+<e r="RL" c="v1"><p><l>овој<s n="prn"/><s n="prx"/></l><r>тоя<s n="prn"/><s n="prx"/></r></p></e>
+<e r="RL" c="v2"><p><l>овој<s n="prn"/><s n="prx"/></l><r>тоз<s n="prn"/><s n="prx"/></r></p></e>
+
+<e c="v0"><p><l>оваа<s n="prn"/><s n="prx"/></l><r>тази<s n="prn"/><s n="prx"/></r></p></e>
+<e r="RL" c="v1"><p><l>оваа<s n="prn"/><s n="prx"/></l><r>тая<s n="prn"/><s n="prx"/></r></p></e>
+<e r="RL" c="v2"><p><l>оваа<s n="prn"/><s n="prx"/></l><r>таз<s n="prn"/><s n="prx"/></r></p></e>
+
+<e c="v0"><p><l>ова<s n="prn"/><s n="prx"/></l><r>това<s n="prn"/><s n="prx"/></r></p></e>
+<e r="RL" c="v1"><p><l>ова<s n="prn"/><s n="prx"/></l><r>туй<s n="prn"/><s n="prx"/></r></p></e>
+
+<e c="v0"><p><l>овие<s n="prn"/><s n="prx"/></l><r>тези<s n="prn"/><s n="prx"/></r></p></e>
+<e r="RL" c="v1"><p><l>овие<s n="prn"/><s n="prx"/></l><r>тез<s n="prn"/><s n="prx"/></r></p></e>
+<e r="RL" c="v2"><p><l>овие<s n="prn"/><s n="prx"/></l><r>тия<s n="prn"/><s n="prx"/></r></p></e>
+
+<!--Demonstrative distal-->
+<e c="v0"><p><l>оној<s n="prn"/><s n="dst"/></l><r>онзи<s n="prn"/><s n="dst"/></r></p></e>
+<e r="RL" c="v1"><p><l>оној<s n="prn"/><s n="dst"/></l><r>оня<s n="prn"/><s n="dst"/></r></p></e>
+
+<e c="v0"><p><l>онаа<s n="prn"/><s n="dst"/></l><r>онази<s n="prn"/><s n="dst"/></r></p></e>
+<e r="RL" c="v1"><p><l>онаа<s n="prn"/><s n="dst"/></l><r>оная<s n="prn"/><s n="dst"/></r></p></e>
+<e r="RL" c="v2"><p><l>онаа<s n="prn"/><s n="dst"/></l><r>оназ<s n="prn"/><s n="dst"/></r></p></e>
+
+<e c="v0"><p><l>она<s n="prn"/><s n="dst"/></l><r>онова<s n="prn"/><s n="dst"/></r></p></e>
+<e r="RL" c="v1"><p><l>она<s n="prn"/><s n="dst"/></l><r>онуй<s n="prn"/><s n="dst"/></r></p></e>
+
+<e c="v0"><p><l>оние<s n="prn"/><s n="dst"/></l><r>онези<s n="prn"/><s n="dst"/></r></p></e>
+<e r="RL" c="v1"><p><l>оние<s n="prn"/><s n="dst"/></l><r>ония<s n="prn"/><s n="dst"/></r></p></e>
+<e r="RL" c="v2"><p><l>оние<s n="prn"/><s n="dst"/></l><r>онез<s n="prn"/><s n="dst"/></r></p></e>
+
+
+<!--
+	Interrogative скланят се в род и число, кой и чий са подобни, какво е като прилагателно
+-->
+<e><p><l>кој<s n="prn"/><s n="itg"/></l><r>кой<s n="prn"/><s n="itg"/></r></p></e>
+<e><p><l>кого<s n="prn"/><s n="itg"/></l><r>кого<s n="prn"/><s n="itg"/></r></p></e> <!--несклоняемо-->
+<e><p><l>кому<s n="prn"/><s n="itg"/></l><r>кому<s n="prn"/><s n="itg"/></r></p></e> <!--несклоняемо-->
+<e><p><l>што<s n="prn"/><s n="itg"/></l><r>какво<s n="prn"/><s n="itg"/></r></p></e> <!--несклоняемо-->
+<e><p><l>чиј<s n="prn"/><s n="itg"/></l><r>чий<s n="prn"/><s n="itg"/></r></p></e>
+
+<e c="v0"><p><l>каков<s n="prn"/><s n="itg"/></l><r>какъв<s n="prn"/><s n="itg"/></r></p></e>
+<e r="LR" c="v1"><p><l>колкав<s n="prn"/><s n="itg"/></l><r>какъв<s n="prn"/><s n="itg"/></r></p></e> <!--колко голям-->
+
+<e c="v0"><p><l>зошто<s n="prn"/><s n="itg"/></l><r>защо<s n="prn"/><s n="itg"/></r></p></e><!--несклоняемо-->
+<e r="LR" c="v1"><p><l>поради што<s n="prn"/><s n="itg"/></l><r>защо<s n="prn"/><s n="itg"/></r></p></e><!--несклоняемо МТЕ-->
+
+<e><p><l>колку<s n="prn"/><s n="itg"/></l><r>колко<s n="prn"/><s n="itg"/></r></p></e> <!--несклоняемо-->
+<e><p><l>кога<s n="prn"/><s n="itg"/></l><r>кога<s n="prn"/><s n="itg"/></r></p></e> <!--несклоняемо-->
+<e><p><l>каде<s n="prn"/><s n="itg"/></l><r>къде<s n="prn"/><s n="itg"/></r></p></e> <!--несклоняемо-->
+
+
+<!--
+	Relative
+-->
+
+<e c="v0"><p><l>којшто<s n="prn"/><s n="rel"/></l><r>който<s n="prn"/><s n="rel"/></r></p></e>
+<e c="v0"><p><l>којашто<s n="prn"/><s n="rel"/></l><r>която<s n="prn"/><s n="rel"/></r></p></e>
+<e c="v0"><p><l>коешто<s n="prn"/><s n="rel"/></l><r>което<s n="prn"/><s n="rel"/></r></p></e>
+<e c="v0"><p><l>коишто<s n="prn"/><s n="rel"/></l><r>които<s n="prn"/><s n="rel"/></r></p></e>
+
+	<!--тук трябва малко по-сериозно маркиране. Тези форми са предпочитани след предлог- ПРАВИЛО (со кой - с коГОТО)-->
+<e c="v1"><p><l>кој<s n="prn"/><s n="rel"/></l><r>който<s n="prn"/><s n="rel"/></r></p></e>
+<e c="v1"><p><l>која<s n="prn"/><s n="rel"/></l><r>която<s n="prn"/><s n="rel"/></r></p></e>
+<e c="v1"><p><l>кое<s n="prn"/><s n="rel"/></l><r>което<s n="prn"/><s n="rel"/></r></p></e>
+<e c="v1"><p><l>коио<s n="prn"/><s n="rel"/></l><r>които<s n="prn"/><s n="rel"/></r></p></e>
+	<!--
+	todo: што е най-честият релатив, и не се скланя в род и число ПРАВИЛА, Horace bls. 44
+	-->
+
+
+<e><p><l>колку<s n="prn"/><s n="rel"/></l><r>колкото<s n="prn"/><s n="rel"/></r></p></e> <!--правило-->
+<e><p><l>кога<s n="prn"/><s n="rel"/></l><r>когато<s n="prn"/><s n="rel"/></r></p></e> <!--правило-->
+
+<e><p><l>чиј<s n="prn"/><s n="rel"/></l><r>чийто<s n="prn"/><s n="rel"/></r></p></e>
+<e><p><l>чија<s n="prn"/><s n="rel"/></l><r>чиято<s n="prn"/><s n="rel"/></r></p></e>
+<e><p><l>чие<s n="prn"/><s n="rel"/></l><r>чието<s n="prn"/><s n="rel"/></r></p></e>
+<e><p><l>чии<s n="prn"/><s n="rel"/></l><r>чиито<s n="prn"/><s n="rel"/></r></p></e>
+
+
+<e><p><l>каде што<s n="prn"/><s n="rel"/></l><r>където<s n="prn"/><s n="rel"/></r></p></e> <!--МТЕ-->
+<e><p><l>когошто<s n="prn"/><s n="rel"/></l><r>когото<s n="prn"/><s n="rel"/></r></p></e>
+<e><p><l>комушто<s n="prn"/><s n="rel"/></l><r>комуто<s n="prn"/><s n="rel"/></r></p></e>
+<e><p><l>бидејќи<s n="prn"/><s n="rel"/></l><r>защото<s n="prn"/><s n="rel"/></r></p></e>
+
+
+<!--
+	Negative rod i chislo
+-->
+<e><p><l>никој<s n="prn"/><s n="neg"/></l><r>никой<s n="prn"/><s n="neg"/></r></p></e>
+<e><p><l>никого<s n="prn"/><s n="neg"/></l><r>никого<s n="prn"/><s n="neg"/></r></p></e> <!--нисклоняимо-->
+<e><p><l>никому<s n="prn"/><s n="neg"/></l><r>никому<s n="prn"/><s n="neg"/></r></p></e> <!--нисклоняимо-->
+<e><p><l>никаков<s n="prn"/><s n="neg"/></l><r>никакъв<s n="prn"/><s n="neg"/></r></p></e>
+<e><p><l>никогаш<s n="prn"/><s n="neg"/></l><r>никога<s n="prn"/><s n="neg"/></r></p></e> <!--нисклоняимо-->
+<e><p><l>никаде<s n="prn"/><s n="neg"/></l><r>никъде<s n="prn"/><s n="neg"/></r></p></e> <!--несклоняемо-->
+<e><p><l>ничиј<s n="prn"/><s n="neg"/></l><r>ничий<s n="prn"/><s n="neg"/></r></p></e>
+
+
+<!--
+	Indefinite rod i chislo
+-->
+<e><p><l>некој<s n="prn"/><s n="indef"/></l><r>някой<s n="prn"/><s n="indef"/></r></p></e>
+<e><p><l>некого<s n="prn"/><s n="indef"/></l><r>някого<s n="prn"/><s n="indef"/></r></p></e> <!--несклоняемо-->
+<e><p><l>некому<s n="prn"/><s n="indef"/></l><r>някому<s n="prn"/><s n="indef"/></r></p></e> <!--несклоняемо-->
+<e><p><l>некаков<s n="prn"/><s n="indef"/></l><r>някакъв<s n="prn"/><s n="indef"/></r></p></e>
+<e><p><l>неколку<s n="prn"/><s n="indef"/></l><r>няколко<s n="prn"/><s n="indef"/></r></p></e> <!--несклоняемо-->
+<e><p><l>некогаш<s n="prn"/><s n="indef"/></l><r>някога<s n="prn"/><s n="indef"/></r></p></e> <!--несклоняемо-->
+<e><p><l>некаде<s n="prn"/><s n="indef"/></l><r>някъде<s n="prn"/><s n="indef"/></r></p></e> <!--несклоняемо-->
+<e><p><l>нечиј<s n="prn"/><s n="indef"/></l><r>нечий<s n="prn"/><s n="indef"/></r></p></e>
+
+<!--
+	Totalising обобщителни rod i chislo
+-->
+<e><p><l>секој<s n="prn"/><s n="tot"/></l><r>всеки<s n="prn"/><s n="tot"/></r></p></e>
+<e><p><l>секого<s n="prn"/><s n="tot"/></l><r>всякого<s n="prn"/><s n="tot"/></r></p></e> <!--несклоняемо-->
+<e><p><l>секому<s n="prn"/><s n="tot"/></l><r>всекиму<s n="prn"/><s n="tot"/></r></p></e> <!--несклоняемо-->
+<e><p><l>секаков<s n="prn"/><s n="tot"/></l><r>всякакъв<s n="prn"/><s n="tot"/></r></p></e>
+<e><p><l>секаде<s n="prn"/><s n="tot"/></l><r>навсякъде<s n="prn"/><s n="tot"/></r></p></e> <!--несклоняемо-->
+<e><p><l>сиот<s n="prn"/><s n="tot"/></l><r>всичкия<s n="prn"/><s n="tot"/></r></p></e> <!--сета сето сите-->
+
+<!-- END PRONOUNS -->
 
 
 
@@ -1849,7 +2055,8 @@ TODO ili четиринаесет    -->
 <e><p><l>Самарџиќ<s n="np"/><s n="cog"/><s n="m"/></l><r>Самарджич<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Ѓорѓевиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Джорджевич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>црква<s n="n"/><s n="f"/></l><r>църква<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>секогаш<s n="adv"/></l><r>винаги<s n="adv"/></r></p></e>
+<e c="v0"><p><l>секогаш<s n="adv"/></l><r>винаги<s n="adv"/></r></p></e>
+<e r="RL" c="v1"><p><l>секогаш<s n="adv"/></l><r>всякога<s n="adv"/></r></p></e>
 <e><p><l>изложба<s n="n"/><s n="f"/></l><r>изложба<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ерлајнс<s n="np"/><s n="al"/><s n="mf"/></l><r>еърлайнс<s n="np"/><s n="al"/><s n="mf"/></r></p></e> <!--airlines-->
 <e><p><l>управа<s n="n"/><s n="f"/></l><r>управа<s n="n"/><s n="f"/></r></p></e>
@@ -2130,7 +2337,8 @@ TODO ili четиринаесет    -->
 <e><p><l>милион<s n="n"/><s n="m"/></l><r>милион<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>цел<s n="n"/><s n="f"/></l><r>цел<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>март<s n="n"/><s n="m"/></l><r>март<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>сите<s n="adj"/></l><r>всички<s n="adj"/></r></p></e> <!--несклоняемо-->
+<e c="v0"><p><l>сите<s n="adj"/></l><r>всички<s n="adj"/></r></p></e> <!--несклоняемо-->
+<e r="RL" c="v1"><p><l>сите<s n="adj"/></l><r>всичките<s n="adj"/></r></p></e> <!--несклоняемо-->
 <e><p><l>свој<s n="adj"/></l><r>свой<s n="adj"/></r></p></e>
 <e><p><l>февруари<s n="n"/><s n="m"/></l><r>февруари<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>повеќе<s n="adv"/></l><r>повече<s n="adv"/></r></p></e>
@@ -2181,7 +2389,6 @@ TODO ili четиринаесет    -->
 <e><p><l>секретар<s n="n"/><s n="m"/></l><r>секретар<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>регион<s n="n"/><s n="m"/></l><r>регион<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>српски<s n="adj"/></l><r>сръбски<s n="adj"/></r></p></e>
-
 <e><p><l>ОН<s n="abbr"/></l><r>ООН<s n="abbr"/></r></p></e> <!--ЛР-->
 <e><p><l>сепак<s n="adv"/></l><r>все пак<s n="adv"/></r></p></e>
 <e><p><l>страница<s n="n"/><s n="f"/></l><r>страница<s n="n"/><s n="f"/></r></p></e>
@@ -2298,7 +2505,6 @@ TODO ili четиринаесет    -->
 <e><p><l>освои<s n="vblex"/></l><r>спечели<s n="vblex"/></r></p></e> <!--освојува печели-->
 <e><p><l>двајца<s n="num"/></l><r>двама<s n="num"/></r></p></e>
 <e><p><l>Ѓул<s n="np"/><s n="cog"/><s n="mf"/></l><r>Гюл<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-
 <e><p><l>круг<s n="n"/><s n="m"/></l><r>кръг<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>економија<s n="n"/><s n="f"/></l><r>икономика<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>Хаг<s n="np"/><s n="top"/><s n="m"/></l><r>Хага<s n="np"/><s n="top"/><s n="f"/></r></p></e>
