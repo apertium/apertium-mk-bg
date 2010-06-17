@@ -16,3 +16,4 @@ dev/testvoc.sh -text
 /mk-bg.prob -text
 /modes.xml -text
 /pending-tests.sh -text
+/regression-tests.sh -text
