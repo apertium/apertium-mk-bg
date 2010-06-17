@@ -303,6 +303,7 @@
       <e>        <p>          <l>му</l>          <r>clitic<s n="prn"/><s n="clt"/><s n="p3"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
       <e r="LR"> <p>          <l>й</l>           <r>clitic<s n="prn"/><s n="clt"/><s n="p3"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
       <e>        <p>          <l>ѝ</l>           <r>clitic<s n="prn"/><s n="clt"/><s n="p3"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+<!--      <e r="LR"> <p>          <l>и</l>           <r>clitic<s n="prn"/><s n="clt"/><s n="p3"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>  -->
       <e>        <p>          <l>му</l>          <r>clitic<s n="prn"/><s n="clt"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
       <e>        <p>          <l>ни</l>          <r>clitic<s n="prn"/><s n="clt"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
       <e>        <p>          <l>ви</l>          <r>clitic<s n="prn"/><s n="clt"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
@@ -10367,6 +10368,7 @@
     <e lm="спрямо"><i>спрямо</i><par n="във__pr"/></e>
     <e lm="срещу"><i>срещу</i><par n="във__pr"/></e>
     <e lm="между"><i>между</i><par n="във__pr"/></e>
+    <e lm="в размер на"><i>в<b/>размер<b/>на</i><par n="във__pr"/></e>
  
 
     <!-- Conjunctions -->
