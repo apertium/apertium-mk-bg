@@ -10,6 +10,7 @@ all:
 	lt-comp lr $(BASENAME).$(LANG1).dix $(PREFIX1).automorf.bin
 	lt-comp lr $(BASENAME).$(PREFIX1).dix $(PREFIX1).autobil.bin
 	lt-comp rl $(BASENAME).$(LANG2).dix $(PREFIX1).autogen.bin
+	lt-comp lr $(BASENAME).post-$(LANG2).dix $(PREFIX1).autopgen.bin
 	apertium-validate-transfer $(BASENAME).$(PREFIX1).t1x
 	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t1x $(PREFIX1).t1x.bin
 

@@ -17,6 +17,10 @@
       <program name="lt-proc $1">
         <file name="mk-bg.autogen.bin"/>
       </program>
+      <program name="lt-proc -p">
+        <file name="mk-bg.autopgen.bin"/>
+      </program>
+
     </pipeline>
   </mode>
   
