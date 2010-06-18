@@ -283,6 +283,7 @@
     <pardef n="наш__prn">
       <e>        <p>          <l></l>       <r><s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>а</l>      <r><s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ата</l>      <r><s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/><s n="def"/></r></p></e>
       <e>        <p>          <l>е</l>       <r><s n="prn"/><s n="pos"/><s n="nt"/><s n="sg"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>и</l>       <r><s n="prn"/><s n="pos"/><s n="mfn"/><s n="pl"/><s n="ind"/></r></p></e>
     </pardef>
@@ -1875,6 +1876,7 @@
 
    <!--  Cities -->
    <e lm="Загреб"><i>Загреб</i><par n="Загреб__np"/></e>
+   <e lm="Лондон"><i>Лондон</i><par n="Загреб__np"/></e>
    <e lm="Београд"><i>Београд</i><par n="Загреб__np"/></e>
    <e lm="Софија"><i>Софија</i><par n="Југославија__np"/></e>
    <e lm="Пловдив"><i>Пловдив</i><par n="Загреб__np"/></e>
