@@ -6256,8 +6256,8 @@
 
   <section id="prefixes" type="standard">
     <!-- Prefixes -->
-    <e lm="нај" r="RL"><p><l>нај</l><r>adj<s n="pref"/><s n="sup"/></r></p></e>
-    <e lm="по" r="RL"><p><l>по</l><r>adj<s n="pref"/><s n="comp"/></r></p></e>
+    <e lm="нај" r="RL"><p><l><a/>нај</l><r>adj<s n="pref"/><s n="sup"/></r></p></e>
+    <e lm="по" r="RL"><p><l><a/>по</l><r>adj<s n="pref"/><s n="comp"/></r></p></e>
   </section>
 
 

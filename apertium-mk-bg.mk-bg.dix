@@ -45,6 +45,7 @@
 <sdef n="ind"      c="Indefinite"/>
 <sdef n="tot"      c="Totalising"/>
 <sdef n="clt"       c="Clitic"/>
+<sdef n="ref"       c="Reflexive"/>
      
 
 <!--punctuation-->
@@ -80,6 +81,9 @@
     <e><p><l>од<s n="pr"/></l><r>от<s n="pr"/></r></p></e>
 
     <e><p><l>в<s n="pr"/></l><r>в<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>у<s n="pr"/></l><r>в<s n="pr"/></r></p></e> <!--ЛР-->
+    <e r="LR"><p><l>во<s n="pr"/></l><r>в<s n="pr"/></r></p></e> <!--kakva e razlikata mejdu v i vo,  sloji RL-->
+
     <e><p><l>на<s n="pr"/></l><r>на<s n="pr"/></r></p></e>
     <e><p><l>до<s n="pr"/></l><r>до<s n="pr"/></r></p></e>
     <e><p><l>без<s n="pr"/></l><r>без<s n="pr"/></r></p></e>
@@ -145,6 +149,7 @@
 <e><p><l>ве<s n="prn"/><s n="clt"/></l><r>ви<s n="prn"/><s n="clt"/></r></p></e>
 <e><p><l>ги<s n="prn"/><s n="clt"/></l><r>ги<s n="prn"/><s n="clt"/></r></p></e>
 -->
+
 
 <!--
 	Possessive -> форми за м ж ср род, мн ч (+членувани) и кратка форма (клитик, несклоняема)
@@ -312,6 +317,10 @@
 <e><p><l>секаков<s n="prn"/><s n="tot"/></l><r>всякакъв<s n="prn"/><s n="tot"/></r></p></e>
 <e><p><l>секаде<s n="prn"/><s n="tot"/></l><r>навсякъде<s n="prn"/><s n="tot"/></r></p></e> <!--несклоняемо-->
 <e><p><l>сиот<s n="prn"/><s n="tot"/></l><r>всичкия<s n="prn"/><s n="tot"/></r></p></e> <!--сета сето сите-->
+
+<!-- Reflexive -->
+
+<e><p><l>clitic<s n="prn"/><s n="ref"/></l><r>clitic<s n="prn"/><s n="ref"/></r></p></e>
 
 <!-- END PRONOUNS -->
 
@@ -1572,7 +1581,6 @@ TODO ili четиринаесет    -->
 <!--
 	12 june 4000+
 -->
-<e><p><l>во<s n="pr"/></l><r>в<s n="pr"/></r></p></e> <!--kakva e razlikata mejdu v i vo,  sloji RL-->
 <e><p><l>со<s n="pr"/></l><r>АМИ СЕГА?<s n="pr"/></r></p></e> <!--С, СЪС-->
 <e><p><l>дека<s n="cnjsub"/></l><r>че<s n="cnjsub"/></r></p></e>
 <e><p><l>мај<s n="n"/><s n="m"/></l><r>май<s n="n"/><s n="m"/></r></p></e>
@@ -2374,7 +2382,6 @@ TODO ili четиринаесет    -->
 <e><p><l>Ирак<s n="np"/><s n="top"/><s n="m"/></l><r>Ирак<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 <e><p><l>претставува<s n="vblex"/></l><r>представлява<s n="vblex"/></r></p></e>
 <e><p><l>врз<s n="pr"/></l><r>върху<s n="pr"/></r></p></e>
-<e><p><l>у<s n="pr"/></l><r>в<s n="pr"/></r></p></e> <!--ЛР-->
 <e><p><l>суд<s n="n"/><s n="m"/></l><r>съд<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>побара<s n="vblex"/></l><r>поиска<s n="vblex"/></r></p></e>
 <e><p><l>потврди<s n="vblex"/></l><r>потвърди<s n="vblex"/></r></p></e> <!--потврдува потвърждава-->

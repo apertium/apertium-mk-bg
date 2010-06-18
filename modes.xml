@@ -80,6 +80,9 @@
       <program name="lt-proc $1">
         <file name="bg-mk.autogen.bin"/>
       </program>
+      <program name="lt-proc -p">
+        <file name="bg-mk.autopgen.bin"/>
+      </program>
     </pipeline>
   </mode>
   

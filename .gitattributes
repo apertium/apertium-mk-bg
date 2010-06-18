@@ -6,6 +6,7 @@
 /apertium-mk-bg.mk-bg.t1x -text
 /apertium-mk-bg.mk.dix -text
 /apertium-mk-bg.post-bg.dix -text
+/apertium-mk-bg.post-mk.dix -text
 /bg-mk.prob -text
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
