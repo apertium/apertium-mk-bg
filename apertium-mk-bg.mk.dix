@@ -288,6 +288,44 @@
       <e>        <p>          <l>и</l>       <r><s n="prn"/><s n="pos"/><s n="mfn"/><s n="pl"/><s n="ind"/></r></p></e>
     </pardef>
 
+    <pardef n="негов__prn">
+      <e>        <p>          <l></l>       <r><s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>иот</l>       <r><s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>а</l>      <r><s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ата</l>      <r><s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>о</l>       <r><s n="prn"/><s n="pos"/><s n="nt"/><s n="sg"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ото</l>       <r><s n="prn"/><s n="pos"/><s n="nt"/><s n="sg"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>и</l>       <r><s n="prn"/><s n="pos"/><s n="mfn"/><s n="pl"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ите</l>       <r><s n="prn"/><s n="pos"/><s n="mfn"/><s n="pl"/><s n="def"/></r></p></e>
+    </pardef>
+
+    <pardef n="нејз/ин__prn">
+      <e>        <p>          <l>ин</l>       <r>ин<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ниот</l>       <r>ин<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ина</l>      <r>ин<s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ната</l>      <r>ин<s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ино</l>       <r>ин<s n="prn"/><s n="pos"/><s n="nt"/><s n="sg"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ното</l>       <r>ин<s n="prn"/><s n="pos"/><s n="nt"/><s n="sg"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ини</l>       <r>ин<s n="prn"/><s n="pos"/><s n="mfn"/><s n="pl"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ните</l>       <r>ин<s n="prn"/><s n="pos"/><s n="mfn"/><s n="pl"/><s n="def"/></r></p></e>
+    </pardef>
+
+    <pardef n="нив/ен__prn">
+      <e>        <p>          <l>ен</l>       <r>ен<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+      <e r="LR"> <p>          <l>ни</l>       <r>ен<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ниот</l>       <r>ен<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>на</l>      <r>ен<s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ната</l>      <r>ен<s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>но</l>       <r>ен<s n="prn"/><s n="pos"/><s n="nt"/><s n="sg"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ото</l>       <r>ен<s n="prn"/><s n="pos"/><s n="nt"/><s n="sg"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ни</l>       <r>ен<s n="prn"/><s n="pos"/><s n="mfn"/><s n="pl"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ите</l>       <r>ен<s n="prn"/><s n="pos"/><s n="mfn"/><s n="pl"/><s n="def"/></r></p></e>
+    </pardef>
+
+
+
+
+
    <!-- Именки -->
    <pardef n="молив__n">
      <e>       <p>         <l/>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -985,6 +1023,9 @@
    <e lm="свој"><i>сво</i><par n="тво/ј__prn"/></e>
    <e lm="наш"><i>наш</i><par n="наш__prn"/></e>
    <e lm="ваш"><i>ваш</i><par n="наш__prn"/></e>
+   <e lm="негов"><i>негов</i><par n="негов__prn"/></e>
+   <e lm="нејзин"><i>нејз</i><par n="нејз/ин__prn"/></e>
+   <e lm="нивен"><i>нив</i><par n="нив/ен__prn"/></e>
 
    <e lm="ќе"><i>ќе</i><par n="C__ќе"/></e>
    <e lm="да"><i>да</i><par n="да__part"/></e>
@@ -1695,6 +1736,7 @@
    <e lm="зграда"><i>зград</i><par n="жен/а__n"/></e>		<!-- building -->
    <e lm="книга"><i>книг</i><par n="жен/а__n"/></e>		<!-- book -->
    <e lm="улога"><i>улог</i><par n="жен/а__n"/></e>		<!-- -->
+   <e lm="криза"><i>криз</i><par n="жен/а__n"/></e>		<!-- crisis -->
    <e lm="плажа"><i>плаж</i><par n="жен/а__n"/></e>
    <e lm="цигара"><i>цигар</i><par n="жен/а__n"/></e> 		<!-- cigarette -->
    <e lm="жена"><i>жен</i><par n="жен/а__n"/></e> 		<!-- woman -->
