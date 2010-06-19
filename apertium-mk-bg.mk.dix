@@ -281,6 +281,14 @@
      <e>       <p>         <l>чии</l>         <r>кој<s n="prn"/><s n="itg"/><s n="mfn"/><s n="pl"/><s n="gen"/></r></p></e>
    </pardef>
 
+   <pardef n="неко/ј__prn"> <!-- CHECK THIS PARADIGM -->
+     <e>       <p>         <l>ј</l>         <r>ј<s n="prn"/><s n="ind"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+     <e>       <p>         <l>ја</l>         <r>ј<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+     <e>       <p>         <l>е</l>         <r>ј<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+     <e>       <p>         <l>и</l>         <r>ј<s n="prn"/><s n="ind"/><s n="mfn"/><s n="pl"/><s n="nom"/></r></p></e>
+   </pardef>
+
+
    <pardef n="ко/ј__rel"> <!-- CHECK THIS PARADIGM -->
      <e>       <p>         <l>ј</l>         <r>ј<s n="prn"/><s n="rel"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
      <e>       <p>         <l>ја</l>         <r>ј<s n="prn"/><s n="rel"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -1105,6 +1113,8 @@
 
     <e lm="кој"><i>ко</i><par n="ко/ј__rel"/></e>
     <e lm="којшто"><i>ко</i><par n="ко/јшто__rel"/></e>
+
+    <e lm="некој"><i>неко</i><par n="неко/ј__prn"/></e>
 
     <e lm="кој"><i></i><par n="/кој__prn"/></e>
     <e lm="тој"><i/><par n="/тој__prn"/></e>
