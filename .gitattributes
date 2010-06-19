@@ -1,4 +1,5 @@
 * text=auto !eol
+/AUTHORS -text
 /Makefile -text
 /apertium-mk-bg.bg-mk.t1x -text
 /apertium-mk-bg.bg.dix -text
