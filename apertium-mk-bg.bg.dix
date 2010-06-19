@@ -65,8 +65,8 @@
     <sdef n="itg"/>
     <sdef n="qst"/>
     <sdef n="ref"/>
-    <sdef n="rel"/>
-    <sdef n="neg"/>
+    <sdef n="rel"     c="Relative"/>
+    <sdef n="neg"     c="Negative"/>
     <sdef n="clt"/>
     <sdef n="ord"/>
 
@@ -225,16 +225,16 @@
     </pardef>
 
     <pardef n="ни/кой__prn">
-      <e>        <p>          <l>кой</l>         <r>кой<s n="prn"/><s n="dem"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e>        <p>          <l>коя</l>         <r>кой<s n="prn"/><s n="dem"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e>        <p>          <l>кое</l>         <r>кой<s n="prn"/><s n="dem"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e>        <p>          <l>кои</l>         <r>кой<s n="prn"/><s n="dem"/><s n="mfn"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e>        <p>          <l>чий</l>         <r>кой<s n="prn"/><s n="dem"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e>        <p>          <l>чия</l>         <r>кой<s n="prn"/><s n="dem"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e>        <p>          <l>чие</l>         <r>кой<s n="prn"/><s n="dem"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e>        <p>          <l>чии</l>         <r>кой<s n="prn"/><s n="dem"/><s n="mfn"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e>        <p>          <l>кого</l>        <r>кой<s n="prn"/><s n="dem"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
-      <e>        <p>          <l>кому</l>        <r>кой<s n="prn"/><s n="dem"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>        <p>          <l>кой</l>         <r>кой<s n="prn"/><s n="neg"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>        <p>          <l>коя</l>         <r>кой<s n="prn"/><s n="neg"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>        <p>          <l>кое</l>         <r>кой<s n="prn"/><s n="neg"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>        <p>          <l>кои</l>         <r>кой<s n="prn"/><s n="neg"/><s n="mfn"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>        <p>          <l>чий</l>         <r>кой<s n="prn"/><s n="neg"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>        <p>          <l>чия</l>         <r>кой<s n="prn"/><s n="neg"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>        <p>          <l>чие</l>         <r>кой<s n="prn"/><s n="neg"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>        <p>          <l>чии</l>         <r>кой<s n="prn"/><s n="neg"/><s n="mfn"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>        <p>          <l>кого</l>        <r>кой<s n="prn"/><s n="neg"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>        <p>          <l>кому</l>        <r>кой<s n="prn"/><s n="neg"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
     </pardef>
 
     <pardef n="толкова__prn">

@@ -183,7 +183,16 @@
 
 
 <!--this one-->
-<e c="v0"><p><l>тој<s n="prn"/><s n="dem"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
+<e><p><l>тој<s n="prn"/><s n="dem"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
+<e r="LR"><p><l>тој<s n="prn"/><s n="prx"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
+<e r="LR"><p><l>тој<s n="prn"/><s n="dst"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
+
+
+<!-- Why are we using surface forms below ? We should only need to give the lemma and the 
+     tags. e.g. the lemma is 'toj' and the tags are prn.dem ←→ prn.dem, prn.dst → prn.dem and prn.prx → prn.dem  -->
+
+
+<!--
 <e r="RL" c="v1"><p><l>тој<s n="prn"/><s n="dem"/></l><r>тоя<s n="prn"/><s n="dem"/></r></p></e>
 <e r="RL" c="v2"><p><l>тој<s n="prn"/><s n="dem"/></l><r>тоз<s n="prn"/><s n="dem"/></r></p></e>
 
@@ -197,9 +206,11 @@
 <e c="v0"><p><l>тие<s n="prn"/><s n="dem"/></l><r>тези<s n="prn"/><s n="dem"/></r></p></e>
 <e r="RL" c="v1"><p><l>тие<s n="prn"/><s n="dem"/></l><r>тез<s n="prn"/><s n="dem"/></r></p></e>
 <e r="RL" c="v2"><p><l>тие<s n="prn"/><s n="dem"/></l><r>тия<s n="prn"/><s n="dem"/></r></p></e>
+-->
 
 <!--Demonstrative proximal - These are the same as the unmarked in Bulgarian 
 	ПРАВИЛА-->
+<!--
 <e c="v0"><p><l>овој<s n="prn"/><s n="prx"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
 <e r="RL" c="v1"><p><l>овој<s n="prn"/><s n="prx"/></l><r>тоя<s n="prn"/><s n="dem"/></r></p></e>
 <e r="RL" c="v2"><p><l>овој<s n="prn"/><s n="prx"/></l><r>тоз<s n="prn"/><s n="dem"/></r></p></e>
@@ -214,8 +225,9 @@
 <e c="v0"><p><l>овие<s n="prn"/><s n="prx"/></l><r>тези<s n="prn"/><s n="dem"/></r></p></e>
 <e r="RL" c="v1"><p><l>овие<s n="prn"/><s n="prx"/></l><r>тез<s n="prn"/><s n="dem"/></r></p></e>
 <e r="RL" c="v2"><p><l>овие<s n="prn"/><s n="prx"/></l><r>тия<s n="prn"/><s n="dem"/></r></p></e>
-
+-->
 <!--Demonstrative distal-->
+<!--
 <e c="v0"><p><l>оној<s n="prn"/><s n="dst"/></l><r>онзи<s n="prn"/><s n="dst"/></r></p></e>
 <e r="RL" c="v1"><p><l>оној<s n="prn"/><s n="dst"/></l><r>оня<s n="prn"/><s n="dst"/></r></p></e>
 
@@ -229,16 +241,16 @@
 <e c="v0"><p><l>оние<s n="prn"/><s n="dst"/></l><r>онези<s n="prn"/><s n="dst"/></r></p></e>
 <e r="RL" c="v1"><p><l>оние<s n="prn"/><s n="dst"/></l><r>ония<s n="prn"/><s n="dst"/></r></p></e>
 <e r="RL" c="v2"><p><l>оние<s n="prn"/><s n="dst"/></l><r>онез<s n="prn"/><s n="dst"/></r></p></e>
-
+-->
 
 <!--
 	Interrogative скланят се в род и число, кой и чий са подобни, какво е като прилагателно
 -->
 <e><p><l>кој<s n="prn"/><s n="itg"/></l><r>кой<s n="prn"/><s n="itg"/></r></p></e>
-<e><p><l>кого<s n="prn"/><s n="itg"/></l><r>кого<s n="prn"/><s n="itg"/></r></p></e> <!--несклоняемо-->
-<e><p><l>кому<s n="prn"/><s n="itg"/></l><r>кому<s n="prn"/><s n="itg"/></r></p></e> <!--несклоняемо-->
+<!--<e><p><l>чиј<s n="prn"/><s n="itg"/></l><r>чий<s n="prn"/><s n="itg"/></r></p></e>-->
+<!--<e><p><l>кого<s n="prn"/><s n="itg"/></l><r>кого<s n="prn"/><s n="itg"/></r></p></e>--> <!--несклоняемо-->
+<!--<e><p><l>кому<s n="prn"/><s n="itg"/></l><r>кому<s n="prn"/><s n="itg"/></r></p></e>--> <!--несклоняемо-->
 <e><p><l>што<s n="prn"/><s n="itg"/></l><r>какво<s n="prn"/><s n="itg"/></r></p></e> <!--несклоняемо-->
-<e><p><l>чиј<s n="prn"/><s n="itg"/></l><r>чий<s n="prn"/><s n="itg"/></r></p></e>
 
 <e c="v0"><p><l>каков<s n="prn"/><s n="itg"/></l><r>какъв<s n="prn"/><s n="itg"/></r></p></e>
 <e r="LR" c="v1"><p><l>колкав<s n="prn"/><s n="itg"/></l><r>какъв<s n="prn"/><s n="itg"/></r></p></e> <!--колко голям-->
@@ -255,16 +267,20 @@
 	Relative
 -->
 
-<e c="v0"><p><l>којшто<s n="prn"/><s n="rel"/></l><r>който<s n="prn"/><s n="rel"/></r></p></e>
-<e c="v0"><p><l>којашто<s n="prn"/><s n="rel"/></l><r>която<s n="prn"/><s n="rel"/></r></p></e>
-<e c="v0"><p><l>коешто<s n="prn"/><s n="rel"/></l><r>което<s n="prn"/><s n="rel"/></r></p></e>
-<e c="v0"><p><l>коишто<s n="prn"/><s n="rel"/></l><r>които<s n="prn"/><s n="rel"/></r></p></e>
+<e><p><l>којшто<s n="prn"/><s n="rel"/></l><r>който<s n="prn"/><s n="rel"/></r></p></e>
+<!--
+<e><p><l>којашто<s n="prn"/><s n="rel"/></l><r>която<s n="prn"/><s n="rel"/></r></p></e>
+<e><p><l>коешто<s n="prn"/><s n="rel"/></l><r>което<s n="prn"/><s n="rel"/></r></p></e>
+<e><p><l>коишто<s n="prn"/><s n="rel"/></l><r>които<s n="prn"/><s n="rel"/></r></p></e>
+--><!-- do we need the separate surface forms ? -->
 
 	<!--тук трябва малко по-сериозно маркиране. Тези форми са предпочитани след предлог- ПРАВИЛО (со кой - с коГОТО)-->
-<e c="v1"><p><l>кој<s n="prn"/><s n="rel"/></l><r>който<s n="prn"/><s n="rel"/></r></p></e>
-<e c="v1"><p><l>која<s n="prn"/><s n="rel"/></l><r>която<s n="prn"/><s n="rel"/></r></p></e>
-<e c="v1"><p><l>кое<s n="prn"/><s n="rel"/></l><r>което<s n="prn"/><s n="rel"/></r></p></e>
-<e c="v1"><p><l>коио<s n="prn"/><s n="rel"/></l><r>които<s n="prn"/><s n="rel"/></r></p></e>
+<e r="LR"><p><l>кој<s n="prn"/><s n="rel"/></l><r>който<s n="prn"/><s n="rel"/></r></p></e>
+<!--
+<e"><p><l>која<s n="prn"/><s n="rel"/></l><r>която<s n="prn"/><s n="rel"/></r></p></e>
+<e><p><l>кое<s n="prn"/><s n="rel"/></l><r>което<s n="prn"/><s n="rel"/></r></p></e>
+<e><p><l>коио<s n="prn"/><s n="rel"/></l><r>които<s n="prn"/><s n="rel"/></r></p></e>
+--><!-- do we need the separate surface forms ? -->
 	<!--
 	todo: што е най-честият релатив, и не се скланя в род и число ПРАВИЛА, Horace bls. 44
 	MAKE SOME TEST CASES TO WIKI
@@ -275,12 +291,14 @@
 <e><p><l>кога<s n="prn"/><s n="rel"/></l><r>когато<s n="prn"/><s n="rel"/></r></p></e> <!--правило-->
 
 <e><p><l>чиј<s n="prn"/><s n="rel"/></l><r>чийто<s n="prn"/><s n="rel"/></r></p></e>
+<!--
 <e><p><l>чија<s n="prn"/><s n="rel"/></l><r>чиято<s n="prn"/><s n="rel"/></r></p></e>
 <e><p><l>чие<s n="prn"/><s n="rel"/></l><r>чието<s n="prn"/><s n="rel"/></r></p></e>
 <e><p><l>чии<s n="prn"/><s n="rel"/></l><r>чиито<s n="prn"/><s n="rel"/></r></p></e>
+--><!-- do we need separate surface forms ? -->
 
 
-<e><p><l>каде што<s n="prn"/><s n="rel"/></l><r>където<s n="prn"/><s n="rel"/></r></p></e> <!--МТЕ-->
+<e><p><l>каде<b/>што<s n="prn"/><s n="rel"/></l><r>където<s n="prn"/><s n="rel"/></r></p></e> <!--МТЕ-->
 <e><p><l>когошто<s n="prn"/><s n="rel"/></l><r>когото<s n="prn"/><s n="rel"/></r></p></e>
 <e><p><l>комушто<s n="prn"/><s n="rel"/></l><r>комуто<s n="prn"/><s n="rel"/></r></p></e>
 <e><p><l>бидејќи<s n="prn"/><s n="rel"/></l><r>защото<s n="prn"/><s n="rel"/></r></p></e>
@@ -290,13 +308,12 @@
 	Negative rod i chislo
 -->
 <e><p><l>никој<s n="prn"/><s n="neg"/></l><r>никой<s n="prn"/><s n="neg"/></r></p></e>
-<e><p><l>никого<s n="prn"/><s n="neg"/></l><r>никого<s n="prn"/><s n="neg"/></r></p></e> <!--нисклоняимо-->
-<e><p><l>никому<s n="prn"/><s n="neg"/></l><r>никому<s n="prn"/><s n="neg"/></r></p></e> <!--нисклоняимо-->
+<!--<e><p><l>ничиј<s n="prn"/><s n="neg"/></l><r>ничий<s n="prn"/><s n="neg"/></r></p></e>-->
+<!--<e><p><l>никого<s n="prn"/><s n="neg"/></l><r>никого<s n="prn"/><s n="neg"/></r></p></e> --><!--нисклоняимо-->
+<!--<e><p><l>никому<s n="prn"/><s n="neg"/></l><r>никому<s n="prn"/><s n="neg"/></r></p></e> --><!--нисклоняимо-->
 <e><p><l>никаков<s n="prn"/><s n="neg"/></l><r>никакъв<s n="prn"/><s n="neg"/></r></p></e>
 <e><p><l>никогаш<s n="prn"/><s n="neg"/></l><r>никога<s n="prn"/><s n="neg"/></r></p></e> <!--нисклоняимо-->
 <e><p><l>никаде<s n="prn"/><s n="neg"/></l><r>никъде<s n="prn"/><s n="neg"/></r></p></e> <!--несклоняемо-->
-<e><p><l>ничиј<s n="prn"/><s n="neg"/></l><r>ничий<s n="prn"/><s n="neg"/></r></p></e>
-
 
 <!--
 	Indefinite rod i chislo
@@ -2948,14 +2965,14 @@ TODO ili четиринаесет    -->
 <e><p><l>Тачи<s n="np"/><s n="cog"/><s n="mf"/></l><r>Тачи<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>нафта<s n="n"/><s n="f"/></l><r>нефт<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>олимпијада<s n="n"/><s n="f"/></l><r>олимпиада<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>иако<s n="__цнгсуб__"/></l><r>макар да<s n="__цнгсуб__"/></r></p></e> <!--Wrong input, Process later: -->
+<!--<e><p><l>иако<s n="__цнгсуб__"/></l><r>макар да<s n="__цнгсуб__"/></r></p></e>--> <!--Wrong input, Process later: -->
 <e><p><l>спогодба<s n="n"/><s n="f"/></l><r>споразумение<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>покана<s n="n"/><s n="f"/></l><r>покана<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>иден<s n="adj"/></l><r>бъдещ<s n="adj"/></r></p></e>
 <e><p><l>раст<s n="n"/><s n="m"/></l><r>ръст<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>обвинителка<s n="n"/><s n="f"/></l><r>прокурорка<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>команда<s n="n"/><s n="f"/></l><r>командване<s n="n"/><s n="nt"/></r></p></e>
-<e><p><l>Стејт департмент<s n="n"/><s n="m"/></l><r>Държавният департамент на САЩ<s n="n"/><s n="m"/></r></p></e> <!--МТЕ-->
+<e><p><l>Стејт<b/>департмент<s n="n"/><s n="m"/></l><r>Държавният<b/>департамент<g><b/>на<b/>САЩ</g><s n="n"/><s n="m"/></r></p></e> <!--МТЕ-->
 <e><p><l>метар<s n="n"/><s n="m"/></l><r>метър<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>дополнителен<s n="adj"/></l><r>допълнителен<s n="adj"/></r></p></e>
 <e><p><l>иако<s n="cnjsub"/></l><r>макар че<s n="cnjsub"/></r></p></e>
