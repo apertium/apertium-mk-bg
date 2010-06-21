@@ -1105,7 +1105,13 @@
     <e lm="спрема"><i>спрема</i><par n="в__pr"/></e>
     <e lm="со"><i>со</i><par n="в__pr"/></e>
     <e lm="во висина од"><i>во<b/>висина<b/>од</i><par n="в__pr"/></e>
+    <e lm="во текот на"><i>во<b/>текот<b/>на</i><par n="в__pr"/></e>
+    <e lm="надвор"><i>надвор</i><par n="в__pr"/></e> 
+    <e lm="како"><i>како</i><par n="в__pr"/></e> <!-- TODO: CHECK -->
+    <e lm="долж"><i>долж</i><par n="в__pr"/></e>
+    <e lm="наспрема"><i>наспрема</i><par n="в__pr"/></e>
 
+ 
     <!-- Pronouns -->
 
     <e lm="personal pronouns"><i/><par n="personal_pronouns__prn"/></e> 
