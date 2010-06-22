@@ -3712,7 +3712,7 @@ TODO ili четиринаесет    -->
 <e><p><l>брани<s n="vblex"/></l><r>брани<s n="vblex"/></r></p></e>
 <e><p><l>Бамир<s n="np"/><s n="ant"/><s n="m"/></l><r>Бамир<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>сума<s n="n"/><s n="f"/></l><r>сума<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>избирачките<s n="____"/></l><r>АМИ СЕГА?<s n="____"/></r></p></e> <!--Wrong input, Process later: -->
+<!--<e><p><l>избирачките<s n="____"/></l><r>АМИ СЕГА?<s n="____"/></r></p></e>--> <!--Wrong input, Process later: -->
 <e><p><l>надоместок<s n="n"/><s n="m"/></l><r>компенсация<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>излегува<s n="vblex"/></l><r>излиза<s n="vblex"/></r></p></e>
 <e><p><l>Побједа<s n="np"/><s n="al"/><s n="f"/></l><r>Победа<s n="np"/><s n="al"/><s n="f"/></r></p></e>
@@ -3843,7 +3843,7 @@ TODO ili четиринаесет    -->
 <e><p><l>Разван<s n="np"/><s n="ant"/><s n="m"/></l><r>Разван<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Патен<s n="np"/><s n="cog"/><s n="mf"/></l><r>Патен<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>лига<s n="n"/><s n="f"/></l><r>лига<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>я<s n="____"/></l><r>я<s n="____"/></r></p></e> <!--Wrong input, Process later: -->
+<!--<e><p><l>я<s n="____"/></l><r>я<s n="____"/></r></p></e>--> <!--Wrong input, Process later: -->
 <e><p><l>Илир<s n="np"/><s n="ant"/><s n="m"/></l><r>Илир<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>сретне<s n="vblex"/></l><r>срещне<s n="vblex"/></r></p></e> <!--сретнува среща-->
 <e><p><l>знаме<s n="n"/><s n="nt"/></l><r>знаме<s n="n"/><s n="nt"/></r></p></e>
