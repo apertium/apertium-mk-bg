@@ -349,31 +349,34 @@
     </pardef>
 
     <pardef n="нејз/ин__prn">
-      <e>        <p>          <l>ин</l>       <r>ин<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ниот</l>       <r>ин<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>ина</l>      <r>ин<s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ната</l>      <r>ин<s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>ино</l>       <r>ин<s n="prn"/><s n="pos"/><s n="nt"/><s n="sg"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ното</l>       <r>ин<s n="prn"/><s n="pos"/><s n="nt"/><s n="sg"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>ини</l>       <r>ин<s n="prn"/><s n="pos"/><s n="mfn"/><s n="pl"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ните</l>       <r>ин<s n="prn"/><s n="pos"/><s n="mfn"/><s n="pl"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ин</l>      <r>ин<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ниот</l>    <r>ин<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ина</l>     <r>ин<s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ната</l>    <r>ин<s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ино</l>     <r>ин<s n="prn"/><s n="pos"/><s n="nt"/><s n="sg"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ното</l>    <r>ин<s n="prn"/><s n="pos"/><s n="nt"/><s n="sg"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ини</l>     <r>ин<s n="prn"/><s n="pos"/><s n="mfn"/><s n="pl"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ните</l>    <r>ин<s n="prn"/><s n="pos"/><s n="mfn"/><s n="pl"/><s n="def"/></r></p></e>
     </pardef>
 
     <pardef n="нив/ен__prn">
-      <e>        <p>          <l>ен</l>       <r>ен<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-      <e r="LR"> <p>          <l>ни</l>       <r>ен<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ниот</l>       <r>ен<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ен</l>      <r>ен<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+      <e r="LR"> <p>          <l>ни</l>      <r>ен<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ниот</l>    <r>ен<s n="prn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="def"/></r></p></e>
       <e>        <p>          <l>на</l>      <r>ен<s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ната</l>      <r>ен<s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>но</l>       <r>ен<s n="prn"/><s n="pos"/><s n="nt"/><s n="sg"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ото</l>       <r>ен<s n="prn"/><s n="pos"/><s n="nt"/><s n="sg"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>ни</l>       <r>ен<s n="prn"/><s n="pos"/><s n="mfn"/><s n="pl"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ите</l>       <r>ен<s n="prn"/><s n="pos"/><s n="mfn"/><s n="pl"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ната</l>    <r>ен<s n="prn"/><s n="pos"/><s n="f"/><s n="sg"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>но</l>      <r>ен<s n="prn"/><s n="pos"/><s n="nt"/><s n="sg"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ото</l>     <r>ен<s n="prn"/><s n="pos"/><s n="nt"/><s n="sg"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ни</l>      <r>ен<s n="prn"/><s n="pos"/><s n="mfn"/><s n="pl"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ите</l>     <r>ен<s n="prn"/><s n="pos"/><s n="mfn"/><s n="pl"/><s n="def"/></r></p></e>
     </pardef>
 
 
    <!-- Именки -->
 
+<!--
+	мажки род
+-->
    <pardef n="молив__n">
      <e>       <p>         <l/>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
      <e>       <p>         <l>от</l>    <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -384,6 +387,212 @@
      <e>       <p>         <l>иве</l>   <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
      <e>       <p>         <l>ине</l>   <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
    </pardef>
+
+
+   <pardef n="/човек__n">    
+     <e>    <p>        <l>човек</l>      <r>човек<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>     <p>       <l>човекот</l>    <r>човек<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>     <p>       <l>човеков</l>    <r>човек<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>     <p>       <l>човекон</l>    <r>човек<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>    <p>        <l>луѓе</l>       <r>човек<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<!--	pitai Igor-->
+
+   </pardef>
+
+   <pardef n="снег__n">
+     <e>       <p>         <l/>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>от</l>     <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ов</l>     <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>он</l>     <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>ови</l>    <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>овите</l>  <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>овиве</l>  <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>овине</l>  <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+   </pardef>
+
+   <pardef n="речни/к__n">
+     <e>       <p>         <l>к</l>         <r>к<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>кот</l>  	    <r>к<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ков</l>       <r>к<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>кон</l>       <r>к<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>ци</l>        <r>к<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ците</l>      <r>к<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>циве</l>      <r>к<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>цине</l>      <r>к<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+   </pardef>
+
+   <pardef n="бро/ј__n">
+     <e>       <p>         <l>ј</l>         <r>ј<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>јот</l>  	    <r>ј<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>јов</l>       <r>ј<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>јон</l>       <r>ј<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>еви</l>       <r>ј<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>евите</l>     <r>ј<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>евиве</l>     <r>ј<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>евине</l>     <r>ј<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+   </pardef>
+
+   <pardef n="албан/ец__n">
+     <e>       <p>         <l>ец</l>         <r>ец<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ецот</l>  	 <r>ец<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ецов</l>       <r>ец<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>ецон</l>       <r>ец<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>ци</l>         <r>ец<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ците</l>       <r>ец<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>циве</l>       <r>ец<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>цине</l>       <r>ец<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+   </pardef>
+
+   <pardef n="колег/а__n">
+     <e>       <p>         <l>а</l>         <r>а<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ата</l>   	<r>а<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ава</l>       <r>а<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>ана</l>       <r>а<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>и</l>         <r>а<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ите</l>       <r>а<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>иве</l>       <r>а<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>ине</l>       <r>а<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+   </pardef>
+
+   <pardef n="извешта/ј__n">
+     <e>       <p>         <l>ј</l>         <r>ј<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>јот</l>  	    <r>ј<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>јов</l>       <r>ј<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>јон</l>       <r>ј<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>и</l>         <r>ј<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ите</l>       <r>ј<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>иве</l>       <r>ј<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>ине</l>       <r>ј<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+   </pardef>
+
+   <pardef n="кра/ј__n">
+     <e>       <p>         <l>ј</l>         <r>ј<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>јот</l>  	    <r>ј<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>јов</l>       <r>ј<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>јон</l>       <r>ј<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>еви</l>       <r>ј<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>евите</l>     <r>ј<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>евиве</l>     <r>ј<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>евине</l>     <r>ј<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+   </pardef>
+
+   <pardef n="курс__n">
+     <e>       <p>         <l></l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>от</l>  	    <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ов</l>       <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>он</l>       <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>еви</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>евите</l>     <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>евиве</l>     <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>евине</l>     <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+   </pardef>
+
+
+   <pardef n="суди/ја__n">
+     <e>       <p>         <l>ја</l>        <r>ја<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>јата</l>   	<r>ја<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>јава</l>      <r>ја<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>јана</l>      <r>ја<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>и</l>         <r>ја<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ите</l>       <r>ја<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>иве</l>       <r>ја<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>ине</l>       <r>ја<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+   </pardef>
+
+   <pardef n="град__n">
+     <e>       <p>         <l/>       		<r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>от</l>  	    <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ов</l>       	<r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>он</l>       	<r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>ови</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>овите</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>овиве</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>овине</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+   </pardef>
+
+
+   <pardef n="ог/ан__n">
+     <e>       <p>         <l>ан</l>           <r>ан<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>анот</l>  	   <r>ан<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>анов</l>         <r>ан<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>анон</l>         <r>ан<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>нови</l>         <r>ан<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>новите</l>       <r>ан<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>новиве</l>       <r>ан<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>новине</l>       <r>ан<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+   </pardef>
+<!-- дублети -->
+   <pardef n="ог/ин__n">
+     <e>       <p>         <l>ин</l>           <r>ин<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>инот</l>  	   <r>ин<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>инов</l>         <r>ин<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>инон</l>         <r>ин<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>нови</l>         <r>ин<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>новите</l>       <r>ин<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>новиве</l>       <r>ин<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>новине</l>       <r>ин<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+   </pardef>
+
+
+   <pardef n="вет/ар__n">
+     <e>       <p>         <l>ар</l>           <r>ар<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>арот</l>  	   <r>ар<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>аров</l>         <r>ар<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>арон</l>         <r>ар<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>рови</l>         <r>ар<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ровите</l>       <r>ар<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ровиве</l>       <r>ар<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>ровине</l>       <r>ар<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+   </pardef>
+
+   <pardef n="бра/т__n">
+     <e>       <p>         <l>т</l>          <r>т<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>тот</l>  	   	 <r>т<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>тов</l>        <r>т<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>тон</l>        <r>т<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>ќа</l>         <r>т<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ќата</l>       <r>т<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ќава</l>       <r>т<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>ќана</l>       <r>т<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+   </pardef>
+
+
+   <pardef n="прило/г__n">
+     <e>       <p>         <l>г</l>          <r>г<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>гот</l>  	   	 <r>г<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>гов</l>        <r>г<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>гон</l>        <r>г<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>зи</l>         <r>г<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>зите</l>       <r>т<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>зиве</l>       <r>т<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>зине</l>       <r>т<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+   </pardef>
+
+
+<pardef n="бугар/ин__n">
+  <e>       <p>         <l>ин</l>        <r>ин<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p>         <l>инот</l>  	 <r>ин<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p>         <l>инов</l>      <r>ин<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+  <e>       <p>         <l>инон</l>      <r>ин<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+  <e>       <p>         <l>и</l>         <r>ин<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p>         <l>ите</l>       <r>ин<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p>         <l>иве</l>       <r>ин<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+  <e>       <p>         <l>ине</l>       <r>ин<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+
+  <pardef n="чичо__n">
+    <e>       <p>         <l/>       		<r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+    <e>       <p>         <l>то</l>  	    <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+    <e>       <p>         <l>во</l>       	<r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+    <e>       <p>         <l>но</l>       	<r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+    <e>       <p>         <l>вци</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+    <e>       <p>         <l>вците</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+    <e>       <p>         <l>вциве</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+    <e>       <p>         <l>вцине</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+
+
+<!--
+	женски род
+-->
 
    <pardef n="жен/а__n">
      <e>       <p>         <l>а</l>     <r>а<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -407,66 +616,81 @@
      <e>       <p>         <l>зене</l>   <r>га<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
    </pardef>
 
-   <pardef n="маж__n">
-      <e>       <p>         <l/>        <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>       <p>         <l>и</l>    <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-   </pardef>
-
-   <pardef n="/човек__n">    
-      <e>    <p>       <l>човек</l>       <r>човек<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>    <p>       <l>луѓе</l>        <r>човек<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-   </pardef>
-
-   <pardef n="снег__n">
-      <e>       <p>         <l/>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>ови</l>         <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-   </pardef>
-
-   <pardef n="речни/к__n">
-     <e>       <p>         <l>к</l>         <r>к<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>ци</l>         <r>к<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-   </pardef>
-
-   <pardef n="бро/ј__n">
-     <e>       <p>         <l>ј</l>         <r>ј<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>еви</l>         <r>ј<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-   </pardef>
-
-   <pardef n="албан/ец__n">
-     <e>       <p>         <l>ец</l>         <r>ец<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>ци</l>         <r>ец<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-   </pardef>
-
-   <pardef n="колег/а__n">
-     <e>       <p>         <l>а</l>         <r>а<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>и</l>         <r>а<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-   </pardef>
-
-   <pardef n="извешта/ј__n">
-     <e>       <p>         <l>ј</l>         <r>ј<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>и</l>         <r>и<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-   </pardef>
-
-   <pardef n="суди/ја__n">
-     <e>       <p>         <l>ја</l>         <r>ја<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>и</l>         <r>ја<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+   <pardef n="ра/ка__n">
+     <e>       <p>         <l>ка</l>        <r>ка<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ката</l>   	<r>га<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>кава</l>  	<r>га<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>кана</l>   	<r>га<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>це</l>        <r>ка<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>цете</l>   	<r>га<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>цеве</l>   	<r>га<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>цене</l>   	<r>га<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
    </pardef>
 
    <pardef n="полици/ја__n">
      <e>       <p>         <l>ја</l>         <r>ја<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>и</l>         <r>ја<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>јата</l> 	     <r>ја<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>јава</l>       <r>ја<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>јана</l>       <r>ја<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>и</l>        	 <r>ја<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ите</l>  		 <r>ја<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>иве</l>  		 <r>ја<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>ине</l>  		 <r>ја<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
    </pardef>
 
-   <pardef n="организаци/ја__n">
-     <e>       <p>         <l>ја</l>         <r>ја<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>и</l>         <r>ја<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+   <pardef n="чест__n">
+     <e>       <p>         <l></l>        	 <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>а</l> 	     <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ва</l>      	 <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>на</l>       	 <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>и</l>        	 <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ите</l>  		 <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>иве</l>  		 <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>ине</l>  		 <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
    </pardef>
+
+   <pardef n="ноќ__n">
+     <e>       <p>         <l></l>        	 <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>та</l> 	     <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ва</l>      	 <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>на</l>       	 <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>и</l>        	 <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ите</l>  		 <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>иве</l>  		 <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>ине</l>  		 <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+   </pardef>
+
+
+
+<!--
+	среден род
+-->
 
    <pardef n="собрани/е__n">
      <e>       <p>         <l>е</l>         <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l/>         <r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ето</l> 	    <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ево</l>       <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>ено</l>       <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>ја</l>   		<r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>јата</l> 		<r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>јава</l>  	<r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>јана</l>  	<r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
    </pardef>
 
+
+   <pardef n="сем/е__n">
+     <e>       <p>         <l>е</l>         <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ето</l> 	    <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ево</l>       <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>ено</l>       <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>иња</l>   	<r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ињата</l> 	<r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ињава</l>  	<r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>ињана</l>  	<r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+   </pardef>
+
+
+<!-- ??? кафе Игор-->
    <pardef n="ка/ва__n">
      <e>       <p>         <l>ва</l>         <r>ва<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
      <e>       <p>         <l>фиња</l>         <r>ва<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -474,59 +698,65 @@
 
    <pardef n="пристаништ/е__n">
      <e>       <p>         <l>е</l>         <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ето</l> 	    <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ево</l>       <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>ено</l>       <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
      <e>       <p>         <l>а</l>         <r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ата</l> 		<r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ава</l>  		<r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>ана</l>  		<r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
    </pardef>
 
-   <pardef n="врем/е__n">
+   <pardef n="врем/е__n"> <!--на неударено -е, което не е предхождано от  ц, шт, и, ј -->
      <e>       <p>         <l>е</l>         <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>иња</l>         <r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ето</l> 	    <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ево</l>       <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>ено</l>       <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>иња</l>       <r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ињата</l> 	<r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ињава</l>  	<r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>ињана</l>  	<r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
    </pardef>
 
-   <pardef n="пенкал/о__n">
+
+
+
+   <pardef n="пенкал/о__n"> <!--село-->
      <e>       <p>         <l>о</l>         <r>о<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ото</l> 	    <r>о<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ово</l>       <r>о<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>оно</l>       <r>о<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
      <e>       <p>         <l>а</l>         <r>о<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-   </pardef>
-
-   <pardef n="град__n">
-     <e>       <p>         <l/>         <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>ови</l>         <r><s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-   </pardef>
-
-   <pardef n="ог/ан__n">
-     <e>       <p>         <l>ан</l>         <r>ан<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>нови</l>         <r>ан<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-   </pardef>
-
-   <pardef n="вет/ар__n">
-     <e>       <p>         <l>ар</l>         <r>ар<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>рови</l>         <r>ар<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-   </pardef>
-
-   <pardef n="бра/т__n">
-     <e>       <p>         <l>т</l>         <r>т<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>ќа</l>         <r>т<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-   </pardef>
-
-   <pardef n="ра/ка__n">
-     <e>       <p>         <l>ка</l>         <r>ка<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>це</l>         <r>ка<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-   </pardef>
-
-   <pardef n="сел/о__n">
-     <e>       <p>         <l>о</l>         <r>о<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>а</l>         <r>о<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-   </pardef>
-
-   <pardef n="прило/г__n">
-     <e>       <p>         <l>г</l>         <r>г<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>зи</l>         <r>г<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ата</l> 		<r>о<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ава</l>  		<r>о<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>ана</l>  		<r>о<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
    </pardef>
 
 
-   <pardef n="сел/о__n">
-     <e>       <p>         <l>о</l>         <r>о<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>а</l>         <r>о<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+   <pardef n="ниво__n"> <!--клише-->
+     <e>       <p>         <l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>то</l> 	    <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>во</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>но</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>а</l>         <r><s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>ата</l> 		<r><s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ава</l>  		<r><s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>ана</l>  		<r><s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
    </pardef>
+
+
+   <pardef n="такси__n"> 
+     <e>       <p>         <l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>то</l> 	    <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>во</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>но</l>        <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>ја</l>        <r><s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>јата</l> 		<r><s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>јава</l>  	<r><s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>јана</l>  	<r><s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+   </pardef>
+
+
 
    <!-- Proper names -->
 
