@@ -396,7 +396,6 @@
      <e>     <p>       <l>човекон</l>    <r>човек<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
      <e>    <p>        <l>луѓе</l>       <r>човек<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
 <!--	pitai Igor-->
-
    </pardef>
 
    <pardef n="снег__n">
@@ -578,6 +577,7 @@
   <e>       <p>         <l>ите</l>       <r>ин<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p>         <l>иве</l>       <r>ин<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
   <e>       <p>         <l>ине</l>       <r>ин<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+</pardef>
 
   <pardef n="чичо__n">
     <e>       <p>         <l/>       		<r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -588,6 +588,7 @@
     <e>       <p>         <l>вците</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
     <e>       <p>         <l>вциве</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
     <e>       <p>         <l>вцине</l>       <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+</pardef>
 
 
 <!--
@@ -627,7 +628,7 @@
      <e>       <p>         <l>цене</l>   	<r>га<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
    </pardef>
 
-   <pardef n="полици/ја__n">
+   <pardef n="организаци/ја__n">
      <e>       <p>         <l>ја</l>         <r>ја<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
      <e>       <p>         <l>јата</l> 	     <r>ја<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
      <e>       <p>         <l>јава</l>       <r>ја<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
@@ -1700,7 +1701,7 @@
     <e lm="извор"><i>извор</i><par n="молив__n"/></e> 		<!-- source -->
     <e lm="собрание"><i>собрани</i><par n="собрани/е__n"/></e> 		<!--council -->
 	
-    <e lm="маж"><i>маж</i><par n="маж__n"/></e> 			<!-- husband/man -->
+<!--    <e lm="маж"><i>маж</i><par n="маж__n"/></e> 	 -->
 
     <e lm="снег"><i>снег</i><par n="снег__n"/></e> 		<!-- snow -->
     <e lm="блок"><i>блок</i><par n="снег__n"/></e> 	
@@ -2065,7 +2066,7 @@
     <e lm="вода"><i>вод</i><par n="жен/а__n"/></e>   	<!-- -->
     <e lm="земја"><i>земј</i><par n="жен/а__n"/></e>   	<!-- -->
 
-    <e lm="полиција"><i>полици</i><par n="полици/ја__n"/></e>   	<!-- country -->
+    <e lm="полиција"><i>полици</i><par n="организаци/ја__n"/></e>   	<!-- country -->
  
     <e lm="судија"><i>суди</i><par n="суди/ја__n"/></e> 
 
@@ -2180,7 +2181,7 @@
     <e lm="брат"><i>бра</i><par n="бра/т__n"/></e> 		<!-- brother -->
     <e lm="рака"><i>ра</i><par n="ра/ка__n"/></e> 		<!-- hand/arm -->
     <e lm="нога"><i>но</i><par n="но/га__n"/></e> 		<!-- foot/leg -->
-    <e lm="село"><i>сел</i><par n="сел/о__n"/></e> 		<!-- village -->
+    <e lm="село"><i>сел</i><par n="пенкал/о__n"/></e> 		<!-- village -->
 
 	<!-- kava is not a macedonian word -->
     <e lm="кава"><i>ка</i><par n="ка/ва__n"/></e> 
