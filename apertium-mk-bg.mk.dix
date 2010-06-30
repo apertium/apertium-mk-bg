@@ -925,9 +925,6 @@
    </pardef>
 
 
-
-   <!-- Proper names -->
-
 <!-- Proper names -->
 
 <pardef n="Југославија__np">
@@ -1291,6 +1288,26 @@
       <e>        <p>          <l/>          <r></r></p></e>
     </pardef>
 
+
+    <pardef n="висок__adj">
+      <e>        <p>          <l></l>           <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+	  <e>        <p>          <l>иот</l>         <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+	  <e>        <p>          <l>иов</l>         <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+	  <e>        <p>          <l>ион</l>         <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>а</l>          <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ата</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ава</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>ана</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>о</l>           <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ото</l>         <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ово</l>         <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>оно</l>         <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>и</l>           <r><s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ите</l>          <r><s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>иве</l>          <r><s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>ине</l>          <r><s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+    </pardef>
+
     <pardef n="те/жок__adj">
       <e>        <p>          <l>жок</l>           <r>жок<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>шкиот</l>         <r>жок<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -1310,25 +1327,45 @@
       <e>        <p>          <l>шкине</l>         <r>жок<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
     </pardef>
 
-    <pardef n="висок__adj">
-
-	<e>        <p>          <l></l>           <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-	<e>        <p>          <l>иот</l>         <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-	<e>        <p>          <l>иов</l>         <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
-	<e>        <p>          <l>ион</l>         <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
-      <e>        <p>          <l>а</l>          <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ата</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>ава</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
-      <e>        <p>          <l>ана</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
-      <e>        <p>          <l>о</l>           <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ото</l>         <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>ово</l>         <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
-      <e>        <p>          <l>оно</l>         <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
-      <e>        <p>          <l>и</l>           <r><s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ите</l>          <r><s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>иве</l>          <r><s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
-      <e>        <p>          <l>ине</l>          <r><s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+    <pardef n="ни/зок__adj">
+      <e>        <p>          <l>зок</l>           <r>зок<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>скиот</l>         <r>зок<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>скиов</l>         <r>зок<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>скион</l>         <r>зок<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>ска</l>           <r>зок<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ската</l>         <r>зок<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>скава</l>         <r>зок<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>скана</l>         <r>зок<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>ско</l>           <r>зок<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ското</l>         <r>зок<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>сково</l>         <r>зок<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>сконо</l>         <r>зок<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>ски</l>           <r>зок<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ските</l>         <r>зок<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>скиве</l>         <r>зок<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>скине</l>         <r>зок<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
     </pardef>
+
+<!--Питај Игор за това- Другите подобни думи имат регресивно обеззвучаване, но не и тук. Поне според гугал и корпуса -->
+    <pardef n="крев/ок__adj">
+      <e>        <p>          <l>ок</l>           <r>ок<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>киот</l>         <r>ок<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>киов</l>         <r>ок<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>кион</l>         <r>ок<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>ка</l>           <r>ок<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ката</l>         <r>ок<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>кава</l>         <r>ок<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>кана</l>         <r>ок<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>ко</l>           <r>ок<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>кото</l>         <r>ок<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ково</l>         <r>ок<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>коно</l>         <r>ок<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>ки</l>           <r>ок<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ките</l>         <r>ок<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>киве</l>         <r>ок<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>кине</l>         <r>ок<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+    </pardef>
+
 
     <pardef n="кра/ен__adj">
 	<e>        <p>          <l>ен</l>           <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -1347,7 +1384,6 @@
       <e>        <p>          <l>јните</l>         <r>ен<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
       <e>        <p>          <l>јниве</l>         <r>ен<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
       <e>        <p>          <l>јнине</l>         <r>ен<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
-
     </pardef>
 
     <pardef n="летачк/и__adj">
@@ -1386,13 +1422,9 @@
       <e>        <p>          <l>рите</l>         <r>ар<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
       <e>        <p>          <l>риве</l>         <r>ар<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
       <e>        <p>          <l>рине</l>         <r>ар<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
-
     </pardef>
 
     <pardef n="инвентив/ен__adj">
-<!--
-	TODO masculine
--->
       <e>        <p>          <l>ен</l>           <r>ен<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>ниот</l>         <r>ен<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
       <e>        <p>          <l>ниов</l>         <r>ен<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
@@ -1409,8 +1441,89 @@
       <e>        <p>          <l>ните</l>         <r>ен<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
       <e>        <p>          <l>ниве</l>         <r>ен<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
       <e>        <p>          <l>нине</l>         <r>ен<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
-
     </pardef>
+
+
+    <pardef n="мес/тен__adj">
+      <e>        <p>          <l>тен</l>          <r>тен<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ниот</l>         <r>тен<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ниов</l>         <r>тен<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>нион</l>         <r>тен<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>на</l>           <r>тен<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ната</l>         <r>тен<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>нава</l>         <r>тен<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>нана</l>         <r>тен<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>но</l>           <r>тен<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ното</l>         <r>тен<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ново</l>         <r>тен<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>ноно</l>         <r>тен<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>ни</l>           <r>тен<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ните</l>         <r>тен<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ниве</l>         <r>тен<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>нине</l>         <r>тен<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+    </pardef>
+
+
+    <pardef n="камен/ен__adj">
+      <e>        <p>          <l>ен</l>          <r>ен<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>иот</l>         <r>ен<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>иов</l>         <r>ен<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>ион</l>         <r>ен<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>а</l>           <r>ен<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ата</l>         <r>ен<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ава</l>         <r>ен<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>ана</l>         <r>ен<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>о</l>           <r>ен<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ото</l>         <r>ен<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ово</l>         <r>ен<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>оно</l>         <r>ен<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>и</l>           <r>ен<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ите</l>         <r>ен<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>иве</l>         <r>ен<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>ине</l>         <r>ен<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+    </pardef>
+
+
+    <pardef n="так/ов__adj">
+      <e>        <p>          <l>ов</l>           <r>ов<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>виот</l>         <r>ов<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>виов</l>         <r>ов<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>вион</l>         <r>ов<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>ва</l>           <r>ов<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>вата</l>         <r>ов<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>вава</l>         <r>ов<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>вана</l>         <r>ов<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>во</l>           <r>ов<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>вото</l>         <r>ов<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>вово</l>         <r>ов<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>воно</l>         <r>ов<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l>ви</l>           <r>ов<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>вите</l>         <r>ов<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>виве</l>         <r>ов<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l>вине</l>         <r>ов<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+    </pardef>
+
+
+    <pardef n="фер__adj"> <!-- does not decline -->
+      <e>        <p>          <l></l>           <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l></l>         <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l></l>         <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l></l>         <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l></l>           <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l></l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l></l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l></l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l></l>           <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l></l>         <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l></l>         <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l></l>         <r><s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+      <e>        <p>          <l></l>           <r><s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l></l>         <r><s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l></l>         <r><s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+      <e>        <p>          <l></l>         <r><s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+    </pardef>
+
+
 
     <pardef n="ко/ј__adj">
       <e>        <p>          <l>ј</l>          <r>ј<s n="adj"/><s n="itg"/><s n="m"/><s n="sg"/></r></p></e>
@@ -3244,8 +3357,6 @@
 <e lm="возило"><i>возил</i><par n="пенкал/о__n"/></e>
 <e lm="судство"><i>судств</i><par n="пенкал/о__n"/></e>
 
-
-
 <e lm="лице"><i>лиц</i><par n="пристаништ/е__n"/></e>		<!-- person -->
 <e lm="пристаниште"><i>пристаништ</i><par n="пристаништ/е__n"/></e>
 <e lm="абдицирање"><i>абдицирањ</i><par n="пристаништ/е__n"/></e>
@@ -3621,7 +3732,6 @@
 <!--
 АТН! ПИТАЈ Игор
 <e lm="волја"><i>волја</i><par n="такси__n"/></e>
-<e lm="луѓе"><i>луѓе</i><par n="такси__n"/></e>
 <e lm="финансии"><i>финансии</i><par n="такси__n"/></e>
 <e lm="шија"><i>шија</i><par n="такси__n"/></e>
 -->
@@ -3805,6 +3915,7 @@
     <e lm="Пловдив"><i>Пловдив</i><par n="Загреб__np"/></e>
     <e lm="Скопје"><i>Скопје</i><par n="Скопје__np"/></e>
 
+<!--ant -->
 	<e lm="Јап"><i>Јап</i><par n="Бранко__np"/></e>
 	<e lm="Јашар"><i>Јашар</i><par n="Бранко__np"/></e>
 	<e lm="Јоаким"><i>Јоаким</i><par n="Бранко__np"/></e>
@@ -3963,7 +4074,7 @@
 	<e lm="Рен"><i>Рен</i><par n="Бранко__np"/></e>
 	<e lm="Тони"><i>Тони</i><par n="Марија__np"/></e>
 	
-	
+<!--al-->	
 	<e lm="Блиц"><i>Блиц</i><par n="Танјуг__np"/></e>
 	<e lm="Ватан"><i>Ватан</i><par n="Танјуг__np"/></e>
 	<e lm="Вјесник"><i>Вјесник</i><par n="Танјуг__np"/></e>
@@ -4021,6 +4132,7 @@
 	<e lm="ерлајнс"><i>ерлајнс</i><par n="Аро__np"/></e>
 	<e lm="јавности"><i>јавности</i><par n="Аро__np"/></e>
 
+<!--cog-->
 	<e lm="Бах"><i>Бах</i><par n="Костов__np"/></e>
 	<e lm="Борисов"><i>Борисов</i><par n="Костов__np"/></e>
 	<e lm="Бошковски"><i>Бошковски</i><par n="Костов__np"/></e>
@@ -4189,8 +4301,6 @@
 	<e lm="Шпириќ"><i>Шпириќ</i><par n="Џонс__np"/></e>
 	<e lm="Шредер"><i>Шредер</i><par n="Џонс__np"/></e>
 	<e lm="Штајнер"><i>Штајнер</i><par n="Џонс__np"/></e>
-
-
 
 
 
@@ -5105,13 +5215,15 @@
     <e lm="фати"><i>фат</i><par n="пријав/и__vblex"/></e>
     <e lm="фрли"><i>фрл</i><par n="пријав/и__vblex"/></e>
 
-    <!-- Adjectives / придавки -->
+   
 
-    <e lm="висок"><par n="P__adj"/><i>вис</i><par n="те/жок__adj"/></e>		<!-- tall --> <!--TODO: CHECK -->
+ <!-- Adjectives / придавки -->
+
+    <e lm="висок"><par n="P__adj"/><i>висок</i><par n="висок__adj"/></e>
     <e lm="тежок"><par n="P__adj"/><i>те</i><par n="те/жок__adj"/></e>
     <e lm="весел"><par n="P__adj"/><i>весел</i><par n="висок__adj"/></e>
-    <e lm="тажен"><par n="P__adj"/><i>тажен</i><par n="висок__adj"/></e>
-    <e lm="тмурен"><par n="P__adj"/><i>тмурен</i><par n="висок__adj"/></e>
+    <e lm="тажен"><par n="P__adj"/><i>таж</i><par n="инвентив/ен__adj"/></e>
+    <e lm="тмурен"><par n="P__adj"/><i>тмур</i><par n="инвентив/ен__adj"/></e>
     <e lm="скаменет"><par n="P__adj"/><i>скаменет</i><par n="висок__adj"/></e>
     <e lm="голем"><par n="P__adj"/><i>голем</i><par n="висок__adj"/></e>
     <e lm="мал"><par n="P__adj"/><i>мал</i><par n="висок__adj"/></e>
@@ -5140,7 +5252,7 @@
     <e lm="благословен"><par n="P__adj"/><i>благословен</i><par n="висок__adj"/></e>
     <e lm="блиндиран"><par n="P__adj"/><i>блиндиран</i><par n="висок__adj"/></e>
     <e lm="богат"><par n="P__adj"/><i>богат</i><par n="висок__adj"/></e>
-    <e lm="божји"><par n="P__adj"/><i>божји</i><par n="висок__adj"/></e>
+    <e lm="божји"><par n="P__adj"/><i>божј</i><par n="летачк/и__adj"/></e>
     <e lm="бомбардиран"><par n="P__adj"/><i>бомбардиран</i><par n="висок__adj"/></e>
     <e lm="борбен"><par n="P__adj"/><i>борбен</i><par n="висок__adj"/></e>
     <e lm="бранков"><par n="P__adj"/><i>бранков</i><par n="висок__adj"/></e>
@@ -5155,16 +5267,14 @@
     <e lm="верификуван"><par n="P__adj"/><i>верификуван</i><par n="висок__adj"/></e>
     <e lm="ветен"><par n="P__adj"/><i>ветен</i><par n="висок__adj"/></e>
     <e lm="вешт"><par n="P__adj"/><i>вешт</i><par n="висок__adj"/></e>
-    <e lm="виден"><par n="P__adj"/><i>виден</i><par n="висок__adj"/></e>
+    <e lm="виден"><par n="P__adj"/><i>виден</i><par n="инвентив/ен__adj"/></e>
     <e lm="видлив"><par n="P__adj"/><i>видлив</i><par n="висок__adj"/></e>
-    <e lm="висок"><par n="P__adj"/><i>висок</i><par n="висок__adj"/></e>
     <e lm="виш"><par n="P__adj"/><i>виш</i><par n="висок__adj"/></e>
     <e lm="вкрстен"><par n="P__adj"/><i>вкрстен</i><par n="висок__adj"/></e>
     <e lm="владин"><par n="P__adj"/><i>владин</i><par n="висок__adj"/></e>
     <e lm="вложен"><par n="P__adj"/><i>вложен</i><par n="висок__adj"/></e>
     <e lm="внесен"><par n="P__adj"/><i>внесен</i><par n="висок__adj"/></e>
     <e lm="вовлечен"><par n="P__adj"/><i>вовлечен</i><par n="висок__adj"/></e>
-    <e lm="воден"><par n="P__adj"/><i>воден</i><par n="висок__adj"/></e>
     <e lm="воен"><par n="P__adj"/><i>воен</i><par n="висок__adj"/></e>
     <e lm="возбуден"><par n="P__adj"/><i>возбуден</i><par n="висок__adj"/></e>
     <e lm="возбудлив"><par n="P__adj"/><i>возбудлив</i><par n="висок__adj"/></e>
@@ -5197,7 +5307,6 @@
     <e lm="гледан"><par n="P__adj"/><i>гледан</i><par n="висок__adj"/></e>
     <e lm="глупав"><par n="P__adj"/><i>глупав</i><par n="висок__adj"/></e>
     <e lm="гол"><par n="P__adj"/><i>гол</i><par n="висок__adj"/></e>
-    <e lm="голем"><par n="P__adj"/><i>голем</i><par n="висок__adj"/></e>
     <e lm="горд"><par n="P__adj"/><i>горд</i><par n="висок__adj"/></e>
     <e lm="гордиев"><par n="P__adj"/><i>гордиев</i><par n="висок__adj"/></e>
     <e lm="горенаведен"><par n="P__adj"/><i>горенаведен</i><par n="висок__adj"/></e>
@@ -5326,7 +5435,6 @@
     <e lm="зацртан"><par n="P__adj"/><i>зацртан</i><par n="висок__adj"/></e>
     <e lm="зачуван"><par n="P__adj"/><i>зачуван</i><par n="висок__adj"/></e>
     <e lm="зачуден"><par n="P__adj"/><i>зачуден</i><par n="висок__adj"/></e>
-    <e lm="заштитен"><par n="P__adj"/><i>заштитен</i><par n="висок__adj"/></e>
     <e lm="заљубен"><par n="P__adj"/><i>заљубен</i><par n="висок__adj"/></e>
     <e lm="збогатен"><par n="P__adj"/><i>збогатен</i><par n="висок__adj"/></e>
     <e lm="збратимен"><par n="P__adj"/><i>збратимен</i><par n="висок__adj"/></e>
@@ -5354,7 +5462,7 @@
     <e lm="избркан"><par n="P__adj"/><i>избркан</i><par n="висок__adj"/></e>
     <e lm="изваден"><par n="P__adj"/><i>изваден</i><par n="висок__adj"/></e>
     <e lm="изведен"><par n="P__adj"/><i>изведен</i><par n="висок__adj"/></e>
-    <e lm="известен"><par n="P__adj"/><i>известен</i><par n="висок__adj"/></e>
+    <e lm="известен"><par n="P__adj"/><i>извес</i><par n="мес/тен__adj"/></e>
     <e lm="извлечен"><par n="P__adj"/><i>извлечен</i><par n="висок__adj"/></e>
     <e lm="извршен"><par n="P__adj"/><i>извршен</i><par n="висок__adj"/></e>
     <e lm="изгласан"><par n="P__adj"/><i>изгласан</i><par n="висок__adj"/></e>
@@ -5438,6 +5546,7 @@
     <e lm="казнет"><par n="P__adj"/><i>казнет</i><par n="висок__adj"/></e>
     <e lm="казнуван"><par n="P__adj"/><i>казнуван</i><par n="висок__adj"/></e>
     <e lm="камен"><par n="P__adj"/><i>камен</i><par n="висок__adj"/></e>
+    <e lm="каменен"><par n="P__adj"/><i>камен</i><par n="камен/ен__adj"/></e>
     <e lm="кандидиран"><par n="P__adj"/><i>кандидиран</i><par n="висок__adj"/></e>
     <e lm="канцероген"><par n="P__adj"/><i>канцероген</i><par n="висок__adj"/></e>
     <e lm="качен"><par n="P__adj"/><i>качен</i><par n="висок__adj"/></e>
@@ -5459,7 +5568,7 @@
     <e lm="концентриран"><par n="P__adj"/><i>концентриран</i><par n="висок__adj"/></e>
     <e lm="координиран"><par n="P__adj"/><i>координиран</i><par n="висок__adj"/></e>
     <e lm="копнен"><par n="P__adj"/><i>копнен</i><par n="висок__adj"/></e>
-    <e lm="користен"><par n="P__adj"/><i>користен</i><par n="висок__adj"/></e>
+    <e lm="користен"><par n="P__adj"/><i>корис</i><par n="мес/тен__adj"/></e>
     <e lm="корумпиран"><par n="P__adj"/><i>корумпиран</i><par n="висок__adj"/></e>
     <e lm="крвав"><par n="P__adj"/><i>крвав</i><par n="висок__adj"/></e>
     <e lm="кревок"><par n="P__adj"/><i>кревок</i><par n="висок__adj"/></e>
@@ -5492,7 +5601,8 @@
     <e lm="маѓепсан"><par n="P__adj"/><i>маѓепсан</i><par n="висок__adj"/></e>
     <e lm="меден"><par n="P__adj"/><i>меден</i><par n="висок__adj"/></e>
     <e lm="мек"><par n="P__adj"/><i>мек</i><par n="висок__adj"/></e>
-    <e lm="мерен"><par n="P__adj"/><i>мерен</i><par n="висок__adj"/></e>
+    <e lm="мерен"><par n="P__adj"/><i>мерен</i><par n="инвентив/ен__adj"/></e>
+    <e lm="местен"><par n="P__adj"/><i>мес</i><par n="мес/тен__adj"/></e>
     <e lm="мешан"><par n="P__adj"/><i>мешан</i><par n="висок__adj"/></e>
     <e lm="мешовит"><par n="P__adj"/><i>мешовит</i><par n="висок__adj"/></e>
     <e lm="минат"><par n="P__adj"/><i>минат</i><par n="висок__adj"/></e>
@@ -5587,7 +5697,6 @@
     <e lm="несакан"><par n="P__adj"/><i>несакан</i><par n="висок__adj"/></e>
     <e lm="несуден"><par n="P__adj"/><i>несуден</i><par n="висок__adj"/></e>
     <e lm="нехуман"><par n="P__adj"/><i>нехуман</i><par n="висок__adj"/></e>
-    <e lm="нов"><par n="P__adj"/><i>нов</i><par n="висок__adj"/></e>
     <e lm="нововлезен"><par n="P__adj"/><i>нововлезен</i><par n="висок__adj"/></e>
     <e lm="новоизбран"><par n="P__adj"/><i>новоизбран</i><par n="висок__adj"/></e>
     <e lm="новоизграден"><par n="P__adj"/><i>новоизграден</i><par n="висок__adj"/></e>
@@ -5722,7 +5831,7 @@
     <e lm="повреден"><par n="P__adj"/><i>повреден</i><par n="висок__adj"/></e>
     <e lm="повремен"><par n="P__adj"/><i>повремен</i><par n="висок__adj"/></e>
     <e lm="поврзан"><par n="P__adj"/><i>поврзан</i><par n="висок__adj"/></e>
-    <e lm="повторен"><par n="P__adj"/><i>повторен</i><par n="висок__adj"/></e>
+    <e lm="повторен"><par n="P__adj"/><i>повторен</i><par n="инвентив/ен__adj"/></e>
     <e lm="погоден"><par n="P__adj"/><i>погоден</i><par n="висок__adj"/></e>
     <e lm="погребан"><par n="P__adj"/><i>погребан</i><par n="висок__adj"/></e>
     <e lm="погубен"><par n="P__adj"/><i>погубен</i><par n="висок__adj"/></e>
@@ -5879,7 +5988,7 @@
     <e lm="прочитан"><par n="P__adj"/><i>прочитан</i><par n="висок__adj"/></e>
     <e lm="прочуен"><par n="P__adj"/><i>прочуен</i><par n="висок__adj"/></e>
     <e lm="проширен"><par n="P__adj"/><i>проширен</i><par n="висок__adj"/></e>
-    <e lm="птичји"><par n="P__adj"/><i>птичји</i><par n="висок__adj"/></e>
+    <e lm="птичји"><par n="P__adj"/><i>птичј</i><par n="летачк/и__adj"/></e>
     <e lm="публикуван"><par n="P__adj"/><i>публикуван</i><par n="висок__adj"/></e>
     <e lm="пулен"><par n="P__adj"/><i>пулен</i><par n="висок__adj"/></e>
     <e lm="пуст"><par n="P__adj"/><i>пуст</i><par n="висок__adj"/></e>
@@ -5926,7 +6035,7 @@
     <e lm="реномиран"><par n="P__adj"/><i>реномиран</i><par n="висок__adj"/></e>
     <e lm="реформиран"><par n="P__adj"/><i>реформиран</i><par n="висок__adj"/></e>
     <e lm="решен"><par n="P__adj"/><i>решен</i><par n="висок__adj"/></e>
-    <e lm="роден"><par n="P__adj"/><i>роден</i><par n="висок__adj"/></e>
+    <e lm="роден"><par n="P__adj"/><i>роден</i><par n="висок__adj"/></e> <!--род инвентив/ен-->
     <e lm="роденден"><par n="P__adj"/><i>роденден</i><par n="висок__adj"/></e>
     <e lm="руиниран"><par n="P__adj"/><i>руиниран</i><par n="висок__adj"/></e>
     <e lm="сакан"><par n="P__adj"/><i>сакан</i><par n="висок__adj"/></e>
@@ -6016,7 +6125,7 @@
     <e lm="суспендиран"><par n="P__adj"/><i>суспендиран</i><par n="висок__adj"/></e>
     <e lm="суштествен"><par n="P__adj"/><i>суштествен</i><par n="висок__adj"/></e>
     <e lm="сфатен"><par n="P__adj"/><i>сфатен</i><par n="висок__adj"/></e>
-    <e lm="тажен"><par n="P__adj"/><i>тажен</i><par n="висок__adj"/></e>
+    <e lm="тажен"><par n="P__adj"/><i>таж</i><par n="инвентив/ен__adj"/></e>
     <e lm="таинствен"><par n="P__adj"/><i>таинствен</i><par n="висок__adj"/></e>
     <e lm="таканаречен"><par n="P__adj"/><i>таканаречен</i><par n="висок__adj"/></e>
     <e lm="талентиран"><par n="P__adj"/><i>талентиран</i><par n="висок__adj"/></e>
@@ -6026,7 +6135,7 @@
     <e lm="тепан"><par n="P__adj"/><i>тепан</i><par n="висок__adj"/></e>
     <e lm="тестиран"><par n="P__adj"/><i>тестиран</i><par n="висок__adj"/></e>
     <e lm="тешкоповреден"><par n="P__adj"/><i>тешкоповреден</i><par n="висок__adj"/></e>
-    <e lm="тивок"><par n="P__adj"/><i>тивок</i><par n="висок__adj"/></e>
+    <e lm="тивок"><par n="P__adj"/><i>тив</i><par n="крев/ок__adj"/></e>
     <e lm="титов"><par n="P__adj"/><i>титов</i><par n="висок__adj"/></e>
     <e lm="тих"><par n="P__adj"/><i>тих</i><par n="висок__adj"/></e>
     <e lm="топол"><par n="P__adj"/><i>топол</i><par n="висок__adj"/></e>
@@ -6438,8 +6547,8 @@
     <e lm="неготински"><par n="P__adj"/><i>неготинск</i><par n="летачк/и__adj"/></e>
     <e lm="незаконски"><par n="P__adj"/><i>незаконск</i><par n="летачк/и__adj"/></e>
     <e lm="нигериски"><par n="P__adj"/><i>нигериск</i><par n="летачк/и__adj"/></e>
-    <e lm="низок"><par n="P__adj"/><i>низок</i><par n="летачк/и__adj"/></e>
-    <e lm="низок"><par n="P__adj"/><i>низок</i><par n="летачк/и__adj"/></e>
+    <e lm="низок"><par n="P__adj"/><i>ни</i><par n="ни/зок__adj"/></e>
+    <e lm="близок"><par n="P__adj"/><i>бли</i><par n="ни/зок__adj"/></e>
     <e lm="нилски"><par n="P__adj"/><i>нилск</i><par n="летачк/и__adj"/></e>
     <e lm="нишки"><par n="P__adj"/><i>нишк</i><par n="летачк/и__adj"/></e>
     <e lm="новинарски"><par n="P__adj"/><i>новинарск</i><par n="летачк/и__adj"/></e>
@@ -6706,12 +6815,166 @@
     <e lm="њујоршки"><par n="P__adj"/><i>њујоршк</i><par n="летачк/и__adj"/></e>
     <e lm="џиновски"><par n="P__adj"/><i>џиновск</i><par n="летачк/и__adj"/></e>
 <!--   <e lm="градоначалнички"><par n="P__adj"/><i>градоначалничк</i><par n="летачк/и__adj"/></e> --><!-- tagger -->
+<e lm="аврамски"><par n="P__adj"/><i>аврамск</i><par n="летачк/и__adj"/></e>
+<e lm="адвокатски"><par n="P__adj"/><i>адвокатск</i><par n="летачк/и__adj"/></e>
+<e lm="азорски"><par n="P__adj"/><i>азорск</i><par n="летачк/и__adj"/></e>
+<e lm="аландски"><par n="P__adj"/><i>аландск</i><par n="летачк/и__adj"/></e>
+<e lm="александровски"><par n="P__adj"/><i>александровск</i><par n="летачк/и__adj"/></e>
+<e lm="алексовски"><par n="P__adj"/><i>алексовск</i><par n="летачк/и__adj"/></e>
+<e lm="анадолски"><par n="P__adj"/><i>анадолск</i><par n="летачк/и__adj"/></e>
+<e lm="анатолски"><par n="P__adj"/><i>анатолск</i><par n="летачк/и__adj"/></e>
+<e lm="англикански"><par n="P__adj"/><i>англиканск</i><par n="летачк/и__adj"/></e>
+<e lm="анти"><par n="P__adj"/><i>анти</i><par n="фер__adj"/></e>
+<e lm="антиалбански"><par n="P__adj"/><i>антиалбанск</i><par n="летачк/и__adj"/></e>
+<e lm="антиамерикански"><par n="P__adj"/><i>антиамериканск</i><par n="летачк/и__adj"/></e>
+<e lm="антиестонски"><par n="P__adj"/><i>антиестонск</i><par n="летачк/и__adj"/></e>
+<e lm="антиизраелски"><par n="P__adj"/><i>антиизраелск</i><par n="летачк/и__adj"/></e>
+<e lm="антиимигрантски"><par n="P__adj"/><i>антиимигрантск</i><par n="летачк/и__adj"/></e>
+<e lm="антитурски"><par n="P__adj"/><i>антитурск</i><par n="летачк/и__adj"/></e>
+<e lm="антоновски"><par n="P__adj"/><i>антоновск</i><par n="летачк/и__adj"/></e>
+<e lm="арамејски"><par n="P__adj"/><i>арамејск</i><par n="летачк/и__adj"/></e>
+<e lm="бабунски"><par n="P__adj"/><i>бабунск</i><par n="летачк/и__adj"/></e>
+<e lm="банатски"><par n="P__adj"/><i>банатск</i><par n="летачк/и__adj"/></e>
+<e lm="барселонски"><par n="P__adj"/><i>барселонск</i><par n="летачк/и__adj"/></e>
+<e lm="березовски"><par n="P__adj"/><i>березовск</i><par n="летачк/и__adj"/></e>
+<e lm="бернски"><par n="P__adj"/><i>бернск</i><par n="летачк/и__adj"/></e>
+<e lm="библиографски"><par n="P__adj"/><i>библиографск</i><par n="летачк/и__adj"/></e>
+<e lm="биометрички"><par n="P__adj"/><i>биометричк</i><par n="летачк/и__adj"/></e>
+<e lm="бостонски"><par n="P__adj"/><i>бостонск</i><par n="летачк/и__adj"/></e>
+<e lm="бошњачки"><par n="P__adj"/><i>бошњачк</i><par n="летачк/и__adj"/></e>
+<e lm="братски"><par n="P__adj"/><i>братск</i><par n="летачк/и__adj"/></e>
+<e lm="бродвејски"><par n="P__adj"/><i>бродвејск</i><par n="летачк/и__adj"/></e>
+<e lm="брокерски"><par n="P__adj"/><i>брокерск</i><par n="летачк/и__adj"/></e>
+<e lm="вавилонски"><par n="P__adj"/><i>вавилонск</i><par n="летачк/и__adj"/></e>
+<e lm="вакуфски"><par n="P__adj"/><i>вакуфск</i><par n="летачк/и__adj"/></e>
+<e lm="византински"><par n="P__adj"/><i>византинск</i><par n="летачк/и__adj"/></e>
+<e lm="винарски"><par n="P__adj"/><i>винарск</i><par n="летачк/и__adj"/></e>
+<e lm="вицепремиерски"><par n="P__adj"/><i>вицепремиерск</i><par n="летачк/и__adj"/></e>
+<e lm="вишеградски"><par n="P__adj"/><i>вишеградск</i><par n="летачк/и__adj"/></e>
+<e lm="гангстерски"><par n="P__adj"/><i>гангстерск</i><par n="летачк/и__adj"/></e>
+<e lm="генералски"><par n="P__adj"/><i>генералск</i><par n="летачк/и__adj"/></e>
+<e lm="голански"><par n="P__adj"/><i>голанск</i><par n="летачк/и__adj"/></e>
+<e lm="горски"><par n="P__adj"/><i>горск</i><par n="летачк/и__adj"/></e>
+<e lm="далматински"><par n="P__adj"/><i>далматинск</i><par n="летачк/и__adj"/></e>
+<e lm="дизајнерски"><par n="P__adj"/><i>дизајнерск</i><par n="летачк/и__adj"/></e>
+<e lm="диктаторски"><par n="P__adj"/><i>диктаторск</i><par n="летачк/и__adj"/></e>
+<e lm="доброволски"><par n="P__adj"/><i>доброволск</i><par n="летачк/и__adj"/></e>
+<e lm="добрососедски"><par n="P__adj"/><i>добрососедск</i><par n="летачк/и__adj"/></e>
+<e lm="дунавски"><par n="P__adj"/><i>дунавск</i><par n="летачк/и__adj"/></e>
+<e lm="евроазиски"><par n="P__adj"/><i>евроазиск</i><par n="летачк/и__adj"/></e>
+<e lm="еленовски"><par n="P__adj"/><i>еленовск</i><par n="летачк/и__adj"/></e>
+<e lm="етнографски"><par n="P__adj"/><i>етнографск</i><par n="летачк/и__adj"/></e>
+<e lm="западнобалкански"><par n="P__adj"/><i>западнобалканск</i><par n="летачк/и__adj"/></e>
+<e lm="затворенички"><par n="P__adj"/><i>затвореничк</i><par n="летачк/и__adj"/></e>
+<e lm="зетски"><par n="P__adj"/><i>зетск</i><par n="летачк/и__adj"/></e>
+<e lm="измирски"><par n="P__adj"/><i>измирск</i><par n="летачк/и__adj"/></e>
+<e lm="имигрантски"><par n="P__adj"/><i>имигрантск</i><par n="летачк/и__adj"/></e>
+<e lm="имиграциски"><par n="P__adj"/><i>имиграциск</i><par n="летачк/и__adj"/></e>
+<e lm="имотски"><par n="P__adj"/><i>имотск</i><par n="летачк/и__adj"/></e>
+<e lm="императорски"><par n="P__adj"/><i>императорск</i><par n="летачк/и__adj"/></e>
+<e lm="инвеститорски"><par n="P__adj"/><i>инвеститорск</i><par n="летачк/и__adj"/></e>
+<e lm="индијски"><par n="P__adj"/><i>индијск</i><par n="летачк/и__adj"/></e>
+<e lm="казакстански"><par n="P__adj"/><i>казакстанск</i><par n="летачк/и__adj"/></e>
+<e lm="казахстански"><par n="P__adj"/><i>казахстанск</i><par n="летачк/и__adj"/></e>
+<e lm="канарски"><par n="P__adj"/><i>канарск</i><par n="летачк/и__adj"/></e>
+<e lm="карибски"><par n="P__adj"/><i>карибск</i><par n="летачк/и__adj"/></e>
+<e lm="козарски"><par n="P__adj"/><i>козарск</i><par n="летачк/и__adj"/></e>
+<e lm="комитски"><par n="P__adj"/><i>комитск</i><par n="летачк/и__adj"/></e>
+<e lm="конгоански"><par n="P__adj"/><i>конгоанск</i><par n="летачк/и__adj"/></e>
+<e lm="консултантски"><par n="P__adj"/><i>консултантск</i><par n="летачк/и__adj"/></e>
+<e lm="коринтски"><par n="P__adj"/><i>коринтск</i><par n="летачк/и__adj"/></e>
+<e lm="кочовски"><par n="P__adj"/><i>кочовск</i><par n="летачк/и__adj"/></e>
+<e lm="криптографски"><par n="P__adj"/><i>криптографск</i><par n="летачк/и__adj"/></e>
+<e lm="критски"><par n="P__adj"/><i>критск</i><par n="летачк/и__adj"/></e>
+<e lm="курдистански"><par n="P__adj"/><i>курдистанск</i><par n="летачк/и__adj"/></e>
+<e lm="латиноамерикански"><par n="P__adj"/><i>латиноамериканск</i><par n="летачк/и__adj"/></e>
+<e lm="лисабонски"><par n="P__adj"/><i>лисабонск</i><par n="летачк/и__adj"/></e>
+<e lm="лихтенштански"><par n="P__adj"/><i>лихтенштанск</i><par n="летачк/и__adj"/></e>
+<e lm="магистерски"><par n="P__adj"/><i>магистерск</i><par n="летачк/и__adj"/></e>
+<e lm="микенски"><par n="P__adj"/><i>микенск</i><par n="летачк/и__adj"/></e>
+<e lm="минејски"><par n="P__adj"/><i>минејск</i><par n="летачк/и__adj"/></e>
+<e lm="монголски"><par n="P__adj"/><i>монголск</i><par n="летачк/и__adj"/></e>
+<e lm="неалбански"><par n="P__adj"/><i>неалбанск</i><par n="летачк/и__adj"/></e>
+<e lm="неарапски"><par n="P__adj"/><i>неарапск</i><par n="летачк/и__adj"/></e>
+<e lm="неафрикански"><par n="P__adj"/><i>неафриканск</i><par n="летачк/и__adj"/></e>
+<e lm="неисламски"><par n="P__adj"/><i>неисламск</i><par n="летачк/и__adj"/></e>
+<e lm="немуслимански"><par n="P__adj"/><i>немуслиманск</i><par n="летачк/и__adj"/></e>
+<e lm="неруски"><par n="P__adj"/><i>неруск</i><par n="летачк/и__adj"/></e>
+<e lm="нетурски"><par n="P__adj"/><i>нетурск</i><par n="летачк/и__adj"/></e>
+<e lm="новински"><par n="P__adj"/><i>новинск</i><par n="летачк/и__adj"/></e>
+<e lm="номадски"><par n="P__adj"/><i>номадск</i><par n="летачк/и__adj"/></e>
+<e lm="океанографски"><par n="P__adj"/><i>океанографск</i><par n="летачк/и__adj"/></e>
+<e lm="океански"><par n="P__adj"/><i>океанск</i><par n="летачк/и__adj"/></e>
+<e lm="операторски"><par n="P__adj"/><i>операторск</i><par n="летачк/и__adj"/></e>
+<e lm="осоговски"><par n="P__adj"/><i>осоговск</i><par n="летачк/и__adj"/></e>
+<e lm="отомански"><par n="P__adj"/><i>отоманск</i><par n="летачк/и__adj"/></e>
+<e lm="панамски"><par n="P__adj"/><i>панамск</i><par n="летачк/и__adj"/></e>
+<e lm="панарапски"><par n="P__adj"/><i>панарапск</i><par n="летачк/и__adj"/></e>
+<e lm="панкипарски"><par n="P__adj"/><i>панкипарск</i><par n="летачк/и__adj"/></e>
+<e lm="параолимписки"><par n="P__adj"/><i>параолимписк</i><par n="летачк/и__adj"/></e>
+<e lm="пелопонески"><par n="P__adj"/><i>пелопонеск</i><par n="летачк/и__adj"/></e>
+<e lm="печатарски"><par n="P__adj"/><i>печатарск</i><par n="летачк/и__adj"/></e>
+<e lm="пилотски"><par n="P__adj"/><i>пилотск</i><par n="летачк/и__adj"/></e>
+<e lm="пиратски"><par n="P__adj"/><i>пиратск</i><par n="летачк/и__adj"/></e>
+<e lm="подгорски"><par n="P__adj"/><i>подгорск</i><par n="летачк/и__adj"/></e>
+<e lm="пожарникарски"><par n="P__adj"/><i>пожарникарск</i><par n="летачк/и__adj"/></e>
+<e lm="порнографски"><par n="P__adj"/><i>порнографск</i><par n="летачк/и__adj"/></e>
+<e lm="постсоцијалистички"><par n="P__adj"/><i>постсоцијалистичк</i><par n="летачк/и__adj"/></e>
+<e lm="предримски"><par n="P__adj"/><i>предримск</i><par n="летачк/и__adj"/></e>
+<e lm="претприемнички"><par n="P__adj"/><i>претприемничк</i><par n="летачк/и__adj"/></e>
+<e lm="проамерикански"><par n="P__adj"/><i>проамериканск</i><par n="летачк/и__adj"/></e>
+<e lm="продуцентски"><par n="P__adj"/><i>продуцентск</i><par n="летачк/и__adj"/></e>
+<e lm="происламски"><par n="P__adj"/><i>происламск</i><par n="летачк/и__adj"/></e>
+<e lm="прокурдски"><par n="P__adj"/><i>прокурдск</i><par n="летачк/и__adj"/></e>
+<e lm="промакедонски"><par n="P__adj"/><i>промакедонск</i><par n="летачк/и__adj"/></e>
+<e lm="радиографски"><par n="P__adj"/><i>радиографск</i><par n="летачк/и__adj"/></e>
+<e lm="разделувачки"><par n="P__adj"/><i>разделувачк</i><par n="летачк/и__adj"/></e>
+<e lm="рамадански"><par n="P__adj"/><i>рамаданск</i><par n="летачк/и__adj"/></e>
+<e lm="ранохристијански"><par n="P__adj"/><i>ранохристијанск</i><par n="летачк/и__adj"/></e>
+<e lm="резовски"><par n="P__adj"/><i>резовск</i><par n="летачк/и__adj"/></e>
+<e lm="рибарски"><par n="P__adj"/><i>рибарск</i><par n="летачк/и__adj"/></e>
+<e lm="рилски"><par n="P__adj"/><i>рилск</i><par n="летачк/и__adj"/></e>
+<e lm="ротирачки"><par n="P__adj"/><i>ротирачк</i><par n="летачк/и__adj"/></e>
+<e lm="саксонски"><par n="P__adj"/><i>саксонск</i><par n="летачк/и__adj"/></e>
+<e lm="самурајски"><par n="P__adj"/><i>самурајск</i><par n="летачк/и__adj"/></e>
+<e lm="свештенички"><par n="P__adj"/><i>свештеничк</i><par n="летачк/и__adj"/></e>
+<e lm="свински"><par n="P__adj"/><i>свинск</i><par n="летачк/и__adj"/></e>
+<e lm="северноанадолски"><par n="P__adj"/><i>северноанадолск</i><par n="летачк/и__adj"/></e>
+<e lm="сенатски"><par n="P__adj"/><i>сенатск</i><par n="летачк/и__adj"/></e>
+<e lm="сингапурски"><par n="P__adj"/><i>сингапурск</i><par n="летачк/и__adj"/></e>
+<e lm="сиријски"><par n="P__adj"/><i>сиријск</i><par n="летачк/и__adj"/></e>
+<e lm="скандинавски"><par n="P__adj"/><i>скандинавск</i><par n="летачк/и__adj"/></e>
+<e lm="слаткарски"><par n="P__adj"/><i>слаткарск</i><par n="летачк/и__adj"/></e>
+<e lm="спонзорски"><par n="P__adj"/><i>спонзорск</i><par n="летачк/и__adj"/></e>
+<e lm="старословенски"><par n="P__adj"/><i>старословенск</i><par n="летачк/и__adj"/></e>
+<e lm="суперминистерски"><par n="P__adj"/><i>суперминистерск</i><par n="летачк/и__adj"/></e>
+<e lm="телемедицински"><par n="P__adj"/><i>телемедицинск</i><par n="летачк/и__adj"/></e>
+<e lm="тибетски"><par n="P__adj"/><i>тибетск</i><par n="летачк/и__adj"/></e>
+<e lm="топографски"><par n="P__adj"/><i>топографск</i><par n="летачк/и__adj"/></e>
+<e lm="тракијски"><par n="P__adj"/><i>тракијск</i><par n="летачк/и__adj"/></e>
+<e lm="трансилвански"><par n="P__adj"/><i>трансилванск</i><par n="летачк/и__adj"/></e>
+<e lm="ултранационалистички"><par n="P__adj"/><i>ултранационалистичк</i><par n="летачк/и__adj"/></e>
+<e lm="фотографски"><par n="P__adj"/><i>фотографск</i><par n="летачк/и__adj"/></e>
+<e lm="франкофонски"><par n="P__adj"/><i>франкофонск</i><par n="летачк/и__adj"/></e>
+<e lm="францискански"><par n="P__adj"/><i>францисканск</i><par n="летачк/и__adj"/></e>
+<e lm="хасковски"><par n="P__adj"/><i>хасковск</i><par n="летачк/и__adj"/></e>
+<e lm="херцеговински"><par n="P__adj"/><i>херцеговинск</i><par n="летачк/и__adj"/></e>
+<e lm="хилендарски"><par n="P__adj"/><i>хилендарск</i><par n="летачк/и__adj"/></e>
+<e lm="хититски"><par n="P__adj"/><i>хититск</i><par n="летачк/и__adj"/></e>
+<e lm="холографски"><par n="P__adj"/><i>холографск</i><par n="летачк/и__adj"/></e>
+<e lm="хулигански"><par n="P__adj"/><i>хулиганск</i><par n="летачк/и__adj"/></e>
+<e lm="цигански"><par n="P__adj"/><i>циганск</i><par n="летачк/и__adj"/></e>
+<e lm="шпионски"><par n="P__adj"/><i>шпионск</i><par n="летачк/и__adj"/></e>
 
     <e lm="добар"><par n="P__adj"/><i>доб</i><par n="доб/ар__adj"/></e>		<!-- good -->
     <e lm="кутар"><par n="P__adj"/><i>кут</i><par n="доб/ар__adj"/></e>
     <e lm="мудар"><par n="P__adj"/><i>муд</i><par n="доб/ар__adj"/></e>
     <e lm="остар"><par n="P__adj"/><i>ост</i><par n="доб/ар__adj"/></e>
     <e lm="храбар"><par n="P__adj"/><i>храб</i><par n="доб/ар__adj"/></e>
+
+    <e lm="инвестиционен"><par n="P__adj"/><i>инвестицион</i><par n="камен/ен__adj"/></e>
+    <e lm="опозиционен"><par n="P__adj"/><i>опозицион</i><par n="камен/ен__adj"/></e>
+
 
     <e lm="автентичен"><par n="P__adj"/><i>автентич</i><par n="инвентив/ен__adj"/></e>
     <e lm="автокефален"><par n="P__adj"/><i>автокефал</i><par n="инвентив/ен__adj"/></e>
@@ -6769,7 +7032,7 @@
     <e lm="влезен"><par n="P__adj"/><i>влез</i><par n="инвентив/ен__adj"/></e>
     <e lm="внатрешен"><par n="P__adj"/><i>внатреш</i><par n="инвентив/ен__adj"/></e>
     <e lm="воведен"><par n="P__adj"/><i>вовед</i><par n="инвентив/ен__adj"/></e>
-    <e lm="воден"><par n="P__adj"/><i>вод</i><par n="инвентив/ен__adj"/></e>
+    <e lm="воден"><par n="P__adj"/><i>вод</i><par n="инвентив/ен__adj"/></e> <!-- воден висок -->
     <e lm="водоводен"><par n="P__adj"/><i>водовод</i><par n="инвентив/ен__adj"/></e>
     <e lm="возвратен"><par n="P__adj"/><i>возврат</i><par n="инвентив/ен__adj"/></e>
     <e lm="воздухопловен"><par n="P__adj"/><i>воздухоплов</i><par n="инвентив/ен__adj"/></e>
@@ -6783,8 +7046,6 @@
     <e lm="вреден"><par n="P__adj"/><i>вред</i><par n="инвентив/ен__adj"/></e>
     <e lm="вредносен"><par n="P__adj"/><i>вреднос</i><par n="инвентив/ен__adj"/></e>
     <e lm="врховен"><par n="P__adj"/><i>врхов</i><par n="инвентив/ен__adj"/></e>
-    <e lm="врховен"><par n="P__adj"/><i>врхов</i><par n="инвентив/ен__adj"/></e>
-    <e lm="вчерашен"><par n="P__adj"/><i>вчераш</i><par n="инвентив/ен__adj"/></e>
     <e lm="вчерашен"><par n="P__adj"/><i>вчераш</i><par n="инвентив/ен__adj"/></e>
     <e lm="гарантен"><par n="P__adj"/><i>гарант</i><par n="инвентив/ен__adj"/></e>
     <e lm="гасоводен"><par n="P__adj"/><i>гасовод</i><par n="инвентив/ен__adj"/></e>
@@ -6796,7 +7057,6 @@
     <e lm="глобален"><par n="P__adj"/><i>глобал</i><par n="инвентив/ен__adj"/></e>
     <e lm="годинашен"><par n="P__adj"/><i>годинаш</i><par n="инвентив/ен__adj"/></e>
     <e lm="годинешен"><par n="P__adj"/><i>годинеш</i><par n="инвентив/ен__adj"/></e>
-    <e lm="годишен"><par n="P__adj"/><i>годиш</i><par n="инвентив/ен__adj"/></e>
     <e lm="годишен"><par n="P__adj"/><i>годиш</i><par n="инвентив/ен__adj"/></e>
     <e lm="горен"><par n="P__adj"/><i>гор</i><par n="инвентив/ен__adj"/></e>
     <e lm="градежен"><par n="P__adj"/><i>градеж</i><par n="инвентив/ен__adj"/></e>
@@ -6847,10 +7107,8 @@
     <e lm="долготраен"><par n="P__adj"/><i>долготра</i><par n="кра/ен__adj"/></e>
     <e lm="долен"><par n="P__adj"/><i>дол</i><par n="инвентив/ен__adj"/></e>
     <e lm="домашен"><par n="P__adj"/><i>домаш</i><par n="инвентив/ен__adj"/></e>
-    <e lm="домашен"><par n="P__adj"/><i>домаш</i><par n="инвентив/ен__adj"/></e>
     <e lm="доминантен"><par n="P__adj"/><i>доминант</i><par n="инвентив/ен__adj"/></e>
     <e lm="дополнителен"><par n="P__adj"/><i>дополнител</i><par n="инвентив/ен__adj"/></e>
-    <e lm="досегашен"><par n="P__adj"/><i>досегаш</i><par n="инвентив/ен__adj"/></e>
     <e lm="досегашен"><par n="P__adj"/><i>досегаш</i><par n="инвентив/ен__adj"/></e>
     <e lm="доскорашен"><par n="P__adj"/><i>доскораш</i><par n="инвентив/ен__adj"/></e>
     <e lm="доскорешен"><par n="P__adj"/><i>доскореш</i><par n="инвентив/ен__adj"/></e>
@@ -6864,7 +7122,6 @@
     <e lm="духовен"><par n="P__adj"/><i>духов</i><par n="инвентив/ен__adj"/></e>
     <e lm="евентуален"><par n="P__adj"/><i>евентуал</i><par n="инвентив/ен__adj"/></e>
     <e lm="евидентен"><par n="P__adj"/><i>евидент</i><par n="инвентив/ен__adj"/></e>
-    <e lm="единствен"><par n="P__adj"/><i>единств</i><par n="инвентив/ен__adj"/></e>
     <e lm="едногодишен"><par n="P__adj"/><i>едногодиш</i><par n="инвентив/ен__adj"/></e>
     <e lm="еднодневен"><par n="P__adj"/><i>едноднев</i><par n="инвентив/ен__adj"/></e>
     <e lm="едномесечен"><par n="P__adj"/><i>едномесеч</i><par n="инвентив/ен__adj"/></e>
@@ -6891,13 +7148,11 @@
     <e lm="животен"><par n="P__adj"/><i>живот</i><par n="инвентив/ен__adj"/></e>
     <e lm="забавен"><par n="P__adj"/><i>забав</i><par n="инвентив/ен__adj"/></e>
     <e lm="забен"><par n="P__adj"/><i>заб</i><par n="инвентив/ен__adj"/></e>
-    <e lm="завршен"><par n="P__adj"/><i>заврш</i><par n="инвентив/ен__adj"/></e>
     <e lm="завчерашен"><par n="P__adj"/><i>завчераш</i><par n="инвентив/ен__adj"/></e>
     <e lm="заден"><par n="P__adj"/><i>зад</i><par n="инвентив/ен__adj"/></e>
     <e lm="задоволен"><par n="P__adj"/><i>задовол</i><par n="инвентив/ен__adj"/></e>
     <e lm="задолжителен"><par n="P__adj"/><i>задолжител</i><par n="инвентив/ен__adj"/></e>
     <e lm="законодавен"><par n="P__adj"/><i>законодав</i><par n="инвентив/ен__adj"/></e>
-    <e lm="западен"><par n="P__adj"/><i>запад</i><par n="инвентив/ен__adj"/></e>
     <e lm="западен"><par n="P__adj"/><i>запад</i><par n="инвентив/ен__adj"/></e>
     <e lm="заслужен"><par n="P__adj"/><i>заслуж</i><par n="инвентив/ен__adj"/></e>
     <e lm="заштитен"><par n="P__adj"/><i>заштит</i><par n="инвентив/ен__adj"/></e>
@@ -6908,14 +7163,11 @@
     <e lm="идеален"><par n="P__adj"/><i>идеал</i><par n="инвентив/ен__adj"/></e>
     <e lm="идеен"><par n="P__adj"/><i>иде</i><par n="кра/ен__adj"/></e>
     <e lm="иден"><par n="P__adj"/><i>ид</i><par n="инвентив/ен__adj"/></e>
-    <e lm="иден"><par n="P__adj"/><i>ид</i><par n="инвентив/ен__adj"/></e>
-    <e lm="изборен"><par n="P__adj"/><i>избор</i><par n="инвентив/ен__adj"/></e>
     <e lm="изборен"><par n="P__adj"/><i>избор</i><par n="инвентив/ен__adj"/></e>
     <e lm="извесен"><par n="P__adj"/><i>извес</i><par n="инвентив/ен__adj"/></e>
     <e lm="извозен"><par n="P__adj"/><i>извоз</i><par n="инвентив/ен__adj"/></e>
     <e lm="извонреден"><par n="P__adj"/><i>извонред</i><par n="инвентив/ен__adj"/></e>
     <e lm="изворен"><par n="P__adj"/><i>извор</i><par n="инвентив/ен__adj"/></e>
-    <e lm="извршен"><par n="P__adj"/><i>изврш</i><par n="инвентив/ен__adj"/></e>
     <e lm="илегален"><par n="P__adj"/><i>илегал</i><par n="инвентив/ен__adj"/></e>
     <e lm="имотен"><par n="P__adj"/><i>имот</i><par n="инвентив/ен__adj"/></e>
     <e lm="импозантен"><par n="P__adj"/><i>импозант</i><par n="инвентив/ен__adj"/></e>
@@ -6961,7 +7213,6 @@
     <e lm="компромисен"><par n="P__adj"/><i>компромис</i><par n="инвентив/ен__adj"/></e>
     <e lm="комунален"><par n="P__adj"/><i>комунал</i><par n="инвентив/ен__adj"/></e>
     <e lm="конгресен"><par n="P__adj"/><i>конгрес</i><par n="инвентив/ен__adj"/></e>
-    <e lm="конечен"><par n="P__adj"/><i>конеч</i><par n="инвентив/ен__adj"/></e>
     <e lm="конечен"><par n="P__adj"/><i>конеч</i><par n="инвентив/ен__adj"/></e>
     <e lm="конзервативен"><par n="P__adj"/><i>конзерватив</i><par n="инвентив/ен__adj"/></e>
     <e lm="конкретен"><par n="P__adj"/><i>конкрет</i><par n="инвентив/ен__adj"/></e>
@@ -7024,7 +7275,6 @@
     <e lm="месечен"><par n="P__adj"/><i>месеч</i><par n="инвентив/ен__adj"/></e>
     <e lm="метален"><par n="P__adj"/><i>метал</i><par n="инвентив/ен__adj"/></e>
     <e lm="меѓуграничен"><par n="P__adj"/><i>меѓугранич</i><par n="инвентив/ен__adj"/></e>
-    <e lm="меѓународен"><par n="P__adj"/><i>меѓународ</i><par n="инвентив/ен__adj"/></e>
     <e lm="меѓународен"><par n="P__adj"/><i>меѓународ</i><par n="инвентив/ен__adj"/></e>
     <e lm="меѓусебен"><par n="P__adj"/><i>меѓусеб</i><par n="инвентив/ен__adj"/></e>
     <e lm="милитантен"><par n="P__adj"/><i>милитант</i><par n="инвентив/ен__adj"/></e>
@@ -7135,7 +7385,6 @@
     <e lm="оригинален"><par n="P__adj"/><i>оригинал</i><par n="инвентив/ен__adj"/></e>
     <e lm="осигурителен"><par n="P__adj"/><i>осигурител</i><par n="инвентив/ен__adj"/></e>
     <e lm="основен"><par n="P__adj"/><i>основ</i><par n="инвентив/ен__adj"/></e>
-    <e lm="основен"><par n="P__adj"/><i>основ</i><par n="инвентив/ен__adj"/></e>
     <e lm="осумгодишен"><par n="P__adj"/><i>осумгодиш</i><par n="инвентив/ен__adj"/></e>
     <e lm="осумкратен"><par n="P__adj"/><i>осумкрат</i><par n="инвентив/ен__adj"/></e>
     <e lm="осумнаесетгодишен"><par n="P__adj"/><i>осумнаесетгодиш</i><par n="инвентив/ен__adj"/></e>
@@ -7164,7 +7413,6 @@
     <e lm="повеќегодишен"><par n="P__adj"/><i>повеќегодиш</i><par n="инвентив/ен__adj"/></e>
     <e lm="повеќекратен"><par n="P__adj"/><i>повеќекрат</i><par n="инвентив/ен__adj"/></e>
     <e lm="повратен"><par n="P__adj"/><i>поврат</i><par n="инвентив/ен__adj"/></e>
-    <e lm="повторен"><par n="P__adj"/><i>повтор</i><par n="инвентив/ен__adj"/></e>
     <e lm="пограничен"><par n="P__adj"/><i>погранич</i><par n="инвентив/ен__adj"/></e>
     <e lm="погрешен"><par n="P__adj"/><i>погреш</i><par n="инвентив/ен__adj"/></e>
     <e lm="подвижен"><par n="P__adj"/><i>подвиж</i><par n="инвентив/ен__adj"/></e>
@@ -7202,7 +7450,6 @@
     <e lm="почесен"><par n="P__adj"/><i>почес</i><par n="инвентив/ен__adj"/></e>
     <e lm="почетен"><par n="P__adj"/><i>почет</i><par n="инвентив/ен__adj"/></e>
     <e lm="правен"><par n="P__adj"/><i>прав</i><par n="инвентив/ен__adj"/></e>
-    <e lm="правен"><par n="P__adj"/><i>прав</i><par n="инвентив/ен__adj"/></e>
     <e lm="правилен"><par n="P__adj"/><i>правил</i><par n="инвентив/ен__adj"/></e>
     <e lm="православен"><par n="P__adj"/><i>православ</i><par n="инвентив/ен__adj"/></e>
     <e lm="правосуден"><par n="P__adj"/><i>правосуд</i><par n="инвентив/ен__adj"/></e>
@@ -7228,7 +7475,6 @@
     <e lm="претпладневен"><par n="P__adj"/><i>претпладнев</i><par n="инвентив/ен__adj"/></e>
     <e lm="претпоследен"><par n="P__adj"/><i>претпослед</i><par n="инвентив/ен__adj"/></e>
     <e lm="претстоен"><par n="P__adj"/><i>претсто</i><par n="кра/ен__adj"/></e>
-    <e lm="претходен"><par n="P__adj"/><i>претход</i><par n="инвентив/ен__adj"/></e>
     <e lm="претходен"><par n="P__adj"/><i>претход</i><par n="инвентив/ен__adj"/></e>
     <e lm="прецизен"><par n="P__adj"/><i>прециз</i><par n="инвентив/ен__adj"/></e>
     <e lm="приватен"><par n="P__adj"/><i>приват</i><par n="инвентив/ен__adj"/></e>
@@ -7287,7 +7533,6 @@
     <e lm="ресорен"><par n="P__adj"/><i>ресор</i><par n="инвентив/ен__adj"/></e>
     <e lm="респираторен"><par n="P__adj"/><i>респиратор</i><par n="инвентив/ен__adj"/></e>
     <e lm="рибен"><par n="P__adj"/><i>риб</i><par n="инвентив/ен__adj"/></e>
-    <e lm="роден"><par n="P__adj"/><i>род</i><par n="инвентив/ен__adj"/></e>
     <e lm="романтичен"><par n="P__adj"/><i>романтич</i><par n="инвентив/ен__adj"/></e>
     <e lm="рурален"><par n="P__adj"/><i>рурал</i><par n="инвентив/ен__adj"/></e>
     <e lm="саботен"><par n="P__adj"/><i>сабот</i><par n="инвентив/ен__adj"/></e>
@@ -7299,7 +7544,6 @@
     <e lm="североисточен"><par n="P__adj"/><i>североисточ</i><par n="инвентив/ен__adj"/></e>
     <e lm="севишен"><par n="P__adj"/><i>севиш</i><par n="инвентив/ен__adj"/></e>
     <e lm="севкупен"><par n="P__adj"/><i>севкуп</i><par n="инвентив/ен__adj"/></e>
-    <e lm="сегашен"><par n="P__adj"/><i>сегаш</i><par n="инвентив/ен__adj"/></e>
     <e lm="сегашен"><par n="P__adj"/><i>сегаш</i><par n="инвентив/ен__adj"/></e>
     <e lm="седумгодишен"><par n="P__adj"/><i>седумгодиш</i><par n="инвентив/ен__adj"/></e>
     <e lm="седумкратен"><par n="P__adj"/><i>седумкрат</i><par n="инвентив/ен__adj"/></e>
@@ -7402,7 +7646,6 @@
     <e lm="уникатен"><par n="P__adj"/><i>уникат</i><par n="инвентив/ен__adj"/></e>
     <e lm="унитарен"><par n="P__adj"/><i>унитар</i><par n="инвентив/ен__adj"/></e>
     <e lm="управен"><par n="P__adj"/><i>управ</i><par n="инвентив/ен__adj"/></e>
-    <e lm="управнен"><par n="P__adj"/><i>управн</i><par n="инвентив/ен__adj"/></e>
     <e lm="ургентен"><par n="P__adj"/><i>ургент</i><par n="инвентив/ен__adj"/></e>
     <e lm="уринарен"><par n="P__adj"/><i>уринар</i><par n="инвентив/ен__adj"/></e>
     <e lm="услужен"><par n="P__adj"/><i>услуж</i><par n="инвентив/ен__adj"/></e>
@@ -7429,7 +7672,6 @@
     <e lm="целосен"><par n="P__adj"/><i>целос</i><par n="инвентив/ен__adj"/></e>
     <e lm="ценовен"><par n="P__adj"/><i>ценов</i><par n="инвентив/ен__adj"/></e>
     <e lm="централен"><par n="P__adj"/><i>централ</i><par n="инвентив/ен__adj"/></e>
-    <e lm="централен"><par n="P__adj"/><i>централ</i><par n="инвентив/ен__adj"/></e>
     <e lm="цивилен"><par n="P__adj"/><i>цивил</i><par n="инвентив/ен__adj"/></e>
     <e lm="црковен"><par n="P__adj"/><i>црков</i><par n="инвентив/ен__adj"/></e>
     <e lm="црномурен"><par n="P__adj"/><i>црномур</i><par n="инвентив/ен__adj"/></e>
@@ -7450,7 +7692,6 @@
     <e lm="шестмесечен"><par n="P__adj"/><i>шестмесеч</i><par n="инвентив/ен__adj"/></e>
     <e lm="штетен"><par n="P__adj"/><i>штет</i><par n="инвентив/ен__adj"/></e>
     <e lm="јавен"><par n="P__adj"/><i>јав</i><par n="инвентив/ен__adj"/></e>
-    <e lm="јавен"><par n="P__adj"/><i>јав</i><par n="инвентив/ен__adj"/></e>
     <e lm="јазичен"><par n="P__adj"/><i>јазич</i><par n="инвентив/ен__adj"/></e>
     <e lm="јасен"><par n="P__adj"/><i>јас</i><par n="инвентив/ен__adj"/></e>
     <e lm="јубилеен"><par n="P__adj"/><i>јубиле</i><par n="кра/ен__adj"/></e>
@@ -7459,7 +7700,51 @@
     <e lm="јужен"><par n="P__adj"/><i>јуж</i><par n="инвентив/ен__adj"/></e>
     <e lm="љубовен"><par n="P__adj"/><i>љубов</i><par n="инвентив/ен__adj"/></e>
     
-    <!-- Adverbs -->
+	<e lm="арт"><par n="P__adj"/><i>арт</i><par n="фер__adj"/></e>
+	<e lm="броен"><par n="P__adj"/><i>бро</i><par n="кра/ен__adj"/></e>
+	<e lm="веројатен"><par n="P__adj"/><i>веројат</i><par n="инвентив/ен__adj"/></e>
+	<e lm="виновен"><par n="P__adj"/><i>винов</i><par n="инвентив/ен__adj"/></e>
+	<e lm="вклучен"><par n="P__adj"/><i>вклучен</i><par n="висок__adj"/></e>
+	<e lm="вмешан"><par n="P__adj"/><i>вмешан</i><par n="висок__adj"/></e>
+	<e lm="внимателен"><par n="P__adj"/><i>внимател</i><par n="инвентив/ен__adj"/></e>
+	<e lm="делумен"><par n="P__adj"/><i>делум</i><par n="инвентив/ен__adj"/></e>
+	<e lm="доброволен"><par n="P__adj"/><i>добровол</i><par n="инвентив/ен__adj"/></e>
+	<e lm="доволен"><par n="P__adj"/><i>довол</i><par n="инвентив/ен__adj"/></e>
+	<e lm="доделен"><par n="P__adj"/><i>доделен</i><par n="висок__adj"/></e>
+	<e lm="наменет"><par n="P__adj"/><i>наменет</i><par n="висок__adj"/></e>
+	<e lm="друг"><par n="P__adj"/><i>друг</i><par n="висок__adj"/></e>
+	<e lm="едногласен"><par n="P__adj"/><i>едноглас</i><par n="инвентив/ен__adj"/></e>
+	<e lm="ефикасен"><par n="P__adj"/><i>ефикас</i><par n="инвентив/ен__adj"/></e>
+	<e lm="закажен"><par n="P__adj"/><i>закаж</i><par n="инвентив/ен__adj"/></e>
+	<e lm="значителен"><par n="P__adj"/><i>значител</i><par n="инвентив/ен__adj"/></e>
+	<e lm="исполнет"><par n="P__adj"/><i>исполнет</i><par n="висок__adj"/></e>
+	<e lm="испратен"><par n="P__adj"/><i>испратен</i><par n="висок__adj"/></e>
+	<e lm="контроверзен"><par n="P__adj"/><i>контроверз</i><par n="инвентив/ен__adj"/></e>
+	<e lm="надгледуван"><par n="P__adj"/><i>надгледуван</i><par n="висок__adj"/></e>
+	<e lm="намерен"><par n="P__adj"/><i>намерен</i><par n="висок__adj"/></e>
+	<e lm="невин"><par n="P__adj"/><i>невин</i><par n="висок__adj"/></e>
+	<e lm="невладин"><par n="P__adj"/><i>невладин</i><par n="висок__adj"/></e>
+	<e lm="ослободителен"><par n="P__adj"/><i>ослободител</i><par n="инвентив/ен__adj"/></e>
+	<e lm="побаран"><par n="P__adj"/><i>побаран</i><par n="висок__adj"/></e>
+	<e lm="поднесен"><par n="P__adj"/><i>поднесен</i><par n="висок__adj"/></e>
+	<e lm="поканет"><par n="P__adj"/><i>поканет</i><par n="висок__adj"/></e>
+	<e lm="полноправен"><par n="P__adj"/><i>полноправ</i><par n="инвентив/ен__adj"/></e>
+	<e lm="ставен"><par n="P__adj"/><i>ставен</i><par n="висок__adj"/></e>
+	<e lm="преземен"><par n="P__adj"/><i>преземен</i><par n="висок__adj"/></e>
+	<e lm="прес"><par n="P__adj"/><i>прес</i><par n="фер__adj"/></e>
+	<e lm="претставен"><par n="P__adj"/><i>претставен</i><par n="висок__adj"/></e>
+	<e lm="прифатлив"><par n="P__adj"/><i>прифатлив</i><par n="висок__adj"/></e>
+	<e lm="раселен"><par n="P__adj"/><i>раселен</i><par n="висок__adj"/></e>
+	<e lm="регистриран"><par n="P__adj"/><i>регистриран</i><par n="висок__adj"/></e>
+	<e lm="сите"><par n="P__adj"/><i>сите</i><par n="фер__adj"/></e>
+	<e lm="составен"><par n="P__adj"/><i>составен</i><par n="висок__adj"/></e> <!--инвентив/ен сашто-->
+	<e lm="таков"><par n="P__adj"/><i>таков</i><par n="так/ов__adj"/></e>
+	<e lm="трипартитен"><par n="P__adj"/><i>трипартит</i><par n="инвентив/ен__adj"/></e>
+	<e lm="тркалезен"><par n="P__adj"/><i>тркалез</i><par n="инвентив/ен__adj"/></e>
+	<e lm="фер"><par n="P__adj"/><i>фер</i><par n="фер__adj"/></e>
+	<e lm="фин"><par n="P__adj"/><i>фин</i><par n="висок__adj"/></e>
+
+<!-- Adverbs -->
 
     <e lm="не"><i>не</i><par n="не__adv"/></e>
     <e lm="каде"><i>каде</i><par n="не__adv"/></e>
