@@ -1432,6 +1432,7 @@ pitaj Igor za 200-300  friedman p 25
 <!--
 	Adverbs
 -->
+<e><p><l>официјално<s n="adv"/></l><r>официално<s n="adv"/></r></p></e>
 <e><p><l>барем<s n="adv"/></l><r>поне<s n="adv"/></r></p></e>
 <e><p><l>бегло<s n="adv"/></l><r>бегло<s n="adv"/></r></p></e>
 <e><p><l>близу<s n="adv"/></l><r>близо<s n="adv"/></r></p></e>
@@ -1561,7 +1562,7 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>Заман<s n="np"/><s n="al"/><s n="m"/></l><r>Заман<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>Зери<s n="np"/><s n="al"/><s n="mf"/></l><r>Зери<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
 <e><p><l>Индипендант<s n="np"/><s n="al"/><s n="m"/></l><r>Индипендънт<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Интерпол<s n="np"/><s n="al"/><s n="mf"/></l><r>Интерпол<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Интерпол<s n="np"/><s n="al"/><s n="m"/></l><r>Интерпол<s n="np"/><s n="al"/><s n="m"/></r></p></e>
 <e><p><l>Катимерини<s n="np"/><s n="al"/><s n="mf"/></l><r>Катимерини<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
 <e><p><l>Косова<s n="np"/><s n="al"/><s n="f"/></l><r>Косова<s n="np"/><s n="al"/><s n="f"/></r></p></e>
 <e><p><l>Кохајоне<s n="np"/><s n="al"/><s n="nt"/></l><r>Коха<b/>Йоне<s n="np"/><s n="al"/><s n="nt"/></r></p></e> <!--радио в Албания-->
@@ -1616,12 +1617,12 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>Јоргос<s n="np"/><s n="ant"/><s n="m"/></l><r>Йоргос<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Јордан<s n="np"/><s n="ant"/><s n="m"/></l><r>Йордан<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Џејмс<s n="np"/><s n="ant"/><s n="m"/></l><r>Джеимс<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e><p><l>Џоана<s n="np"/><s n="ant"/><s n="m"/></l><r>Джоана<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Џоана<s n="np"/><s n="ant"/><s n="f"/></l><r>Джоана<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e><p><l>Џон<s n="np"/><s n="ant"/><s n="m"/></l><r>Джон<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Џорџ<s n="np"/><s n="ant"/><s n="m"/></l><r>Джордж<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Абдула<s n="np"/><s n="ant"/><s n="m"/></l><r>Абдула<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Агим<s n="np"/><s n="ant"/><s n="m"/></l><r>Агим<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e><p><l>Ади<s n="np"/><s n="ant"/><s n="mf"/></l><r>Ади<s n="np"/><s n="ant"/><s n="mf"/></r></p></e>
+<e><p><l>Ади<s n="np"/><s n="ant"/><s n="f"/></l><r>Ади<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e><p><l>Аднан<s n="np"/><s n="ant"/><s n="m"/></l><r>Аднан<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Адријан<s n="np"/><s n="ant"/><s n="m"/></l><r>Адриан<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Александар<s n="np"/><s n="ant"/><s n="m"/></l><r>Александър<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -1735,7 +1736,7 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>Разван<s n="np"/><s n="ant"/><s n="m"/></l><r>Разван<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Расим<s n="np"/><s n="ant"/><s n="m"/></l><r>Расим<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Ратко<s n="np"/><s n="ant"/><s n="m"/></l><r>Ратко<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e><p><l>Рен<s n="np"/><s n="ant"/><s n="mf"/></l><r>Рен<s n="np"/><s n="ant"/><s n="mf"/></r></p></e>
+<e><p><l>Рен<s n="np"/><s n="ant"/><s n="m"/></l><r>Рен<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Реџеп<s n="np"/><s n="ant"/><s n="m"/></l><r>Реджеп<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Ричард<s n="np"/><s n="ant"/><s n="m"/></l><r>Ричард<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Роберт<s n="np"/><s n="ant"/><s n="m"/></l><r>Робърт<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -1758,7 +1759,7 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>Тим<s n="np"/><s n="ant"/><s n="m"/></l><r>Тим<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Тодор<s n="np"/><s n="ant"/><s n="m"/></l><r>Тодор<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Томислав<s n="np"/><s n="ant"/><s n="m"/></l><r>Томислав<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e><p><l>Тони<s n="np"/><s n="ant"/><s n="mf"/></l><r>Тони<s n="np"/><s n="ant"/><s n="mf"/></r></p></e>
+<e><p><l>Тони<s n="np"/><s n="ant"/><s n="f"/></l><r>Тони<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e><p><l>Трајан<s n="np"/><s n="ant"/><s n="m"/></l><r>Траян<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Фатмир<s n="np"/><s n="ant"/><s n="m"/></l><r>Фатмир<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Фатос<s n="np"/><s n="ant"/><s n="m"/></l><r>Фатос<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -2015,7 +2016,7 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>вторник<s n="n"/><s n="m"/></l><r>вторник<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>вулкан<s n="n"/><s n="m"/></l><r>вулкан<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>гаранција<s n="n"/><s n="f"/></l><r>гаранция<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>гас<s n="n"/><s n="m"/></l><r>газ<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>гас<s n="n"/><s n="m"/></l><r>газ<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>гасовод<s n="n"/><s n="m"/></l><r>газопровод<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>гаф<s n="n"/><s n="m"/></l><r>гаф<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ген<s n="n"/><s n="m"/></l><r>ген<s n="n"/><s n="m"/></r></p></e>
@@ -2434,7 +2435,7 @@ pitaj Igor za 200-300  friedman p 25
 
 <e c="slr=0"><p><l>нарушување<s n="n"/><s n="nt"/></l><r>нарушаване<s n="n"/><s n="nt"/></r></p></e> 
 <e r="LR" c="slr=2"><p><l>кршење<s n="n"/><s n="nt"/></l><r>нарушаване<s n="n"/><s n="nt"/></r></p></e>
-<e r="LR" c="slr=1 srl=0"><p><l>прекршување<s n="n"/><s n="f"/></l><r>нарушаване<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" c="slr=1 srl=0"><p><l>прекршување<s n="n"/><s n="nt"/></l><r>нарушаване<s n="n"/><s n="nt"/></r></p></e>
 <e r="RL" c="srl=1"><p><l>прекршување<s n="n"/><s n="nt"/></l><r>пречупване<s n="n"/><s n="nt"/></r></p></e>
 
 <e><p><l>кулминација<s n="n"/><s n="f"/></l><r>кулминация<s n="n"/><s n="f"/></r></p></e> 
@@ -2462,7 +2463,7 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>липосукција<s n="n"/><s n="f"/></l><r>липосукция<s n="n"/><s n="f"/></r></p></e> 
 <e><p><l>лист<s n="n"/><s n="m"/></l><r>лист<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>листа<s n="n"/><s n="f"/></l><r>листа<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>список<s n="n"/><s n="f"/></l><r>списък<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>список<s n="n"/><s n="m"/></l><r>списък<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>лице<s n="n"/><s n="nt"/></l><r>лице<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>лиценцирање<s n="n"/><s n="nt"/></l><r>лицензиране<s n="n"/><s n="nt"/></r></p></e> 
 <e><p><l>личност<s n="n"/><s n="f"/></l><r>личност<s n="n"/><s n="f"/></r></p></e> 
@@ -2704,7 +2705,6 @@ pitaj Igor za 200-300  friedman p 25
 <e c="v0"><p><l>отстранување<s n="n"/><s n="nt"/></l><r>отстраняване<s n="n"/><s n="nt"/></r></p></e> 
 <e><p><l>отсуство<s n="n"/><s n="nt"/></l><r>отсъствие<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>офицер<s n="n"/><s n="m"/></l><r>офицер<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>официјално<s n="n"/><s n="f"/></l><r>официално<s n="n"/><s n="f"/></r></p></e> 
 <e><p><l>оценка<s n="n"/><s n="f"/></l><r>оценка<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>пазар<s n="n"/><s n="m"/></l><r>пазар<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>пакет<s n="n"/><s n="m"/></l><r>пакет<s n="n"/><s n="m"/></r></p></e>
@@ -2809,7 +2809,7 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>пост<s n="n"/><s n="m"/></l><r>пост<s n="n"/><s n="m"/></r></p></e> 
 <e><p><l>постапка<s n="n"/><s n="f"/></l><r>постъпка<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>постигнување<s n="n"/><s n="nt"/></l><r>постигане<s n="n"/><s n="nt"/></r></p></e>
-<e r="LR" c="v1"><p><l>потврда<s n="n"/><s n="nt"/></l><r>потвърждение<s n="n"/><s n="nt"/></r></p></e>
+<e r="LR" c="v1"><p><l>потврда<s n="n"/><s n="f"/></l><r>потвърждение<s n="n"/><s n="nt"/></r></p></e>
 <e c="v0"><p><l>потврдување<s n="n"/><s n="nt"/></l><r>потвърждение<s n="n"/><s n="nt"/></r></p></e> 
 <e><p><l>потег<s n="n"/><s n="m"/></l><r>ход<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>потекло<s n="n"/><s n="nt"/></l><r>потекло<s n="n"/><s n="nt"/></r></p></e>
@@ -3328,7 +3328,7 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>шанс<s n="n"/><s n="m"/></l><r>шанс<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>шверц<s n="n"/><s n="m"/></l><r>контрабанда<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>шеф<s n="n"/><s n="m"/></l><r>ръководител<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>шеќер<s n="n"/><s n="f"/></l><r>захар<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>шеќер<s n="n"/><s n="m"/></l><r>захар<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>шија<s n="n"/><s n="f"/></l><r>шия<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>шпекулација<s n="n"/><s n="f"/></l><r>спекулация<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>шпионирање<s n="n"/><s n="nt"/></l><r>шпиониране<s n="n"/><s n="nt"/></r></p></e> 
@@ -3470,7 +3470,7 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>Јовановиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Йованович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Јоциќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Йоцич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Љајиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ляич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Џонс<s n="np"/><s n="cog"/><s n="m"/></l><r>Джоунс<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+<e><p><l>Џонс<s n="np"/><s n="cog"/><s n="mf"/></l><r>Джоунс<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Анан<s n="np"/><s n="cog"/><s n="mf"/></l><r>Анан<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Ахмети<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ахмети<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Ахтисари<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ахтисаари<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -3490,7 +3490,7 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>Брамерц<s n="np"/><s n="cog"/><s n="mf"/></l><r>Брамерц<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Бусек<s n="np"/><s n="cog"/><s n="m"/></l><r>Бусек<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Буш<s n="np"/><s n="cog"/><s n="mf"/></l><r>Буш<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Ван<s n="np"/><s n="cog"/><s n="m"/></l><r>Ван<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+<e><p><l>Ван<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ван<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Велчев<s n="np"/><s n="cog"/><s n="m"/></l><r>Велчев<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Вигњевиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Вигневич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Врањеш<s n="np"/><s n="cog"/><s n="mf"/></l><r>Вранеш<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -3506,7 +3506,7 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>Давиниќ<s n="np"/><s n="cog"/><s n="m"/></l><r>Давинич<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Дал<s n="np"/><s n="cog"/><s n="m"/></l><r>Дал<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Денкташ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Денкташ<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Димитров<s n="np"/><s n="cog"/><s n="mf"/></l><r>Димитров<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Димитров<s n="np"/><s n="cog"/><s n="m"/></l><r>Димитров<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Динк<s n="np"/><s n="cog"/><s n="mf"/></l><r>Динк<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Динкиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Динкич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Доган<s n="np"/><s n="cog"/><s n="mf"/></l><r>Доган<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -3518,7 +3518,7 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>Живковиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Живкович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Жупљанин<s n="np"/><s n="cog"/><s n="m"/></l><r>Жуплянин<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Иваниќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Иванич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Иванов<s n="np"/><s n="cog"/><s n="mf"/></l><r>Иванов<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Иванов<s n="np"/><s n="cog"/><s n="m"/></l><r>Иванов<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Ивановиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Иванович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Илиеску<s n="np"/><s n="cog"/><s n="mf"/></l><r>Илиеску<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Ислами<s n="np"/><s n="cog"/><s n="m"/></l><r>Ислами<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
@@ -3534,12 +3534,12 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>Лабус<s n="np"/><s n="cog"/><s n="mf"/></l><r>Лабус<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Лавров<s n="np"/><s n="cog"/><s n="m"/></l><r>Лавров<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Лајчак<s n="np"/><s n="cog"/><s n="mf"/></l><r>Лайчак<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Левски<s n="np"/><s n="cog"/><s n="mf"/></l><r>Левски<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Левски<s n="np"/><s n="cog"/><s n="m"/></l><r>Левски<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Лукиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Лукич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Мандиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Мандич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Марковиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Маркович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Маровиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Марович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Мајко<s n="np"/><s n="cog"/><s n="m"/></l><r>Майко<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+<e><p><l>Мајко<s n="np"/><s n="cog"/><s n="mf"/></l><r>Майко<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Мекелхани<s n="np"/><s n="cog"/><s n="mf"/></l><r>Макелхъни<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Меркел<s n="np"/><s n="cog"/><s n="mf"/></l><r>Меркел<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Месиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Месич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -3574,7 +3574,7 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>Радиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Радич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Радовановиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Радованович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Рама<s n="np"/><s n="cog"/><s n="mf"/></l><r>Рама<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Рамсфелд<s n="np"/><s n="cog"/><s n="m"/></l><r>Ръмсфелд<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+<e><p><l>Рамсфелд<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ръмсфелд<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Рамуш<s n="np"/><s n="cog"/><s n="mf"/></l><r>Рамуш<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Рачан<s n="np"/><s n="cog"/><s n="mf"/></l><r>Рачан<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Рајс<s n="np"/><s n="cog"/><s n="mf"/></l><r>Райс<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -3584,7 +3584,7 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>Рупел<s n="np"/><s n="cog"/><s n="mf"/></l><r>Рупел<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Сабах<s n="np"/><s n="cog"/><s n="mf"/></l><r>Сабах<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Саксобурготски<s n="np"/><s n="cog"/><s n="m"/></l><r>Сакскобургготски<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Самарџиќ<s n="np"/><s n="cog"/><s n="m"/></l><r>Самарджич<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+<e><p><l>Самарџиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Самарджич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Санадер<s n="np"/><s n="cog"/><s n="mf"/></l><r>Санадер<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Саркози<s n="np"/><s n="cog"/><s n="mf"/></l><r>Саркози<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Свилановиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Свиланович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -3608,12 +3608,12 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>Топи<s n="np"/><s n="cog"/><s n="mf"/></l><r>Топи<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Унгуреану<s n="np"/><s n="cog"/><s n="mf"/></l><r>Унгуряну<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Ферхојген<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ферхойген<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Фишер<s n="np"/><s n="cog"/><s n="m"/></l><r>Фишер<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+<e><p><l>Фишер<s n="np"/><s n="cog"/><s n="mf"/></l><r>Фишер<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Фониќи<s n="np"/><s n="cog"/><s n="mf"/></l><r>Фоничи<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Фратини<s n="np"/><s n="cog"/><s n="mf"/></l><r>Фратини<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Харадинај<s n="np"/><s n="cog"/><s n="mf"/></l><r>Харадинай<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Харис<s n="np"/><s n="cog"/><s n="m"/></l><r>Харис<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Хаџиќ<s n="np"/><s n="cog"/><s n="m"/></l><r>Хаджич<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+<e><p><l>Харис<s n="np"/><s n="cog"/><s n="mf"/></l><r>Харис<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Хаџиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Хаджич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Холкери<s n="np"/><s n="cog"/><s n="mf"/></l><r>Холкери<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Христофиас<s n="np"/><s n="cog"/><s n="mf"/></l><r>Христофиас<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Црвенковски<s n="np"/><s n="cog"/><s n="m"/></l><r>Цървенковски<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
@@ -3662,7 +3662,7 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>Благоевград<s n="np"/><s n="top"/><s n="m"/></l><r>Благоевград<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 <e><p><l>Босна<s n="np"/><s n="top"/><s n="f"/></l><r>Босна<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Ботевград<s n="np"/><s n="top"/><s n="m"/></l><r>Ботевград<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Бразил<s n="np"/><s n="top"/><s n="f"/></l><r>Бразилия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Бразил<s n="np"/><s n="top"/><s n="m"/></l><r>Бразилия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Брисел<s n="np"/><s n="top"/><s n="m"/></l><r>Брюксел<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 <e><p><l>Британија<s n="np"/><s n="top"/><s n="f"/></l><r>Британия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Брчко<s n="np"/><s n="top"/><s n="m"/></l><r>Бръчко<s n="np"/><s n="top"/><s n="m"/></r></p></e>
