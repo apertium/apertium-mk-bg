@@ -3817,6 +3817,7 @@ pitaj Igor za 200-300  friedman p 25
 -->
 
 <e><p><l>е<s n="vbser"/></l><r>е<s n="vbser"/></r></p></e>
+<e><p><l>мора<s n="vaux"/></l><r>трябва<s n="vaux"/></r></p></e>
 
 <e><p><l>бара<s n="vblex"/></l><r>търси<s n="vblex"/></r></p></e>
 <e c="v0"><p><l>благодари<s n="vblex"/></l><r>благодари<s n="vblex"/></r></p></e>
@@ -4369,6 +4370,7 @@ pitaj Igor za 200-300  friedman p 25
     <e><p><l>)<s n="rpar"/></l><r>)<s n="rpar"/></r></p></e>
     <e><p><l>(<s n="lpar"/></l><r>(<s n="lpar"/></r></p></e>
     <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><re>[0-9]+([.,][0-9]+)?</re><p><l><b/>г.<s n="num"/></l><r><b/>г.<s n="num"/></r></p></e>
 
 
   </section>
