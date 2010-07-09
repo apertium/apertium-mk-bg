@@ -1695,8 +1695,7 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>Кристијан<s n="np"/><s n="ant"/><s n="m"/></l><r>Кристиан<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Лабина<s n="np"/><s n="ant"/><s n="f"/></l><r>Лабина<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e><p><l>Мануел<s n="np"/><s n="ant"/><s n="m"/></l><r>Мануел<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e><p><l>Мария<s n="np"/><s n="ant"/><s n="f"/></l><r>Мария<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
-<e><p><l>Марија<s n="np"/><s n="ant"/><s n="f"/></l><r>Марија<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+<e><p><l>Марија<s n="np"/><s n="ant"/><s n="f"/></l><r>Мария<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e><p><l>Марк<s n="np"/><s n="ant"/><s n="m"/></l><r>Марк<s n="np"/><s n="ant"/><s n="m"/></r></p></e> 
 <e><p><l>Марко<s n="np"/><s n="ant"/><s n="m"/></l><r>Марко<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Марти<s n="np"/><s n="ant"/><s n="m"/></l><r>Марти<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -3684,7 +3683,7 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>Војводина<s n="np"/><s n="top"/><s n="f"/></l><r>Войводина<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Враца<s n="np"/><s n="top"/><s n="f"/></l><r>Враца<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Вуковар<s n="np"/><s n="top"/><s n="m"/></l><r>Вуковар<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Георге<s n="np"/><s n="top"/><s n="m"/></l><r>Георге<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Георге<s n="np"/><s n="ant"/><s n="m"/></l><r>Георге<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Германија<s n="np"/><s n="top"/><s n="f"/></l><r>Германия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Горна<b/>Орјаховица<s n="np"/><s n="top"/><s n="f"/></l><r>Горна<b/>Оряховица<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Грузија<s n="np"/><s n="top"/><s n="f"/></l><r>Грузия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
