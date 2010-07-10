@@ -3634,6 +3634,11 @@ pitaj Igor za 200-300  friedman p 25
 <!--
 	Topography
 -->
+<e><p><l>Молдавија<s n="np"/><s n="top"/><s n="f"/></l><r>Молдавия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Белорусија<s n="np"/><s n="top"/><s n="f"/></l><r>Беларус<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<e><p><l>Брчко<s n="np"/><s n="top"/><s n="nt"/></l><r>Бръчко<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Сараево<s n="np"/><s n="top"/><s n="m"/></l><r>Сараево<s n="np"/><s n="top"/><s n="m"/></r></p></e> <!-- NT ? -->
+
 <e><p><l>Гренланд<s n="np"/><s n="top"/><s n="m"/></l><r>Гренландия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Јамбол<s n="np"/><s n="top"/><s n="m"/></l><r>Ямбол<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 <e><p><l>Јапонија<s n="np"/><s n="top"/><s n="f"/></l><r>Япония<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -3736,7 +3741,7 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>Митровица<s n="np"/><s n="top"/><s n="f"/></l><r>Митровица<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e c="v0"><p><l>Молдавија<s n="np"/><s n="top"/><s n="f"/></l><r>Молдова<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e r="LR" c="v1"><p><l>Молдавија<s n="np"/><s n="top"/><s n="f"/></l><r>Молдавия<s n="np"/><s n="top"/><s n="f"/></r></p></e> 
-<e><p><l>Монтана<b/><s n="np"/><s n="top"/><s n="f"/></l><r>Монтана<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+<e><p><l>Монтана<s n="np"/><s n="top"/><s n="f"/></l><r>Монтана<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Москва<s n="np"/><s n="top"/><s n="f"/></l><r>Москва<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Мостар<s n="np"/><s n="top"/><s n="m"/></l><r>Мостар<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 <e><p><l>Нигерија<s n="np"/><s n="top"/><s n="f"/></l><r>Нигерия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
