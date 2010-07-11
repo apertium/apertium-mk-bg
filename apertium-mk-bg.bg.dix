@@ -8636,6 +8636,20 @@
   <e>        <p>          <l>ените</l>          <r>яна<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
 </pardef>
 
+<pardef n="дес/ятка__n_f">
+  <e>        <p>          <l>ятка</l>          <r>ятка<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>        <p>          <l>ятката</l>          <r>ятка<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>        <p>          <l>етки</l>          <r>ятка<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>        <p>          <l>етките</l>          <r>ятка<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="под/ялба__n_f">
+  <e>        <p>          <l>ялба</l>          <r>ялба<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>        <p>          <l>ялбата</l>          <r>ялба<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>        <p>          <l>елби</l>          <r>ялба<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>        <p>          <l>елбите</l>          <r>ялба<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+</pardef>
+
 <pardef n="с/янка__n_f">
   <e>        <p>          <l>янка</l>          <r>янка<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>        <p>          <l>янката</l>          <r>янка<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -8792,7 +8806,7 @@
 
 
 <!-- кълбо -->
- 	<pardef n="кълбо/о__n_nt">
+ 	<pardef n="кълб/о__n_nt">
    <e>        <p>          <l>о</l>            <r>о<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
    <e>        <p>          <l>ото</l>          <r>о<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
    <e>        <p>          <l>ета</l>          <r>о<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -8872,6 +8886,17 @@
     </pardef>
 
 
+
+
+
+
+
+<!-- Pluralia tantum -->
+
+<pardef n="данни__n_mf">
+  <e>        <p>          <l></l>         <r><s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>        <p>          <l>те</l>       <r><s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+</pardef>
 
 
 
@@ -9104,7 +9129,7 @@
 <e lm="пръчка"><i>пръчк</i><par n="майк/а__n_f"/></e>
 <e lm="препоръка"><i>препорък</i><par n="майк/а__n_f"/></e>
 
-<e lm="мисъл"><i>мис</i><par n="мис/ъл __n_f"/></e>
+<e lm="мисъл"><i>мис</i><par n="мис/ъл__n_f"/></e>
 <e lm="смърт"><i>смърт</i><par n="сол__n_f"/></e>
 
 <e lm="болест"><i>болест</i><par n="сол__n_f"/></e>
@@ -10086,7 +10111,7 @@
 <e lm="куче"><i>куче</i><par n="есе__n_nt"/></e>
 <e lm="море"><i>море</i><par n="есе__n_nt"/></e>
 <e lm="наставник"><i>наставник</i><par n="есе__n_nt"/></e>
-<e lm="небе"><i>небе</i><par n="небе/са__n_nt"/></e>
+<e lm="небе"><i>небе</i><par n="небе__n_nt"/></e>
 <e lm="бира"><i>бир</i><par n="майк/а__n_f"/></e>
 <e lm="разплата"><i>разплат</i><par n="майк/а__n_f"/></e>
 <e lm="поле"><i>поле</i><par n="есе__n_nt"/></e>
