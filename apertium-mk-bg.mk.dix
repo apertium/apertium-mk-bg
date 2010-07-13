@@ -162,13 +162,13 @@
      <e>        <p>          <l>беа</l>        <r>е<s n="vbser"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
    </pardef>
 
-   <pardef n="има__vbhaver">
-     <e>        <p>          <l>м</l>           <r><s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-     <e>        <p>          <l>с</l>           <r><s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-     <e>        <p>          <l/>               <r><s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-     <e>        <p>          <l>ме</l>          <r><s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
-     <e>        <p>          <l>те</l>          <r><s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
-     <e>        <p>          <l>ат</l>          <r><s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+   <pardef n="им/а__vbhaver">
+     <e>        <p>          <l>ам</l>           <r>им<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+     <e>        <p>          <l>аш</l>           <r>им<s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+     <e>        <p>          <l>а</l>               <r>им<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+     <e>        <p>          <l>аме</l>          <r>им<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+     <e>        <p>          <l>ате</l>          <r>им<s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+     <e>        <p>          <l>аат</l>          <r>им<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
    </pardef>
 
 	<!-- par: може		group: e		cat_type: non-finite		modall: yes	-->
@@ -2876,8 +2876,15 @@
     <e lm="а"><i>а</i><par n="и__cnjcoo"/></e>
     <e lm="или"><i>или</i><par n="и__cnjcoo"/></e>
     <e lm="па"><i>па</i><par n="и__cnjcoo"/></e>
+	<e lm="но"><i>но</i><par n="и__cnjcoo"/></e>
+	<e lm="туку"><i>туку</i><par n="и__cnjcoo"/></e>
+	<e lm="ниту"><i>ниту</i><par n="и__cnjcoo"/></e>
+	<e lm="ни"><i>ни</i><par n="и__cnjcoo"/></e>
+	<e lm="додека"><i>додека</i><par n="и__cnjcoo"/></e>
 
     <e lm="ако"><i>ако</i><par n="ако__cnjsub"/></e>
+	<e lm="иако"><i>иако</i><par n="ако__cnjsub"/></e>
+    <e lm="дека"><i>дека</i><par n="ако__cnjsub"/></e>
 
     <!-- Prepositions / предлози -->
 
@@ -5149,8 +5156,8 @@
 
 
 <!-- Глаголи -->
-    <e lm="е"><i/><par n="/е__vbser"/></e>			<!-- to be -->
-    <e lm="има"><i/><par n="има__vbhaver"/></e>
+    <e lm="е"><i></i><par n="/е__vbser"/></e>			<!-- to be -->
+    <e lm="има"><i>им</i><par n="им/а__vbhaver"/></e>
 
     <e lm="мора"><i>мора</i><par n="мора__vaux"/></e>		<!-- must -->
 
@@ -6680,7 +6687,6 @@
     <e lm="горе"><i>горе</i><par n="не__adv"/></e>
     <e lm="далеку"><i>далеку</i><par n="не__adv"/></e>
     <e lm="дваж"><i>дваж</i><par n="не__adv"/></e>
-    <e lm="дека"><i>дека</i><par n="не__adv"/></e>
     <e lm="ден-денес"><i>ден-денес</i><par n="не__adv"/></e>
     <e lm="ден-денеска"><i>ден-денеска</i><par n="не__adv"/></e>
     <e lm="денем"><i>денем</i><par n="не__adv"/></e>

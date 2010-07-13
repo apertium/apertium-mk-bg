@@ -24,6 +24,7 @@
     <sdef n="vbser"    c="Verb 'to be'"/>
     <sdef n="vbhaver"  c="Verb 'to have'"/>
     <sdef n="vaux"     c="Auxilliary verb"/>
+    <sdef n="vbmod"    c="Modal verb"/>
     <sdef n="pref"     c="Prefix"/>
     <sdef n="cnjcoo"   c="Co-ordinating conjunction"/>
     <sdef n="cnjsub"   c="Sub-ordinating conjunction"/>
@@ -507,14 +508,14 @@
 
     </pardef>
 
-    <pardef n="/има__vbhaver">
-      <e>        <p>          <l>имам</l>          <r>има<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имаш</l>          <r>има<s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>има</l>          <r>има<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>имаме</l>          <r>има<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>        <p>          <l>имате</l>          <r>има<s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>        <p>          <l>имат</l>          <r>има<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
-      <e>        <p>          <l>нямам</l>          <r>не<s n="adv"/><j/>има<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+    <pardef n="им/а__vbhaver">
+      <e>        <p>          <l>ам</l>          <r>им<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>аш</l>          <r>им<s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>а</l>          <r>им<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>        <p>          <l>аме</l>          <r>им<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>ате</l>          <r>им<s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>        <p>          <l>аат</l>          <r>им<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+<!--      <e>        <p>          <l>нямам</l>          <r>не<s n="adv"/><j/>има<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>        <p>          <l>нямаш</l>          <r>не<s n="adv"/><j/>има<s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>        <p>          <l>няма</l>          <r>не<s n="adv"/><j/>има<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
       <e>        <p>          <l>нямаме</l>          <r>не<s n="adv"/><j/>има<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
@@ -548,6 +549,8 @@
       <e>        <p>          <l>имана</l>          <r>има<s n="vbhaver"/><s n="pass"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
       <e>        <p>          <l>имано</l>          <r>има<s n="vbhaver"/><s n="pass"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
       <e>        <p>          <l>имани</l>          <r>има<s n="vbhaver"/><s n="pass"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
+
+-->
     </pardef>
 
 
@@ -579,6 +582,16 @@
       <e>        <p>          <l>ло</l>          <r><s n="vaux"/><s n="pii"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
       <e>        <p>          <l>ли</l>          <r><s n="vaux"/><s n="pii"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
     </pardef>
+
+
+   <pardef n="мо/же__vbmod">
+     <e>        <p>          <l>га</l>          <r>же<s n="vbmod"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+     <e>        <p>          <l>жеш</l>          <r>же<s n="vbmod"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+     <e>        <p>          <l>же</l>          <r>же<s n="vbmod"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+     <e>        <p>          <l>жеме</l>          <r>же<s n="vbmod"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+     <e>        <p>          <l>жете</l>          <r>же<s n="vbmod"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+     <e>        <p>          <l>гат</l>          <r>же<s n="vbmod"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+   </pardef>
 
 
     <pardef n="уя/д__vblex">
@@ -8225,7 +8238,7 @@
     </pardef>
 
 
- <!-- unmarked adjectives ending in a cononant in the masculine  -->
+ <!-- unmarked adjectives ending in a consonant in the masculine  -->
     <pardef n="солен__adj">  <!-- wounded    -->
       <e>        <p>          <l></l>          <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>ия</l>          <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="obj"/></r></p></e>
@@ -8238,7 +8251,7 @@
       <e>        <p>          <l>ите</l>          <r><s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
     </pardef>
 
- <!--  adjectives ending in a cononant (ш... ) with -e in the neuter -->
+ <!--  adjectives ending in a consonant (ш... ) with -e in the neuter -->
     <pardef n="бивш__adj">
       <e>        <p>          <l></l>          <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>ия</l>          <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="obj"/></r></p></e>
@@ -9781,6 +9794,7 @@
     <e lm="или"><i>или</i><par n="и__cnjcoo"/></e>
     <e lm="но"><i>но</i><par n="и__cnjcoo"/></e>
     <e lm="нито"><i>нито</i><par n="и__cnjcoo"/></e>
+	<e lm="ни"><i>ни</i><par n="и__cnjcoo"/></e>
 
     <e lm="като"><i>като</i><par n="дали__cnjsub"/></e>
     <e lm="докато"><i>докато</i><par n="дали__cnjsub"/></e>
@@ -12369,7 +12383,8 @@
     <!-- Verbs -->
 
     <e lm="е"><i></i><par n="/е__vbser"/></e>
-    <e lm="има"><i/><par n="/има__vbhaver"/></e>
+    <e lm="има"><i>им</i><par n="им/а__vbhaver"/></e>
+    <e lm="може"><i>мо</i><par n="мо/же__vbmod"/></e>
     <e lm="трябва"><i>трябва</i><par n="трябва__vaux"/></e>
 
     <!-- TO CHECK -->
@@ -12416,7 +12431,7 @@
     <e lm="работи"><i>работ</i><par n="нос/и__vblex"/></e>
 
 
-    <!-- END CHECK -->
+<!-- END CHECK -->
 
 
     <e lm="намира"><i>намира</i><par n="чака__vblex"/></e> <!-- CHECK -->
