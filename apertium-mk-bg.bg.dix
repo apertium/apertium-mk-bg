@@ -28,6 +28,10 @@
     <sdef n="cnjcoo"   c="Co-ordinating conjunction"/>
     <sdef n="cnjsub"   c="Sub-ordinating conjunction"/>
 
+    <sdef n="exp"     c="Expectative"/>
+    <sdef n="sbj"     c="Subjunctive"/>
+    <sdef n="opt"     c="Optative"/>
+
     <sdef n="m"/>
     <sdef n="ma"       c="Masculine (animate)"/>
     <sdef n="f"/>
@@ -9702,6 +9706,10 @@
 
 
     <!-- Particles -->
+    <pardef n="ще__part">
+      <e>        <p>          <l/>	  <r><s n="part"/><s n="exp"/></r></p></e>
+    </pardef>
+
     <pardef n="да__part">
       <e>        <p>          <l></l>          <r><s n="part"/></r></p></e>
     </pardef>
@@ -9750,6 +9758,7 @@
     <e lm="извън"><i>извън</i><par n="във__pr"/></e>
     <e lm="като"><i>като</i><par n="във__pr"/></e>
     <e lm="край"><i>край</i><par n="във__pr"/></e>
+ 	<e lm="плюс"><i>плюс</i><par n="във__pr"/></e>
     <e lm="към"><i>към</i><par n="във__pr"/></e>
     <e lm="над"><i>над</i><par n="във__pr"/></e>
     <e lm="низ"><i>низ</i><par n="във__pr"/></e>
@@ -9764,7 +9773,7 @@
     <e lm="спрямо"><i>спрямо</i><par n="във__pr"/></e>
     <e lm="между"><i>между</i><par n="във__pr"/></e>
     <e lm="в размер на"><i>в<b/>размер<b/>на</i><par n="във__pr"/></e>
- 
+
 
     <!-- Conjunctions -->
     <e lm="и"><i>и</i><par n="и__cnjcoo"/></e>
@@ -12320,12 +12329,47 @@
     <e lm="тук"><i>тук</i><par n="днес__adv"/></e>
     <e lm="често"><i>често</i><par n="днес__adv"/></e>
 
+	<e lm="официално"><i>официално</i><par n="днес__adv"/></e>
+	<e lm="веднага"><i>веднага</i><par n="днес__adv"/></e>
+	<e lm="включително"><i>включително</i><par n="днес__adv"/></e>
+	<e lm="годишно"><i>годишно</i><par n="днес__adv"/></e>
+	<e lm="тепърва"><i>тепърва</i><par n="днес__adv"/></e>
+	<e lm="досега"><i>досега</i><par n="днес__adv"/></e>
+	<e lm="евентуално"><i>евентуално</i><par n="днес__adv"/></e>
+	<e lm="засега"><i>засега</i><par n="днес__adv"/></e>
+	<e lm="вероятно"><i>вероятно</i><par n="днес__adv"/></e>
+	<e lm="сутринта"><i>сутринта</i><par n="днес__adv"/></e>
+	<e lm="също"><i>също</i><par n="днес__adv"/></e>
+	<e lm="същевременно"><i>същевременно</i><par n="днес__adv"/></e>
+	<e lm="лайф"><i>лайф</i><par n="днес__adv"/></e>
+	<e lm="малко"><i>малко</i><par n="днес__adv"/></e>
+	<e lm="малко"><i>малко</i><par n="днес__adv"/></e>
+	<e lm="понастоящем"><i>понастоящем</i><par n="днес__adv"/></e>
+	<e lm="наистина"><i>наистина</i><par n="днес__adv"/></e>
+	<e lm="навреме"><i>навреме</i><par n="днес__adv"/></e>
+	<e lm="напред"><i>напред</i><par n="днес__adv"/></e>
+	<e lm="наскоро"><i>наскоро</i><par n="днес__adv"/></e>
+	<e lm="някога"><i>някога</i><par n="днес__adv"/></e>
+	<e lm="неотдавна"><i>неотдавна</i><par n="днес__adv"/></e>
+	<e lm="онлайн"><i>онлайн</i><par n="днес__adv"/></e>
+	<e lm="оттогава"><i>оттогава</i><par n="днес__adv"/></e>
+	<e lm="очевидно"><i>очевидно</i><par n="днес__adv"/></e>
+	<e lm="постепенно"><i>постепенно</i><par n="днес__adv"/></e>
+	<e lm="главно"><i>главно</i><par n="днес__adv"/></e>
+	<e lm="предвид"><i>предвид</i><par n="днес__adv"/></e>
+	<e lm="прекалено"><i>прекалено</i><par n="днес__adv"/></e>
+	<e lm="всякога"><i>всякога</i><par n="днес__adv"/></e>
+	<e lm="приблизително"><i>приблизително</i><par n="днес__adv"/></e>
+	<e lm="съвсем"><i>съвсем</i><par n="днес__adv"/></e>
+	<e lm="напротив"><i>напротив</i><par n="днес__adv"/></e>
+	<e lm="междувременно"><i>междувременно</i><par n="днес__adv"/></e>
+	<e lm="подред"><i>подред</i><par n="днес__adv"/></e>
 
 
     <!-- Verbs -->
 
     <e lm="е"><i></i><par n="/е__vbser"/></e>
-
+    <e lm="има"><i/><par n="/има__vbhaver"/></e>
     <e lm="трябва"><i>трябва</i><par n="трябва__vaux"/></e>
 
     <!-- TO CHECK -->
@@ -12990,6 +13034,100 @@
     <e lm="см"><i>см</i><par n="км__abbr"/></e>
     <e lm="гр"><i>гр</i><par n="км__abbr"/></e>
     <e lm="пр.н.е."><i>пр.н.е.</i><par n="км__abbr"/></e>
+	<e lm="АА"><i>АА</i><par n="км__abbr"/></e>
+	<e lm="АГ"><i>АГ</i><par n="км__abbr"/></e>
+	<e lm="АКП"><i>АКП</i><par n="км__abbr"/></e>
+	<e lm="АНА"><i>АНА</i><par n="км__abbr"/></e>
+	<e lm="АО"><i>АО</i><par n="км__abbr"/></e>
+	<e lm="АП"><i>АП</i><par n="км__abbr"/></e>
+	<e lm="АТА"><i>АТА</i><par n="км__abbr"/></e>
+	<e lm="АФП"><i>АФП</i><par n="км__abbr"/></e>
+	<e lm="БА"><i>БА</i><par n="км__abbr"/></e>
+	<e lm="БАН"><i>БАН</i><par n="км__abbr"/></e>
+	<e lm="ББС"><i>ББС</i><par n="км__abbr"/></e>
+	<e lm="БВ"><i>БВ</i><par n="км__abbr"/></e>
+	<e lm="БВБ"><i>БВБ</i><par n="км__abbr"/></e>
+	<e lm="БГНЕС"><i>БГНЕС</i><par n="км__abbr"/></e>
+	<e lm="БИРН"><i>БИРН</i><par n="км__abbr"/></e>
+	<e lm="БМВ"><i>БМВ</i><par n="км__abbr"/></e>
+	<e lm="БНБ"><i>БНБ</i><par n="км__abbr"/></e>
+	<e lm="БНР"><i>БНР</i><par n="км__abbr"/></e>
+	<e lm="БНТ"><i>БНТ</i><par n="км__abbr"/></e>
+	<e lm="БОК"><i>БОК</i><par n="км__abbr"/></e>
+	<e lm="БСП"><i>БСП</i><par n="км__abbr"/></e>
+	<e lm="БТА"><i>БТА</i><par n="км__abbr"/></e>
+	<e lm="БФ"><i>БФ</i><par n="км__abbr"/></e>
+	<e lm="БиХ"><i>БиХ</i><par n="км__abbr"/></e>
+	<e lm="ВМРО"><i>ВМРО</i><par n="км__abbr"/></e>
+	<e lm="ВОА"><i>ВОА</i><par n="км__abbr"/></e>
+	<e lm="ДЗИ"><i>ДЗИ</i><par n="км__abbr"/></e>
+	<e lm="ДП"><i>ДП</i><par n="км__abbr"/></e>
+	<e lm="ДПА"><i>ДПА</i><par n="км__abbr"/></e>
+	<e lm="ДС"><i>ДС</i><par n="км__abbr"/></e>
+	<e lm="ДСК"><i>ДСК</i><par n="км__abbr"/></e>
+	<e lm="ДСС"><i>ДСС</i><par n="км__abbr"/></e>
+	<e lm="ДУИ"><i>ДУИ</i><par n="км__abbr"/></e>
+	<e lm="ЕБВР"><i>ЕБВР</i><par n="км__abbr"/></e>
+	<e lm="ЕК"><i>ЕК</i><par n="км__abbr"/></e>
+	<e lm="ЕОД"><i>ЕОД</i><par n="км__abbr"/></e>
+	<e lm="ЕОН"><i>ЕОН</i><par n="км__abbr"/></e>
+	<e lm="ЕП"><i>ЕП</i><par n="км__abbr"/></e>
+	<e lm="ЕС"><i>ЕС</i><par n="км__abbr"/></e>
+	<e lm="ЕУФОР"><i>ЕУФОР</i><par n="км__abbr"/></e>
+	<e lm="КФОР"><i>КФОР</i><par n="км__abbr"/></e>
+	<e lm="МИА"><i>МИА</i><par n="км__abbr"/></e>
+	<e lm="МВФ"><i>МВФ</i><par n="км__abbr"/></e>
+	<e lm="МПА"><i>МПА</i><par n="км__abbr"/></e>
+	<e lm="НАТО"><i>НАТО</i><par n="км__abbr"/></e>
+	<e lm="НТВ"><i>НТВ</i><par n="км__abbr"/></e>
+	<e lm="ОССЕ"><i>ОССЕ</i><par n="км__abbr"/></e>
+	<e lm="ОВК"><i>ОВК</i><par n="км__abbr"/></e>
+	<e lm="ООН"><i>ООН</i><par n="км__abbr"/></e>
+	<e lm="ООН"><i>ООН</i><par n="км__abbr"/></e>
+	<e lm="ОУ"><i>ОУ</i><par n="км__abbr"/></e>
+	<e lm="ОХР"><i>ОХР</i><par n="км__abbr"/></e>
+	<e lm="ПАСОК"><i>ПАСОК</i><par n="км__abbr"/></e>
+	<e lm="ПБС"><i>ПБС</i><par n="км__abbr"/></e>
+	<e lm="ПКК"><i>ПКК</i><par n="км__abbr"/></e>
+	<e lm="ПНЛ"><i>ПНЛ</i><par n="км__abbr"/></e>
+	<e lm="ПСД"><i>ПСД</i><par n="км__abbr"/></e>
+	<e lm="РС"><i>РС</i><par n="км__abbr"/></e>
+	<e lm="РТК"><i>РТК</i><par n="км__abbr"/></e>
+	<e lm="РТРС"><i>РТРС</i><par n="км__abbr"/></e>
+	<e lm="РТС"><i>РТС</i><par n="км__abbr"/></e>
+	<e lm="РФЕ"><i>РФЕ</i><par n="км__abbr"/></e>
+	<e lm="СДП"><i>СДП</i><par n="км__abbr"/></e>
+	<e lm="СДС"><i>СДС</i><par n="км__abbr"/></e>
+	<e lm="СДСМ"><i>СДСМ</i><par n="км__abbr"/></e>
+	<e lm="СНСД"><i>СНСД</i><par n="км__abbr"/></e>
+	<e lm="СП"><i>СП</i><par n="км__abbr"/></e>
+	<e lm="СРНА"><i>СРНА</i><par n="км__abbr"/></e>
+	<e lm="СРС"><i>СРС</i><par n="км__abbr"/></e>
+	<e lm="СС"><i>СС</i><par n="км__abbr"/></e>
+	<e lm="СФОР"><i>СФОР</i><par n="км__abbr"/></e>
+	<e lm="ТВ"><i>ТВ</i><par n="км__abbr"/></e>
+	<e lm="ТРТ"><i>ТРТ</i><par n="км__abbr"/></e>
+	<e lm="ЮНЕСКО"><i>ЮНЕСКО</i><par n="км__abbr"/></e>
+	<e lm="ЮНМИК"><i>ЮНМИК</i><par n="км__abbr"/></e>
+	<e lm="УПИ"><i>УПИ</i><par n="км__abbr"/></e>
+	<e lm="ФЕНА"><i>ФЕНА</i><par n="км__abbr"/></e>
+	<e lm="ФП"><i>ФП</i><par n="км__abbr"/></e>
+	<e lm="ФТ"><i>ФТ</i><par n="км__abbr"/></e>
+	<e lm="ХДС"><i>ХДС</i><par n="км__abbr"/></e>
+	<e lm="ХИВ"><i>ХИВ</i><par n="км__abbr"/></e>
+	<e lm="ХИНА"><i>ХИНА</i><par n="км__abbr"/></e>
+	<e lm="ЦХП"><i>ЦХП</i><par n="км__abbr"/></e>
+	<e lm="ХРТ"><i>ХРТ</i><par n="км__abbr"/></e>
+	<e lm="ЦИК"><i>ЦИК</i><par n="км__abbr"/></e>
+	<e lm="бТВ"><i>бТВ</i><par n="км__abbr"/></e>
+	<e lm="бг"><i>бг</i><par n="км__abbr"/></e>
+	<e lm="зам"><i>зам</i><par n="км__abbr"/></e>
+	<e lm="ул"><i>ул</i><par n="км__abbr"/></e>
+	<e lm="год"><i>год</i><par n="км__abbr"/></e>
+	<e lm="св"><i>св</i><par n="км__abbr"/></e>
+	<e lm="др"><i>др</i><par n="км__abbr"/></e>
+	<e lm="сем"><i>сем</i><par n="км__abbr"/></e>
+
 
   </section>
   <section id="prefixes" type="inconditional">

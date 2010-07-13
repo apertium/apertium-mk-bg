@@ -268,6 +268,8 @@
 <e><p><l>никаков<s n="prn"/><s n="neg"/></l><r>никакъв<s n="prn"/><s n="neg"/></r></p></e>
 <e><p><l>никогаш<s n="prn"/><s n="neg"/></l><r>никога<s n="prn"/><s n="neg"/></r></p></e> <!--нисклоняимо-->
 <e><p><l>никаде<s n="prn"/><s n="neg"/></l><r>никъде<s n="prn"/><s n="neg"/></r></p></e> <!--несклоняемо-->
+<e><p><l>ништо<s n="prn"/><s n="neg"/></l><r>нищо<s n="prn"/><s n="neg"/></r></p></e>
+
 
 <!--
 	Indefinite rod i chislo
@@ -3383,6 +3385,7 @@ pitaj Igor za 200-300  friedman p 25
 <!-- Particles -->
 
 <e><p><l>да<s n="part"/></l><r>да<s n="part"/></r></p></e>
+<e><p><l>ќе<s n="part"/></l><r>ще<s n="part"/></r></p></e>
 
 <!-- Conjunctions -->
  
@@ -3413,7 +3416,6 @@ pitaj Igor za 200-300  friedman p 25
 <e><p><l>кон<s n="pr"/></l><r>към<s n="pr"/></r></p></e>
 <e><p><l>надвор<s n="pr"/></l><r>извън<s n="pr"/></r></p></e> <!--КГраматика-->
 <e><p><l>наспрема<s n="pr"/></l><r>спрямо<s n="pr"/></r></p></e>
-<e><p><l>ништо<s n="pr"/></l><r>нищо<s n="pr"/></r></p></e>
 <e><p><l>околу<s n="pr"/></l><r>около<s n="pr"/></r></p></e>
 <e><p><l>отколку<s n="pr"/></l><r>отколкото<s n="pr"/></r></p></e>
 <e><p><l>плус<s n="pr"/></l><r>плюс<s n="pr"/></r></p></e>
@@ -3828,6 +3830,7 @@ pitaj Igor za 200-300  friedman p 25
 
 <e><p><l>е<s n="vbser"/></l><r>е<s n="vbser"/></r></p></e>
 <e><p><l>мора<s n="vaux"/></l><r>трябва<s n="vaux"/></r></p></e>
+<e><p><l>има<s n="vbhaver"/></l><r>има<s n="vbhaver"/></r></p></e>
 
 <e><p><l>бара<s n="vblex"/></l><r>търси<s n="vblex"/></r></p></e>
 <e c="v0"><p><l>благодари<s n="vblex"/></l><r>благодари<s n="vblex"/></r></p></e>

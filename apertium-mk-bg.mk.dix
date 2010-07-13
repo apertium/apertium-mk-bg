@@ -2923,6 +2923,9 @@
     <e lm="како"><i>како</i><par n="в__pr"/></e> <!-- TODO: CHECK -->
     <e lm="долж"><i>долж</i><par n="в__pr"/></e>
     <e lm="наспрема"><i>наспрема</i><par n="в__pr"/></e>
+	<e lm="отколку"><i>отколку</i><par n="в__pr"/></e>
+	<e lm="у"><i>у</i><par n="в__pr"/></e>
+	<e lm="ипокрај"><i>ипокрај</i><par n="в__pr"/></e>
 
  
     <!-- Pronouns -->
@@ -5147,6 +5150,7 @@
 
 <!-- Глаголи -->
     <e lm="е"><i/><par n="/е__vbser"/></e>			<!-- to be -->
+    <e lm="има"><i/><par n="има__vbhaver"/></e>
 
     <e lm="мора"><i>мора</i><par n="мора__vaux"/></e>		<!-- must -->
 
@@ -6614,7 +6618,12 @@
     <!-- Adverbs of manner -->
     <e lm="како"><i>како</i><par n="како__adv"/></e>
     <e lm="така"><i>така</i><par n="како__adv"/></e>
-
+	<e lm="официјално"><i>официјално</i><par n="не__adv"/></e>
+	<e lm="вкупно"><i>вкупно</i><par n="не__adv"/></e>
+	<e lm="годишно"><i>годишно</i><par n="не__adv"/></e>
+	<e lm="добро"><i>добро</i><par n="не__adv"/></e>
+	
+	
     <!-- Adverbs of quantitiy -->
     <e lm="толку"><i>толку</i><par n="како__adv"/></e>
     <e lm="многу"><i>многу</i><par n="како__adv"/></e>
@@ -6634,6 +6643,26 @@
     <e lm="таму"><i>таму</i><par n="како__adv"/></e>
 
     <!-- Other -->
+	<e lm="евентуално"><i>евентуално</i><par n="не__adv"/></e>
+	<e lm="исто"><i>исто</i><par n="не__adv"/></e>
+	<e lm="истовремено"><i>истовремено</i><par n="не__adv"/></e>
+	<e lm="лајв"><i>лајв</i><par n="не__adv"/></e>
+	<e lm="моментно"><i>моментно</i><par n="не__adv"/></e>
+	<e lm="односно"><i>односно</i><par n="не__adv"/></e>
+	<e lm="онлајн"><i>онлајн</i><par n="не__adv"/></e>
+	<e lm="отсто"><i>отсто</i><par n="не__adv"/></e>
+	<e lm="очигледно"><i>очигледно</i><par n="не__adv"/></e>
+	<e lm="подоцна"><i>подоцна</i><par n="не__adv"/></e>
+	<e lm="постепено"><i>постепено</i><par n="не__adv"/></e>
+	<e lm="првенствено"><i>првенствено</i><par n="не__adv"/></e>
+	<e lm="претежно"><i>претежно</i><par n="не__adv"/></e>
+	<e lm="претходно"><i>претходно</i><par n="не__adv"/></e>
+	<e lm="рано"><i>рано</i><par n="не__adv"/></e>
+	<e lm="скоро"><i>скоро</i><par n="не__adv"/></e>
+	<e lm="спротивно"><i>спротивно</i><par n="не__adv"/></e>
+	<e lm="сепак"><i>сепак</i><par n="не__adv"/></e>
+
+
     <e lm="целосно"><i>целосно</i><par n="не__adv"/></e>
     <e lm="предимно"><i>предимно</i><par n="не__adv"/></e>
     <e lm="ако"><i>ако</i><par n="не__adv"/></e>
@@ -6760,6 +6789,95 @@
     <e lm="м"><i>м</i><par n="км__abbr"/></e>
     <e lm="км"><i>км</i><par n="км__abbr"/></e>
     <e lm="гр"><i>гр</i><par n="км__abbr"/></e>
+	<e lm="АА"><i>АА</i><par n="км__abbr"/></e>
+	<e lm="АГ"><i>АГ</i><par n="км__abbr"/></e>
+	<e lm="АКП"><i>АКП</i><par n="км__abbr"/></e>
+	<e lm="АНА"><i>АНА</i><par n="км__abbr"/></e>
+	<e lm="АО"><i>АО</i><par n="км__abbr"/></e>
+	<e lm="АП"><i>АП</i><par n="км__abbr"/></e>
+	<e lm="АТА"><i>АТА</i><par n="км__abbr"/></e>
+	<e lm="АФП"><i>АФП</i><par n="км__abbr"/></e>
+	<e lm="БА"><i>БА</i><par n="км__abbr"/></e>
+	<e lm="БАН"><i>БАН</i><par n="км__abbr"/></e>
+	<e lm="ББЦ"><i>ББЦ</i><par n="км__abbr"/></e>
+	<e lm="БВ"><i>БВ</i><par n="км__abbr"/></e>
+	<e lm="БВБ"><i>БВБ</i><par n="км__abbr"/></e>
+	<e lm="БГНЕС"><i>БГНЕС</i><par n="км__abbr"/></e>
+	<e lm="БИРН"><i>БИРН</i><par n="км__abbr"/></e>
+	<e lm="БМВ"><i>БМВ</i><par n="км__abbr"/></e>
+	<e lm="БНБ"><i>БНБ</i><par n="км__abbr"/></e>
+	<e lm="БНР"><i>БНР</i><par n="км__abbr"/></e>
+	<e lm="БНТ"><i>БНТ</i><par n="км__abbr"/></e>
+	<e lm="БОК"><i>БОК</i><par n="км__abbr"/></e>
+	<e lm="БСП"><i>БСП</i><par n="км__abbr"/></e>
+	<e lm="БТА"><i>БТА</i><par n="км__abbr"/></e>
+	<e lm="БФ"><i>БФ</i><par n="км__abbr"/></e>
+	<e lm="БиХ"><i>БиХ</i><par n="км__abbr"/></e>
+	<e lm="ВМРО"><i>ВМРО</i><par n="км__abbr"/></e>
+	<e lm="ВОА"><i>ВОА</i><par n="км__abbr"/></e>
+	<e lm="ДЗИ"><i>ДЗИ</i><par n="км__abbr"/></e>
+	<e lm="ДП"><i>ДП</i><par n="км__abbr"/></e>
+	<e lm="ДПА"><i>ДПА</i><par n="км__abbr"/></e>
+	<e lm="ДС"><i>ДС</i><par n="км__abbr"/></e>
+	<e lm="ДСК"><i>ДСК</i><par n="км__abbr"/></e>
+	<e lm="ДСС"><i>ДСС</i><par n="км__abbr"/></e>
+	<e lm="ДУИ"><i>ДУИ</i><par n="км__abbr"/></e>
+	<e lm="ЕБРД"><i>ЕБРД</i><par n="км__abbr"/></e>
+	<e lm="ЕК"><i>ЕК</i><par n="км__abbr"/></e>
+	<e lm="ЕОД"><i>ЕОД</i><par n="км__abbr"/></e>
+	<e lm="ЕОН"><i>ЕОН</i><par n="км__abbr"/></e>
+	<e lm="ЕП"><i>ЕП</i><par n="км__abbr"/></e>
+	<e lm="ЕУ"><i>ЕУ</i><par n="км__abbr"/></e>
+	<e lm="ЕУФОР"><i>ЕУФОР</i><par n="км__abbr"/></e>
+	<e lm="КФОР"><i>КФОР</i><par n="км__abbr"/></e>
+	<e lm="МИА"><i>МИА</i><par n="км__abbr"/></e>
+	<e lm="ММФ"><i>ММФ</i><par n="км__abbr"/></e>
+	<e lm="МПА"><i>МПА</i><par n="км__abbr"/></e>
+	<e lm="НАТО"><i>НАТО</i><par n="км__abbr"/></e>
+	<e lm="НТВ"><i>НТВ</i><par n="км__abbr"/></e>
+	<e lm="ОБСЕ"><i>ОБСЕ</i><par n="км__abbr"/></e>
+	<e lm="ОВК"><i>ОВК</i><par n="км__abbr"/></e>
+	<e lm="ОН"><i>ОН</i><par n="км__abbr"/></e>
+	<e lm="ООН"><i>ООН</i><par n="км__abbr"/></e>
+	<e lm="ОУ"><i>ОУ</i><par n="км__abbr"/></e>
+	<e lm="ОХР"><i>ОХР</i><par n="км__abbr"/></e>
+	<e lm="ПАСОК"><i>ПАСОК</i><par n="км__abbr"/></e>
+	<e lm="ПБС"><i>ПБС</i><par n="км__abbr"/></e>
+	<e lm="ПКК"><i>ПКК</i><par n="км__abbr"/></e>
+	<e lm="ПНЛ"><i>ПНЛ</i><par n="км__abbr"/></e>
+	<e lm="ПСД"><i>ПСД</i><par n="км__abbr"/></e>
+	<e lm="РС"><i>РС</i><par n="км__abbr"/></e>
+	<e lm="РТК"><i>РТК</i><par n="км__abbr"/></e>
+	<e lm="РТРС"><i>РТРС</i><par n="км__abbr"/></e>
+	<e lm="РТС"><i>РТС</i><par n="км__abbr"/></e>
+	<e lm="РФЕ"><i>РФЕ</i><par n="км__abbr"/></e>
+	<e lm="СДП"><i>СДП</i><par n="км__abbr"/></e>
+	<e lm="СДС"><i>СДС</i><par n="км__abbr"/></e>
+	<e lm="СДСМ"><i>СДСМ</i><par n="км__abbr"/></e>
+	<e lm="СНСД"><i>СНСД</i><par n="км__abbr"/></e>
+	<e lm="СП"><i>СП</i><par n="км__abbr"/></e>
+	<e lm="СРНА"><i>СРНА</i><par n="км__abbr"/></e>
+	<e lm="СРС"><i>СРС</i><par n="км__abbr"/></e>
+	<e lm="СС"><i>СС</i><par n="км__abbr"/></e>
+	<e lm="СФОР"><i>СФОР</i><par n="км__abbr"/></e>
+	<e lm="ТВ"><i>ТВ</i><par n="км__abbr"/></e>
+	<e lm="ТРТ"><i>ТРТ</i><par n="км__abbr"/></e>
+	<e lm="УНЕСКО"><i>УНЕСКО</i><par n="км__abbr"/></e>
+	<e lm="УНМИК"><i>УНМИК</i><par n="км__abbr"/></e>
+	<e lm="УПИ"><i>УПИ</i><par n="км__abbr"/></e>
+	<e lm="ФЕНА"><i>ФЕНА</i><par n="км__abbr"/></e>
+	<e lm="ФП"><i>ФП</i><par n="км__abbr"/></e>
+	<e lm="ФТ"><i>ФТ</i><par n="км__abbr"/></e>
+	<e lm="ХДЗ"><i>ХДЗ</i><par n="км__abbr"/></e>
+	<e lm="ХИВ"><i>ХИВ</i><par n="км__abbr"/></e>
+	<e lm="ХИНА"><i>ХИНА</i><par n="км__abbr"/></e>
+	<e lm="ХЛЦ"><i>ХЛЦ</i><par n="км__abbr"/></e>
+	<e lm="ХРТ"><i>ХРТ</i><par n="км__abbr"/></e>
+	<e lm="ЦИК"><i>ЦИК</i><par n="км__abbr"/></e>
+	<e lm="бТВ"><i>бТВ</i><par n="км__abbr"/></e>
+	<e lm="бг"><i>бг</i><par n="км__abbr"/></e>
+	<e lm="зам"><i>зам</i><par n="км__abbr"/></e>
+	<e lm="ул"><i>ул</i><par n="км__abbr"/></e>
   </section>
 
   <section id="prefixes" type="standard">

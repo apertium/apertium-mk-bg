@@ -63,10 +63,6 @@
 <e lm="бива"><i>бива</i><par n="бива__ij"/></e>
 <e lm="стига"><i>стига</i><par n="бива__ij"/></e>
 <!-- Abbreviations -->
-<e lm="год"><i>год</i><par n="км__abbr"/></e>
-<e lm="св"><i>св</i><par n="км__abbr"/></e>
-<e lm="др"><i>др</i><par n="км__abbr"/></e>
-<e lm="сем"><i>сем</i><par n="км__abbr"/></e>
 
 
 <!-- Adjectives -->
