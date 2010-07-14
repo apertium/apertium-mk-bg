@@ -1436,6 +1436,9 @@ pitaj Igor za 200-300  friedman p 25
 <!--
 	Adverbs
 -->
+<e><p><l>како<s n="adv"/></l><r>като<s n="adv"/></r></p></e>
+
+
 <e><p><l>официјално<s n="adv"/></l><r>официално<s n="adv"/></r></p></e>
 <e><p><l>барем<s n="adv"/></l><r>поне<s n="adv"/></r></p></e>
 <e><p><l>бегло<s n="adv"/></l><r>бегло<s n="adv"/></r></p></e>
@@ -3402,9 +3405,11 @@ pitaj Igor za 200-300  friedman p 25
 
 <e c="v0"><p><l>дека<s n="cnjsub"/></l><r>че<s n="cnjsub"/></r></p></e>
 <e r="LR" c="v1"><p><l>оти<s n="cnjsub"/></l><r>че<s n="cnjsub"/></r></p></e>
+<e r="LR" c="v2"><p><l>што<s n="cnjsub"/></l><r>че<s n="cnjsub"/></r></p></e>
 <e><p><l>ако<s n="cnjsub"/></l><r>ако<s n="cnjsub"/></r></p></e>
 <e r="LR" c="v1"><p><l>иако<s n="cnjsub"/></l><r>макар<b/>че<s n="cnjsub"/></r></p></e>
 <e c="v0"><p><l>макар<b/>што<s n="cnjsub"/></l><r>макар<b/>че<s n="cnjsub"/></r></p></e> 
+
 
 <!--
 	Prepositions
