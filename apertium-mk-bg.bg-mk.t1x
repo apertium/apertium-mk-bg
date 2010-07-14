@@ -4,7 +4,7 @@
   <section-def-cats>
     
     <def-cat n="nom">
-      <cat-item tags="n"/>
+      <cat-item tags="n.*"/>
     </def-cat>
    
   </section-def-cats>
@@ -16,7 +16,12 @@
       <attr-item tags="f"/>
       <attr-item tags="GD"/>
     </def-attr>
- 
+  
+    <def-attr n="defnes">
+      <attr-item tags="ind"/>
+      <attr-item tags="def"/>
+    </def-attr>
+
     <def-attr n="cas">
       <attr-item tags="nom"/>
       <attr-item tags="acc"/>
@@ -60,6 +65,7 @@
             <clip pos="1" side="tl" part="gen"/>
             <clip pos="1" side="tl" part="nbr"/>
             <clip pos="1" side="tl" part="cas"/>
+            <clip pos="1" side="tl" part="defnes"/>
             <clip pos="1" side="tl" part="lemq"/>
           </lu>
         </out>
