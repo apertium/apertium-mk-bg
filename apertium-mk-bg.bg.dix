@@ -8365,8 +8365,8 @@
       <e>        <p>          <l>ната</l>          <r>ен<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
       <e>        <p>          <l>но</l>          <r>ен<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>ното</l>          <r>ен<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>ни</l>          <r>ен<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ните</l>          <r>ен<s n="adj"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ни</l>          <r>ен<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ните</l>          <r>ен<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
     </pardef>
 
  <!-- окончание ЕН с предхождаща гласна  -->

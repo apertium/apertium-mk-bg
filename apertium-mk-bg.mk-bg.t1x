@@ -53,6 +53,8 @@
     <def-attr n="defnes">
       <attr-item tags="ind"/>
       <attr-item tags="def"/>
+      <attr-item tags="def.obj"/>
+      <attr-item tags="def.subj"/>
       <attr-item tags="prx"/>
       <attr-item tags="dst"/>
     </def-attr>
@@ -133,6 +135,32 @@ output: def
 
 		</when>
 	</choose>
+	<choose> 		<!-- if -->
+		<when>
+			<test>
+				<and>
+					<equal>
+						<clip pos="1" side="tl" part="gen"/>  
+						<lit-tag v="m"/>
+					</equal>
+					<equal>
+						<clip pos="1" side="tl" part="nbr"/>  
+						<lit-tag v="sg"/>
+					</equal>
+					<equal>
+						<clip pos="1" side="tl" part="defnes"/>  
+						<lit-tag v="def"/>
+					</equal>
+				</and>
+			</test>
+			<let>
+				<clip pos="1" side="tl" part="defnes"/> 
+				<lit-tag v="def.obj"/>
+			</let>
+
+		</when>
+	</choose>
+
         <out>
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
@@ -141,7 +169,6 @@ output: def
             <clip pos="1" side="tl" part="nbr"/>
             <clip pos="1" side="tl" part="cas"/>
             <clip pos="1" side="tl" part="defnes"/>
-
             <clip pos="1" side="tl" part="lemq"/>
 
           </lu>
