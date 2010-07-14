@@ -1906,11 +1906,15 @@
      <e>       <p>         <l>чии</l>         <r>кој<s n="prn"/><s n="neg"/><s n="mfn"/><s n="pl"/><s n="gen"/></r></p></e>
    </pardef>
 
-    <pardef n="ко/јшто__rel">
-      <e>        <p>          <l>јшто</l>       <r>јшто<s n="prn"/><s n="rel"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e>        <p>          <l>јашто</l>      <r>јшто<s n="prn"/><s n="rel"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e>        <p>          <l>ешто</l>       <r>јшто<s n="prn"/><s n="rel"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e>        <p>          <l>ишто</l>       <r>јшто<s n="prn"/><s n="rel"/><s n="mfn"/><s n="pl"/><s n="nom"/></r></p></e>
+    <pardef n="/којшто__rel">
+      <e>        <p>          <l>којшто</l>       <r>којшто<s n="prn"/><s n="rel"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>        <p>          <l>којашто</l>      <r>којшто<s n="prn"/><s n="rel"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>        <p>          <l>коешто</l>       <r>којшто<s n="prn"/><s n="rel"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>        <p>          <l>коишто</l>       <r>којшто<s n="prn"/><s n="rel"/><s n="mfn"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>        <p>          <l>чијшто</l>       <r>којшто<s n="prn"/><s n="rel"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>        <p>          <l>чијашто</l>      <r>којшто<s n="prn"/><s n="rel"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>        <p>          <l>чиешто</l>       <r>којшто<s n="prn"/><s n="rel"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>        <p>          <l>чиишто</l>       <r>којшто<s n="prn"/><s n="rel"/><s n="mfn"/><s n="pl"/><s n="gen"/></r></p></e>
     </pardef>
 
 <!--add dst and prx articles  vvvv -->
@@ -2941,7 +2945,7 @@
     <e lm="clitic personal pronouns"><i/><par n="personal_pronouns__clt"/></e> 
 
     <e lm="кој"><i>ко</i><par n="ко/ј__rel"/></e>
-    <e lm="којшто"><i>ко</i><par n="ко/јшто__rel"/></e>
+    <e lm="којшто"><i></i><par n="/којшто__rel"/></e>
 
     <e lm="некој"><i>неко</i><par n="неко/ј__prn"/></e>
     <e lm="секој"><i>секо</i><par n="секо/ј__prn"/></e>
