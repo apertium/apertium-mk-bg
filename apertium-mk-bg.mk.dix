@@ -163,12 +163,12 @@
    </pardef>
 
    <pardef n="им/а__vbhaver">
-     <e>        <p>          <l>ам</l>           <r>a<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-     <e>        <p>          <l>аш</l>           <r>a<s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-     <e>        <p>          <l>а</l>               <r>a<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-     <e>        <p>          <l>аме</l>          <r>a<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
-     <e>        <p>          <l>ате</l>          <r>a<s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
-     <e>        <p>          <l>аат</l>          <r>a<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+     <e>        <p>          <l>ам</l>           <r>а<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+     <e>        <p>          <l>аш</l>           <r>а<s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+     <e>        <p>          <l>а</l>               <r>а<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+     <e>        <p>          <l>аме</l>          <r>а<s n="vbhaver"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+     <e>        <p>          <l>ате</l>          <r>а<s n="vbhaver"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+     <e>        <p>          <l>аат</l>          <r>а<s n="vbhaver"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
    </pardef>
 
 	<!-- par: може		group: e		cat_type: non-finite		modall: yes	-->
