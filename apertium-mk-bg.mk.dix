@@ -35,7 +35,6 @@
     <sdef n="vaux"    c="Auxilliary verb"/>	
     <sdef n="vbhaver" c="The verb 'to have'"/>
     <sdef n="vbmod"   c="Modal verb"/>
-    <sdef n="pres"    c="Present indicative"/>
     <sdef n="pii"     c="Imperfect indicative"/>
     <sdef n="past"    c="Past tense"/>
     <sdef n="pres"    c="Present tense"/>
@@ -44,6 +43,9 @@
     <sdef n="fti"     c="Future indicative"/>
     <sdef n="imp"     c="Imperative"/>
     <sdef n="dee"     c="Adverbial participle, деепричастие"/>
+    <sdef n="lp"      c="L-participle минало деятелно причастие"/>
+    <sdef n="pp"      c="Past participle"/>
+
 
 
     <sdef n="pref"    c="Prefix"/>
@@ -119,8 +121,6 @@
     <sdef n="det"     c="Determiner"/>
     <sdef n="dem"     c="Demonstrative"/>
     <sdef n="ger"     c="Gerund"/>
-    <sdef n="pp"      c="Past participle"/>
-    <sdef n="lp"      c="L-participle"/>
     <sdef n="cni"     c="Conditional"/>
     <sdef n="prs"     c="Present subjunctive"/>
     <sdef n="pis"     c="Pretério imperfecto de subjunctivo"/>
