@@ -45,6 +45,8 @@
     <sdef n="ct"/>
     <sdef n="sp"/>
 
+    <sdef n="apprx"		c="approximation form of numeral"/>
+
     <sdef n="nom"/>
     <sdef n="acc"/>
     <sdef n="dat"/>
@@ -138,46 +140,94 @@
       <e>        <re>[0-9]+([0-9]+)?</re>        <p>          <l>млн</l>          <r>млн<s n="num"/></r></p></e>
     </pardef>
 
+    <pardef n="нул/а__num">
+      <e>        <p>          <l>а</l>          <r>а<s n="num"/><s n="mfn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ата</l>        <r>а<s n="num"/><s n="mfn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>и</l>          <r>а<s n="num"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ите</l>        <r>а<s n="num"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+
+
     <pardef n="ед/ин__num">
       <e>        <p>          <l>ин</l>          <r>ин<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>на</l>          <r>ин<s n="num"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>но</l>          <r>ин<s n="num"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ни</l>          <r>ин<s n="num"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>иният</l>       <r>ин<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>на</l>          <r>ин<s n="num"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>ната</l>        <r>ин<s n="num"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>но</l>          <r>ин<s n="num"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>ното</l>        <r>ин<s n="num"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ни</l>          <r>ин<s n="num"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>ните</l>        <r>ин<s n="num"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
     </pardef>
 
     <pardef n="дв/а__num">
-      <e>        <p>          <l>а</l>          <r>а<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ама</l>        <r>а<s n="num"/><s n="ma"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>е</l>          <r>а<s n="num"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>е</l>          <r>а<s n="num"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ата</l>        <r>а<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>амата</l>      <r>а<s n="num"/><s n="ma"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>ете</l>        <r>а<s n="num"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>ете</l>        <r>а<s n="num"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>а</l>          <r>а<s n="num"/><s n="m"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ата</l>        <r>а<s n="num"/><s n="m"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ама</l>        <r>а<s n="num"/><s n="ma"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>амата</l>      <r>а<s n="num"/><s n="ma"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>е</l>          <r>а<s n="num"/><s n="nt"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ете</l>        <r>а<s n="num"/><s n="nt"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>е</l>          <r>а<s n="num"/><s n="f"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ете</l>        <r>а<s n="num"/><s n="f"/><s n="nom"/><s n="def"/></r></p></e>
     </pardef>
 
     <pardef n="три__num">
-      <e>        <p>          <l></l>          <r><s n="num"/><s n="mfn"/><s n="sp"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ма</l>        <r><s n="num"/><s n="ma"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>те</l>        <r><s n="num"/><s n="mfn"/><s n="sp"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>мата</l>      <r><s n="num"/><s n="ma"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l></l>          <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>те</l>        <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ма</l>        <r><s n="num"/><s n="ma"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>мата</l>      <r><s n="num"/><s n="ma"/><s n="nom"/><s n="def"/></r></p></e>
     </pardef>
 
     <pardef n="пет__num">
-      <e>        <p>          <l></l>          <r><s n="num"/><s n="mfn"/><s n="sp"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>има</l>       <r><s n="num"/><s n="ma"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>те</l>        <r><s n="num"/><s n="mfn"/><s n="sp"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>имата</l>     <r><s n="num"/><s n="ma"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l></l>          <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>те</l>        <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>има</l>       <r><s n="num"/><s n="ma"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>имата</l>     <r><s n="num"/><s n="ma"/><s n="nom"/><s n="def"/></r></p></e>
     </pardef>
 
-    <pardef n="сто__num">
-      <e>        <p>          <l></l>          <r><s n="num"/><s n="mfn"/><s n="sp"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>те</l>        <r><s n="num"/><s n="mfn"/><s n="sp"/><s n="nom"/><s n="def"/></r></p></e>
+
+    <pardef n="сед/ем__num">
+      <e>        <p>          <l>ем</l>          <r>ем<s n="num"/><s n="mfn"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>емте</l>        <r>ем<s n="num"/><s n="mfn"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>мина</l>       <r>ем<s n="num"/><s n="ma"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>мината</l>     <r>ем<s n="num"/><s n="ma"/><s n="nom"/><s n="def"/></r></p></e>
     </pardef>
+
+
+    <pardef n="десет__num">
+      <e>        <p>          <l></l>          <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>те</l>        <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>има</l>       <r><s n="num"/><s n="ma"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>имата</l>     <r><s n="num"/><s n="ma"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ина</l>       <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ината</l>     <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+
+
+    <pardef n="сто__num">
+      <e>        <p>          <l></l>          <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>те</l>        <r><s n="num"/><s n="mfn"/><s n="sp"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>тина</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>тината</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+
+    <pardef n="четиристотин__num">
+      <e>        <p>          <l></l>          <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>те</l>        <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>а</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ата</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+
+    <pardef n="милион__num"> 
+     <e>        <p>          <l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>        <p>          <l>а</l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="obj"/></r></p></e>
+     <e>        <p>          <l>ът</l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="subj"/></r></p></e>
+     <e>        <p>          <l></l>          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>        <p>          <l></l>          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>        <p>          <l>и</l>          <r><s n="n"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>        <p>          <l>ите</l>          <r><s n="n"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+	</pardef>
+
+
 
     <!-- Prepositions -->
     <pardef n="във__pr">
@@ -5744,39 +5794,65 @@
 
 
     <!-- Numerals -->
-
+    <e lm="нула"><i>нул</i><par n="нул/а__num"/></e>
     <e lm="един"><i>ед</i><par n="ед/ин__num"/></e>
     <e lm="два"><i>дв</i><par n="дв/а__num"/></e>
     <e lm="три"><i>три</i><par n="три__num"/></e>
     <e lm="четири"><i>четири</i><par n="три__num"/></e>
     <e lm="пет"><i>пет</i><par n="пет__num"/></e>
     <e lm="шест"><i>шест</i><par n="пет__num"/></e>
+    <e lm="седем"><i>седем</i><par n="сед/ем__num"/></e>
+    <e lm="осем"><i>осем</i><par n="сед/ем__num"/></e>
+    <e lm="девет"><i>девет</i><par n="пет__num"/></e>
 
-    <e lm="седем"><i>седем</i><par n="сто__num"/></e>
-    <e lm="осем"><i>осем</i><par n="сто__num"/></e>
-    <e lm="девет"><i>девет</i><par n="сто__num"/></e>
+    <e lm="десет"><i>десет</i><par n="десет__num"/></e>
+    <e lm="единадесет"><i>единадесет</i><par n="десет__num"/></e>
+	<e lm="единадесет" r="LR"><p><l>единадесет</l><r>единайсет</r></p><par n="десет__num"/></e>
+    <e lm="дванадесет"><i>дванадесет</i><par n="десет__num"/></e>
+	<e lm="дванадесет" r="LR"><p><l>дванадесет</l><r>дванайсет</r></p><par n="десет__num"/></e>
+    <e lm="тринадесет"><i>тринадесет</i><par n="десет__num"/></e>
+	<e lm="тринадесет" r="LR"><p><l>тринадесет</l><r>тринайсет</r></p><par n="десет__num"/></e>
+    <e lm="четиринадесет"><i>четиринадесет</i><par n="десет__num"/></e>
+	<e lm="четиринадесет" r="LR"><p><l>четиринадесет</l><r>четиринайсет</r></p><par n="десет__num"/></e>
+    <e lm="петнадесет"><i>петнадесет</i><par n="десет__num"/></e>
+	<e lm="петнадесет" r="LR"><p><l>петнадесет</l><r>петнайсет</r></p><par n="десет__num"/></e>
+    <e lm="шестнадесет"><i>шестнадесет</i><par n="десет__num"/></e>
+	<e lm="шестнадесет" r="LR"><p><l>шестнадесет</l><r>шестнайсет</r></p><par n="десет__num"/></e>
+    <e lm="седемнадесет"><i>седемнадесет</i><par n="десет__num"/></e>
+	<e lm="седемнадесет" r="LR"><p><l>седемнадесет</l><r>седемнайсет</r></p><par n="десет__num"/></e>
+    <e lm="осемнадесет"><i>осемнадесет</i><par n="десет__num"/></e>
+	<e lm="осемнадесет" r="LR"><p><l>осемнадесет</l><r>осемнайсет</r></p><par n="десет__num"/></e>
+    <e lm="деветнадесет"><i>деветнадесет</i><par n="десет__num"/></e>
+	<e lm="деветнадесет" r="LR"><p><l>деветнадесет</l><r>деветнайсет</r></p><par n="десет__num"/></e>
 
-    <e lm="десет"><i>десет</i><par n="сто__num"/></e>
-    <e lm="единадесет"><i>единадесет</i><par n="сто__num"/></e>
-    <e lm="дванадесет"><i>дванадесет</i><par n="сто__num"/></e>
-    <e lm="тринадесет"><i>тринадесет</i><par n="сто__num"/></e>
-    <e lm="четиринадесет"><i>четиринадесет</i><par n="сто__num"/></e>
-    <e lm="петнадесет"><i>петнадесет</i><par n="сто__num"/></e>
-    <e lm="шестнадесет"><i>шестнадесет</i><par n="сто__num"/></e>
-    <e lm="седемнадесет"><i>седемнадесет</i><par n="сто__num"/></e>
-    <e lm="осемнадесет"><i>осемнадесет</i><par n="сто__num"/></e>
-    <e lm="деветнадесет"><i>деветнадесет</i><par n="сто__num"/></e>
-
-    <e lm="двадесет"><i>двадесет</i><par n="пет__num"/></e>
-    <e lm="тридесет"><i>тридесет</i><par n="пет__num"/></e>
-    <e lm="четиридесет"><i>четиридесет</i><par n="пет__num"/></e>
-    <e lm="петдесет"><i>петдесет</i><par n="пет__num"/></e>
-    <e lm="шестдесет"><i>шестдесет</i><par n="пет__num"/></e>
-    <e lm="седемдесет"><i>седемдесет</i><par n="пет__num"/></e>
-    <e lm="осемдесет"><i>осемдесет</i><par n="пет__num"/></e>
-    <e lm="деветдесет"><i>деветдесет</i><par n="пет__num"/></e>
+    <e lm="двадесет"><i>двадесет</i><par n="десет__num"/></e>
+	<e lm="двадесет" r="LR"><p><l>двадесет</l><r>двайсет</r></p><par n="десет__num"/></e>
+    <e lm="тридесет"><i>тридесет</i><par n="десет__num"/></e>
+	<e lm="тридесет" r="LR"><p><l>тридесет</l><r>трийсет</r></p><par n="десет__num"/></e>
+    <e lm="четиридесет"><i>четиридесет</i><par n="десет__num"/></e>
+	<e lm="четиридесет" r="LR"><p><l>четиридесет</l><r>четирийсет</r></p><par n="десет__num"/></e>
+    <e lm="петдесет"><i>петдесет</i><par n="десет__num"/></e>
+    <e lm="шестдесет"><i>шестдесет</i><par n="десет__num"/></e>
+	<e lm="шестдесет" r="LR"><p><l>шестдесет</l><r>шейсет</r></p><par n="десет__num"/></e>
+    <e lm="седемдесет"><i>седемдесет</i><par n="десет__num"/></e>
+    <e lm="осемдесет"><i>осемдесет</i><par n="десет__num"/></e>
+    <e lm="деветдесет"><i>деветдесет</i><par n="десет__num"/></e>
 
     <e lm="сто"><i>сто</i><par n="сто__num"/></e>
+    <e lm="двеста"><i>двеста</i><par n="сто__num"/></e>
+    <e lm="триста"><i>триста</i><par n="сто__num"/></e>
+    <e lm="четиристотин"><i>четиристотин</i><par n="четиристотин__num"/></e>
+    <e lm="петстотин"><i>петстотин</i><par n="четиристотин__num"/></e>
+    <e lm="шестстотин"><i>шестстотин</i><par n="четиристотин__num"/></e>
+    <e lm="седемстотин"><i>седемстотин</i><par n="четиристотин__num"/></e>
+    <e lm="осемстотин"><i>осемстотин</i><par n="четиристотин__num"/></e>
+    <e lm="деветстотин"><i>деветстотин</i><par n="четиристотин__num"/></e>
+
+    <e lm="хиляда"><i>хиляд</i><par n="нул/а__num"/></e>
+    <e lm="милион"><i>милион</i><par n="милион__num"/></e>
+    <e lm="милиард"><i>милиард</i><par n="милион__num"/></e>
+    <e lm="трилион"><i>трилион</i><par n="милион__num"/></e>
+
 
 <!--
 	NOUNS
