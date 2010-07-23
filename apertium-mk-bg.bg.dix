@@ -150,7 +150,8 @@
 
     <pardef n="ед/ин__num">
       <e>        <p>          <l>ин</l>          <r>ин<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>иният</l>       <r>ин<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>иния</l>       <r>ин<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="obj"/></r></p></e>
+      <e>        <p>          <l>иният</l>       <r>ин<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="subj"/></r></p></e>
       <e>        <p>          <l>на</l>          <r>ин<s n="num"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>ната</l>        <r>ин<s n="num"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
       <e>        <p>          <l>но</l>          <r>ин<s n="num"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -226,6 +227,53 @@
      <e>        <p>          <l>и</l>          <r><s n="n"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
      <e>        <p>          <l>ите</l>          <r><s n="n"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
 	</pardef>
+
+
+
+
+ <!-- Редни числителни -->
+    <pardef n="п/ърви__num">      
+      <e r="LR"> <p>          <l>ръв</l>       <r>ърви<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ърви</l>      <r>ърви<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ървия</l>     <r>ърви<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="obj"/></r></p></e>
+      <e>        <p>          <l>ървият</l>    <r>ърви<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="subj"/></r></p></e>
+      <e>        <p>          <l>ърва</l>      <r>ърви<s n="num"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ървата</l>    <r>ърви<s n="num"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ърво</l>      <r>ърви<s n="num"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ървото</l>    <r>ърви<s n="num"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ърви</l>      <r>ърви<s n="num"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ървите</l>    <r>ърви<s n="num"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+
+    <pardef n="втор/и__num">
+      <e>        <p>          <l>и</l>          <r>и<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ия</l>          <r>и<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="obj"/></r></p></e>
+      <e>        <p>          <l>ият</l>          <r>и<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="subj"/></r></p></e>
+      <e>        <p>          <l>а</l>          <r>и<s n="num"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ата</l>          <r>и<s n="num"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>о</l>          <r>и<s n="num"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ото</l>          <r>и<s n="num"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>и</l>          <r>и<s n="num"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ите</l>          <r>и<s n="num"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+
+
+    <pardef n="стот/ен__num">
+      <e>        <p>          <l>ен</l>          <r>ен<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ния</l>          <r>ен<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="obj"/></r></p></e>
+      <e>        <p>          <l>ният</l>          <r>ен<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="subj"/></r></p></e>
+      <e>        <p>          <l>на</l>          <r>ен<s n="num"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ната</l>          <r>ен<s n="num"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>но</l>          <r>ен<s n="num"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ното</l>          <r>ен<s n="num"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ни</l>          <r>ен<s n="num"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ните</l>          <r>ен<s n="num"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+
+
+
+
+
 
 
 
@@ -4138,33 +4186,6 @@
       <e>        <p>          <l>най-</l>          <r>adj<s n="pref"/><s n="sup"/><j/></r></p></e>
     </pardef>
 
- <!-- Редни числителни -->
-    <pardef n="п/ърви__adj">      
-      <e r="LR"> <p>          <l>ръв</l>       <r>ърви<s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ърви</l>      <r>ърви<s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ървия</l>     <r>ърви<s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="obj"/></r></p></e>
-      <e>        <p>          <l>ървият</l>    <r>ърви<s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="subj"/></r></p></e>
-      <e>        <p>          <l>ърва</l>      <r>ърви<s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ървата</l>    <r>ърви<s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>ърво</l>      <r>ърви<s n="adj"/><s n="ord"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ървото</l>    <r>ърви<s n="adj"/><s n="ord"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>ърви</l>      <r>ърви<s n="adj"/><s n="ord"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ървите</l>    <r>ърви<s n="adj"/><s n="ord"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-    </pardef>
-
-    <pardef n="втор/и__adj">
-      <e>        <p>          <l>и</l>          <r>и<s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ия</l>          <r>и<s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="obj"/></r></p></e>
-      <e>        <p>          <l>ият</l>          <r>и<s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="subj"/></r></p></e>
-      <e>        <p>          <l>а</l>          <r>и<s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ата</l>          <r>и<s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>о</l>          <r>и<s n="adj"/><s n="ord"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ото</l>          <r>и<s n="adj"/><s n="ord"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>и</l>          <r>и<s n="adj"/><s n="ord"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>ите</l>          <r>и<s n="adj"/><s n="ord"/><s n="mf"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-    </pardef>
-
-
  <!-- несколняемо    -->
     <pardef n="екстра__adj"> 
       <e>        <p>          <l></l>          <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -5805,6 +5826,11 @@
     <e lm="осем"><i>осем</i><par n="сед/ем__num"/></e>
     <e lm="девет"><i>девет</i><par n="пет__num"/></e>
 
+										<!--
+!!!!!												Do the ones below have to be LR or RL!!!!! Ask Fran!!!!
+													Also the ones with the втор/и paradigm
+														-->
+
     <e lm="десет"><i>десет</i><par n="десет__num"/></e>
     <e lm="единадесет"><i>единадесет</i><par n="десет__num"/></e>
 	<e lm="единадесет" r="LR"><p><l>единадесет</l><r>единайсет</r></p><par n="десет__num"/></e>
@@ -5852,6 +5878,80 @@
     <e lm="милион"><i>милион</i><par n="милион__num"/></e>
     <e lm="милиард"><i>милиард</i><par n="милион__num"/></e>
     <e lm="трилион"><i>трилион</i><par n="милион__num"/></e>
+
+
+	<e lm="първи"><i>п</i><par n="п/ърви__num"/></e>
+	<e lm="втори"><i>втор</i><par n="втор/и__num"/></e>
+	<e lm="трети"><i>трет</i><par n="втор/и__num"/></e>
+	<e lm="четвърти"><i>четвърт</i><par n="втор/и__num"/></e>
+	<e lm="пети"><i>пет</i><par n="втор/и__num"/></e>
+	<e lm="шести"><i>шест</i><par n="втор/и__num"/></e>
+	<e lm="седми"><i>седм</i><par n="втор/и__num"/></e>
+	<e lm="осми"><i>осм</i><par n="втор/и__num"/></e>
+	<e lm="девети"><i>девет</i><par n="втор/и__num"/></e>
+	<e lm="десети"><i>десет</i><par n="втор/и__num"/></e>
+
+	<e lm="единадесети"><i>единадесет</i><par n="втор/и__num"/></e>
+	<e lm="единадесети" r="LR"><p><l>единадесет</l><r>единайсет</r></p><par n="втор/и__num"/></e>
+
+	<e lm="дванадесети"><i>дванадесет</i><par n="втор/и__num"/></e>
+	<e lm="дванадесети" r="LR"><p><l>дванадесет</l><r>дванайсет</r></p><par n="втор/и__num"/></e>
+
+	<e lm="тринадесети"><i>тринадесет</i><par n="втор/и__num"/></e>
+	<e lm="тринадесети" r="LR"><p><l>тринадесет</l><r>тринайсет</r></p><par n="втор/и__num"/></e>
+
+	<e lm="четиринадесети"><i>четиринадесет</i><par n="втор/и__num"/></e>
+	<e lm="четиринадесети" r="LR"><p><l>четиринадесет</l><r>четиринайсет</r></p><par n="втор/и__num"/></e>
+
+	<e lm="петнадесети"><i>петнадесет</i><par n="втор/и__num"/></e>
+	<e lm="петнадесети" r="LR"><p><l>петнадесет</l><r>петнайсет</r></p><par n="втор/и__num"/></e>
+
+	<e lm="шестнадесети"><i>шестнадесет</i><par n="втор/и__num"/></e>
+	<e lm="шестнадесети" r="LR"><p><l>шестнадесет</l><r>шестнайсет</r></p><par n="втор/и__num"/></e>
+
+	<e lm="седемнадесети"><i>седемнадесет</i><par n="втор/и__num"/></e>
+	<e lm="седемнадесети" r="LR"><p><l>седемнадесет</l><r>седемнайсет</r></p><par n="втор/и__num"/></e>
+
+	<e lm="осемнадесети"><i>осемнадесет</i><par n="втор/и__num"/></e>
+	<e lm="осемнадесети" r="LR"><p><l>осемнадесет</l><r>осемнайсет</r></p><par n="втор/и__num"/></e>
+
+	<e lm="деветнадесети"><i>деветнадесет</i><par n="втор/и__num"/></e>
+	<e lm="деветнадесети" r="LR"><p><l>деветнадесет</l><r>деветнайсет</r></p><par n="втор/и__num"/></e>
+
+	<e lm="двадесети"><i>двадесет</i><par n="втор/и__num"/></e>
+	<e lm="двадесети" r="LR"><p><l>двадесет</l><r>двайсет</r></p><par n="втор/и__num"/></e>
+
+	<e lm="тридесети"><i>тридесет</i><par n="втор/и__num"/></e>
+	<e lm="тридесети" r="LR"><p><l>тридесет</l><r>трийсет</r></p><par n="втор/и__num"/></e>
+
+	<e lm="четиридесети"><i>четиридесет</i><par n="втор/и__num"/></e>
+	<e lm="четиридесети" r="LR"><p><l>четиридесет</l><r>четирийсет</r></p><par n="втор/и__num"/></e>
+
+	<e lm="петдесети"><i>петдесет</i><par n="втор/и__num"/></e>
+
+	<e lm="шестдесети"><i>шестдесет</i><par n="втор/и__num"/></e>
+	<e lm="шестдесети" r="LR"><p><l>шестдесет</l><r>шейсет</r></p><par n="втор/и__num"/></e>
+
+	<e lm="седемдесети"><i>седемдесет</i><par n="втор/и__num"/></e>
+
+	<e lm="осемдесети"><i>осемдесет</i><par n="втор/и__num"/></e>
+
+	<e lm="деветдесети"><i>деветдесет</i><par n="втор/и__num"/></e>
+	
+	<e lm="стотен"><i>стот</i><par n="стот/ен__num"/></e>
+	<e lm="двестотен"><i>двестот</i><par n="стот/ен__num"/></e>
+	<e lm="тристотен"><i>тристот</i><par n="стот/ен__num"/></e>
+	<e lm="четиристотен"><i>четиристот</i><par n="стот/ен__num"/></e>
+	<e lm="петстотен"><i>петстот</i><par n="стот/ен__num"/></e>
+	<e lm="шестстотен"><i>шестстот</i><par n="стот/ен__num"/></e>
+	<e lm="седемстотен"><i>седемстот</i><par n="стот/ен__num"/></e>
+	<e lm="осемстотен"><i>осемстот</i><par n="стот/ен__num"/></e>
+	<e lm="деветстотен"><i>деветстот</i><par n="стот/ен__num"/></e>
+	
+	<e lm="хиляден"><i>хиляд</i><par n="стот/ен__num"/></e>
+	<e lm="милионен"><i>милион</i><par n="стот/ен__num"/></e>
+	<e lm="милярден"><i>милярд</i><par n="стот/ен__num"/></e>
+
 
 
 <!--
@@ -7421,17 +7521,6 @@
 
 	<e lm="бивш"><par n="P__adj"/><i>бивш</i><par n="бивш__adj"/></e>
 	<e lm="низш"><par n="P__adj"/><i>низш</i><par n="бивш__adj"/></e>
-
-	<e lm="първи"><par n="P__adj"/><i>п</i><par n="п/ърви__adj"/></e>
-	<e lm="втори"><par n="P__adj"/><i>втор</i><par n="втор/и__adj"/></e>
-	<e lm="трети"><par n="P__adj"/><i>трет</i><par n="втор/и__adj"/></e>
-	<e lm="четвърти"><par n="P__adj"/><i>четвърт</i><par n="втор/и__adj"/></e>
-	<e lm="пети"><par n="P__adj"/><i>пет</i><par n="втор/и__adj"/></e>
-	<e lm="шести"><par n="P__adj"/><i>шест</i><par n="втор/и__adj"/></e>
-	<e lm="седми"><par n="P__adj"/><i>седм</i><par n="втор/и__adj"/></e>
-	<e lm="осми"><par n="P__adj"/><i>осм</i><par n="втор/и__adj"/></e>
-	<e lm="девети"><par n="P__adj"/><i>девет</i><par n="втор/и__adj"/></e>
-	<e lm="единадесети"><par n="P__adj"/><i>единадесет</i><par n="втор/и__adj"/></e>
 
 	<e lm="гръцки"><par n="P__adj"/><i>гръцк</i><par n="югославск/и__adj"/></e>
 	<e lm="исторически"><par n="P__adj"/><i>историческ</i><par n="югославск/и__adj"/></e>
