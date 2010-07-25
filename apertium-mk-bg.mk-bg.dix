@@ -66,136 +66,39 @@
 -->
 
 
-<!--
-	Personal -> в парадигмите да се включат пълните форми за вин и дат падеж
--->
+<!--	Personal -->
+<e><p><l>personal pronouns<s n="prn"/><s n="pers"/></l><r>personal pronouns<s n="prn"/><s n="pers"/></r></p></e>
+<e><p><l>clitic personal pronouns<s n="prn"/><s n="pers"/></l><r>clitic personal pronouns<s n="prn"/><s n="pers"/></r></p></e>
 
-<e><p><l>free<s n="prn"/><s n="pers"/></l><r>free<s n="prn"/><s n="pers"/></r></p></e>
-
-<!--
-<e><p><l>јас<s n="prn"/><s n="pers"/></l><r>аз<s n="prn"/><s n="pers"/></r></p></e>
-<e><p><l>ти<s n="prn"/><s n="pers"/></l><r>ти<s n="prn"/><s n="pers"/></r></p></e>
-<e><p><l>тој<s n="prn"/><s n="pers"/></l><r>той<s n="prn"/><s n="pers"/></r></p></e>
-<e><p><l>таа<s n="prn"/><s n="pers"/></l><r>тя<s n="prn"/><s n="pers"/></r></p></e>
-<e><p><l>тоа<s n="prn"/><s n="pers"/></l><r>то<s n="prn"/><s n="pers"/></r></p></e>
-<e><p><l>ние<s n="prn"/><s n="pers"/></l><r>ние<s n="prn"/><s n="pers"/></r></p></e>
-<e><p><l>вие<s n="prn"/><s n="pers"/></l><r>вие<s n="prn"/><s n="pers"/></r></p></e>
-<e><p><l>тие<s n="prn"/><s n="pers"/></l><r>те<s n="prn"/><s n="pers"/></r></p></e>
--->
-
-<!--
-	Възвратни
--->
-<e><p><l>себе<s n="prn"/><s n="refl"/></l><r>себе<s n="prn"/><s n="refl"/></r></p></e>
-<e><p><l>си<s n="prn"/><s n="refl"/></l><r>си<s n="prn"/><s n="refl"/></r></p></e> <!--this is a clitic-->
-
-<!--
-	Clitics -> в парадигмите могат да се включат дативните форми ми ти ни...
--->
-
-<e><p><l>clitic<s n="prn"/><s n="clt"/></l><r>clitic<s n="prn"/><s n="clt"/></r></p></e>
-
-<!--
-<e><p><l>ме<s n="prn"/><s n="clt"/></l><r>ме<s n="prn"/><s n="clt"/></r></p></e>
-<e><p><l>те<s n="prn"/><s n="clt"/></l><r>те<s n="prn"/><s n="clt"/></r></p></e>
-<e><p><l>го<s n="prn"/><s n="clt"/></l><r>го<s n="prn"/><s n="clt"/></r></p></e> --><!-- м и ср род--><!--
-<e><p><l>ја<s n="prn"/><s n="clt"/></l><r>я<s n="prn"/><s n="clt"/></r></p></e>
-<e><p><l>не<s n="prn"/><s n="clt"/></l><r>ни<s n="prn"/><s n="clt"/></r></p></e>
-<e><p><l>ве<s n="prn"/><s n="clt"/></l><r>ви<s n="prn"/><s n="clt"/></r></p></e>
-<e><p><l>ги<s n="prn"/><s n="clt"/></l><r>ги<s n="prn"/><s n="clt"/></r></p></e>
--->
-
-
-<!--
-	Possessive -> форми за м ж ср род, мн ч (+членувани) и кратка форма (клитик, несклоняема)
--->
+<!--	Possessive -->
 <e><p><l>мој<s n="prn"/><s n="pos"/></l><r>мой<s n="prn"/><s n="pos"/></r></p></e>
 <e><p><l>твој<s n="prn"/><s n="pos"/></l><r>твой<s n="prn"/><s n="pos"/></r></p></e>
-<e><p><l>свој<s n="prn"/><s n="pos"/></l><r>свой<s n="prn"/><s n="pos"/></r></p></e> <!--рефлексив-->
 <e><p><l>негов<s n="prn"/><s n="pos"/></l><r>негов<s n="prn"/><s n="pos"/></r></p></e>
 <e><p><l>нејзин<s n="prn"/><s n="pos"/></l><r>неин<s n="prn"/><s n="pos"/></r></p></e>
 <e><p><l>наш<s n="prn"/><s n="pos"/></l><r>наш<s n="prn"/><s n="pos"/></r></p></e>
 <e><p><l>ваш<s n="prn"/><s n="pos"/></l><r>ваш<s n="prn"/><s n="pos"/></r></p></e>
 <e><p><l>нивен<s n="prn"/><s n="pos"/></l><r>техен<s n="prn"/><s n="pos"/></r></p></e>
+<e><p><l>clitic possessive pronouns<s n="prn"/><s n="pos"/></l><r>clitic possessive pronouns<s n="prn"/><s n="pos"/></r></p></e>
+
+<!--	Reflexive -->
+<e><p><l>reflexive pronouns<s n="prn"/><s n="refl"/></l><r>reflexive pronouns<s n="prn"/><s n="refl"/></r></p></e>
 
 
-<!--
-	DEMONSTRATIVE
-	
-	Unmarked -> these are the same as the personal in Macedonian
-	ще трябват ПРАВИЛА тук
--->
+<!--	Demonstrative -->
+<e c="v0"><p><l>тој<s n="prn"/><s n="dem"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
+<e r="LR" c="v1"><p><l>овој<s n="prn"/><s n="dem"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
+<e><p><l>оној<s n="prn"/><s n="dem"/></l><r>онзи<s n="prn"/><s n="dem"/></r></p></e>
 
-<!--tezi se sklanqt po rod i chislo и степен-->
 <e c="v0"><p><l>таков<s n="prn"/><s n="dem"/></l><r>такъв<s n="prn"/><s n="dem"/></r></p></e>
-<e r="RL" c="v1"><p><l>ваков<s n="prn"/><s n="dem"/></l><r>такъв<s n="prn"/><s n="dem"/></r></p></e>
-<e r="RL" c="v2"><p><l>онаков<s n="prn"/><s n="dem"/></l><r>такъв<s n="prn"/><s n="dem"/></r></p></e>
-<e r="RL" c="v3"><p><l>олкав<s n="prn"/><s n="dem"/></l><r>такъв<s n="prn"/><s n="dem"/></r></p></e>
-<e r="RL" c="v4"><p><l>толкав<s n="prn"/><s n="dem"/></l><r>такъв<s n="prn"/><s n="dem"/></r></p></e>
-<e r="RL" c="v5"><p><l>онолкав<s n="prn"/><s n="dem"/></l><r>такъв<s n="prn"/><s n="dem"/></r></p></e>
-<e><p><l>инаков<s n="prn"/><s n="dem"/></l><r>инакъв<s n="prn"/><s n="dem"/></r></p></e>
+<e r="LR" c="v1"><p><l>ваков<s n="prn"/><s n="dem"/></l><r>такъв<s n="prn"/><s n="dem"/></r></p></e>
+<e><p><l>онаков<s n="prn"/><s n="dem"/></l><r>онакъв<s n="prn"/><s n="dem"/></r></p></e>
+
+<e c="v0"><p><l>толкав<s n="prn"/><s n="dem"/></l><r>толкова<s n="prn"/><s n="dem"/></r></p></e>
+<e r="LR" c="v1"><p><l>олкав<s n="prn"/><s n="dem"/></l><r>толкова<s n="prn"/><s n="dem"/></r></p></e>
+<e r="LR" c="v2"><p><l>онолкав<s n="prn"/><s n="dem"/></l><r>толкова<s n="prn"/><s n="dem"/></r></p></e>
 
 
-<!--this one-->
-<e><p><l>тој<s n="prn"/><s n="dem"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
-<e r="LR"><p><l>тој<s n="prn"/><s n="prx"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
-<e r="LR"><p><l>тој<s n="prn"/><s n="dst"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
 
-
-<!-- Why are we using surface forms below ? We should only need to give the lemma and the 
-     tags. e.g. the lemma is 'toj' and the tags are prn.dem ←→ prn.dem, prn.dst → prn.dem and prn.prx → prn.dem  -->
-
-
-<!--
-<e r="RL" c="v1"><p><l>тој<s n="prn"/><s n="dem"/></l><r>тоя<s n="prn"/><s n="dem"/></r></p></e>
-<e r="RL" c="v2"><p><l>тој<s n="prn"/><s n="dem"/></l><r>тоз<s n="prn"/><s n="dem"/></r></p></e>
-
-<e c="v0"><p><l>таа<s n="prn"/><s n="dem"/></l><r>тази<s n="prn"/><s n="dem"/></r></p></e>
-<e r="RL" c="v1"><p><l>таа<s n="prn"/><s n="dem"/></l><r>тая<s n="prn"/><s n="dem"/></r></p></e>
-<e r="RL" c="v2"><p><l>таа<s n="prn"/><s n="dem"/></l><r>таз<s n="prn"/><s n="dem"/></r></p></e>
-
-<e c="v0"><p><l>тоа<s n="prn"/><s n="dem"/></l><r>това<s n="prn"/><s n="dem"/></r></p></e>
-<e r="RL" c="v1"><p><l>тоа<s n="prn"/><s n="dem"/></l><r>туй<s n="prn"/><s n="dem"/></r></p></e>
-
-<e c="v0"><p><l>тие<s n="prn"/><s n="dem"/></l><r>тези<s n="prn"/><s n="dem"/></r></p></e>
-<e r="RL" c="v1"><p><l>тие<s n="prn"/><s n="dem"/></l><r>тез<s n="prn"/><s n="dem"/></r></p></e>
-<e r="RL" c="v2"><p><l>тие<s n="prn"/><s n="dem"/></l><r>тия<s n="prn"/><s n="dem"/></r></p></e>
--->
-
-<!--Demonstrative proximal - These are the same as the unmarked in Bulgarian 
-	ПРАВИЛА-->
-<!--
-<e c="v0"><p><l>овој<s n="prn"/><s n="prx"/></l><r>този<s n="prn"/><s n="dem"/></r></p></e>
-<e r="RL" c="v1"><p><l>овој<s n="prn"/><s n="prx"/></l><r>тоя<s n="prn"/><s n="dem"/></r></p></e>
-<e r="RL" c="v2"><p><l>овој<s n="prn"/><s n="prx"/></l><r>тоз<s n="prn"/><s n="dem"/></r></p></e>
-
-<e c="v0"><p><l>оваа<s n="prn"/><s n="prx"/></l><r>тази<s n="prn"/><s n="dem"/></r></p></e>
-<e r="RL" c="v1"><p><l>оваа<s n="prn"/><s n="prx"/></l><r>тая<s n="prn"/><s n="dem"/></r></p></e>
-<e r="RL" c="v2"><p><l>оваа<s n="prn"/><s n="prx"/></l><r>таз<s n="prn"/><s n="dem"/></r></p></e>
-
-<e c="v0"><p><l>ова<s n="prn"/><s n="prx"/></l><r>това<s n="prn"/><s n="dem"/></r></p></e>
-<e r="RL" c="v1"><p><l>ова<s n="prn"/><s n="prx"/></l><r>туй<s n="prn"/><s n="dem"/></r></p></e>
-
-<e c="v0"><p><l>овие<s n="prn"/><s n="prx"/></l><r>тези<s n="prn"/><s n="dem"/></r></p></e>
-<e r="RL" c="v1"><p><l>овие<s n="prn"/><s n="prx"/></l><r>тез<s n="prn"/><s n="dem"/></r></p></e>
-<e r="RL" c="v2"><p><l>овие<s n="prn"/><s n="prx"/></l><r>тия<s n="prn"/><s n="dem"/></r></p></e>
--->
-<!--Demonstrative distal-->
-<!--
-<e c="v0"><p><l>оној<s n="prn"/><s n="dst"/></l><r>онзи<s n="prn"/><s n="dst"/></r></p></e>
-<e r="RL" c="v1"><p><l>оној<s n="prn"/><s n="dst"/></l><r>оня<s n="prn"/><s n="dst"/></r></p></e>
-
-<e c="v0"><p><l>онаа<s n="prn"/><s n="dst"/></l><r>онази<s n="prn"/><s n="dst"/></r></p></e>
-<e r="RL" c="v1"><p><l>онаа<s n="prn"/><s n="dst"/></l><r>оная<s n="prn"/><s n="dst"/></r></p></e>
-<e r="RL" c="v2"><p><l>онаа<s n="prn"/><s n="dst"/></l><r>оназ<s n="prn"/><s n="dst"/></r></p></e>
-
-<e c="v0"><p><l>она<s n="prn"/><s n="dst"/></l><r>онова<s n="prn"/><s n="dst"/></r></p></e>
-<e r="RL" c="v1"><p><l>она<s n="prn"/><s n="dst"/></l><r>онуй<s n="prn"/><s n="dst"/></r></p></e>
-
-<e c="v0"><p><l>оние<s n="prn"/><s n="dst"/></l><r>онези<s n="prn"/><s n="dst"/></r></p></e>
-<e r="RL" c="v1"><p><l>оние<s n="prn"/><s n="dst"/></l><r>ония<s n="prn"/><s n="dst"/></r></p></e>
-<e r="RL" c="v2"><p><l>оние<s n="prn"/><s n="dst"/></l><r>онез<s n="prn"/><s n="dst"/></r></p></e>
--->
 
 <!--
 	Interrogative скланят се в род и число, кой и чий са подобни, какво е като прилагателно
@@ -520,6 +423,8 @@
 <!--
 	ADJECTIVES
 -->
+<e><p><l>инаков<s n="adj"/></l><r>инакъв<s n="adj"/></r></p></e>
+
 <e><p><l>августовски<s n="adj"/></l><r>августовски<s n="adj"/></r></p></e>
 <e><p><l>аврамски<s n="adj"/></l><r>аврамски<s n="adj"/></r></p></e> 
 <e><p><l>автентичен<s n="adj"/></l><r>автентичен<s n="adj"/></r></p></e>
