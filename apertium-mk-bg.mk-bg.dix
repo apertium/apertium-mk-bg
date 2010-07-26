@@ -82,6 +82,7 @@
 
 <!--	Reflexive -->
 <e><p><l>free<s n="prn"/><s n="ref"/></l><r>free<s n="prn"/><s n="ref"/></r></p></e>
+<e><p><l>clitic<s n="prn"/><s n="ref"/></l><r>clitic<s n="prn"/><s n="ref"/></r></p></e>
 
 
 <!--	Demonstrative -->
@@ -195,11 +196,6 @@
 <e><p><l>секаков<s n="prn"/><s n="tot"/></l><r>всякакъв<s n="prn"/><s n="tot"/></r></p></e>
 <e><p><l>секаде<s n="prn"/><s n="tot"/></l><r>навсякъде<s n="prn"/><s n="tot"/></r></p></e> <!--несклоняемо-->
 <e><p><l>сиот<s n="prn"/><s n="tot"/></l><r>всичкия<s n="prn"/><s n="tot"/></r></p></e> <!--сета сето сите-->
-
-<!-- REFLEXIVE -->
-
-<e><p><l>clitic<s n="prn"/><s n="ref"/></l><r>clitic<s n="prn"/><s n="ref"/></r></p></e>
-<e><p><l>свој<s n="prn"/><s n="ref"/></l><r>свой<s n="prn"/><s n="ref"/></r></p></e> <!--рефлексив-->
 
 <!-- END PRONOUNS -->
 

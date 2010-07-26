@@ -2150,8 +2150,6 @@
      <e r="LR">        <p>     <l>себе<b/>си</l>  <r>free<s n="prn"/><s n="ref"/><s n="pers"/><s n="mfn"/><s n="sp"/><s n="acc"/></r></p></e>
      <e>        <p>          <l>на<b/>себеси</l>  <r>free<s n="prn"/><s n="ref"/><s n="pers"/><s n="mfn"/><s n="sp"/><s n="dat"/></r></p></e>
      <e r="LR">        <p>     <l>на<b/>себе<b/>си</l>  <r>free<s n="prn"/><s n="ref"/><s n="pers"/><s n="mfn"/><s n="sp"/><s n="dat"/></r></p></e>
-     <e>        <p>          <l>се</l>          <r>clitic<s n="prn"/><s n="ref"/><s n="pers"/><s n="mfn"/><s n="sp"/><s n="acc"/></r></p></e>
-     <e>        <p>          <l>си</l>          <r>clitic<s n="prn"/><s n="ref"/><s n="pers"/><s n="mfn"/><s n="sp"/><s n="dat"/></r></p></e>
 
      <e>        <p>          <l>свој</l>       <r>free<s n="prn"/><s n="ref"/><s n="pos"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
      <e>        <p>          <l>својот</l>       <r>free<s n="prn"/><s n="ref"/><s n="pos"/><s n="m"/><s n="sg"/><s n="def"/></r></p></e>
@@ -2169,9 +2167,15 @@
      <e>        <p>          <l>своите</l>       <r>free<s n="prn"/><s n="ref"/><s n="pos"/><s n="mfn"/><s n="pl"/><s n="def"/></r></p></e>
      <e>        <p>          <l>своиве</l>       <r>free<s n="prn"/><s n="ref"/><s n="pos"/><s n="mfn"/><s n="pl"/><s n="prx"/></r></p></e>
      <e>        <p>          <l>своине</l>       <r>free<s n="prn"/><s n="ref"/><s n="pos"/><s n="mfn"/><s n="pl"/><s n="dst"/></r></p></e>
-
-     <e>        <p>          <l>си</l>       <r>clitic<s n="prn"/><s n="ref"/><s n="pos"/></r></p></e>
    </pardef>
+
+   <pardef n="reflexive_pronouns__clt__prn">
+     <e>        <p>          <l>се</l>          <r>clitic<s n="prn"/><s n="ref"/><s n="pers"/><s n="mfn"/><s n="sp"/><s n="acc"/></r></p></e>
+     <e>        <p>          <l>си</l>          <r>clitic<s n="prn"/><s n="ref"/><s n="pers"/><s n="mfn"/><s n="sp"/><s n="dat"/></r></p></e>
+     <e>        <p>          <l>си</l>       <r>clitic<s n="prn"/><s n="ref"/><s n="pos"/></r></p></e>
+ </pardef>
+
+
 	<!--end reflexive -->
 
 
@@ -2664,13 +2668,13 @@
 
    <pardef n="ра/ка__n">
      <e>       <p>         <l>ка</l>        <r>ка<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>ката</l>   	<r>га<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-     <e>       <p>         <l>кава</l>  	<r>га<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
-     <e>       <p>         <l>кана</l>   	<r>га<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>ката</l>   	<r>ка<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>кава</l>  	<r>ка<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>кана</l>   	<r>ка<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
      <e>       <p>         <l>це</l>        <r>ка<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>цете</l>   	<r>га<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-     <e>       <p>         <l>цеве</l>   	<r>га<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
-     <e>       <p>         <l>цене</l>   	<r>га<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>       <p>         <l>цете</l>   	<r>ка<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>цеве</l>   	<r>ка<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>цене</l>   	<r>ка<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="dst"/></r></p></e>
    </pardef>
 
    <pardef n="организаци/ја__n">
@@ -3003,10 +3007,10 @@
     </pardef>
 
     <pardef n="доб/ар__adj">
-	<e>        <p>          <l>ар</l>           <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-	<e>        <p>          <l>риот</l>         <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-	<e>        <p>          <l>риов</l>         <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
-	<e>        <p>          <l>рион</l>         <r><s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
+	<e>        <p>          <l>ар</l>           <r>ар<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+	<e>        <p>          <l>риот</l>         <r>ар<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+	<e>        <p>          <l>риов</l>         <r>ар<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
+	<e>        <p>          <l>рион</l>         <r>ар<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="dst"/></r></p></e>
       <e>        <p>          <l>ра</l>           <r>ар<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>рата</l>         <r>ар<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
       <e>        <p>          <l>рава</l>         <r>ар<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="prx"/></r></p></e>
@@ -3246,8 +3250,8 @@
  
 <!-- Pronouns -->
 
-    <e lm="personal pronouns"><i/><par n="personal_pronouns__prn"/></e> 
-    <e lm="clitic personal pronouns"><i/><par n="personal_pronouns__clt__prn"/></e> 
+    <e lm="free"><i/><par n="personal_pronouns__prn"/></e> 
+    <e lm="clitic"><i/><par n="personal_pronouns__clt__prn"/></e> 
 
 	<!-- possessive -->
     <e lm="мој"><i>мо</i><par n="тво/ј__prn"/></e>
@@ -3257,10 +3261,11 @@
     <e lm="наш"><i>наш</i><par n="наш__prn"/></e>
     <e lm="ваш"><i>ваш</i><par n="наш__prn"/></e>
     <e lm="нивен"><i>нив</i><par n="нив/ен__prn"/></e>
-    <e lm="clitic possessive pronouns"><i/><par n="possessive_pronouns__clitic__prn"/></e> 
+    <e lm="clitic"><i/><par n="possessive_pronouns__clitic__prn"/></e> 
 
 	<!-- reflexive -->
-    <e lm="reflexive pronouns"><i/><par n="reflexive_pronouns__prn"/></e>
+    <e lm="free"><i/><par n="reflexive_pronouns__prn"/></e>
+    <e lm="clitic"><i/><par n="reflexive_pronouns__clt__prn"/></e>
 
 	<!-- demonstrative -->
     <e lm="тој"><i>т</i><par n="т/ој__prn"/></e>
