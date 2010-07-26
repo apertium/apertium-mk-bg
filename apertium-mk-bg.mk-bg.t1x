@@ -7,6 +7,11 @@
       <cat-item tags="n.*"/>
     </def-cat>
    
+   <def-cat n="pp">
+      <cat-item tags="vblex.pp.*"/>
+    </def-cat>
+
+   
    <def-cat n="adj">
       <cat-item tags="adj.*"/>
     </def-cat>
@@ -14,11 +19,21 @@
   </section-def-cats>
   
   <section-def-attrs>
- 
+
+    <def-attr n="a_verb">
+      <attr-item tags="vblex"/>
+    </def-attr>
+
+    <def-attr n="temps">
+      <attr-item tags="pres"/>
+      <attr-item tags="pp"/>
+    </def-attr>
+  
     <def-attr n="gen">
       <attr-item tags="m"/>
       <attr-item tags="f"/>
       <attr-item tags="nt"/>
+      <attr-item tags="mf"/>
       <attr-item tags="mfn"/>
       <attr-item tags="GD"/>
     </def-attr>
@@ -87,7 +102,7 @@ output: def
 			</test>
 			<let>
 				<clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
-				<lit-tag v="def"/>
+				<lit-tag v="def.obj"/>
 			</let>
 			
 		</when>
@@ -175,6 +190,27 @@ output: def
         </out>
       </action>
     </rule>
+
+    <rule comment="RULE: Past Participle → Past Participle : ( → )">
+      <pattern>
+        <pattern-item n="pp"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="temps"/>
+            <clip pos="1" side="tl" part="gen"/>
+            <clip pos="1" side="tl" part="nbr"/>
+            <clip pos="1" side="tl" part="cas"/>
+            <lit-tag v="ind"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
 
 
   </section-rules>
