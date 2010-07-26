@@ -4456,15 +4456,15 @@
 
 
     <pardef n="кръг/ъл__adj">
-      <e>        <p>          <l>ъл</l>          <r>ъг<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>лия</l>          <r>ъг<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="obj"/></r></p></e>
-      <e>        <p>          <l>лият</l>          <r>ъг<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="subj"/></r></p></e>
-      <e>        <p>          <l>ла</l>          <r>ъг<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>лата</l>          <r>ъг<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>ло</l>          <r>ъг<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>лото</l>          <r>ъг<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e>        <p>          <l>ли</l>          <r>ъг<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e>        <p>          <l>лите</l>          <r>ъг<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ъл</l>          <r>ъл<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>лия</l>          <r>ъл<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="obj"/></r></p></e>
+      <e>        <p>          <l>лият</l>          <r>ъл<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="subj"/></r></p></e>
+      <e>        <p>          <l>ла</l>          <r>ъл<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>лата</l>          <r>ъл<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ло</l>          <r>ъл<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>лото</l>          <r>ъл<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ли</l>          <r>ъл<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>лите</l>          <r>ъл<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
     </pardef>
 
 
@@ -7973,7 +7973,7 @@
 	<e lm="определен"><par n="P__adj"/><i>определен</i><par n="солен__adj"/></e>
 	<e lm="зелен"><par n="P__adj"/><i>зелен</i><par n="солен__adj"/></e>
 	<e lm="син"><par n="P__adj"/><i>син</i><par n="син__adj"/></e>
-	    <e lm="уличен"><par n="P__adj"/><i>уличен</i><par n="яс/ен__adj"/></e>
+	    <e lm="уличен"><par n="P__adj"/><i>улич</i><par n="яс/ен__adj"/></e>
 	    <e lm="ексцентричен"><par n="P__adj"/><i>ексцентрич</i><par n="яс/ен__adj"/></e>
 	    <e lm="неуспешен"><par n="P__adj"/><i>неуспеш</i><par n="яс/ен__adj"/></e>
 	    <e lm="отделен"><par n="P__adj"/><i>отдел</i><par n="яс/ен__adj"/></e>
@@ -7983,7 +7983,7 @@
 	    <e lm="единодушен"><par n="P__adj"/><i>единодуш</i><par n="яс/ен__adj"/></e>
 	    <e lm="грандиозен"><par n="P__adj"/><i>грандиоз</i><par n="яс/ен__adj"/></e>
 	    <e lm="здравословен"><par n="P__adj"/><i>здравослов</i><par n="яс/ен__adj"/></e>
-	    <e lm="ударен"><par n="P__adj"/><i>ударен</i><par n="яс/ен__adj"/></e>
+	    <e lm="ударен"><par n="P__adj"/><i>удар</i><par n="яс/ен__adj"/></e>
 	    <e lm="утрешен"><par n="P__adj"/><i>утреш</i><par n="яс/ен__adj"/></e>
 	    <e lm="експериментален"><par n="P__adj"/><i>експериментал</i><par n="яс/ен__adj"/></e>
 	    <e lm="доброволен"><par n="P__adj"/><i>добровол</i><par n="яс/ен__adj"/></e>
