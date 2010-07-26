@@ -35,7 +35,7 @@
 
 <sdef n="pers"     c="Personal"/>
 <sdef n="pos"      c="Possessive"/>
-<sdef n="refl"     c="Reflexive"/>
+<sdef n="ref"     c="Reflexive"/>
 <sdef n="dem"      c="Demonstrative Unmarked"/>
 <sdef n="prx"      c="Proximal (demonstrative)"/>
 <sdef n="dst"      c="Distal (demonstrative)"/>
@@ -67,8 +67,8 @@
 
 
 <!--	Personal -->
-<e><p><l>personal pronouns<s n="prn"/><s n="pers"/></l><r>personal pronouns<s n="prn"/><s n="pers"/></r></p></e>
-<e><p><l>clitic personal pronouns<s n="prn"/><s n="pers"/></l><r>clitic personal pronouns<s n="prn"/><s n="pers"/></r></p></e>
+<e><p><l>free<s n="prn"/><s n="pers"/></l><r>free<s n="prn"/><s n="pers"/></r></p></e>
+<e><p><l>clitic<s n="prn"/><s n="pers"/></l><r>clitic<s n="prn"/><s n="pers"/></r></p></e>
 
 <!--	Possessive -->
 <e><p><l>мој<s n="prn"/><s n="pos"/></l><r>мой<s n="prn"/><s n="pos"/></r></p></e>
@@ -78,10 +78,10 @@
 <e><p><l>наш<s n="prn"/><s n="pos"/></l><r>наш<s n="prn"/><s n="pos"/></r></p></e>
 <e><p><l>ваш<s n="prn"/><s n="pos"/></l><r>ваш<s n="prn"/><s n="pos"/></r></p></e>
 <e><p><l>нивен<s n="prn"/><s n="pos"/></l><r>техен<s n="prn"/><s n="pos"/></r></p></e>
-<e><p><l>clitic possessive pronouns<s n="prn"/><s n="pos"/></l><r>clitic possessive pronouns<s n="prn"/><s n="pos"/></r></p></e>
+<e><p><l>clitic<s n="prn"/><s n="pos"/></l><r>clitic<s n="prn"/><s n="pos"/></r></p></e>
 
 <!--	Reflexive -->
-<e><p><l>reflexive pronouns<s n="prn"/><s n="refl"/></l><r>reflexive pronouns<s n="prn"/><s n="refl"/></r></p></e>
+<e><p><l>free<s n="prn"/><s n="ref"/></l><r>free<s n="prn"/><s n="ref"/></r></p></e>
 
 
 <!--	Demonstrative -->
