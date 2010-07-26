@@ -21,3 +21,4 @@ dev/testvoc.sh -text
 /modes.xml -text
 /pending-tests.sh -text
 /regression-tests.sh -text
+/wiki-tests.sh -text
