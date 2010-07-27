@@ -139,6 +139,14 @@
 <e><p><l>бидејќи<s n="prn"/><s n="rel"/></l><r>защото<s n="prn"/><s n="rel"/></r></p></e>
 
 
+
+<!--	indefinite-->
+<e><p><l>некој<s n="prn"/><s n="ind"/></l><r>някой<s n="prn"/><s n="ind"/></r></p></e>
+<e><p><l>некаков<s n="prn"/><s n="ind"/></l><r>някакъв<s n="prn"/><s n="ind"/></r></p></e>
+<e><p><l>неколку<s n="prn"/><s n="ind"/></l><r>няколко<s n="prn"/><s n="ind"/></r></p></e> <!--несклоняемо-->
+<e><p><l>неколцина<s n="prn"/><s n="ind"/></l><r>неколцина<s n="prn"/><s n="ind"/></r></p></e> <!--несклоняемо-->
+
+
 <!--
 	Negative rod i chislo
 -->
@@ -150,19 +158,6 @@
 <e><p><l>никогаш<s n="prn"/><s n="neg"/></l><r>никога<s n="prn"/><s n="neg"/></r></p></e> <!--нисклоняимо-->
 <e><p><l>никаде<s n="prn"/><s n="neg"/></l><r>никъде<s n="prn"/><s n="neg"/></r></p></e> <!--несклоняемо-->
 <e><p><l>ништо<s n="prn"/><s n="neg"/></l><r>нищо<s n="prn"/><s n="neg"/></r></p></e>
-
-
-<!--
-	Indefinite rod i chislo
--->
-<e><p><l>некој<s n="prn"/><s n="ind"/></l><r>някой<s n="prn"/><s n="ind"/></r></p></e>
-<e><p><l>некого<s n="prn"/><s n="ind"/></l><r>някого<s n="prn"/><s n="ind"/></r></p></e> <!--несклоняемо-->
-<e><p><l>некому<s n="prn"/><s n="ind"/></l><r>някому<s n="prn"/><s n="ind"/></r></p></e> <!--несклоняемо-->
-<e><p><l>некаков<s n="prn"/><s n="ind"/></l><r>някакъв<s n="prn"/><s n="ind"/></r></p></e>
-<e><p><l>неколку<s n="prn"/><s n="ind"/></l><r>няколко<s n="prn"/><s n="ind"/></r></p></e> <!--несклоняемо-->
-<e><p><l>некогаш<s n="prn"/><s n="ind"/></l><r>някога<s n="prn"/><s n="ind"/></r></p></e> <!--несклоняемо-->
-<e><p><l>некаде<s n="prn"/><s n="ind"/></l><r>някъде<s n="prn"/><s n="ind"/></r></p></e> <!--несклоняемо-->
-<e><p><l>нечиј<s n="prn"/><s n="ind"/></l><r>нечий<s n="prn"/><s n="ind"/></r></p></e>
 
 <!--
 	Totalising обобщителни rod i chislo
@@ -1266,6 +1261,9 @@
 -->
 <e><p><l>како<s n="adv"/></l><r>като<s n="adv"/></r></p></e>
 
+
+<e><p><l>некогаш<s n="adv"/></l><r>някога<s n="adv"/></r></p></e> 
+<e><p><l>некаде<s n="adv"/></l><r>някъде<s n="adv"/></r></p></e> 
 
 <e><p><l>официјално<s n="adv"/></l><r>официално<s n="adv"/></r></p></e>
 <e><p><l>барем<s n="adv"/></l><r>поне<s n="adv"/></r></p></e>

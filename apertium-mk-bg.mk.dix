@@ -2221,8 +2221,8 @@
 	<!-- interrogative -->
    <pardef n="/кој__prn"> 
      <e>       <p>         <l>кој</l>         <r>кој<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
-     <e>       <p>         <l>кого</l>         <r>кој<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
-     <e>       <p>         <l>кому</l>         <r>кој<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
+     <e>       <p>         <l>кого</l>        <r>кој<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+     <e>       <p>         <l>кому</l>        <r>кој<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
      <e>       <p>         <l>чиј</l>         <r>кој<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
 
      <e>       <p>         <l>која</l>         <r>кој<s n="prn"/><s n="itg"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -2307,14 +2307,41 @@
 	<!-- end relative -->
 
 
+	<!--indefinite -->
+   <pardef n="не/кој__prn"> 
+     <e>       <p>         <l>кој</l>         <r>кој<s n="prn"/><s n="ind"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+     <e>       <p>         <l>кого</l>         <r>кој<s n="prn"/><s n="ind"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+     <e>       <p>         <l>кому</l>         <r>кој<s n="prn"/><s n="ind"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
+     <e>       <p>         <l>чиј</l>         <r>кој<s n="prn"/><s n="ind"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
 
+     <e>       <p>         <l>која</l>         <r>кој<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+     <e>       <p>         <l>чија</l>         <r>кој<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
 
-   <pardef n="неко/ј__prn"> <!-- CHECK THIS PARADIGM -->
-     <e>       <p>         <l>ј</l>         <r>ј<s n="prn"/><s n="ind"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
-     <e>       <p>         <l>ја</l>         <r>ј<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-     <e>       <p>         <l>е</l>         <r>ј<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
-     <e>       <p>         <l>и</l>         <r>ј<s n="prn"/><s n="ind"/><s n="mfn"/><s n="pl"/><s n="nom"/></r></p></e>
+     <e>       <p>         <l>кое</l>         <r>кој<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+     <e>       <p>         <l>чие</l>         <r>кој<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+
+     <e>       <p>         <l>кои</l>         <r>кој<s n="prn"/><s n="ind"/><s n="mfn"/><s n="pl"/><s n="nom"/></r></p></e>
+     <e>       <p>         <l>чии</l>         <r>кој<s n="prn"/><s n="ind"/><s n="mfn"/><s n="pl"/><s n="gen"/></r></p></e>
    </pardef>
+
+  <pardef n="некак/ов__prn">
+    <e>        <p>          <l>ов</l>          <r>ов<s n="prn"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+    <e>        <p>          <l>ва</l>          <r>ов<s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+    <e>        <p>          <l>во</l>          <r>ов<s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e>        <p>          <l>ви</l>          <r>ов<s n="prn"/><s n="ind"/><s n="mfn"/><s n="pl"/></r></p></e>
+  </pardef>
+
+  <pardef n="неколку__prn">
+    <e>        <p>          <l></l>            <r><s n="prn"/><s n="ind"/><s n="ind"/></r></p></e>
+    <e>        <p>          <l>то</l>          <r><s n="prn"/><s n="ind"/><s n="def"/></r></p></e>
+    <e>        <p>          <l>во</l>          <r><s n="prn"/><s n="ind"/><s n="prx"/></r></p></e>
+    <e>        <p>          <l>но</l>          <r><s n="prn"/><s n="ind"/><s n="dst"/></r></p></e>
+  </pardef>
+	<!--end indefinite -->
+
+
+
+
 
    <pardef n="секо/ј__prn"> <!-- CHECK THIS PARADIGM -->
      <e>       <p>         <l>ј</l>         <r>ј<s n="prn"/><s n="tot"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -3188,13 +3215,6 @@
 
 
 
-    <pardef n="ко/ј__adj">
-      <e>        <p>          <l>ј</l>          <r>ј<s n="adj"/><s n="itg"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>ја</l>         <r>ј<s n="adj"/><s n="itg"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>е</l>          <r>ј<s n="adj"/><s n="itg"/><s n="nt"/><s n="sg"/></r></p></e>
-      <e>        <p>          <l>и</l>          <r>ј<s n="adj"/><s n="itg"/><s n="mf"/><s n="pl"/></r></p></e>
-    </pardef>
-
     <!-- предлози -->
     <pardef n="и__cnjcoo">
       <e>        <p>          <l/>	  <r><s n="cnjcoo"/></r></p></e>
@@ -3367,6 +3387,11 @@
     <e lm="каде што"><i>каде<b/>што</i><par n="колку__rel"/></e>
     <e lm="бидејќи"><i>бидејќи</i><par n="колку__rel"/></e>
 
+	<!--indefinite -->
+    <e lm="некој"><i>не</i><par n="не/кој__prn"/></e>
+    <e lm="некаков"><i>некак</i><par n="некак/ов__prn"/></e>
+    <e lm="неколку"><i>неколку</i><par n="неколку__prn"/></e>
+    <e lm="неколцина"><i>неколцина</i><par n="неколку__prn"/></e>
 
 
 
@@ -3376,7 +3401,6 @@
 
     <e lm="којшто"><i></i><par n="/којшто__rel"/></e>
 
-    <e lm="некој"><i>неко</i><par n="неко/ј__prn"/></e>
     <e lm="секој"><i>секо</i><par n="секо/ј__prn"/></e>
     <e lm="никој"><i>ни</i><par n="ни/кој__prn"/></e>
 
