@@ -125,7 +125,7 @@
 <e c="v0"><p><l>којшто<s n="prn"/><s n="rel"/></l><r>който<s n="prn"/><s n="rel"/></r></p></e>
 <e r="LR" c="v1"><p><l>кој<s n="prn"/><s n="rel"/></l><r>който<s n="prn"/><s n="rel"/></r></p></e>
 
-<e c="v0"><p><l>каков<b/>што<s n="prn"/><s n="rel"/></l><r>какъвто<s n="prn"/><s n="rel"/></r></p></e>
+<e c="v0"><p><l>каков<g><b/>што</g><s n="prn"/><s n="rel"/></l><r>какъвто<s n="prn"/><s n="rel"/></r></p></e>
 <e r="LR" c="v1"><p><l>каков<s n="prn"/><s n="rel"/></l><r>какъвто<s n="prn"/><s n="rel"/></r></p></e>
 
 
@@ -147,27 +147,17 @@
 <e><p><l>неколцина<s n="prn"/><s n="ind"/></l><r>неколцина<s n="prn"/><s n="ind"/></r></p></e> <!--несклоняемо-->
 
 
-<!--
-	Negative rod i chislo
--->
+<!-- negative -->
 <e><p><l>никој<s n="prn"/><s n="neg"/></l><r>никой<s n="prn"/><s n="neg"/></r></p></e>
-<!--<e><p><l>ничиј<s n="prn"/><s n="neg"/></l><r>ничий<s n="prn"/><s n="neg"/></r></p></e>-->
-<!--<e><p><l>никого<s n="prn"/><s n="neg"/></l><r>никого<s n="prn"/><s n="neg"/></r></p></e> --><!--нисклоняимо-->
-<!--<e><p><l>никому<s n="prn"/><s n="neg"/></l><r>никому<s n="prn"/><s n="neg"/></r></p></e> --><!--нисклоняимо-->
 <e><p><l>никаков<s n="prn"/><s n="neg"/></l><r>никакъв<s n="prn"/><s n="neg"/></r></p></e>
-<e><p><l>никогаш<s n="prn"/><s n="neg"/></l><r>никога<s n="prn"/><s n="neg"/></r></p></e> <!--нисклоняимо-->
-<e><p><l>никаде<s n="prn"/><s n="neg"/></l><r>никъде<s n="prn"/><s n="neg"/></r></p></e> <!--несклоняемо-->
 <e><p><l>ништо<s n="prn"/><s n="neg"/></l><r>нищо<s n="prn"/><s n="neg"/></r></p></e>
+<e><p><l>николку<s n="prn"/><s n="neg"/></l><r>николко<s n="prn"/><s n="neg"/></r></p></e>
 
-<!--
-	Totalising обобщителни rod i chislo
--->
+<!--	totalising -->
 <e><p><l>секој<s n="prn"/><s n="tot"/></l><r>всеки<s n="prn"/><s n="tot"/></r></p></e>
-<e><p><l>секого<s n="prn"/><s n="tot"/></l><r>всякого<s n="prn"/><s n="tot"/></r></p></e> <!--несклоняемо-->
-<e><p><l>секому<s n="prn"/><s n="tot"/></l><r>всекиму<s n="prn"/><s n="tot"/></r></p></e> <!--несклоняемо-->
 <e><p><l>секаков<s n="prn"/><s n="tot"/></l><r>всякакъв<s n="prn"/><s n="tot"/></r></p></e>
-<e><p><l>секаде<s n="prn"/><s n="tot"/></l><r>навсякъде<s n="prn"/><s n="tot"/></r></p></e> <!--несклоняемо-->
-<e><p><l>сиот<s n="prn"/><s n="tot"/></l><r>всичкия<s n="prn"/><s n="tot"/></r></p></e> <!--сета сето сите-->
+<e><p><l>сиот<s n="prn"/><s n="tot"/></l><r>всичкият<s n="prn"/><s n="tot"/></r></p></e> <!--сета сето сите-->
+<e><p><l>сешто<s n="prn"/><s n="tot"/></l><r>всичко<s n="prn"/><s n="tot"/></r></p></e>
 
 <!-- END PRONOUNS -->
 
@@ -1260,6 +1250,9 @@
 	Adverbs
 -->
 <e><p><l>како<s n="adv"/></l><r>като<s n="adv"/></r></p></e>
+<e><p><l>никогаш<s n="adv"/></l><r>никога<s n="adv"/></r></p></e>
+<e><p><l>никаде<s n="adv"/></l><r>никъде<s n="adv"/></r></p></e> 
+<e><p><l>секаде<s n="adv"/></l><r>навсякъде<s n="adv"/></r></p></e> 
 
 
 <e><p><l>некогаш<s n="adv"/></l><r>някога<s n="adv"/></r></p></e> 
