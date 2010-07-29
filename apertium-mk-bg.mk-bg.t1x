@@ -94,11 +94,17 @@ output: def
 	<choose> 		<!-- if -->
 		<when>
 			<test>
+				<and>
 				<not><equal>
 					<clip pos="1" side="sl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
 					<lit-tag v="ind"/>
 					
 				</equal></not>
+				<equal>
+					<clip pos="1" side="sl" part="gen"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+					<lit-tag v="m"/>
+				</equal>
+				</and>
 			</test>
 			<let>
 				<clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
@@ -106,6 +112,27 @@ output: def
 			</let>
 			
 		</when>
+		<when>
+			<test>
+				<and>
+				<not><equal>
+					<clip pos="1" side="sl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+					<lit-tag v="ind"/>
+					
+				</equal></not>
+				<not><equal>
+					<clip pos="1" side="sl" part="gen"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+					<lit-tag v="m"/>
+				</equal></not>
+				</and>
+			</test>
+			<let>
+				<clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+				<lit-tag v="def"/>
+			</let>
+			
+		</when>
+
 	</choose>
         <out>
           <lu>
