@@ -7491,6 +7491,11 @@
 	<e lm="бг"><i>бг</i><par n="км__abbr"/></e>
 	<e lm="зам"><i>зам</i><par n="км__abbr"/></e>
 	<e lm="ул"><i>ул</i><par n="км__abbr"/></e>
+
+	<e lm="год" c="FMT:CHECK"><i>год</i><par n="км__abbr"/></e>
+	<e lm="св" c="FMT:CHECK"><i>св</i><par n="км__abbr"/></e>
+	<e lm="др" c="FMT:CHECK"><i>др</i><par n="км__abbr"/></e>
+	<e lm="сем" c="FMT:CHECK"><i>сем</i><par n="км__abbr"/></e>
   </section>
 
   <section id="prefixes" type="standard">

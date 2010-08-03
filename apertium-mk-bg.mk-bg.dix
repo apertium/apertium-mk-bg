@@ -355,7 +355,7 @@
 <e><p><l>НТВ<s n="abbr"/></l><r>НТВ<s n="abbr"/></r></p></e>
 <e><p><l>ОБСЕ<s n="abbr"/></l><r>ОССЕ<s n="abbr"/></r></p></e>
 <e><p><l>ОВК<s n="abbr"/></l><r>ОВК<s n="abbr"/></r></p></e>
-<e r="RL" c="v1"><p><l>ОН<s n="abbr"/></l><r>ООН<s n="abbr"/></r></p></e> 
+<e r="LR" c="v1"><p><l>ОН<s n="abbr"/></l><r>ООН<s n="abbr"/></r></p></e> 
 <e c="v0"><p><l>ООН<s n="abbr"/></l><r>ООН<s n="abbr"/></r></p></e>
 <e><p><l>ОУ<s n="abbr"/></l><r>ОУ<s n="abbr"/></r></p></e>
 <e><p><l>ОХР<s n="abbr"/></l><r>ОХР<s n="abbr"/></r></p></e>
@@ -400,6 +400,11 @@
 <e><p><l>м<s n="abbr"/></l><r>м<s n="abbr"/></r></p></e>
 <e><p><l>см<s n="abbr"/></l><r>см<s n="abbr"/></r></p></e>
 <e><p><l>ул<s n="abbr"/></l><r>ул<s n="abbr"/></r></p></e>
+
+<e c="FMT:CHECK"><p><l>год<s n="abbr"/></l><r>год<s n="abbr"/></r></p></e>
+<e c="FMT:CHECK"><p><l>св<s n="abbr"/></l><r>св<s n="abbr"/></r></p></e>
+<e c="FMT:CHECK"><p><l>др<s n="abbr"/></l><r>др<s n="abbr"/></r></p></e>
+<e c="FMT:CHECK"><p><l>сем<s n="abbr"/></l><r>сем<s n="abbr"/></r></p></e>
 
 <!--
 	ADJECTIVES

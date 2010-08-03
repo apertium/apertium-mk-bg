@@ -2,6 +2,10 @@
 
 <transfer>
   <section-def-cats>
+    <def-cat n="lp">
+      <cat-item tags="vblex.lp.aor.*"/>
+    </def-cat>
+
     <def-cat n="pronom_pers">
       <cat-item tags="prn.pers.*"/>
     </def-cat>
@@ -49,6 +53,10 @@
     <def-attr n="temps">
       <attr-item tags="pres"/>
       <attr-item tags="pp"/>
+      <attr-item tags="dee"/>
+      <attr-item tags="lp.aor"/>
+      <attr-item tags="lp"/>
+      <attr-item tags="aor"/>
     </def-attr>
   
     <def-attr n="gen">
@@ -367,6 +375,27 @@ output: def
         </out>
       </action>
     </rule>
+
+    <rule comment="RULE: L-Participle → L-Participle : ( → )">
+      <pattern>
+        <pattern-item n="lp"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="temps"/>
+            <clip pos="1" side="tl" part="gen"/>
+            <clip pos="1" side="tl" part="nbr"/>
+            <clip pos="1" side="tl" part="cas"/>
+            <lit-tag v="ind"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
 
 
 
