@@ -3489,10 +3489,10 @@
 <!--
 	Topography
 -->
-<e><p><l>Молдавија<s n="np"/><s n="top"/><s n="f"/></l><r>Молдавия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Белорусија<s n="np"/><s n="top"/><s n="f"/></l><r>Беларус<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Брчко<s n="np"/><s n="top"/><s n="nt"/></l><r>Бръчко<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
-<e><p><l>Сараево<s n="np"/><s n="top"/><s n="m"/></l><r>Сараево<s n="np"/><s n="top"/><s n="m"/></r></p></e> <!-- NT ? -->
+<e><p><l>Брчко<s n="np"/><s n="top"/><s n="nt"/></l><r>Бръчко<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<!--<e><p><l>Брчко<s n="np"/><s n="top"/><s n="m"/></l><r>Бръчко<s n="np"/><s n="top"/><s n="m"/></r></p></e>-->
+<!--<e><p><l>Сараево<s n="np"/><s n="top"/><s n="m"/></l><r>Сараево<s n="np"/><s n="top"/><s n="m"/></r></p></e>--> <!-- NT ? -->
 
 <e><p><l>Гренланд<s n="np"/><s n="top"/><s n="m"/></l><r>Гренландия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Јамбол<s n="np"/><s n="top"/><s n="m"/></l><r>Ямбол<s n="np"/><s n="top"/><s n="m"/></r></p></e>
@@ -3519,7 +3519,6 @@
 <e><p><l>Багдад<s n="np"/><s n="top"/><s n="m"/></l><r>Багдад<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 <e><p><l>Белгија<s n="np"/><s n="top"/><s n="f"/></l><r>Белгия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e c="v0"><p><l>Белград<s n="np"/><s n="top"/><s n="m"/></l><r>Белград<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Белорусија<s n="np"/><s n="top"/><s n="f"/></l><r>Беларус<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e r="LR" c="v1"><p><l>Београд<s n="np"/><s n="top"/><s n="m"/></l><r>Белград<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 <e><p><l>Берлин<s n="np"/><s n="top"/><s n="m"/></l><r>Берлин<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 <e><p><l>Благоевград<s n="np"/><s n="top"/><s n="m"/></l><r>Благоевград<s n="np"/><s n="top"/><s n="m"/></r></p></e>
@@ -3528,7 +3527,6 @@
 <e><p><l>Бразил<s n="np"/><s n="top"/><s n="m"/></l><r>Бразилия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Брисел<s n="np"/><s n="top"/><s n="m"/></l><r>Брюксел<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 <e><p><l>Британија<s n="np"/><s n="top"/><s n="f"/></l><r>Британия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e><p><l>Брчко<s n="np"/><s n="top"/><s n="m"/></l><r>Бръчко<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 <e><p><l>Бугарија<s n="np"/><s n="top"/><s n="f"/></l><r>България<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Букурешт<s n="np"/><s n="top"/><s n="m"/></l><r>Букурещ<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 <e><p><l>Бургас<s n="np"/><s n="top"/><s n="m"/></l><r>Бургас<s n="np"/><s n="top"/><s n="m"/></r></p></e>
@@ -3595,7 +3593,7 @@
 <e><p><l>Мексико<s n="np"/><s n="top"/><s n="nt"/></l><r>Мексико<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
 <e><p><l>Митровица<s n="np"/><s n="top"/><s n="f"/></l><r>Митровица<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e c="v0"><p><l>Молдавија<s n="np"/><s n="top"/><s n="f"/></l><r>Молдова<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-<e r="LR" c="v1"><p><l>Молдавија<s n="np"/><s n="top"/><s n="f"/></l><r>Молдавия<s n="np"/><s n="top"/><s n="f"/></r></p></e> 
+<e r="RL" c="v1"><p><l>Молдавија<s n="np"/><s n="top"/><s n="f"/></l><r>Молдавия<s n="np"/><s n="top"/><s n="f"/></r></p></e> 
 <e><p><l>Монтана<s n="np"/><s n="top"/><s n="f"/></l><r>Монтана<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Москва<s n="np"/><s n="top"/><s n="f"/></l><r>Москва<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Мостар<s n="np"/><s n="top"/><s n="m"/></l><r>Мостар<s n="np"/><s n="top"/><s n="m"/></r></p></e>
@@ -3629,7 +3627,7 @@
 <e><p><l>Русија<s n="np"/><s n="top"/><s n="f"/></l><r>Русия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>САД<s n="np"/><s n="top"/><s n="m"/></l><r>САЩ<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 <e><p><l>СССР<s n="np"/><s n="top"/><s n="m"/></l><r>СССР<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Сад<s n="np"/><s n="top"/><s n="m"/></l><r>Сад<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+<!--<e><p><l>Сад<s n="np"/><s n="top"/><s n="m"/></l><r>Сад<s n="np"/><s n="top"/><s n="m"/></r></p></e>-->
 <e><p><l>Самоков<s n="np"/><s n="top"/><s n="m"/></l><r>Самоков<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 <e><p><l>Сараево<s n="np"/><s n="top"/><s n="nt"/></l><r>Сараево<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
 <e><p><l>Свиштов<s n="np"/><s n="top"/><s n="m"/></l><r>Свищов<s n="np"/><s n="top"/><s n="m"/></r></p></e>
