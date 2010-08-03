@@ -70,6 +70,12 @@
       <e r="LR"><p><l><s n="mfn"/><s n="pl"/></l><r><s n="mfn"/><s n="sp"/></r></p></e>
       <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="mfn"/><s n="sp"/></r></p></e>
     </pardef>
+
+    <pardef n="јаглен_въглища__n">
+      <e r="LR"><p><l><s n="sg"/></l><r><s n="pl"/></r></p></e>
+      <e r="LR"><p><l><s n="pl"/></l><r><s n="pl"/></r></p></e>
+      <e r="RL"><p><l><s n="pl"/></l><r><s n="pl"/></r></p></e>
+    </pardef>
   </pardefs>
   <section id="main" type="standard">
     <!-- Prefixes -->
@@ -3182,7 +3188,9 @@
 <e><p><l>штрајк<s n="n"/><s n="m"/></l><r>стачка<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ѕвезда<s n="n"/><s n="f"/></l><r>звезда<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>јавност<s n="n"/><s n="f"/></l><r>общественост<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>јаглен<s n="n"/><s n="m"/></l><r>въглища<s n="n"/><s n="mf"/></r></p></e> <!-- sg(mk) pl(bg) -->
+
+<e><p><l>јаглен<s n="n"/><s n="m"/></l><r>въглища<s n="n"/><s n="mf"/></r></p><par n="јаглен_въглища__n"/></e> <!-- sg(mk) pl(bg) -->
+
 <e><p><l>јаже<s n="n"/><s n="nt"/></l><r>въже<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>јазик<s n="n"/><s n="m"/></l><r>език<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>јануари<s n="n"/><s n="m"/></l><r>януари<s n="n"/><s n="m"/></r></p></e>

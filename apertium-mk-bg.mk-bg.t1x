@@ -127,49 +127,78 @@
 input: prx, dst
 output: def 
 -->
-	<choose> 		<!-- if -->
-		<when>
-			<test>
-				<and>
-				<not><equal>
-					<clip pos="1" side="sl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
-					<lit-tag v="ind"/>
-					
-				</equal></not>
-				<equal>
-					<clip pos="1" side="sl" part="gen"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
-					<lit-tag v="m"/>
-				</equal>
-				</and>
-			</test>
-			<let>
-				<clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
-				<lit-tag v="def.obj"/>
-			</let>
-			
-		</when>
-		<when>
-			<test>
-				<and>
-				<not><equal>
-					<clip pos="1" side="sl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
-					<lit-tag v="ind"/>
-					
-				</equal></not>
-				<not><equal>
-					<clip pos="1" side="sl" part="gen"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
-					<lit-tag v="m"/>
-				</equal></not>
-				</and>
-			</test>
-			<let>
-				<clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
-				<lit-tag v="def"/>
-			</let>
-			
-		</when>
+  <choose>     <!-- if -->
+    <when>
+      <test>
+        <and>
+        <not>
+          <equal>
+            <clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+            <lit-tag v="ind"/>
+          </equal>
+        </not>
+        <equal>
+          <clip pos="1" side="tl" part="gen"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+          <lit-tag v="m"/>
+        </equal>
+        <equal>
+          <clip pos="1" side="tl" part="nbr"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+          <lit-tag v="sg"/>
+        </equal>
+        </and>
+      </test>
+      <let>
+        <clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+        <lit-tag v="def.obj"/>
+      </let>
+      
+    </when>
+    <when>
+      <test>
+        <and>
+        <not><equal>
+          <clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+          <lit-tag v="ind"/>
+          
+        </equal></not>
+        <equal>
+          <clip pos="1" side="tl" part="gen"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+          <lit-tag v="m"/>
+        </equal>
+        <equal>
+          <clip pos="1" side="tl" part="nbr"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+          <lit-tag v="pl"/>
+        </equal>
+        </and>
+      </test>
+      <let>
+        <clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+        <lit-tag v="def"/>
+      </let>
+      
+    </when>
 
-	</choose>
+    <when>
+      <test>
+        <and>
+        <not><equal>
+          <clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+          <lit-tag v="ind"/>
+        </equal></not>
+        <not><equal>
+          <clip pos="1" side="tl" part="gen"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+          <lit-tag v="m"/>
+        </equal></not>
+        </and>
+      </test>
+      <let>
+        <clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+        <lit-tag v="def"/>
+      </let>
+      
+    </when>
+
+  </choose>
         <out>
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
@@ -197,47 +226,47 @@ output: def
 input: prx, dst
 output: def 
 -->
-	<choose> 		<!-- if -->
-		<when>
-			<test>
-				<not><equal>
-					<clip pos="1" side="sl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
-					<lit-tag v="ind"/>
+  <choose>     <!-- if -->
+    <when>
+      <test>
+        <not><equal>
+          <clip pos="1" side="sl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+          <lit-tag v="ind"/>
 
-				</equal></not>
-			</test>
-			<let>
-				<clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
-				<lit-tag v="def"/>
-			</let>
+        </equal></not>
+      </test>
+      <let>
+        <clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+        <lit-tag v="def"/>
+      </let>
 
-		</when>
-	</choose>
-	<choose> 		<!-- if -->
-		<when>
-			<test>
-				<and>
-					<equal>
-						<clip pos="1" side="tl" part="gen"/>  
-						<lit-tag v="m"/>
-					</equal>
-					<equal>
-						<clip pos="1" side="tl" part="nbr"/>  
-						<lit-tag v="sg"/>
-					</equal>
-					<equal>
-						<clip pos="1" side="tl" part="defnes"/>  
-						<lit-tag v="def"/>
-					</equal>
-				</and>
-			</test>
-			<let>
-				<clip pos="1" side="tl" part="defnes"/> 
-				<lit-tag v="def.obj"/>
-			</let>
+    </when>
+  </choose>
+  <choose>     <!-- if -->
+    <when>
+      <test>
+        <and>
+          <equal>
+            <clip pos="1" side="tl" part="gen"/>  
+            <lit-tag v="m"/>
+          </equal>
+          <equal>
+            <clip pos="1" side="tl" part="nbr"/>  
+            <lit-tag v="sg"/>
+          </equal>
+          <equal>
+            <clip pos="1" side="tl" part="defnes"/>  
+            <lit-tag v="def"/>
+          </equal>
+        </and>
+      </test>
+      <let>
+        <clip pos="1" side="tl" part="defnes"/> 
+        <lit-tag v="def.obj"/>
+      </let>
 
-		</when>
-	</choose>
+    </when>
+  </choose>
 
         <out>
           <lu>
@@ -263,49 +292,46 @@ output: def
 input: prx, dst
 output: def 
 -->
-	<choose> 		<!-- if -->
-		<when>
-			<test>
-				<and>
-				<not><equal>
-					<clip pos="1" side="sl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
-					<lit-tag v="ind"/>
-					
-				</equal></not>
-				<equal>
-					<clip pos="1" side="sl" part="gen"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
-					<lit-tag v="m"/>
-				</equal>
-				</and>
-			</test>
-			<let>
-				<clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
-				<lit-tag v="def.obj"/>
-			</let>
-			
-		</when>
-		<when>
-			<test>
-				<and>
-				<not><equal>
-					<clip pos="1" side="sl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
-					<lit-tag v="ind"/>
-					
-				</equal></not>
-				<not><equal>
-					<clip pos="1" side="sl" part="gen"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
-					<lit-tag v="m"/>
-				</equal></not>
-				</and>
-			</test>
-			<let>
-				<clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
-				<lit-tag v="def"/>
-			</let>
-			
-		</when>
+  <choose>     <!-- if -->
+    <when>
+      <test>
+        <and>
+        <not><equal>
+          <clip pos="1" side="sl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+          <lit-tag v="ind"/>
+          
+        </equal></not>
+        <equal>
+          <clip pos="1" side="sl" part="gen"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+          <lit-tag v="m"/>
+        </equal>
+        </and>
+      </test>
+      <let>
+        <clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+        <lit-tag v="def.obj"/>
+      </let>
+    </when>
+    <when>
+      <test>
+        <and>
+        <not><equal>
+          <clip pos="1" side="sl" part="defnes"/>  
+          <lit-tag v="ind"/>
+        </equal></not>
+        <not><equal>
+          <clip pos="1" side="sl" part="gen"/>  
+          <lit-tag v="m"/>
+        </equal></not>
+        </and>
+      </test>
+      <let>
+        <clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+        <lit-tag v="def"/>
+      </let>
+    </when>
 
-	</choose>
+  </choose>
         <out>
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
