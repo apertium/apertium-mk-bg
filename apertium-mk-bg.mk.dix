@@ -3367,11 +3367,13 @@
 	<e lm="туку"><i>туку</i><par n="и__cnjcoo"/></e>
 	<e lm="ниту"><i>ниту</i><par n="и__cnjcoo"/></e>
 	<e lm="ни"><i>ни</i><par n="и__cnjcoo"/></e>
-	<e lm="додека"><i>додека</i><par n="и__cnjcoo"/></e>
+<!--<e lm="додека"><i>додека</i><par n="и__cnjcoo"/></e>--> <!-- FMT:CHECK -->
 
     <e lm="ако"><i>ако</i><par n="ако__cnjsub"/></e>
 	<e lm="иако"><i>иако</i><par n="ако__cnjsub"/></e>
     <e lm="дека"><i>дека</i><par n="ако__cnjsub"/></e>
+    <e lm="додека" c="FMT:CHECK"><i>додека</i><par n="ако__cnjsub"/></e>
+    <e lm="макар што" c="FMT:CHECK"><i>макар<b/>што</i><par n="ако__cnjsub"/></e>
 
     <!-- Prepositions / предлози -->
 

@@ -3679,6 +3679,7 @@
 
 <e><p><l>е<s n="vbser"/></l><r>е<s n="vbser"/></r></p></e>
 <e><p><l>мора<s n="vaux"/></l><r>трябва<s n="vblex"/></r></p></e>
+<!--<e><p><l>треба<s n="vblex"/></l><r>трябва<s n="vblex"/></r></p></e>-->
 <e><p><l>има<s n="vbhaver"/></l><r>има<s n="vbhaver"/></r></p></e>
 
 <e><p><l>чита<s n="vblex"/></l><r>чете<s n="vblex"/></r></p></e>
@@ -4197,7 +4198,6 @@
 <e><p><l>судрува<s n="vblex"/></l><r>сблъска<s n="vblex"/></r></p></e>
 <e><p><l>тврди<s n="vblex"/></l><r>твърди<s n="vblex"/></r></p></e>
 <e><p><l>трае<s n="vblex"/></l><r>трае<s n="vblex"/></r></p></e>
-<e><p><l>треба<s n="vblex"/></l><r>трябва<s n="vblex"/></r></p></e>
 
 <e r="LR" c="v1"><p><l>уапсува<s n="vblex"/></l><r>арестува<s n="vblex"/></r></p></e>
 <e c="v0"><p><l>уапси<s n="vblex"/></l><r>арестува<s n="vblex"/></r></p></e> 

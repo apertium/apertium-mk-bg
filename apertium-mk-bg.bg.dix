@@ -5668,7 +5668,7 @@
 <!-- -Е -->
 
     <pardef n="крак__n_m">
-        <e>        <p>          <l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e> <!-- FMT: CHECK -->
+        <e>        <p>          <l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e> <!-- FMT:CHECK -->
         <e>        <p>          <l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/><s n="ind"/></r></p></e>
         <e>        <p>          <l>а</l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="obj"/></r></p></e>
         <e>        <p>          <l>ът</l>         <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="subj"/></r></p></e>
@@ -5901,20 +5901,25 @@
     <e lm="или"><i>или</i><par n="и__cnjcoo"/></e>
     <e lm="но"><i>но</i><par n="и__cnjcoo"/></e>
     <e lm="нито"><i>нито</i><par n="и__cnjcoo"/></e>
-	<e lm="ни"><i>ни</i><par n="и__cnjcoo"/></e>
-	<e lm="пък"><i>пък</i><par n="и__cnjcoo"/></e>
-	<e lm="пък"><i>пък</i><par n="и__cnjcoo"/></e>
+    <e lm="ни"><i>ни</i><par n="и__cnjcoo"/></e>
+    <e lm="пък"><i>пък</i><par n="и__cnjcoo"/></e>
+    <e lm="пък"><i>пък</i><par n="и__cnjcoo"/></e>
 
+<!-- FMT:CHECK NO BIDIX TRANSLATION
     <e lm="като"><i>като</i><par n="дали__cnjsub"/></e>
-    <e lm="докато"><i>докато</i><par n="дали__cnjsub"/></e>
     <e lm="когато"><i>когато</i><par n="дали__cnjsub"/></e>
-    <e lm="ако"><i>ако</i><par n="дали__cnjsub"/></e>
-    <e lm="че"><i>че</i><par n="дали__cnjsub"/></e>
     <e lm="където"><i>където</i><par n="дали__cnjsub"/></e>
     <e lm="защото"><i>защото</i><par n="дали__cnjsub"/></e>
     <e lm="отколкото"><i>отколкото</i><par n="дали__cnjsub"/></e>
-
     <e lm="да"><i>да</i><par n="дали__cnjsub"/></e>
+-->
+
+    <e lm="макар че" c="FMT:CHECK"><i>макар<b/>че</i><par n="дали__cnjsub"/></e>
+
+    <e lm="докато"><i>докато</i><par n="дали__cnjsub"/></e>
+    <e lm="ако"><i>ако</i><par n="дали__cnjsub"/></e>
+    <e lm="че"><i>че</i><par n="дали__cnjsub"/></e>
+
 
 
 <!-- pronouns -->
