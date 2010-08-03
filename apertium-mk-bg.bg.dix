@@ -205,7 +205,7 @@
 
 
     <pardef n="сто__num">
-      <e>        <p>          <l></l>          <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l></l>          <r><s n="num"/><s n="mfn"/><s n="sp"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>те</l>        <r><s n="num"/><s n="mfn"/><s n="sp"/><s n="nom"/><s n="def"/></r></p></e>
       <e>        <p>          <l>тина</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>тината</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="def"/></r></p></e>

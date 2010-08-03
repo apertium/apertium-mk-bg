@@ -8,7 +8,11 @@
       <cat-item tags="prn.rel.*"/>
     </def-cat>
      
-    <def-cat n="nom">
+    <def-cat n="num">
+      <cat-item tags="num.*"/>
+    </def-cat>
+
+     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
    
@@ -20,6 +24,8 @@
       <attr-item tags="mf"/>
       <attr-item tags="mfn"/>
       <attr-item tags="m"/>
+      <attr-item tags="ma"/>
+      <attr-item tags="mi"/>
       <attr-item tags="f"/>
       <attr-item tags="nt"/>
       <attr-item tags="GD"/>
@@ -28,6 +34,8 @@
     <def-attr n="defnes">
       <attr-item tags="ind"/>
       <attr-item tags="def"/>
+      <attr-item tags="def.obj"/>
+      <attr-item tags="def.subj"/>
     </def-attr>
 
     <def-attr n="cas">
@@ -50,6 +58,10 @@
       <attr-item tags="prn.pers"/>
     </def-attr>
      
+    <def-attr n="a_num">
+      <attr-item tags="num"/>
+    </def-attr>
+
     <def-attr n="a_nom">
       <attr-item tags="n"/>
     </def-attr>
@@ -67,6 +79,47 @@
   </section-def-vars>  
 
   <section-rules>
+    
+    <rule comment="RULE: Numeral → Numeral : ( → )">
+      <pattern>
+        <pattern-item n="num"/>
+      </pattern>
+      <action>
+      <choose>
+        <when>
+          <test>
+            <or>
+              <equal>
+                <clip pos="1" side="tl" part="defnes"/>
+                <lit-tag v="def.obj"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="defnes"/>
+                <lit-tag v="def.subj"/>
+              </equal>
+            </or>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="defnes"/>
+            <lit-tag v="def"/>
+          </let>
+        </when>
+      </choose>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_num"/>
+            <clip pos="1" side="tl" part="gen"/>
+            <clip pos="1" side="tl" part="nbr"/>
+            <clip pos="1" side="tl" part="cas"/>
+            <clip pos="1" side="tl" part="defnes"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+
     
     <rule comment="RULE: Noun → Noun : (вода → вода)">
       <pattern>

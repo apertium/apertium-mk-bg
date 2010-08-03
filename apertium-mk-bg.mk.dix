@@ -1912,12 +1912,12 @@
 
 
     <pardef n="сто__num">
-     <e>       <p>         <l></l>         <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>       <p>         <l>те</l>     <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="def"/></r></p></e>
-     <e>       <p>         <l>ве</l>     <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="prx"/></r></p></e>
-     <e>       <p>         <l>не</l>     <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="dst"/></r></p></e>
-     <e>        <p>        <l>мина</l>        <r><s n="num"/><s n="ma"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>        <p>        <l>темина</l>      <r><s n="num"/><s n="ma"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l></l>         <r><s n="num"/><s n="mfn"/><s n="sp"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>те</l>     <r><s n="num"/><s n="mfn"/><s n="sp"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ве</l>     <r><s n="num"/><s n="mfn"/><s n="sp"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>не</l>     <r><s n="num"/><s n="mfn"/><s n="sp"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>        <p>        <l>мина</l>        <r><s n="num"/><s n="ma"/><s n="sp"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>        <p>        <l>темина</l>      <r><s n="num"/><s n="ma"/><s n="sp"/><s n="nom"/><s n="def"/></r></p></e>
     </pardef>
 
     <pardef n="четири/стотини__num">
@@ -3517,6 +3517,7 @@
     <e lm="единаесет"><i>единаесет</i><par n="пет__num"/></e>	  <!-- eleven -->
     <e lm="дванаесет"><i>дванаесет</i><par n="пет__num"/></e>	  <!-- twelve -->
     <e lm="тринаесет"><i>тринаесет</i><par n="пет__num"/></e>	  <!-- thirteen -->
+    <e lm="четиринадесет"><i>четиринадесет</i><par n="пет__num"/></e> <!-- fourteen -->
     <e lm="петнаесет"><i>петнаесет</i><par n="пет__num"/></e>	  <!-- fifteen -->
     <e lm="шеснаесет"><i>шеснаесет</i><par n="пет__num"/></e>	  <!-- sixteen -->
     <e lm="седумнаесет"><i>седумнаесет</i><par n="пет__num"/></e> <!-- seventeen -->
