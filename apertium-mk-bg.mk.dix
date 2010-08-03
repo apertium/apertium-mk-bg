@@ -2186,7 +2186,7 @@
 	      <e r="LR">        <p>          <l>ѝ</l>           <r>clitic<s n="prn"/><s n="pos"/><s n="clt"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
 	      <e>        <p>          <l>му</l>          <r>clitic<s n="prn"/><s n="pos"/><s n="clt"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
 
-	      <e>        <p>          <l>ни</l>          <r>clitic<s n="prn"/><s n="pos"/><s n="clt"/><s n="p1"/><s n="mfn"/><s n="pl"/>></r></p></e>
+	      <e>        <p>          <l>ни</l>          <r>clitic<s n="prn"/><s n="pos"/><s n="clt"/><s n="p1"/><s n="mfn"/><s n="pl"/></r></p></e>
 	      <e>        <p>          <l>ви</l>          <r>clitic<s n="prn"/><s n="pos"/><s n="clt"/><s n="p2"/><s n="mfn"/><s n="pl"/></r></p></e>
 	      <e>        <p>          <l>им</l>          <r>clitic<s n="prn"/><s n="pos"/><s n="clt"/><s n="p3"/><s n="mfn"/><s n="pl"/></r></p></e>
    </pardef>

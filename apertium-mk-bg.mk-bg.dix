@@ -24,6 +24,11 @@
     <sdef n="mf"      c="Masculine / feminine"/>
     <sdef n="f"       c="Feminine"/>
     <sdef n="nt"      c="Neuter"/>
+    <sdef n="mfn"     c="Masculine / feminine / neuter"/>
+
+    <sdef n="sg"      c="Singular"/>
+    <sdef n="pl"      c="Plural"/>
+    <sdef n="sp"      c="Singular / Plural"/>
 
 <!--proper nouns-->
     <sdef n="top"     c="Toponym"/>
@@ -53,7 +58,19 @@
     <sdef n="cm"      c="Comma"/>
     <sdef n="lpar"    c="Left parenthesis"/>
     <sdef n="rpar"    c="Right parenthesis"/>
+
+    <sdef n="GD"      c="Gender to be determined"/>
+    <sdef n="ND"      c="Number to be determined"/>
   </sdefs>
+  <pardefs>
+    <pardef n="толкав_толкова__prn">
+      <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="mfn"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="sg"/></l><r><s n="mfn"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="sg"/></l><r><s n="mfn"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="mfn"/><s n="pl"/></l><r><s n="mfn"/><s n="sp"/></r></p></e>
+      <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="mfn"/><s n="sp"/></r></p></e>
+    </pardef>
+  </pardefs>
   <section id="main" type="standard">
     <!-- Prefixes -->
 
@@ -94,9 +111,9 @@
 <e r="LR" c="v1"><p><l>ваков<s n="prn"/><s n="dem"/></l><r>такъв<s n="prn"/><s n="dem"/></r></p></e>
 <e><p><l>онаков<s n="prn"/><s n="dem"/></l><r>онакъв<s n="prn"/><s n="dem"/></r></p></e>
 
-<e c="v0"><p><l>толкав<s n="prn"/><s n="dem"/></l><r>толкова<s n="prn"/><s n="dem"/></r></p></e>
-<e r="LR" c="v1"><p><l>олкав<s n="prn"/><s n="dem"/></l><r>толкова<s n="prn"/><s n="dem"/></r></p></e>
-<e r="LR" c="v2"><p><l>онолкав<s n="prn"/><s n="dem"/></l><r>толкова<s n="prn"/><s n="dem"/></r></p></e>
+<e c="v0"><p><l>толкав<s n="prn"/><s n="dem"/></l><r>толкова<s n="prn"/><s n="dem"/></r></p><par n="толкав_толкова__prn"/></e>
+<e r="LR" c="v1"><p><l>олкав<s n="prn"/><s n="dem"/></l><r>толкова<s n="prn"/><s n="dem"/></r></p><par n="толкав_толкова__prn"/></e>
+<e r="LR" c="v2"><p><l>онолкав<s n="prn"/><s n="dem"/></l><r>толкова<s n="prn"/><s n="dem"/></r></p><par n="толкав_толкова__prn"/></e>
 
 
 

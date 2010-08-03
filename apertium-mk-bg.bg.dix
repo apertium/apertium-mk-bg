@@ -434,7 +434,7 @@
 	      <e r="LR">        <p>          <l>ѝ</l>           <r>clitic<s n="prn"/><s n="pos"/><s n="clt"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
 	      <e>        <p>          <l>му</l>          <r>clitic<s n="prn"/><s n="pos"/><s n="clt"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
 	
-	      <e>        <p>          <l>ни</l>          <r>clitic<s n="prn"/><s n="pos"/><s n="clt"/><s n="p1"/><s n="mfn"/><s n="pl"/>></r></p></e>
+	      <e>        <p>          <l>ни</l>          <r>clitic<s n="prn"/><s n="pos"/><s n="clt"/><s n="p1"/><s n="mfn"/><s n="pl"/></r></p></e>
 	      <e>        <p>          <l>ви</l>          <r>clitic<s n="prn"/><s n="pos"/><s n="clt"/><s n="p2"/><s n="mfn"/><s n="pl"/></r></p></e>
 	      <e>        <p>          <l>им</l>          <r>clitic<s n="prn"/><s n="pos"/><s n="clt"/><s n="p3"/><s n="mfn"/><s n="pl"/></r></p></e>
    </pardef>
@@ -679,12 +679,12 @@
 
 
    <pardef n="всичк/ият__prn">
-     <e>        <p>          <l>ият</l>          <r>ият<s n="prn"/><s n="tot"/><s n="m"/><s n="sg"/><s n="subj"/></r></p></e>
-     <e>        <p>          <l>ия</l>           <r>ият<s n="prn"/><s n="tot"/><s n="m"/><s n="sg"/><s n="obj"/></r></p></e>
-     <e>        <p>          <l>ата</l>          <r>ият<s n="prn"/><s n="tot"/><s n="f"/><s n="sg"/></r></p></e>
-     <e>        <p>          <l>ото</l>          <r>ият<s n="prn"/><s n="tot"/><s n="nt"/><s n="sg"/></r></p></e>
-     <e>        <p>          <l>ите</l>               <r>ият<s n="prn"/><s n="tot"/><s n="mfn"/><s n="pl"/></r></p></e>
-     <e r="LR">        <p>          <l>и</l>          <r>ият<s n="prn"/><s n="tot"/><s n="mfn"/><s n="pl"/></r></p></e>
+     <e>        <p>          <l>ият</l>          <r>ият<s n="prn"/><s n="tot"/><s n="m"/><s n="sg"/><s n="def"/><s n="subj"/></r></p></e>
+     <e>        <p>          <l>ия</l>           <r>ият<s n="prn"/><s n="tot"/><s n="m"/><s n="sg"/><s n="def"/><s n="obj"/></r></p></e>
+     <e>        <p>          <l>ата</l>          <r>ият<s n="prn"/><s n="tot"/><s n="f"/><s n="sg"/><s n="def"/></r></p></e>
+     <e>        <p>          <l>ото</l>          <r>ият<s n="prn"/><s n="tot"/><s n="nt"/><s n="sg"/><s n="def"/></r></p></e>
+     <e>        <p>          <l>ите</l>               <r>ият<s n="prn"/><s n="tot"/><s n="mfn"/><s n="pl"/><s n="def"/></r></p></e>
+     <e r="LR">        <p>          <l>и</l>          <r>ият<s n="prn"/><s n="tot"/><s n="mfn"/><s n="pl"/><s n="def"/></r></p></e>
    </pardef>
 
 

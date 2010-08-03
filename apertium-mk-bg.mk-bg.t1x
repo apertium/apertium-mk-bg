@@ -2,6 +2,28 @@
 
 <transfer>
   <section-def-cats>
+    <def-cat n="pronom_pers">
+      <cat-item tags="prn.pers.*"/>
+    </def-cat>
+
+    <def-cat n="pronom_art"> <!-- These pronouns can take the definite article -->
+      <cat-item tags="prn.ind.ind"/>
+      <cat-item tags="prn.ind.def"/>
+      <cat-item tags="prn.ind.prx"/>
+      <cat-item tags="prn.ind.dst"/>
+      <cat-item tags="prn.ref.pos.*"/>
+      <cat-item tags="prn.tot.*"/>
+      <cat-item tags="prn.pos.*"/>
+    </def-cat>
+
+    <def-cat n="pronom">
+      <cat-item tags="prn.ind.*"/>
+      <cat-item tags="prn.dem.*"/>
+      <cat-item tags="prn.itg.*"/>
+      <cat-item tags="prn.rel.*"/>
+      <cat-item tags="prn.neg.*"/>
+      <cat-item tags="prn.ref.*"/>
+    </def-cat>
     
     <def-cat n="nom">
       <cat-item tags="n.*"/>
@@ -42,6 +64,7 @@
       <attr-item tags="nom"/>
       <attr-item tags="acc"/>
       <attr-item tags="dat"/>
+      <attr-item tags="gen"/>
       <attr-item tags="voc"/>
     </def-attr>
     
@@ -50,7 +73,20 @@
       <attr-item tags="pl"/>
       <attr-item tags="ND"/>
     </def-attr>
-       
+        
+    <def-attr n="a_prn">
+      <attr-item tags="prn.tot"/>
+      <attr-item tags="prn.neg"/>
+      <attr-item tags="prn.itg"/>
+      <attr-item tags="prn.pers"/>
+      <attr-item tags="prn.dem"/>
+      <attr-item tags="prn.ind"/>
+      <attr-item tags="prn.ref"/>
+      <attr-item tags="prn.ref.pos"/>
+      <attr-item tags="prn.pos"/>
+      <attr-item tags="prn.pos.clt"/>
+    </def-attr>
+          
     <def-attr n="a_nom">
       <attr-item tags="n"/>
     </def-attr>
@@ -217,6 +253,74 @@ output: def
         </out>
       </action>
     </rule>
+    
+    <rule comment="RULE: Pronoun (with article) → Pronoun (with article) : ( → )">
+      <pattern>
+        <pattern-item n="pronom_art"/>
+      </pattern>
+      <action>
+<!--
+input: prx, dst
+output: def 
+-->
+	<choose> 		<!-- if -->
+		<when>
+			<test>
+				<and>
+				<not><equal>
+					<clip pos="1" side="sl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+					<lit-tag v="ind"/>
+					
+				</equal></not>
+				<equal>
+					<clip pos="1" side="sl" part="gen"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+					<lit-tag v="m"/>
+				</equal>
+				</and>
+			</test>
+			<let>
+				<clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+				<lit-tag v="def.obj"/>
+			</let>
+			
+		</when>
+		<when>
+			<test>
+				<and>
+				<not><equal>
+					<clip pos="1" side="sl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+					<lit-tag v="ind"/>
+					
+				</equal></not>
+				<not><equal>
+					<clip pos="1" side="sl" part="gen"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+					<lit-tag v="m"/>
+				</equal></not>
+				</and>
+			</test>
+			<let>
+				<clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+				<lit-tag v="def"/>
+			</let>
+			
+		</when>
+
+	</choose>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_prn"/>
+            <clip pos="1" side="tl" part="pers"/>
+            <clip pos="1" side="tl" part="gen"/>
+            <clip pos="1" side="tl" part="nbr"/>
+            <clip pos="1" side="tl" part="cas"/>
+            <clip pos="1" side="tl" part="defnes"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+    
 
     <rule comment="RULE: Past Participle → Past Participle : ( → )">
       <pattern>
