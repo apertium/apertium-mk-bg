@@ -210,7 +210,7 @@
     <e><p><l>единаесет<s n="num"/></l><r>единадесет<s n="num"/></r></p></e>
     <e><p><l>дванаесет<s n="num"/></l><r>дванадесет<s n="num"/></r></p></e>
     <e><p><l>тринаесет<s n="num"/></l><r>тринадесет<s n="num"/></r></p></e>
-    <e><p><l>четиринаест<s n="num"/></l><r>четиринадесет<s n="num"/></r></p></e>
+    <e><p><l>четиринаесет<s n="num"/></l><r>четиринадесет<s n="num"/></r></p></e>
     <e><p><l>петнаесет<s n="num"/></l><r>петнадесет<s n="num"/></r></p></e>
     <e><p><l>шеснаесет<s n="num"/></l><r>шестнадесет<s n="num"/></r></p></e>
     <e><p><l>седумнаесет<s n="num"/></l><r>седемнадесет<s n="num"/></r></p></e>
@@ -1287,7 +1287,6 @@
 
 <e><p><l>некогаш<s n="adv"/></l><r>някога<s n="adv"/></r></p></e> 
 <e><p><l>некаде<s n="adv"/></l><r>някъде<s n="adv"/></r></p></e> 
-<e><p><l>некаде<s n="adv"/></l><r>някъде<s n="adv"/></r></p></e> 
 <e><p><l>веќе<s n="adv"/></l><r>вече<s n="adv"/></r></p></e> 
 
 <e><p><l>официјално<s n="adv"/></l><r>официално<s n="adv"/></r></p></e>
@@ -1404,73 +1403,76 @@
 <e c="v0"><p><l>каде-годе<s n="adv"/></l><r>където<b/>и<b/>да<b/>е<s n="adv"/></r></p></e>
 <e r="LR" c="v1"><p><l>каде<b/>годе<s n="adv"/></l><r>където<b/>и<b/>да<b/>е<s n="adv"/></r></p></e>
 <e><p><l>немај-каде<s n="adv"/></l><r>немай<b/>къде<s n="adv"/></r></p></e>
+<e><p><l>лека-полека<s n="adv"/></l><r>лека-полека<s n="adv"/></r></p></e>
+<e><p><l>надве-натри<s n="adv"/></l><r>надве-натри<s n="adv"/></r></p></e>
 <e c="v0"><p><l>тек-тук<s n="adv"/></l><r>тук-там<s n="adv"/></r></p></e>
 <e r="LR" c="v1"><p><l>овде-онде<s n="adv"/></l><r>тук-там<s n="adv"/></r></p></e>
 <e c="v0"><p><l>тек<b/>тук<s n="adv"/></l><r>тук<b/>там<s n="adv"/></r></p></e>
 <e r="LR" c="v1"><p><l>овде<b/>онде<s n="adv"/></l><r>тук<b/>там<s n="adv"/></r></p></e>
 <e><p><l>чат<b/>пат<s n="adv"/></l><r>чат<b/>пат<s n="adv"/></r></p></e>
 <e><p><l>чат-пат<s n="adv"/></l><r>чат-пат<s n="adv"/></r></p></e>
+<e><p><l>надвор<s n="adv"/></l><r>навън<s n="adv"/></r></p></e> <!--КГраматика-->
 
 <!--
 	Common proper names
 -->
-<e><p><l>Аро<s n="np"/><s n="al"/><s n="nt"/></l><r>Аро<s n="np"/><s n="al"/><s n="nt"/></r></p></e>
-<e><p><l>Бета<s n="np"/><s n="al"/><s n="f"/></l><r>Бета<s n="np"/><s n="al"/><s n="f"/></r></p></e>
-<e><p><l>Блиц<s n="np"/><s n="al"/><s n="m"/></l><r>Блиц<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Ватан<s n="np"/><s n="al"/><s n="m"/></l><r>Ватан<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Аро<s n="np"/><s n="al"/><s n="mf"/></l><r>Аро<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Бета<s n="np"/><s n="al"/><s n="mf"/></l><r>Бета<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Блиц<s n="np"/><s n="al"/><s n="mf"/></l><r>Блиц<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Ватан<s n="np"/><s n="al"/><s n="mf"/></l><r>Ватан<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
 <e><p><l>Вечерњи<s n="np"/><s n="al"/><s n="mf"/></l><r>Вечерни<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
 <e><p><l>Википедија<s n="np"/><s n="al"/><s n="f"/></l><r>Уикипедия<s n="np"/><s n="al"/><s n="f"/></r></p></e>
 <e><p><l>Вијести<s n="np"/><s n="al"/><s n="mf"/></l><r>Виести<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Вјесник<s n="np"/><s n="al"/><s n="m"/></l><r>Весник<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Гардијан<s n="np"/><s n="al"/><s n="m"/></l><r>Гардиън<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Данас<s n="np"/><s n="al"/><s n="m"/></l><r>Данас<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Дарик<s n="np"/><s n="al"/><s n="m"/></l><r>Дарик<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Дневник<s n="np"/><s n="al"/><s n="m"/></l><r>Дневник<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Вјесник<s n="np"/><s n="al"/><s n="mf"/></l><r>Весник<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Гардијан<s n="np"/><s n="al"/><s n="mf"/></l><r>Гардиън<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Данас<s n="np"/><s n="al"/><s n="mf"/></l><r>Данас<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Дарик<s n="np"/><s n="al"/><s n="mf"/></l><r>Дарик<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Дневник<s n="np"/><s n="al"/><s n="mf"/></l><r>Дневник<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
 <e><p><l>Дојче<s n="np"/><s n="al"/><s n="mf"/></l><r>Дойче<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Евениментул<s n="np"/><s n="al"/><s n="m"/></l><r>Евениментул<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Експрес<s n="np"/><s n="al"/><s n="m"/></l><r>Експрес<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Ергенекон<s n="np"/><s n="al"/><s n="m"/></l><r>Ергенекон<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Еуроњус<s n="np"/><s n="al"/><s n="m"/></l><r>Евронюз<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Заман<s n="np"/><s n="al"/><s n="m"/></l><r>Заман<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Евениментул<s n="np"/><s n="al"/><s n="mf"/></l><r>Евениментул<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Експрес<s n="np"/><s n="al"/><s n="mf"/></l><r>Експрес<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Ергенекон<s n="np"/><s n="al"/><s n="mf"/></l><r>Ергенекон<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Еуроњус<s n="np"/><s n="al"/><s n="mf"/></l><r>Евронюз<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Заман<s n="np"/><s n="al"/><s n="mf"/></l><r>Заман<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
 <e><p><l>Зери<s n="np"/><s n="al"/><s n="mf"/></l><r>Зери<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Индипендант<s n="np"/><s n="al"/><s n="m"/></l><r>Индипендънт<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Интерпол<s n="np"/><s n="al"/><s n="m"/></l><r>Интерпол<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Индипендант<s n="np"/><s n="al"/><s n="mf"/></l><r>Индипендънт<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Интерпол<s n="np"/><s n="al"/><s n="mf"/></l><r>Интерпол<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
 <e><p><l>Катимерини<s n="np"/><s n="al"/><s n="mf"/></l><r>Катимерини<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Косова<s n="np"/><s n="al"/><s n="f"/></l><r>Косова<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+<e><p><l>Косова<s n="np"/><s n="al"/><s n="mf"/></l><r>Косова<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
 <e><p><l>Кохајоне<s n="np"/><s n="al"/><s n="mf"/></l><r>Коха<b/>Йоне<s n="np"/><s n="al"/><s n="mf"/></r></p></e> <!--радио в Албания-->
-<e><p><l>Ксинхуа<s n="np"/><s n="al"/><s n="f"/></l><r>Синхуа<s n="np"/><s n="al"/><s n="f"/></r></p></e>
-<e><p><l>Макфакс<s n="np"/><s n="al"/><s n="m"/></l><r>Макфакс<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Мајкрософт<s n="np"/><s n="al"/><s n="m"/></l><r>Майкрософт<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Медиапул<s n="np"/><s n="al"/><s n="m"/></l><r>Медиапул<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Медиафакс<s n="np"/><s n="al"/><s n="m"/></l><r>Медиафакс<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Милијет<s n="np"/><s n="al"/><s n="m"/></l><r>Милиет<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Монитор<s n="np"/><s n="al"/><s n="m"/></l><r>Монитор<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Нафтемборики<s n="np"/><s n="al"/><s n="m"/></l><r>Нафтемборики<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Ксинхуа<s n="np"/><s n="al"/><s n="mf"/></l><r>Синхуа<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Макфакс<s n="np"/><s n="al"/><s n="mf"/></l><r>Макфакс<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Мајкрософт<s n="np"/><s n="al"/><s n="mf"/></l><r>Майкрософт<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Медиапул<s n="np"/><s n="al"/><s n="mf"/></l><r>Медиапул<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Медиафакс<s n="np"/><s n="al"/><s n="mf"/></l><r>Медиафакс<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Милијет<s n="np"/><s n="al"/><s n="mf"/></l><r>Милиет<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Монитор<s n="np"/><s n="al"/><s n="mf"/></l><r>Монитор<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Нафтемборики<s n="np"/><s n="al"/><s n="mf"/></l><r>Нафтемборики<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
 <e><p><l>Независне<s n="np"/><s n="al"/><s n="mf"/></l><r>Независне<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Олимпик<s n="np"/><s n="al"/><s n="m"/></l><r>Олимпик<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Олимпик<s n="np"/><s n="al"/><s n="mf"/></l><r>Олимпик<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
 <e><p><l>Побједа<s n="np"/><s n="al"/><s n="f"/></l><r>Победа<s n="np"/><s n="al"/><s n="f"/></r></p></e>
-<e><p><l>Радикал<s n="np"/><s n="al"/><s n="m"/></l><r>Радикал<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Реалитатеа<s n="np"/><s n="al"/><s n="f"/></l><r>Реалитатеа<s n="np"/><s n="al"/><s n="f"/></r></p></e>
-<e><p><l>Ромпрес<s n="np"/><s n="al"/><s n="m"/></l><r>Ромпрес<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Ројтерс<s n="np"/><s n="al"/><s n="m"/></l><r>Ройтерс<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Сега<s n="np"/><s n="al"/><s n="m"/></l><r>Сега<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Танјуг<s n="np"/><s n="al"/><s n="m"/></l><r>Танюг<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Радикал<s n="np"/><s n="al"/><s n="mf"/></l><r>Радикал<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Реалитатеа<s n="np"/><s n="al"/><s n="mf"/></l><r>Реалитатеа<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Ромпрес<s n="np"/><s n="al"/><s n="mf"/></l><r>Ромпрес<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Ројтерс<s n="np"/><s n="al"/><s n="mf"/></l><r>Ройтерс<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Сега<s n="np"/><s n="al"/><s n="mf"/></l><r>Сега<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Танјуг<s n="np"/><s n="al"/><s n="mf"/></l><r>Танюг<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
 <e><p><l>Тркиш<s n="np"/><s n="al"/><s n="mf"/></l><r>Търкиш<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Турк<s n="np"/><s n="al"/><s n="m"/></l><r>Турк<s n="np"/><s n="al"/><s n="m"/></r></p></e> <!--Тюрк?-->
-<e><p><l>Фена<s n="np"/><s n="al"/><s n="f"/></l><r>Фена<s n="np"/><s n="al"/><s n="f"/></r></p></e>
-<e><p><l>Фокус<s n="np"/><s n="al"/><s n="m"/></l><r>Фокус<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Фонет<s n="np"/><s n="al"/><s n="m"/></l><r>Фонет<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>Хуријет<s n="np"/><s n="al"/><s n="m"/></l><r>Хюриет<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Турк<s n="np"/><s n="al"/><s n="mf"/></l><r>Турк<s n="np"/><s n="al"/><s n="mf"/></r></p></e> <!--Тюрк?-->
+<e><p><l>Фена<s n="np"/><s n="al"/><s n="mf"/></l><r>Фена<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Фокус<s n="np"/><s n="al"/><s n="mf"/></l><r>Фокус<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Фонет<s n="np"/><s n="al"/><s n="mf"/></l><r>Фонет<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Хуријет<s n="np"/><s n="al"/><s n="mf"/></l><r>Хюриет<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
 <e><p><l>Шекули<s n="np"/><s n="al"/><s n="mf"/></l><r>Шекули<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Шкип<s n="np"/><s n="al"/><s n="m"/></l><r>Шкип<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Шкип<s n="np"/><s n="al"/><s n="mf"/></l><r>Шкип<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
 <e><p><l>газете<s n="np"/><s n="al"/><s n="mf"/></l><r>газет<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
 <e><p><l>ерлајнс<s n="np"/><s n="al"/><s n="mf"/></l><r>еърлайнс<s n="np"/><s n="al"/><s n="mf"/></r></p></e> <!--airlines-->
-<e><p><l>инсајт<s n="np"/><s n="al"/><s n="m"/></l><r>инсайт<s n="np"/><s n="al"/><s n="m"/></r></p></e>
-<e><p><l>ченал<s n="np"/><s n="al"/><s n="m"/></l><r>ченъл<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>инсајт<s n="np"/><s n="al"/><s n="mf"/></l><r>инсайт<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>ченал<s n="np"/><s n="al"/><s n="mf"/></l><r>ченъл<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
 <e><p><l>јавности<s n="np"/><s n="al"/><s n="mf"/></l><r>явности<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Ал<b/>Каеда<s n="np"/><s n="al"/><s n="f"/></l><r>Ал-Кайда<s n="np"/><s n="al"/><s n="f"/></r></p></e>
+<e><p><l>Ал<b/>Каеда<s n="np"/><s n="al"/><s n="mf"/></l><r>Ал-Кайда<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
 <e><p><l>Дневни<b/>аваз<s n="np"/><s n="al"/><s n="mf"/></l><r>Дневни<b/>Аваз<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Интернешнал<b/>хералд<b/>трибјун<s n="np"/><s n="al"/><s n="m"/></l><r>Интърнешънъл<b/>Хералд<b/>Трибюн<s n="np"/><s n="al"/><s n="m"/></r></p></e>
+<e><p><l>Интернешнал<b/>хералд<b/>трибјун<s n="np"/><s n="al"/><s n="mf"/></l><r>Интърнешънъл<b/>Хералд<b/>Трибюн<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
 <e><p><l>Коха<b/>Диторе<s n="np"/><s n="al"/><s n="mf"/></l><r>Коха<b/>диторе<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
 <e><p><l>НТВ<b/>Хајат<s n="np"/><s n="al"/><s n="mf"/></l><r>НТВ<b/>Хаят<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
 <e><p><l>Независне<b/>новине<s n="np"/><s n="al"/><s n="mf"/></l><r>Независне<b/>Новине<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
@@ -1581,7 +1583,7 @@
 <e><p><l>Миодраг<s n="np"/><s n="ant"/><s n="m"/></l><r>Миодраг<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Мирко<s n="np"/><s n="ant"/><s n="m"/></l><r>Мирко<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Мирослав<s n="np"/><s n="ant"/><s n="m"/></l><r>Мирослав<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e><p><l>Мирчеа<s n="np"/><s n="ant"/><s n="m"/></l><r>Мирча<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Мирча<s n="np"/><s n="ant"/><s n="m"/></l><r>Мирча<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Михаи<s n="np"/><s n="ant"/><s n="m"/></l><r>Михай<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Михаил<s n="np"/><s n="ant"/><s n="m"/></l><r>Михаил<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Младен<s n="np"/><s n="ant"/><s n="m"/></l><r>Младен<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -3253,6 +3255,7 @@
 
 <!-- Particles -->
 
+<e><p><l>ли<s n="part"/></l><r>ли<s n="part"/></r></p></e>
 <e><p><l>да<s n="part"/></l><r>да<s n="part"/></r></p></e>
 <e><p><l>ќе<s n="part"/></l><r>ще<s n="part"/></r></p></e>
 
@@ -3285,7 +3288,6 @@
 <e><p><l>долж<s n="pr"/></l><r>покрай<s n="pr"/></r></p></e>
 <e><p><l>како<s n="pr"/></l><r>като<s n="pr"/></r></p></e>
 <e><p><l>кон<s n="pr"/></l><r>към<s n="pr"/></r></p></e>
-<e><p><l>надвор<s n="pr"/></l><r>извън<s n="pr"/></r></p></e> <!--КГраматика-->
 <e><p><l>наспрема<s n="pr"/></l><r>спрямо<s n="pr"/></r></p></e>
 <e><p><l>околу<s n="pr"/></l><r>около<s n="pr"/></r></p></e>
 <e><p><l>отколку<s n="pr"/></l><r>отколкото<s n="pr"/></r></p></e>
@@ -3365,7 +3367,7 @@
 <e><p><l>Бериша<s n="np"/><s n="cog"/><s n="mf"/></l><r>Бериша<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Блумберг<s n="np"/><s n="cog"/><s n="mf"/></l><r>Блумбърг<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Борисов<s n="np"/><s n="cog"/><s n="m"/></l><r>Борисов<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Ботев<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ботев<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Ботев<s n="np"/><s n="cog"/><s n="m"/></l><r>Ботев<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Бошковски<s n="np"/><s n="cog"/><s n="m"/></l><r>Бошковски<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Брамерц<s n="np"/><s n="cog"/><s n="mf"/></l><r>Брамерц<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Бусек<s n="np"/><s n="cog"/><s n="mf"/></l><r>Бусек<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -3383,7 +3385,7 @@
 <e><p><l>Готовина<s n="np"/><s n="cog"/><s n="mf"/></l><r>Готовина<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Грабар<s n="np"/><s n="cog"/><s n="m"/></l><r>Грабар<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Груевски<s n="np"/><s n="cog"/><s n="m"/></l><r>Груевски<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Давиниќ<s n="np"/><s n="cog"/><s n="m"/></l><r>Давинич<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+<e><p><l>Давиниќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Давинич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Дал<s n="np"/><s n="cog"/><s n="m"/></l><r>Дал<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Денкташ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Денкташ<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Димитров<s n="np"/><s n="cog"/><s n="m"/></l><r>Димитров<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
@@ -3394,19 +3396,19 @@
 <e><p><l>Драшковиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Драшкович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Ердоган<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ердоган<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Ешдаун<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ашдаун<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Жечев<s n="np"/><s n="cog"/><s n="mf"/></l><r>Жечев<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Жечев<s n="np"/><s n="cog"/><s n="m"/></l><r>Жечев<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Живковиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Живкович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Жупљанин<s n="np"/><s n="cog"/><s n="m"/></l><r>Жуплянин<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Иваниќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Иванич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Иванов<s n="np"/><s n="cog"/><s n="m"/></l><r>Иванов<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Ивановиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Иванович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Илиеску<s n="np"/><s n="cog"/><s n="mf"/></l><r>Илиеску<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Ислами<s n="np"/><s n="cog"/><s n="m"/></l><r>Ислами<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+<e><p><l>Ислами<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ислами<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Калфин<s n="np"/><s n="cog"/><s n="m"/></l><r>Калфин<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Караманлис<s n="np"/><s n="cog"/><s n="mf"/></l><r>Караманлис<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Караџиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Караджич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Кариќ<s n="np"/><s n="cog"/><s n="m"/></l><r>Карич<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Ковачевиќ<s n="np"/><s n="cog"/><s n="m"/></l><r>Ковачевич<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+<e><p><l>Кариќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Карич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Ковачевиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ковачевич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Костелиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Костелич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Костов<s n="np"/><s n="cog"/><s n="m"/></l><r>Костов<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Коштуница<s n="np"/><s n="cog"/><s n="mf"/></l><r>Кощуница<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -3437,7 +3439,7 @@
 <e><p><l>Николиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Николич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Николовски<s n="np"/><s n="cog"/><s n="m"/></l><r>Николовски<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Нимиц<s n="np"/><s n="cog"/><s n="mf"/></l><r>Нимиц<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Оџалан<s n="np"/><s n="cog"/><s n="m"/></l><r>Йоджалан<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+<e><p><l>Оџалан<s n="np"/><s n="cog"/><s n="mf"/></l><r>Йоджалан<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Пападопулос<s n="np"/><s n="cog"/><s n="mf"/></l><r>Пападопулос<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Папандреу<s n="np"/><s n="cog"/><s n="mf"/></l><r>Папандреу<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Папуљас<s n="np"/><s n="cog"/><s n="mf"/></l><r>Папуляс<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -3446,8 +3448,8 @@
 <e><p><l>Патен<s n="np"/><s n="cog"/><s n="mf"/></l><r>Патен<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Пауел<s n="np"/><s n="cog"/><s n="mf"/></l><r>Пауъл<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Петерсен<s n="np"/><s n="cog"/><s n="mf"/></l><r>Петерсен<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Петков<s n="np"/><s n="cog"/><s n="mf"/></l><r>Петков<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Петров<s n="np"/><s n="cog"/><s n="mf"/></l><r>Петров<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Петков<s n="np"/><s n="cog"/><s n="m"/></l><r>Петков<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+<e><p><l>Петров<s n="np"/><s n="cog"/><s n="m"/></l><r>Петров<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Попеску<s n="np"/><s n="cog"/><s n="mf"/></l><r>Попеску<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Проди<s n="np"/><s n="cog"/><s n="mf"/></l><r>Проди<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Путин<s n="np"/><s n="cog"/><s n="m"/></l><r>Путин<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
@@ -3477,11 +3479,11 @@
 <e><p><l>Станишиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Станишич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Станковиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Станкович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Тадиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Тадич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Талат<s n="np"/><s n="cog"/><s n="m"/></l><r>Талят<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+<e><p><l>Талат<s n="np"/><s n="cog"/><s n="mf"/></l><r>Талят<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Таричеану<s n="np"/><s n="cog"/><s n="mf"/></l><r>Търичану<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Тарчуловски<s n="np"/><s n="cog"/><s n="m"/></l><r>Тарчуловски<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Тачи<s n="np"/><s n="cog"/><s n="mf"/></l><r>Тачи<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Тајип<s n="np"/><s n="cog"/><s n="m"/></l><r>Тайип<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
+<e><p><l>Тајип<s n="np"/><s n="cog"/><s n="mf"/></l><r>Тайип<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Терзиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Терзич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Тихиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Тихич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Топали<s n="np"/><s n="cog"/><s n="mf"/></l><r>Топали<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -3512,9 +3514,8 @@
 	Topography
 -->
 <e><p><l>Белорусија<s n="np"/><s n="top"/><s n="f"/></l><r>Беларус<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<e><p><l>Брчко<s n="np"/><s n="top"/><s n="nt"/></l><r>Бръчко<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<!--<e><p><l>Брчко<s n="np"/><s n="top"/><s n="m"/></l><r>Бръчко<s n="np"/><s n="top"/><s n="m"/></r></p></e>-->
-<!--<e><p><l>Сараево<s n="np"/><s n="top"/><s n="m"/></l><r>Сараево<s n="np"/><s n="top"/><s n="m"/></r></p></e>--> <!-- NT ? -->
+<e><p><l>Брчко<s n="np"/><s n="top"/><s n="nt"/></l><r>Бръчко<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
+<e><p><l>Сараево<s n="np"/><s n="top"/><s n="nt"/></l><r>Сараево<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
 
 <e><p><l>Гренланд<s n="np"/><s n="top"/><s n="m"/></l><r>Гренландия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>Јамбол<s n="np"/><s n="top"/><s n="m"/></l><r>Ямбол<s n="np"/><s n="top"/><s n="m"/></r></p></e>
@@ -3650,7 +3651,7 @@
 <e><p><l>Русија<s n="np"/><s n="top"/><s n="f"/></l><r>Русия<s n="np"/><s n="top"/><s n="f"/></r></p></e>
 <e><p><l>САД<s n="np"/><s n="top"/><s n="m"/></l><r>САЩ<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 <e><p><l>СССР<s n="np"/><s n="top"/><s n="m"/></l><r>СССР<s n="np"/><s n="top"/><s n="m"/></r></p></e>
-<!--<e><p><l>Сад<s n="np"/><s n="top"/><s n="m"/></l><r>Сад<s n="np"/><s n="top"/><s n="m"/></r></p></e>-->
+<e><p><l>Сад<s n="np"/><s n="top"/><s n="m"/></l><r>Сад<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 <e><p><l>Самоков<s n="np"/><s n="top"/><s n="m"/></l><r>Самоков<s n="np"/><s n="top"/><s n="m"/></r></p></e>
 <e><p><l>Сараево<s n="np"/><s n="top"/><s n="nt"/></l><r>Сараево<s n="np"/><s n="top"/><s n="nt"/></r></p></e>
 <e><p><l>Свиштов<s n="np"/><s n="top"/><s n="m"/></l><r>Свищов<s n="np"/><s n="top"/><s n="m"/></r></p></e>
@@ -3703,7 +3704,6 @@
 <e><p><l>е<s n="vbser"/></l><r>е<s n="vbser"/></r></p></e>
 <e><p><l>мора<s n="vbmod"/></l><r>трябва<s n="vbmod"/></r></p></e>
 <e><p><l>може<s n="vbmod"/></l><r>може<s n="vbmod"/></r></p></e>
-<!--<e><p><l>треба<s n="vblex"/></l><r>трябва<s n="vblex"/></r></p></e>-->
 <e><p><l>има<s n="vbhaver"/></l><r>има<s n="vbhaver"/></r></p></e>
 <e><p><l>нема<s n="vbhaver"/></l><r>няма<s n="vbhaver"/></r></p></e>
 
