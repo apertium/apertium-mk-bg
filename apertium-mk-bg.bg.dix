@@ -8,7 +8,7 @@
         Many thanks to Rosen Vladimirov for responding to questions.
 -->
 <dictionary>
-  <alphabet>аАбБвВгГдДеЕжЖзЗиИйЙкКлЛмМнНоОпПрРсСтТуУфФхХцЦчЧшШщЩъЪьюЮяЯЭ</alphabet>
+  <alphabet>аАбБвВгГдДеЕжЖзЗиИйЙкКлЛмМнНоОпПрРсСтТуУфФхХцЦчЧшШщЩъЪьюЮяЯЭTOEAoea</alphabet>
   <sdefs>
     <sdef n="n"        c="Noun"/>
     <sdef n="np"       c="Proper noun"/>

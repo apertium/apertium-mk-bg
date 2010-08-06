@@ -7,7 +7,7 @@ PREFIX2=$(LANG2)-$(LANG1)
 all:
 	# Macedonian -> Bulgarian
 
-	lt-comp lr $(BASENAME).$(LANG1).dix $(PREFIX1).automorf.bin
+	lt-comp lr $(BASENAME).$(LANG1).dix $(PREFIX1).automorf.bin $(BASENAME).$(LANG1).acx
 	lt-comp lr $(BASENAME).$(PREFIX1).dix $(PREFIX1).autobil.bin
 	lt-comp rl $(BASENAME).$(LANG2).dix $(PREFIX1).autogen.bin
 	lt-comp lr $(BASENAME).post-$(LANG2).dix $(PREFIX1).autopgen.bin
@@ -16,7 +16,7 @@ all:
 
 	# Bulgarian -> Macedonian
 
-	lt-comp lr $(BASENAME).$(LANG2).dix $(PREFIX2).automorf.bin
+	lt-comp lr $(BASENAME).$(LANG2).dix $(PREFIX2).automorf.bin $(BASENAME).$(LANG2).acx
 	lt-comp rl $(BASENAME).$(PREFIX1).dix $(PREFIX2).autobil.bin
 	lt-comp rl $(BASENAME).$(LANG1).dix $(PREFIX2).autogen.bin
 	lt-comp lr $(BASENAME).post-$(LANG1).dix $(PREFIX2).autopgen.bin

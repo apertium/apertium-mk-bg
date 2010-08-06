@@ -2,9 +2,11 @@
 /AUTHORS -text
 /Makefile -text
 /apertium-mk-bg.bg-mk.t1x -text
+/apertium-mk-bg.bg.acx -text
 /apertium-mk-bg.bg.dix -text
 /apertium-mk-bg.mk-bg.dix -text
 /apertium-mk-bg.mk-bg.t1x -text
+/apertium-mk-bg.mk.acx -text
 /apertium-mk-bg.mk.dix -text
 /apertium-mk-bg.post-bg.dix -text
 /apertium-mk-bg.post-mk.dix -text
