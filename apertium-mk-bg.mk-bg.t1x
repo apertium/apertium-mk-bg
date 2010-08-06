@@ -30,6 +30,10 @@
       <cat-item tags="prn.ref.*"/>
     </def-cat>
     
+    <def-cat n="num">
+      <cat-item tags="num.*"/>
+    </def-cat>
+
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
@@ -98,6 +102,10 @@
       <attr-item tags="prn.pos.clt"/>
     </def-attr>
           
+    <def-attr n="a_num">
+      <attr-item tags="num"/>
+    </def-attr>
+
     <def-attr n="a_nom">
       <attr-item tags="n"/>
     </def-attr>
@@ -400,6 +408,65 @@ output: def
     </rule>
 
 
+    
+    <rule comment="RULE: Numeral → Numeral : ( → )">
+      <pattern>
+        <pattern-item n="num"/>
+      </pattern>
+      <action>
+<!--
+input: prx, dst
+output: def 
+-->
+  <choose>     <!-- if -->
+    <when>
+      <test>
+        <not><equal>
+          <clip pos="1" side="sl" part="defnes"/>  
+          <lit-tag v="ind"/>
+        </equal></not>
+      </test>
+      <let>
+        <clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
+        <lit-tag v="def"/>
+      </let>
+    </when>
+
+  </choose>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_num"/>
+            <clip pos="1" side="tl" part="gen"/>
+            <clip pos="1" side="tl" part="nbr"/>
+            <clip pos="1" side="tl" part="cas"/>
+            <clip pos="1" side="tl" part="defnes"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+    
+
+    <rule comment="RULE: Past Participle → Past Participle : ( → )">
+      <pattern>
+        <pattern-item n="pp"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="temps"/>
+            <clip pos="1" side="tl" part="gen"/>
+            <clip pos="1" side="tl" part="nbr"/>
+            <clip pos="1" side="tl" part="cas"/>
+            <lit-tag v="ind"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
 
 
   </section-rules>
