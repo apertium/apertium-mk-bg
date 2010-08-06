@@ -1416,69 +1416,69 @@
 <!--
 	Common proper names
 -->
-<e><p><l>Аро<s n="np"/><s n="al"/><s n="mf"/></l><r>Аро<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Бета<s n="np"/><s n="al"/><s n="mf"/></l><r>Бета<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Блиц<s n="np"/><s n="al"/><s n="mf"/></l><r>Блиц<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Ватан<s n="np"/><s n="al"/><s n="mf"/></l><r>Ватан<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Вечерњи<s n="np"/><s n="al"/><s n="mf"/></l><r>Вечерни<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Аро<s n="np"/><s n="al"/><s n="mfn"/></l><r>Аро<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Бета<s n="np"/><s n="al"/><s n="mfn"/></l><r>Бета<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Блиц<s n="np"/><s n="al"/><s n="mfn"/></l><r>Блиц<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Ватан<s n="np"/><s n="al"/><s n="mfn"/></l><r>Ватан<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Вечерњи<s n="np"/><s n="al"/><s n="mfn"/></l><r>Вечерни<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
 <e><p><l>Википедија<s n="np"/><s n="al"/><s n="f"/></l><r>Уикипедия<s n="np"/><s n="al"/><s n="f"/></r></p></e>
-<e><p><l>Вијести<s n="np"/><s n="al"/><s n="mf"/></l><r>Виести<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Вјесник<s n="np"/><s n="al"/><s n="mf"/></l><r>Весник<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Гардијан<s n="np"/><s n="al"/><s n="mf"/></l><r>Гардиън<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Данас<s n="np"/><s n="al"/><s n="mf"/></l><r>Данас<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Дарик<s n="np"/><s n="al"/><s n="mf"/></l><r>Дарик<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Дневник<s n="np"/><s n="al"/><s n="mf"/></l><r>Дневник<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Дојче<s n="np"/><s n="al"/><s n="mf"/></l><r>Дойче<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Евениментул<s n="np"/><s n="al"/><s n="mf"/></l><r>Евениментул<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Експрес<s n="np"/><s n="al"/><s n="mf"/></l><r>Експрес<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Ергенекон<s n="np"/><s n="al"/><s n="mf"/></l><r>Ергенекон<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Еуроњус<s n="np"/><s n="al"/><s n="mf"/></l><r>Евронюз<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Заман<s n="np"/><s n="al"/><s n="mf"/></l><r>Заман<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Зери<s n="np"/><s n="al"/><s n="mf"/></l><r>Зери<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Индипендант<s n="np"/><s n="al"/><s n="mf"/></l><r>Индипендънт<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Интерпол<s n="np"/><s n="al"/><s n="mf"/></l><r>Интерпол<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Катимерини<s n="np"/><s n="al"/><s n="mf"/></l><r>Катимерини<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Косова<s n="np"/><s n="al"/><s n="mf"/></l><r>Косова<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Кохајоне<s n="np"/><s n="al"/><s n="mf"/></l><r>Коха<b/>Йоне<s n="np"/><s n="al"/><s n="mf"/></r></p></e> <!--радио в Албания-->
-<e><p><l>Ксинхуа<s n="np"/><s n="al"/><s n="mf"/></l><r>Синхуа<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Макфакс<s n="np"/><s n="al"/><s n="mf"/></l><r>Макфакс<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Мајкрософт<s n="np"/><s n="al"/><s n="mf"/></l><r>Майкрософт<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Медиапул<s n="np"/><s n="al"/><s n="mf"/></l><r>Медиапул<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Медиафакс<s n="np"/><s n="al"/><s n="mf"/></l><r>Медиафакс<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Милијет<s n="np"/><s n="al"/><s n="mf"/></l><r>Милиет<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Монитор<s n="np"/><s n="al"/><s n="mf"/></l><r>Монитор<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Нафтемборики<s n="np"/><s n="al"/><s n="mf"/></l><r>Нафтемборики<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Независне<s n="np"/><s n="al"/><s n="mf"/></l><r>Независне<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Олимпик<s n="np"/><s n="al"/><s n="mf"/></l><r>Олимпик<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Вијести<s n="np"/><s n="al"/><s n="mfn"/></l><r>Виести<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Вјесник<s n="np"/><s n="al"/><s n="mfn"/></l><r>Весник<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Гардијан<s n="np"/><s n="al"/><s n="mfn"/></l><r>Гардиън<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Данас<s n="np"/><s n="al"/><s n="mfn"/></l><r>Данас<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Дарик<s n="np"/><s n="al"/><s n="mfn"/></l><r>Дарик<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Дневник<s n="np"/><s n="al"/><s n="mfn"/></l><r>Дневник<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Дојче<s n="np"/><s n="al"/><s n="mfn"/></l><r>Дойче<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Евениментул<s n="np"/><s n="al"/><s n="mfn"/></l><r>Евениментул<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Експрес<s n="np"/><s n="al"/><s n="mfn"/></l><r>Експрес<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Ергенекон<s n="np"/><s n="al"/><s n="mfn"/></l><r>Ергенекон<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Еуроњус<s n="np"/><s n="al"/><s n="mfn"/></l><r>Евронюз<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Заман<s n="np"/><s n="al"/><s n="mfn"/></l><r>Заман<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Зери<s n="np"/><s n="al"/><s n="mfn"/></l><r>Зери<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Индипендант<s n="np"/><s n="al"/><s n="mfn"/></l><r>Индипендънт<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Интерпол<s n="np"/><s n="al"/><s n="mfn"/></l><r>Интерпол<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Катимерини<s n="np"/><s n="al"/><s n="mfn"/></l><r>Катимерини<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Косова<s n="np"/><s n="al"/><s n="mfn"/></l><r>Косова<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Кохајоне<s n="np"/><s n="al"/><s n="mfn"/></l><r>Коха<b/>Йоне<s n="np"/><s n="al"/><s n="mfn"/></r></p></e> <!--радио в Албания-->
+<e><p><l>Ксинхуа<s n="np"/><s n="al"/><s n="mfn"/></l><r>Синхуа<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Макфакс<s n="np"/><s n="al"/><s n="mfn"/></l><r>Макфакс<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Мајкрософт<s n="np"/><s n="al"/><s n="mfn"/></l><r>Майкрософт<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Медиапул<s n="np"/><s n="al"/><s n="mfn"/></l><r>Медиапул<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Медиафакс<s n="np"/><s n="al"/><s n="mfn"/></l><r>Медиафакс<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Милијет<s n="np"/><s n="al"/><s n="mfn"/></l><r>Милиет<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Монитор<s n="np"/><s n="al"/><s n="mfn"/></l><r>Монитор<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Нафтемборики<s n="np"/><s n="al"/><s n="mfn"/></l><r>Нафтемборики<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Независне<s n="np"/><s n="al"/><s n="mfn"/></l><r>Независне<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Олимпик<s n="np"/><s n="al"/><s n="mfn"/></l><r>Олимпик<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
 <e><p><l>Побједа<s n="np"/><s n="al"/><s n="f"/></l><r>Победа<s n="np"/><s n="al"/><s n="f"/></r></p></e>
-<e><p><l>Радикал<s n="np"/><s n="al"/><s n="mf"/></l><r>Радикал<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Реалитатеа<s n="np"/><s n="al"/><s n="mf"/></l><r>Реалитатеа<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Ромпрес<s n="np"/><s n="al"/><s n="mf"/></l><r>Ромпрес<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Ројтерс<s n="np"/><s n="al"/><s n="mf"/></l><r>Ройтерс<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Сега<s n="np"/><s n="al"/><s n="mf"/></l><r>Сега<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Танјуг<s n="np"/><s n="al"/><s n="mf"/></l><r>Танюг<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Тркиш<s n="np"/><s n="al"/><s n="mf"/></l><r>Търкиш<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Турк<s n="np"/><s n="al"/><s n="mf"/></l><r>Турк<s n="np"/><s n="al"/><s n="mf"/></r></p></e> <!--Тюрк?-->
-<e><p><l>Фена<s n="np"/><s n="al"/><s n="mf"/></l><r>Фена<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Фокус<s n="np"/><s n="al"/><s n="mf"/></l><r>Фокус<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Фонет<s n="np"/><s n="al"/><s n="mf"/></l><r>Фонет<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Хуријет<s n="np"/><s n="al"/><s n="mf"/></l><r>Хюриет<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Шекули<s n="np"/><s n="al"/><s n="mf"/></l><r>Шекули<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Шкип<s n="np"/><s n="al"/><s n="mf"/></l><r>Шкип<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>газете<s n="np"/><s n="al"/><s n="mf"/></l><r>газет<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>ерлајнс<s n="np"/><s n="al"/><s n="mf"/></l><r>еърлайнс<s n="np"/><s n="al"/><s n="mf"/></r></p></e> <!--airlines-->
-<e><p><l>инсајт<s n="np"/><s n="al"/><s n="mf"/></l><r>инсайт<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>ченал<s n="np"/><s n="al"/><s n="mf"/></l><r>ченъл<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>јавности<s n="np"/><s n="al"/><s n="mf"/></l><r>явности<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Ал<b/>Каеда<s n="np"/><s n="al"/><s n="mf"/></l><r>Ал-Кайда<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Дневни<b/>аваз<s n="np"/><s n="al"/><s n="mf"/></l><r>Дневни<b/>Аваз<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Интернешнал<b/>хералд<b/>трибјун<s n="np"/><s n="al"/><s n="mf"/></l><r>Интърнешънъл<b/>Хералд<b/>Трибюн<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Коха<b/>Диторе<s n="np"/><s n="al"/><s n="mf"/></l><r>Коха<b/>диторе<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>НТВ<b/>Хајат<s n="np"/><s n="al"/><s n="mf"/></l><r>НТВ<b/>Хаят<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>Независне<b/>новине<s n="np"/><s n="al"/><s n="mf"/></l><r>Независне<b/>Новине<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
-<e><p><l>РИА<b/>Новости<s n="np"/><s n="al"/><s n="mf"/></l><r>РИА<b/>Новости<s n="np"/><s n="al"/><s n="mf"/></r></p></e> 
-<e><p><l>СНН<b/>Турк<s n="np"/><s n="al"/><s n="mf"/></l><r>Си<b/>Ен<b/>Ен<b/>Търк<s n="np"/><s n="al"/><s n="mf"/></r></p></e> 
-<e><p><l>Стандард<b/>и<b/>Пур<s n="np"/><s n="al"/><s n="mf"/></l><r>Стандарт<b/>и<b/>Пуърс<s n="np"/><s n="al"/><s n="mf"/></r></p></e>
+<e><p><l>Радикал<s n="np"/><s n="al"/><s n="mfn"/></l><r>Радикал<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Реалитатеа<s n="np"/><s n="al"/><s n="mfn"/></l><r>Реалитатеа<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Ромпрес<s n="np"/><s n="al"/><s n="mfn"/></l><r>Ромпрес<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Ројтерс<s n="np"/><s n="al"/><s n="mfn"/></l><r>Ройтерс<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Сега<s n="np"/><s n="al"/><s n="mfn"/></l><r>Сега<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Танјуг<s n="np"/><s n="al"/><s n="mfn"/></l><r>Танюг<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Тркиш<s n="np"/><s n="al"/><s n="mfn"/></l><r>Търкиш<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Турк<s n="np"/><s n="al"/><s n="mfn"/></l><r>Турк<s n="np"/><s n="al"/><s n="mfn"/></r></p></e> <!--Тюрк?-->
+<e><p><l>Фена<s n="np"/><s n="al"/><s n="mfn"/></l><r>Фена<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Фокус<s n="np"/><s n="al"/><s n="mfn"/></l><r>Фокус<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Фонет<s n="np"/><s n="al"/><s n="mfn"/></l><r>Фонет<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Хуријет<s n="np"/><s n="al"/><s n="mfn"/></l><r>Хюриет<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Шекули<s n="np"/><s n="al"/><s n="mfn"/></l><r>Шекули<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Шкип<s n="np"/><s n="al"/><s n="mfn"/></l><r>Шкип<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>газете<s n="np"/><s n="al"/><s n="mfn"/></l><r>газет<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>ерлајнс<s n="np"/><s n="al"/><s n="mfn"/></l><r>еърлайнс<s n="np"/><s n="al"/><s n="mfn"/></r></p></e> <!--airlines-->
+<e><p><l>инсајт<s n="np"/><s n="al"/><s n="mfn"/></l><r>инсайт<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>ченал<s n="np"/><s n="al"/><s n="mfn"/></l><r>ченъл<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>јавности<s n="np"/><s n="al"/><s n="mfn"/></l><r>явности<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Ал<b/>Каеда<s n="np"/><s n="al"/><s n="mfn"/></l><r>Ал-Кайда<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Дневни<b/>аваз<s n="np"/><s n="al"/><s n="mfn"/></l><r>Дневни<b/>Аваз<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Интернешнал<b/>хералд<b/>трибјун<s n="np"/><s n="al"/><s n="mfn"/></l><r>Интърнешънъл<b/>Хералд<b/>Трибюн<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Коха<b/>Диторе<s n="np"/><s n="al"/><s n="mfn"/></l><r>Коха<b/>диторе<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>НТВ<b/>Хајат<s n="np"/><s n="al"/><s n="mfn"/></l><r>НТВ<b/>Хаят<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>Независне<b/>новине<s n="np"/><s n="al"/><s n="mfn"/></l><r>Независне<b/>Новине<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
+<e><p><l>РИА<b/>Новости<s n="np"/><s n="al"/><s n="mfn"/></l><r>РИА<b/>Новости<s n="np"/><s n="al"/><s n="mfn"/></r></p></e> 
+<e><p><l>СНН<b/>Турк<s n="np"/><s n="al"/><s n="mfn"/></l><r>Си<b/>Ен<b/>Ен<b/>Търк<s n="np"/><s n="al"/><s n="mfn"/></r></p></e> 
+<e><p><l>Стандард<b/>и<b/>Пур<s n="np"/><s n="al"/><s n="mfn"/></l><r>Стандарт<b/>и<b/>Пуърс<s n="np"/><s n="al"/><s n="mfn"/></r></p></e>
 
 <!--
 	Given names
@@ -1649,7 +1649,7 @@
 <!--
 	NOUNS
 -->
-<e><p><l>Балкан<s n="n"/><s n="m"/></l><r>Балкани<s n="n"/><s n="mf"/></r></p></e> <!--бг дума е плуралиа тантум-->
+<e><p><l>Балкан<s n="n"/><s n="m"/></l><r>Балкани<s n="n"/><s n="mfn"/></r></p></e> <!--бг дума е плуралиа тантум-->
 <e><p><l>Стејт<b/>департмент<s n="n"/><s n="m"/></l><r>Държавният<b/>департамент<b/>на<b/>САЩ<s n="n"/><s n="m"/></r></p></e> <!--МТЕ-->
 <e r="LR" c="v1"><p><l>абдикација<s n="n"/><s n="f"/></l><r>абдикация<s n="n"/><s n="f"/></r></p></e>
 <e c="v0"><p><l>абдицирање<s n="n"/><s n="nt"/></l><r>абдикация<s n="n"/><s n="f"/></r></p></e>
@@ -2350,7 +2350,7 @@
 <e><p><l>лук<s n="n"/><s n="m"/></l><r>чесън<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>кромид<s n="n"/><s n="m"/></l><r>лук<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>луна<s n="n"/><s n="f"/></l><r>луна<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>луѓе<s n="n"/><s n="mf"/></l><r>хора<s n="n"/><s n="mf"/></r></p></e> <!--плуралиа тантум-->
+<e><p><l>луѓе<s n="n"/><s n="mfn"/></l><r>хора<s n="n"/><s n="mfn"/></r></p></e> <!--плуралиа тантум-->
 <e><p><l>магла<s n="n"/><s n="f"/></l><r>мъгла<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>маж<s n="n"/><s n="m"/></l><r>мъж<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>македонец<s n="n"/><s n="m"/></l><r>македонец<s n="n"/><s n="m"/></r></p></e>
@@ -2414,7 +2414,7 @@
 <e><p><l>мрежа<s n="n"/><s n="f"/></l><r>мрежа<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>музеј<s n="n"/><s n="m"/></l><r>музей<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>музика<s n="n"/><s n="f"/></l><r>музика<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>муниција<s n="n"/><s n="f"/></l><r>боеприпаси<s n="n"/><s n="mf"/></r></p></e> <!--бг плуралия тантум-->
+<e><p><l>муниција<s n="n"/><s n="f"/></l><r>боеприпаси<s n="n"/><s n="mfn"/></r></p></e> <!--бг плуралия тантум-->
 <e><p><l>муслиман<s n="n"/><s n="m"/></l><r>мюсюлманин<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>мутирање<s n="n"/><s n="nt"/></l><r>мутиране<s n="n"/><s n="nt"/></r></p></e> 
 <e><p><l>набавка<s n="n"/><s n="f"/></l><r>поръчка<s n="n"/><s n="f"/></r></p></e>
@@ -2636,8 +2636,8 @@
 <e><p><l>повторување<s n="n"/><s n="nt"/></l><r>повторение<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>поглед<s n="n"/><s n="m"/></l><r>поглед<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>погреб<s n="n"/><s n="m"/></l><r>погребение<s n="n"/><s n="nt"/></r></p></e>
-<e r="LR" c="v1"><p><l>податок<s n="n"/><s n="m"/></l><r>данни<s n="n"/><s n="mf"/></r></p></e> <!-- sg(mk) pl(bg) -->
-<e c="v0"><p><l>податоци<s n="n"/><s n="m"/></l><r>данни<s n="n"/><s n="mf"/></r></p></e> <!--плуралиа тантум-->
+<e r="LR" c="v1"><p><l>податок<s n="n"/><s n="m"/></l><r>данни<s n="n"/><s n="mfn"/></r></p></e> <!-- sg(mk) pl(bg) -->
+<e c="v0"><p><l>податоци<s n="n"/><s n="m"/></l><r>данни<s n="n"/><s n="mfn"/></r></p></e> <!--плуралиа тантум-->
 <e><p><l>подвижност<s n="n"/><s n="f"/></l><r>подвижност<s n="n"/><s n="f"/></r></p></e> 
 <e><p><l>подготвеност<s n="n"/><s n="f"/></l><r>подготвеност<s n="n"/><s n="f"/></r></p></e> 
 <e><p><l>подготовка<s n="n"/><s n="f"/></l><r>подготовка<s n="n"/><s n="f"/></r></p></e>
@@ -3150,7 +3150,7 @@
 <e><p><l>фестивал<s n="n"/><s n="m"/></l><r>фестивал<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>филм<s n="n"/><s n="m"/></l><r>филм<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>финале<s n="n"/><s n="nt"/></l><r>финал<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>финансии<s n="n"/><s n="mf"/></l><r>финанси<s n="n"/><s n="mf"/></r></p></e> <!--плуралиа тантум-->
+<e><p><l>финансии<s n="n"/><s n="mfn"/></l><r>финанси<s n="n"/><s n="mfn"/></r></p></e> <!--плуралиа тантум-->
 <e><p><l>финансирање<s n="n"/><s n="nt"/></l><r>финансиране<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>фирма<s n="n"/><s n="f"/></l><r>фирма<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>фокус<s n="n"/><s n="m"/></l><r>фокус<s n="n"/><s n="m"/></r></p></e>
@@ -3213,7 +3213,7 @@
 <e><p><l>ѕвезда<s n="n"/><s n="f"/></l><r>звезда<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>јавност<s n="n"/><s n="f"/></l><r>общественост<s n="n"/><s n="f"/></r></p></e>
 
-<e><p><l>јаглен<s n="n"/><s n="m"/></l><r>въглища<s n="n"/><s n="mf"/></r></p><par n="јаглен_въглища__n"/></e> <!-- sg(mk) pl(bg) -->
+<e><p><l>јаглен<s n="n"/><s n="m"/></l><r>въглища<s n="n"/><s n="mfn"/></r></p><par n="јаглен_въглища__n"/></e> <!-- sg(mk) pl(bg) -->
 
 <e><p><l>јаже<s n="n"/><s n="nt"/></l><r>въже<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>јазик<s n="n"/><s n="m"/></l><r>език<s n="n"/><s n="m"/></r></p></e>
@@ -3343,173 +3343,173 @@
 <!--
 	Surnames
 -->
-<e><p><l>Ѓинѓиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Джинджич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Ѓорѓевиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Джорджевич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Ѓукановиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Джуканович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Ѓул<s n="np"/><s n="cog"/><s n="mf"/></l><r>Гюл<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Јанковиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Янкович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Јеремиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Йеремич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Јесен<s n="np"/><s n="cog"/><s n="mf"/></l><r>Йесен<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Јовановиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Йованович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Јоциќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Йоцич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Љајиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ляич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Џонс<s n="np"/><s n="cog"/><s n="mf"/></l><r>Джоунс<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Анан<s n="np"/><s n="cog"/><s n="mf"/></l><r>Анан<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Ахмети<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ахмети<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Ахтисари<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ахтисаари<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Бабаџан<s n="np"/><s n="cog"/><s n="mf"/></l><r>Бабаджан<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Бакојани<s n="np"/><s n="cog"/><s n="mf"/></l><r>Бакояни<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Барнс<s n="np"/><s n="cog"/><s n="mf"/></l><r>Бърнс<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Баросо<s n="np"/><s n="cog"/><s n="mf"/></l><r>Барозу<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Басеску<s n="np"/><s n="cog"/><s n="mf"/></l><r>Басеску<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Ѓинѓиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Джинджич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Ѓорѓевиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Джорджевич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Ѓукановиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Джуканович<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Ѓул<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Гюл<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Јанковиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Янкович<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Јеремиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Йеремич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Јесен<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Йесен<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Јовановиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Йованович<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Јоциќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Йоцич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Љајиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Ляич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Џонс<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Джоунс<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Анан<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Анан<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Ахмети<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Ахмети<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Ахтисари<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Ахтисаари<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Бабаџан<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Бабаджан<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Бакојани<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Бакояни<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Барнс<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Бърнс<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Баросо<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Барозу<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Басеску<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Басеску<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Бах<s n="np"/><s n="cog"/><s n="m"/></l><r>Бах<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Баша<s n="np"/><s n="cog"/><s n="mf"/></l><r>Баша<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Башеску<s n="np"/><s n="cog"/><s n="mf"/></l><r>Бъсеску<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Бериша<s n="np"/><s n="cog"/><s n="mf"/></l><r>Бериша<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Блумберг<s n="np"/><s n="cog"/><s n="mf"/></l><r>Блумбърг<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Баша<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Баша<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Башеску<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Бъсеску<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Бериша<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Бериша<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Блумберг<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Блумбърг<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Борисов<s n="np"/><s n="cog"/><s n="m"/></l><r>Борисов<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Ботев<s n="np"/><s n="cog"/><s n="m"/></l><r>Ботев<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Бошковски<s n="np"/><s n="cog"/><s n="m"/></l><r>Бошковски<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Брамерц<s n="np"/><s n="cog"/><s n="mf"/></l><r>Брамерц<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Бусек<s n="np"/><s n="cog"/><s n="mf"/></l><r>Бусек<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Буш<s n="np"/><s n="cog"/><s n="mf"/></l><r>Буш<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Ван<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ван<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Брамерц<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Брамерц<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Бусек<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Бусек<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Буш<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Буш<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Ван<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Ван<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Велчев<s n="np"/><s n="cog"/><s n="m"/></l><r>Велчев<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Вигњевиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Вигневич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Врањеш<s n="np"/><s n="cog"/><s n="mf"/></l><r>Вранеш<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Вигњевиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Вигневич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Врањеш<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Вранеш<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Вукчевиќ<s n="np"/><s n="cog"/><s n="m"/></l><r>Вукчевич<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Вујановиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Вуянович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Вујановиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Вуянович<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Георгиев<s n="np"/><s n="cog"/><s n="m"/></l><r>Георгиев<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Главаш<s n="np"/><s n="cog"/><s n="mf"/></l><r>Главаш<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Главаш<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Главаш<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Гог<s n="np"/><s n="cog"/><s n="m"/></l><r>Гог<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Голем<s n="np"/><s n="cog"/><s n="mf"/></l><r>Голем<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Готовина<s n="np"/><s n="cog"/><s n="mf"/></l><r>Готовина<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Голем<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Голем<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Готовина<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Готовина<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Грабар<s n="np"/><s n="cog"/><s n="m"/></l><r>Грабар<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Груевски<s n="np"/><s n="cog"/><s n="m"/></l><r>Груевски<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Давиниќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Давинич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Дал<s n="np"/><s n="cog"/><s n="mf"/></l><r>Дал<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Денкташ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Денкташ<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Давиниќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Давинич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Дал<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Дал<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Денкташ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Денкташ<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Димитров<s n="np"/><s n="cog"/><s n="m"/></l><r>Димитров<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Динк<s n="np"/><s n="cog"/><s n="mf"/></l><r>Динк<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Динкиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Динкич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Доган<s n="np"/><s n="cog"/><s n="mf"/></l><r>Доган<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Додик<s n="np"/><s n="cog"/><s n="mf"/></l><r>Додик<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Драшковиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Драшкович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Ердоган<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ердоган<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Ешдаун<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ашдаун<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Динк<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Динк<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Динкиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Динкич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Доган<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Доган<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Додик<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Додик<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Драшковиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Драшкович<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Ердоган<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Ердоган<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Ешдаун<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Ашдаун<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Жечев<s n="np"/><s n="cog"/><s n="m"/></l><r>Жечев<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Живковиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Живкович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Живковиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Живкович<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Жупљанин<s n="np"/><s n="cog"/><s n="m"/></l><r>Жуплянин<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Иваниќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Иванич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Иваниќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Иванич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Иванов<s n="np"/><s n="cog"/><s n="m"/></l><r>Иванов<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Ивановиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Иванович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Илиеску<s n="np"/><s n="cog"/><s n="mf"/></l><r>Илиеску<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Ислами<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ислами<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Ивановиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Иванович<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Илиеску<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Илиеску<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Ислами<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Ислами<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Калфин<s n="np"/><s n="cog"/><s n="m"/></l><r>Калфин<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Караманлис<s n="np"/><s n="cog"/><s n="mf"/></l><r>Караманлис<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Караџиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Караджич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Кариќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Карич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Ковачевиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ковачевич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Костелиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Костелич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Караманлис<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Караманлис<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Караџиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Караджич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Кариќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Карич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Ковачевиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Ковачевич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Костелиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Костелич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Костов<s n="np"/><s n="cog"/><s n="m"/></l><r>Костов<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Коштуница<s n="np"/><s n="cog"/><s n="mf"/></l><r>Кощуница<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Коштуница<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Кощуница<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Кунева<s n="np"/><s n="cog"/><s n="f"/></l><r>Кунева<s n="np"/><s n="cog"/><s n="f"/></r></p></e>
-<e><p><l>Лабус<s n="np"/><s n="cog"/><s n="mf"/></l><r>Лабус<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Лабус<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Лабус<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Лавров<s n="np"/><s n="cog"/><s n="m"/></l><r>Лавров<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Лајчак<s n="np"/><s n="cog"/><s n="mf"/></l><r>Лайчак<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Лајчак<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Лайчак<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Левски<s n="np"/><s n="cog"/><s n="m"/></l><r>Левски<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Лукиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Лукич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Мандиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Мандич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Марковиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Маркович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Маровиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Марович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Мајко<s n="np"/><s n="cog"/><s n="mf"/></l><r>Майко<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Мекелхани<s n="np"/><s n="cog"/><s n="mf"/></l><r>Макелхъни<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Меркел<s n="np"/><s n="cog"/><s n="mf"/></l><r>Меркел<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Месиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Месич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Мета<s n="np"/><s n="cog"/><s n="mf"/></l><r>Мета<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Микеревиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Микеревич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Милошевиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Милошевич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Лукиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Лукич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Мандиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Мандич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Марковиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Маркович<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Маровиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Марович<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Мајко<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Майко<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Мекелхани<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Макелхъни<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Меркел<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Меркел<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Месиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Месич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Мета<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Мета<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Микеревиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Микеревич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Милошевиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Милошевич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Милошоски<s n="np"/><s n="cog"/><s n="m"/></l><r>Милошоски<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Митрева<s n="np"/><s n="cog"/><s n="f"/></l><r>Митрева<s n="np"/><s n="cog"/><s n="f"/></r></p></e>
-<e><p><l>Младиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Младич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Моливјатис<s n="np"/><s n="cog"/><s n="mf"/></l><r>Моливиатис<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Мојсиу<s n="np"/><s n="cog"/><s n="mf"/></l><r>Мойсиу<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Мун<s n="np"/><s n="cog"/><s n="mf"/></l><r>Мун<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Нано<s n="np"/><s n="cog"/><s n="mf"/></l><r>Нано<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Настасе<s n="np"/><s n="cog"/><s n="mf"/></l><r>Настасе<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Николиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Николич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Младиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Младич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Моливјатис<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Моливиатис<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Мојсиу<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Мойсиу<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Мун<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Мун<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Нано<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Нано<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Настасе<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Настасе<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Николиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Николич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Николовски<s n="np"/><s n="cog"/><s n="m"/></l><r>Николовски<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Нимиц<s n="np"/><s n="cog"/><s n="mf"/></l><r>Нимиц<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Оџалан<s n="np"/><s n="cog"/><s n="mf"/></l><r>Йоджалан<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Пападопулос<s n="np"/><s n="cog"/><s n="mf"/></l><r>Пападопулос<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Папандреу<s n="np"/><s n="cog"/><s n="mf"/></l><r>Папандреу<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Папуљас<s n="np"/><s n="cog"/><s n="mf"/></l><r>Папуляс<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Нимиц<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Нимиц<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Оџалан<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Йоджалан<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Пападопулос<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Пападопулос<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Папандреу<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Папандреу<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Папуљас<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Папуляс<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Парванов<s n="np"/><s n="cog"/><s n="m"/></l><r>Първанов<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Паси<s n="np"/><s n="cog"/><s n="mf"/></l><r>Паси<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Патен<s n="np"/><s n="cog"/><s n="mf"/></l><r>Патен<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Пауел<s n="np"/><s n="cog"/><s n="mf"/></l><r>Пауъл<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Петерсен<s n="np"/><s n="cog"/><s n="mf"/></l><r>Петерсен<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Паси<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Паси<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Патен<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Патен<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Пауел<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Пауъл<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Петерсен<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Петерсен<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Петков<s n="np"/><s n="cog"/><s n="m"/></l><r>Петков<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
 <e><p><l>Петров<s n="np"/><s n="cog"/><s n="m"/></l><r>Петров<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Попеску<s n="np"/><s n="cog"/><s n="mf"/></l><r>Попеску<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Проди<s n="np"/><s n="cog"/><s n="mf"/></l><r>Проди<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Попеску<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Попеску<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Проди<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Проди<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Путин<s n="np"/><s n="cog"/><s n="m"/></l><r>Путин<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Радиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Радич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Радовановиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Радованович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Рама<s n="np"/><s n="cog"/><s n="mf"/></l><r>Рама<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Рамсфелд<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ръмсфелд<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Рамуш<s n="np"/><s n="cog"/><s n="mf"/></l><r>Рамуш<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Рачан<s n="np"/><s n="cog"/><s n="mf"/></l><r>Рачан<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Рајс<s n="np"/><s n="cog"/><s n="mf"/></l><r>Райс<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Рикер<s n="np"/><s n="cog"/><s n="mf"/></l><r>Рюкер<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Робертсон<s n="np"/><s n="cog"/><s n="mf"/></l><r>Робъртсън<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Ругова<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ругова<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Рупел<s n="np"/><s n="cog"/><s n="mf"/></l><r>Рупел<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Сабах<s n="np"/><s n="cog"/><s n="mf"/></l><r>Сабах<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Радиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Радич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Радовановиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Радованович<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Рама<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Рама<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Рамсфелд<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Ръмсфелд<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Рамуш<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Рамуш<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Рачан<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Рачан<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Рајс<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Райс<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Рикер<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Рюкер<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Робертсон<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Робъртсън<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Ругова<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Ругова<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Рупел<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Рупел<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Сабах<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Сабах<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Саксобурготски<s n="np"/><s n="cog"/><s n="m"/></l><r>Сакскобургготски<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Самарџиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Самарджич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Санадер<s n="np"/><s n="cog"/><s n="mf"/></l><r>Санадер<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Саркози<s n="np"/><s n="cog"/><s n="mf"/></l><r>Саркози<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Свилановиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Свиланович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Сезер<s n="np"/><s n="cog"/><s n="mf"/></l><r>Сезер<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Сејдиу<s n="np"/><s n="cog"/><s n="mf"/></l><r>Сейдиу<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Силајџиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Силайджич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Симитис<s n="np"/><s n="cog"/><s n="mf"/></l><r>Симитис<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Солана<s n="np"/><s n="cog"/><s n="mf"/></l><r>Солана<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Самарџиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Самарджич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Санадер<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Санадер<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Саркози<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Саркози<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Свилановиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Свиланович<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Сезер<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Сезер<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Сејдиу<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Сейдиу<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Силајџиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Силайджич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Симитис<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Симитис<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Солана<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Солана<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Станишев<s n="np"/><s n="cog"/><s n="m"/></l><r>Станишев<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Станишиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Станишич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Станковиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Станкович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Тадиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Тадич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Талат<s n="np"/><s n="cog"/><s n="mf"/></l><r>Талят<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Таричеану<s n="np"/><s n="cog"/><s n="mf"/></l><r>Търичану<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Станишиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Станишич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Станковиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Станкович<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Тадиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Тадич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Талат<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Талят<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Таричеану<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Търичану<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Тарчуловски<s n="np"/><s n="cog"/><s n="m"/></l><r>Тарчуловски<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Тачи<s n="np"/><s n="cog"/><s n="mf"/></l><r>Тачи<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Тајип<s n="np"/><s n="cog"/><s n="mf"/></l><r>Тайип<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Терзиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Терзич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Тихиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Тихич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Топали<s n="np"/><s n="cog"/><s n="mf"/></l><r>Топали<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Топи<s n="np"/><s n="cog"/><s n="mf"/></l><r>Топи<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Унгуреану<s n="np"/><s n="cog"/><s n="mf"/></l><r>Унгуряну<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Ферхојген<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ферхойген<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Фишер<s n="np"/><s n="cog"/><s n="mf"/></l><r>Фишер<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Фониќи<s n="np"/><s n="cog"/><s n="mf"/></l><r>Фоничи<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Фратини<s n="np"/><s n="cog"/><s n="mf"/></l><r>Фратини<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Харадинај<s n="np"/><s n="cog"/><s n="mf"/></l><r>Харадинай<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Харис<s n="np"/><s n="cog"/><s n="mf"/></l><r>Харис<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Хаџиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Хаджич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Холкери<s n="np"/><s n="cog"/><s n="mf"/></l><r>Холкери<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Христофиас<s n="np"/><s n="cog"/><s n="mf"/></l><r>Христофиас<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Тачи<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Тачи<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Тајип<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Тайип<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Терзиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Терзич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Тихиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Тихич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Топали<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Топали<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Топи<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Топи<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Унгуреану<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Унгуряну<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Ферхојген<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Ферхойген<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Фишер<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Фишер<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Фониќи<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Фоничи<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Фратини<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Фратини<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Харадинај<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Харадинай<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Харис<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Харис<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Хаџиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Хаджич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Холкери<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Холкери<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Христофиас<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Христофиас<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 <e><p><l>Црвенковски<s n="np"/><s n="cog"/><s n="m"/></l><r>Цървенковски<s n="np"/><s n="cog"/><s n="m"/></r></p></e>
-<e><p><l>Чавиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Чавич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Чеку<s n="np"/><s n="cog"/><s n="mf"/></l><r>Чеку<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Чичек<s n="np"/><s n="cog"/><s n="mf"/></l><r>Чичек<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Човиќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Чович<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Шварц<s n="np"/><s n="cog"/><s n="mf"/></l><r>Шварц<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Шефер<s n="np"/><s n="cog"/><s n="mf"/></l><r>Схефер<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Шешељ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Шешел<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Шпириќ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Шпирич<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Шредер<s n="np"/><s n="cog"/><s n="mf"/></l><r>Шрьодер<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e><p><l>Штајнер<s n="np"/><s n="cog"/><s n="mf"/></l><r>Щайнер<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l>Чавиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Чавич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Чеку<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Чеку<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Чичек<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Чичек<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Човиќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Чович<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Шварц<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Шварц<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Шефер<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Схефер<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Шешељ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Шешел<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Шпириќ<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Шпирич<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Шредер<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Шрьодер<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
+<e><p><l>Штајнер<s n="np"/><s n="cog"/><s n="mfn"/></l><r>Щайнер<s n="np"/><s n="cog"/><s n="mfn"/></r></p></e>
 
 <!--
 	Topography
