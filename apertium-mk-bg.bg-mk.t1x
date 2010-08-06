@@ -70,6 +70,7 @@
       <attr-item tags="apprx"/>
       <attr-item tags="sg"/>
       <attr-item tags="sp"/>
+      <attr-item tags="ct"/>
       <attr-item tags="pl"/>
       <attr-item tags="ND"/>
     </def-attr>
@@ -323,6 +324,7 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
+	
       <choose>
         <when>
           <test>
@@ -343,6 +345,7 @@
           </let>
         </when>
       </choose>
+
       <choose>
         <when>
           <test>
@@ -357,6 +360,23 @@
           </let>
         </when>
       </choose>
+
+      <choose>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" side="tl" part="nbr"/>
+              <lit-tag v="ct"/>
+            </equal>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="nbr"/>
+            <lit-tag v="pl"/>
+          </let>
+        </when>
+      </choose>
+
+
         <out>
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
