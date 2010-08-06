@@ -18,6 +18,10 @@
       <cat-item tags="vbhaver.lp.aor.*"/>
     </def-cat>
 
+    <def-cat n="adj">
+      <cat-item tags="adj.*"/>
+    </def-cat>
+
     <def-cat n="num">
       <cat-item tags="num.*"/>
     </def-cat>
@@ -69,6 +73,7 @@
     <def-attr n="nbr">
       <attr-item tags="apprx"/>
       <attr-item tags="sg"/>
+      <attr-item tags="ct"/>
       <attr-item tags="sp"/>
       <attr-item tags="ct"/>
       <attr-item tags="pl"/>
@@ -105,6 +110,10 @@
       <attr-item tags="prn.ref.pos"/>
       <attr-item tags="prn.itg"/>
       <attr-item tags="prn.tot"/>
+    </def-attr>
+
+    <def-attr n="a_adj">
+      <attr-item tags="adj"/>
     </def-attr>
 
     <def-attr n="a_nom">
@@ -408,6 +417,47 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="RULE: Adjective → Adjective : (тежкион → тежкият)">
+      <pattern>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <choose>   
+          <when>
+            <test>
+              <or>
+                <equal>
+                  <clip pos="1" side="sl" part="defnes"/>  
+                  <lit-tag v="def.obj"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="defnes"/>  
+                  <lit-tag v="def.subj"/>
+                </equal>
+              </or>
+            </test>
+            <let>
+              <clip pos="1" side="tl" part="defnes"/> 
+              <lit-tag v="def"/>
+            </let>
+          </when>
+        </choose>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_adj"/>
+            <clip pos="1" side="tl" part="gen"/>
+            <clip pos="1" side="tl" part="nbr"/>
+            <clip pos="1" side="tl" part="cas"/>
+            <clip pos="1" side="tl" part="defnes"/>
+            <clip pos="1" side="tl" part="lemq"/>
+
+          </lu>
+        </out>
+      </action>
+    </rule>
+
     
   </section-rules>
 </transfer>
