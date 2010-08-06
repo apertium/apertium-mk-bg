@@ -77,6 +77,7 @@
     </def-attr>
     
     <def-attr n="nbr">
+      <attr-item tags="apprx"/>
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
       <attr-item tags="ND"/>
