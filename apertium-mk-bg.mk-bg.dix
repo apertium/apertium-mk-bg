@@ -3278,6 +3278,7 @@
 <e r="LR" c="v1"><p><l>оти<s n="cnjsub"/></l><r>че<s n="cnjsub"/></r></p></e>
 <e r="LR" c="v2"><p><l>што<s n="cnjsub"/></l><r>че<s n="cnjsub"/></r></p></e>
 <e><p><l>ако<s n="cnjsub"/></l><r>ако<s n="cnjsub"/></r></p></e>
+<e><p><l>като<s n="cnjsub"/></l><r>като<s n="cnjsub"/></r></p></e>
 <e r="LR" c="v1"><p><l>иако<s n="cnjsub"/></l><r>макар<b/>че<s n="cnjsub"/></r></p></e>
 <e c="v0"><p><l>макар<b/>што<s n="cnjsub"/></l><r>макар<b/>че<s n="cnjsub"/></r></p></e> 
 
@@ -3286,9 +3287,10 @@
 	Prepositions
 -->
 <e><p><l>во<b/>висина<b/>од<s n="pr"/></l><r>в<b/>размер<b/>на<s n="pr"/></r></p></e>
+<e><p><l>като<s n="pr"/></l><r>като<s n="pr"/></r></p></e>
 <e><p><l>врз<s n="pr"/></l><r>върху<s n="pr"/></r></p></e>
 <e><p><l>долж<s n="pr"/></l><r>покрай<s n="pr"/></r></p></e>
-<e><p><l>како<s n="pr"/></l><r>като<s n="pr"/></r></p></e>
+<!--<e><p><l>како<s n="pr"/></l><r>като<s n="pr"/></r></p></e>-->
 <e><p><l>кон<s n="pr"/></l><r>към<s n="pr"/></r></p></e>
 <e><p><l>наспрема<s n="pr"/></l><r>спрямо<s n="pr"/></r></p></e>
 <e><p><l>околу<s n="pr"/></l><r>около<s n="pr"/></r></p></e>
