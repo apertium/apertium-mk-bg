@@ -99,6 +99,7 @@
 
     <sdef n="sent"/>
     <sdef n="cm"/>
+    <sdef n="guio"/>
     <sdef n="lpar"/>
     <sdef n="rpar"/>
 
@@ -110,6 +111,10 @@
 
     <pardef n="coma">
       <e>        <p>          <l>,</l>          <r>,<s n="cm"/></r></p></e>
+    </pardef>
+
+    <pardef n="guionet">
+      <e>        <p>          <l>-</l>          <r>-<s n="guio"/></r></p></e>
     </pardef>
 
     <pardef n="separa">
@@ -9901,6 +9906,7 @@
     <e><par n="coma"/></e>
     <e><par n="paresq"/></e>
     <e><par n="pardret"/></e>
+    <e><par n="guionet"/></e>
   </section>
 </dictionary>
 
