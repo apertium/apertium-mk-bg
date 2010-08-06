@@ -4,6 +4,7 @@
   <section-def-cats>
     <def-cat n="lp">
       <cat-item tags="vblex.lp.aor.*"/>
+      <cat-item tags="vbhaver.lp.aor.*"/>
     </def-cat>
 
     <def-cat n="pronom_pers">
@@ -48,6 +49,7 @@
 
     <def-attr n="a_verb">
       <attr-item tags="vblex"/>
+      <attr-item tags="vbhaver"/>
     </def-attr>
 
     <def-attr n="temps">
