@@ -326,6 +326,26 @@
       <choose>
         <when>
           <test>
+            <or>
+              <equal>
+                <clip pos="1" side="sl" part="defnes"/>
+                <lit-tag v="def.obj"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="sl" part="defnes"/>
+                <lit-tag v="def.subj"/>
+              </equal>
+            </or>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="defnes"/>
+            <lit-tag v="def"/>
+          </let>
+        </when>
+      </choose>
+      <choose>
+        <when>
+          <test>
             <equal>
               <clip pos="1" side="tl" part="cas"/>
               <lit-tag v="voc"/>
