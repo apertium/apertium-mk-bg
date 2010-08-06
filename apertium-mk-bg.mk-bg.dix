@@ -26,6 +26,7 @@
     <sdef n="f"       c="Feminine"/>
     <sdef n="nt"      c="Neuter"/>
     <sdef n="mfn"     c="Masculine / feminine / neuter"/>
+    <sdef n="ma"      c="Masculine animate"/>
 
     <sdef n="sg"      c="Singular"/>
     <sdef n="pl"      c="Plural"/>
@@ -227,9 +228,13 @@
     <e><p><l>осумдесет<s n="num"/></l><r>осемдесет<s n="num"/></r></p></e>
     <e><p><l>деведесет<s n="num"/></l><r>деветдесет<s n="num"/></r></p></e>
 
-    <e><p><l>сто<s n="num"/></l><r>сто<s n="num"/></r></p></e>
-    <e><p><l>двесте<s n="num"/></l><r>двеста<s n="num"/></r></p></e>
-    <e><p><l>триста<s n="num"/></l><r>триста<s n="num"/></r></p></e>
+    <e><p><l>сто<s n="num"/><s n="mfn"/></l><r>сто<s n="num"/><s n="mfn"/></r></p></e>
+    <e r="LR"><p><l>сто<s n="num"/><s n="ma"/></l><r>сто<s n="num"/><s n="mfn"/></r></p></e>
+    <e><p><l>двесте<s n="num"/><s n="mfn"/></l><r>двеста<s n="num"/><s n="mfn"/></r></p></e>
+    <e r="LR"><p><l>двесте<s n="num"/><s n="ma"/></l><r>двеста<s n="num"/><s n="mfn"/></r></p></e>
+    <e><p><l>триста<s n="num"/><s n="mfn"/></l><r>триста<s n="num"/><s n="mfn"/></r></p></e>
+    <e r="LR"><p><l>триста<s n="num"/><s n="ma"/></l><r>триста<s n="num"/><s n="mfn"/></r></p></e>
+
     <e><p><l>четиристотини<s n="num"/></l><r>четиристотин<s n="num"/></r></p></e>
     <e><p><l>петстотини<s n="num"/></l><r>петстотин<s n="num"/></r></p></e>
     <e><p><l>шестотини<s n="num"/></l><r>шестстотин<s n="num"/></r></p></e>
@@ -237,10 +242,18 @@
     <e><p><l>осумстотини<s n="num"/></l><r>осемстотин<s n="num"/></r></p></e>
     <e><p><l>деветстотини<s n="num"/></l><r>деветстотин<s n="num"/></r></p></e>
 
-    <e><p><l>илјада<s n="num"/></l><r>хиляда<s n="num"/></r></p></e>
     <e><p><l>милион<s n="num"/></l><r>милион<s n="num"/></r></p></e>
     <e><p><l>трилион<s n="num"/></l><r>трилион<s n="num"/></r></p></e>
-    <e><p><l>милијарда<s n="num"/></l><r>милиард<s n="num"/></r></p></e>
+
+    <e r="LR"><p><l>илјада<s n="num"/><s n="mfn"/><s n="sp"/></l><r>хиляда<s n="num"/><s n="mfn"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>илјада<s n="num"/><s n="ma"/><s n="sp"/></l><r>хиляда<s n="num"/><s n="mfn"/><s n="ND"/></r></p></e>
+    <e><p><l>илјада<s n="num"/><s n="mfn"/><s n="sg"/></l><r>хиляда<s n="num"/><s n="mfn"/><s n="sg"/></r></p></e>
+    <e><p><l>илјада<s n="num"/><s n="mfn"/><s n="pl"/></l><r>хиляда<s n="num"/><s n="mfn"/><s n="pl"/></r></p></e>
+
+    <e r="LR"><p><l>милијарда<s n="num"/><s n="mfn"/><s n="sp"/></l><r>милиард<s n="num"/><s n="mfn"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>милијарда<s n="num"/><s n="ma"/><s n="sp"/></l><r>милиард<s n="num"/><s n="mfn"/><s n="ND"/></r></p></e>
+    <e><p><l>милијарда<s n="num"/><s n="mfn"/><s n="sg"/></l><r>милиард<s n="num"/><s n="mfn"/><s n="sg"/></r></p></e>
+    <e><p><l>милијарда<s n="num"/><s n="mfn"/><s n="pl"/></l><r>милиард<s n="num"/><s n="mfn"/><s n="pl"/></r></p></e>
 
 
 <!--ordinals -->

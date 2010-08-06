@@ -67,6 +67,7 @@
   
     <def-attr n="gen">
       <attr-item tags="m"/>
+      <attr-item tags="ma"/>
       <attr-item tags="f"/>
       <attr-item tags="nt"/>
       <attr-item tags="mf"/>
@@ -85,6 +86,7 @@
     <def-attr n="nbr">
       <attr-item tags="apprx"/>
       <attr-item tags="sg"/>
+      <attr-item tags="sp"/>
       <attr-item tags="pl"/>
       <attr-item tags="ND"/>
     </def-attr>
@@ -134,6 +136,55 @@
   <section-def-vars>
     <def-var n="number"/>
   </section-def-vars>  
+  <section-def-macros>
+    <def-macro n="concord1" npar="1">
+      <!-- Placeholder macro for doing concordance when you have one 
+           item, for example a lonely pronoun. This could be expanded to look
+           at previous genders etc. -->
+      <choose>
+        <when>
+          <test>
+            <and>
+              <equal>
+                <clip pos="1" side="sl" part="gen"/>
+                <lit-tag v="mfn"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="gen"/>
+                <lit-tag v="GD"/>
+              </equal>
+            </and>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="gen"/>
+            <lit-tag v="m"/>
+          </let>
+        </when>
+      </choose>
+      <choose>
+        <when>
+          <test>
+            <and>
+              <equal>
+                <clip pos="1" side="sl" part="nbr"/>
+                <lit-tag v="sp"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="nbr"/>
+                <lit-tag v="ND"/>
+              </equal>
+            </and>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="nbr"/>
+            <lit-tag v="sg"/>
+          </let>
+        </when>
+      </choose>
+
+    </def-macro>
+
+  </section-def-macros>
 
   <section-rules>
     
@@ -366,27 +417,6 @@ output: def
       </action>
     </rule>
     
-
-    <rule comment="RULE: Past Participle → Past Participle : ( → )">
-      <pattern>
-        <pattern-item n="pp"/>
-      </pattern>
-      <action>
-        <out>
-          <lu>
-            <clip pos="1" side="tl" part="lemh"/>
-            <clip pos="1" side="tl" part="a_verb"/>
-            <clip pos="1" side="tl" part="temps"/>
-            <clip pos="1" side="tl" part="gen"/>
-            <clip pos="1" side="tl" part="nbr"/>
-            <clip pos="1" side="tl" part="cas"/>
-            <lit-tag v="ind"/>
-            <clip pos="1" side="tl" part="lemq"/>
-          </lu>
-        </out>
-      </action>
-    </rule>
-
     <rule comment="RULE: L-Participle → L-Participle : ( → )">
       <pattern>
         <pattern-item n="lp"/>
@@ -408,45 +438,162 @@ output: def
     </rule>
 
 
-    
-    <rule comment="RULE: Numeral → Numeral : ( → )">
-      <pattern>
-        <pattern-item n="num"/>
-      </pattern>
-      <action>
-<!--
-input: prx, dst
-output: def 
--->
-  <choose>     <!-- if -->
-    <when>
-      <test>
-        <not><equal>
-          <clip pos="1" side="sl" part="defnes"/>  
-          <lit-tag v="ind"/>
-        </equal></not>
-      </test>
-      <let>
-        <clip pos="1" side="tl" part="defnes"/>  <!-- pulls out the part of the pattern that corresponds to defnes-->
-        <lit-tag v="def"/>
-      </let>
-    </when>
-
-  </choose>
-        <out>
-          <lu>
-            <clip pos="1" side="tl" part="lemh"/>
-            <clip pos="1" side="tl" part="a_num"/>
-            <clip pos="1" side="tl" part="gen"/>
-            <clip pos="1" side="tl" part="nbr"/>
-            <clip pos="1" side="tl" part="cas"/>
+  <rule comment="RULE: Numeral → Numeral : ( → )">
+    <pattern>
+      <pattern-item n="num"/>
+    </pattern>
+    <action>
+    <call-macro n="concord1">
+      <with-param pos="1"/>
+    </call-macro>
+      <choose>
+        <when>
+          <test>
+              <and>
+                <not>
+                  <equal>
+                    <clip pos="1" side="sl" part="defnes"/>
+                    <lit-tag v="ind"/>
+                  </equal>
+                </not>
+                <equal>
+                  <clip pos="1" side="sl" part="gen"/>
+                  <lit-tag v="ma"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="nbr"/>
+                  <lit-tag v="sp"/>
+                </equal>
+                <equal caseless="yes">
+                  <clip pos="1" side="sl" part="lem"/>
+                  <lit v="милијарда"/>
+                </equal>
+              </and>
+          </test>
+          <let>
             <clip pos="1" side="tl" part="defnes"/>
-            <clip pos="1" side="tl" part="lemq"/>
-          </lu>
-        </out>
-      </action>
-    </rule>
-    
+            <lit-tag v="def.obj"/>
+          </let>
+        </when>
+
+        <when>
+          <test>
+              <and>
+                <not>
+                  <equal>
+                    <clip pos="1" side="sl" part="defnes"/>
+                    <lit-tag v="ind"/>
+                  </equal>
+                </not>
+                <or>
+                  <equal>
+                    <clip pos="1" side="sl" part="gen"/>
+                    <lit-tag v="m"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="gen"/>
+                    <lit-tag v="ma"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="gen"/>
+                    <lit-tag v="mfn"/>
+                  </equal>
+                </or>
+                <equal>
+                  <clip pos="1" side="sl" part="nbr"/>
+                  <lit-tag v="sg"/>
+                </equal>
+              </and>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="defnes"/>
+            <lit-tag v="def.obj"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <and>
+              <not>
+                <equal>
+                  <clip pos="1" side="sl" part="nbr"/>
+                  <lit-tag v="sg"/>
+                </equal>
+              </not>
+              <not>
+                <equal>
+                  <clip pos="1" side="sl" part="defnes"/>
+                  <lit-tag v="ind"/>
+                </equal>
+              </not>
+                <or>
+                  <equal>
+                    <clip pos="1" side="sl" part="gen"/>
+                    <lit-tag v="ma"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="gen"/>
+                    <lit-tag v="mfn"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="gen"/>
+                    <lit-tag v="m"/>
+                  </equal>
+              </or>
+            </and>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="defnes"/>
+            <lit-tag v="def"/>
+          </let>
+        </when>
+
+        <when>
+          <test>
+            <and>
+              <not>
+                <equal>
+                  <clip pos="1" side="sl" part="defnes"/>
+                  <lit-tag v="ind"/>
+                </equal>
+              </not>
+              <not>
+                <or>
+                  <equal>
+                    <clip pos="1" side="sl" part="gen"/>
+                    <lit-tag v="ma"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="gen"/>
+                    <lit-tag v="mfn"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="gen"/>
+                    <lit-tag v="m"/>
+                  </equal>
+                </or>
+              </not>
+            </and>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="defnes"/>
+            <lit-tag v="def"/>
+          </let>
+        </when>
+
+      </choose>
+      <out>
+        <lu>
+          <clip pos="1" side="tl" part="lemh"/>
+          <clip pos="1" side="tl" part="a_num"/>
+          <clip pos="1" side="tl" part="gen"/>
+          <clip pos="1" side="tl" part="nbr"/>
+          <clip pos="1" side="tl" part="cas"/>
+          <clip pos="1" side="tl" part="defnes"/>
+          <clip pos="1" side="tl" part="lemq"/>
+        </lu>
+      </out>
+    </action>
+  </rule>
 
     <rule comment="RULE: Past Participle → Past Participle : ( → )">
       <pattern>
