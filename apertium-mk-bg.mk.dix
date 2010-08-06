@@ -22,6 +22,7 @@
 
     <sdef n="sg"      c="Singular"/>
     <sdef n="pl"      c="Plural"/>
+    <sdef n="apprx"		c="approximation form of numeral"/>
     <sdef n="prn"     c="Pronoun"/>
     <sdef n="pers"    c="Personal"/>
     <sdef n="pr"      c="Preposition"/>
@@ -2001,7 +2002,7 @@
      <e>       <p>         <l>не</l>     <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="dst"/></r></p></e>
      <e>        <p>        <l>мина</l>        <r><s n="num"/><s n="ma"/><s n="nom"/><s n="ind"/></r></p></e>
      <e>        <p>        <l>темина</l>      <r><s n="num"/><s n="ma"/><s n="nom"/><s n="def"/></r></p></e>
-     <e r="LR">        <p>        <l>емина</l>      <r><s n="num"/><s n="ma"/><s n="nom"/><s n="def"/></r></p></e>
+     <e r="LR">       <p>        <l>емина</l>      <r><s n="num"/><s n="ma"/><s n="nom"/><s n="def"/></r></p></e>
     </pardef>
 
 
@@ -2015,6 +2016,23 @@
     </pardef>
 
 
+    <pardef n="десет__num">
+     <e>       <p>         <l></l>         <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>       <p>         <l>те</l>     <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="def"/></r></p></e>
+     <e r="LR">       <p>         <l>е</l>     <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>       <p>         <l>ве</l>     <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>       <p>         <l>не</l>     <r><s n="num"/><s n="mfn"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>        <p>        <l>мина</l>        <r><s n="num"/><s n="ma"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>        <p>        <l>темина</l>      <r><s n="num"/><s n="ma"/><s n="nom"/><s n="def"/></r></p></e>
+     <e r="LR">        <p>        <l>емина</l>      <r><s n="num"/><s n="ma"/><s n="nom"/><s n="def"/></r></p></e>
+
+     <e>        <p>          <l>ина</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>        <p>          <l>ината</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>        <p>          <l>инава</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>        <p>          <l>инана</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="dst"/></r></p></e>
+    </pardef>
+
+
     <pardef n="сто__num">
      <e>       <p>         <l></l>         <r><s n="num"/><s n="mfn"/><s n="sp"/><s n="nom"/><s n="ind"/></r></p></e>
      <e>       <p>         <l>те</l>     <r><s n="num"/><s n="mfn"/><s n="sp"/><s n="nom"/><s n="def"/></r></p></e>
@@ -2022,6 +2040,12 @@
      <e>       <p>         <l>не</l>     <r><s n="num"/><s n="mfn"/><s n="sp"/><s n="nom"/><s n="dst"/></r></p></e>
      <e>        <p>        <l>мина</l>        <r><s n="num"/><s n="ma"/><s n="sp"/><s n="nom"/><s n="ind"/></r></p></e>
      <e>        <p>        <l>темина</l>      <r><s n="num"/><s n="ma"/><s n="sp"/><s n="nom"/><s n="def"/></r></p></e>
+
+     <e>        <p>          <l>тина</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>        <p>          <l>тината</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>        <p>          <l>тинава</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>        <p>          <l>тинана</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="dst"/></r></p></e>
+
     </pardef>
 
     <pardef n="четири/стотини__num">
@@ -2029,6 +2053,12 @@
      <e>       <p>         <l>тестотини</l>     <r>стотини<s n="num"/><s n="mfn"/><s n="nom"/><s n="def"/></r></p></e>
      <e>       <p>         <l>вестотини</l>     <r>стотини<s n="num"/><s n="mfn"/><s n="nom"/><s n="prx"/></r></p></e>
      <e>       <p>         <l>нетотини</l>      <r>стотини<s n="num"/><s n="mfn"/><s n="nom"/><s n="dst"/></r></p></e>
+
+     <e>        <p>          <l>стотина</l>        <r>стотини<s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>        <p>          <l>стотината</l>        <r>стотини<s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>        <p>          <l>стотинава</l>        <r>стотини<s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>        <p>          <l>стотинана</l>        <r>стотини<s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="dst"/></r></p></e>
+
     </pardef>
 
     <pardef n="илјад/а__num">
@@ -3613,25 +3643,25 @@
     <e lm="седум"><i>сед</i><par n="сед/ум__num"/></e>		  <!-- seven -->
     <e lm="осум"><i>ос</i><par n="сед/ум__num"/></e>		  <!-- eight -->
     <e lm="девет"><i>девет</i><par n="пет__num"/></e>		  <!-- nine -->
-    <e lm="десет"><i>десет</i><par n="пет__num"/></e>		  <!-- ten -->
-    <e lm="единаесет"><i>единаесет</i><par n="пет__num"/></e>	  <!-- eleven -->
-    <e lm="дванаесет"><i>дванаесет</i><par n="пет__num"/></e>	  <!-- twelve -->
-    <e lm="тринаесет"><i>тринаесет</i><par n="пет__num"/></e>	  <!-- thirteen -->
-    <e lm="четиринаесет"><i>четиринаесет</i><par n="пет__num"/></e> <!-- fourteen -->
-    <e lm="петнаесет"><i>петнаесет</i><par n="пет__num"/></e>	  <!-- fifteen -->
-    <e lm="шеснаесет"><i>шеснаесет</i><par n="пет__num"/></e>	  <!-- sixteen -->
-    <e lm="седумнаесет"><i>седумнаесет</i><par n="пет__num"/></e> <!-- seventeen -->
-    <e lm="осумнаесет"><i>осумнаесет</i><par n="пет__num"/></e>	  <!-- eighteen -->
-    <e lm="деветнаесет"><i>деветнаесет</i><par n="пет__num"/></e> <!-- nineteen -->
-    <e lm="дванаесет"><i>дванаесет</i><par n="пет__num"/></e>
-    <e lm="дваесет"><i>дваесет</i><par n="пет__num"/></e>
-    <e lm="триесет"><i>триесет</i><par n="пет__num"/></e>
-    <e lm="четириесет"><i>четириесет</i><par n="пет__num"/></e>
-    <e lm="педесет"><i>педесет</i><par n="пет__num"/></e>
-    <e lm="шеесет"><i>шеесет</i><par n="пет__num"/></e>
-    <e lm="седумдесет"><i>седумдесет</i><par n="пет__num"/></e>
-    <e lm="осумдесет"><i>осумдесет</i><par n="пет__num"/></e>
-    <e lm="деведесет"><i>деведесет</i><par n="пет__num"/></e>
+    <e lm="десет"><i>десет</i><par n="десет__num"/></e>		  <!-- ten -->
+    <e lm="единаесет"><i>единаесет</i><par n="десет__num"/></e>	  <!-- eleven -->
+    <e lm="дванаесет"><i>дванаесет</i><par n="десет__num"/></e>	  <!-- twelve -->
+    <e lm="тринаесет"><i>тринаесет</i><par n="десет__num"/></e>	  <!-- thirteen -->
+    <e lm="четиринаесет"><i>четиринаесет</i><par n="десет__num"/></e> <!-- fourteen -->
+    <e lm="петнаесет"><i>петнаесет</i><par n="десет__num"/></e>	  <!-- fifteen -->
+    <e lm="шеснаесет"><i>шеснаесет</i><par n="десет__num"/></e>	  <!-- sixteen -->
+    <e lm="седумнаесет"><i>седумнаесет</i><par n="десет__num"/></e> <!-- seventeen -->
+    <e lm="осумнаесет"><i>осумнаесет</i><par n="десет__num"/></e>	  <!-- eighteen -->
+    <e lm="деветнаесет"><i>деветнаесет</i><par n="десет__num"/></e> <!-- nineteen -->
+    <e lm="дванаесет"><i>дванаесет</i><par n="десет__num"/></e>
+    <e lm="дваесет"><i>дваесет</i><par n="десет__num"/></e>
+    <e lm="триесет"><i>триесет</i><par n="десет__num"/></e>
+    <e lm="четириесет"><i>четириесет</i><par n="десет__num"/></e>
+    <e lm="педесет"><i>педесет</i><par n="десет__num"/></e>
+    <e lm="шеесет"><i>шеесет</i><par n="десет__num"/></e>
+    <e lm="седумдесет"><i>седумдесет</i><par n="десет__num"/></e>
+    <e lm="осумдесет"><i>осумдесет</i><par n="десет__num"/></e>
+    <e lm="деведесет"><i>деведесет</i><par n="десет__num"/></e>
 
     <e lm="сто"><i>сто</i><par n="сто__num"/></e>
     <e lm="двесте"><i>двесте</i><par n="сто__num"/></e>
@@ -7346,6 +7376,9 @@
 	<e lm="вкупно"><i>вкупно</i><par n="денес__adv"/></e>
 	<e lm="годишно"><i>годишно</i><par n="денес__adv"/></e>
 	<e lm="добро"><i>добро</i><par n="денес__adv"/></e>
+	<e lm="изгледа"><i>изгледа</i><par n="денес__adv"/></e>
+	<e lm="во меѓувреме"><i>во<b/>меѓувреме</i><par n="денес__adv"/></e>
+	<e lm="по ред"><i>по<b/>ред</i><par n="денес__adv"/></e>
 	
 	
     <!-- Adverbs of quantitiy -->
