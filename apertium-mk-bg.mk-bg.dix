@@ -3892,9 +3892,9 @@
 <e><p><l>инсистира<s n="vblex"/></l><r>настоява<s n="vblex"/></r></p></e>
 <e><p><l>информира<s n="vblex"/></l><r>информира<s n="vblex"/></r></p></e>
 <e c="v0"><p><l>испитува<s n="vblex"/></l><r>проучва<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>испитува<s n="vblex"/></l><r>изследва<s n="vblex"/></r></p></e>
 <e r="LR" c="v1"><p><l>истражува<s n="vblex"/></l><r>проучва<s n="vblex"/></r></p></e>
 <e><p><l>испита<s n="vblex"/></l><r>проучи<s n="vblex"/></r></p></e> 
-<e><p><l>испитува<s n="vblex"/></l><r>изследва<s n="vblex"/></r></p></e>
 <e><p><l>седне<s n="vblex"/></l><r>седне<s n="vblex"/></r></p></e>
 <e><p><l>исполни<s n="vblex"/></l><r>изпълни<s n="vblex"/></r></p></e> 
 <e><p><l>исполнува<s n="vblex"/></l><r>изпълнява<s n="vblex"/></r></p></e> 
