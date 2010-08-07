@@ -26,9 +26,9 @@ for i in $POS; do
 		AT=`cat $INC | grep "<$i>" | grep '@' | grep -v -e '<adj>' -e '<adv>'  | grep -v REGEX | wc -l`;
 		HASH=`cat $INC | grep "<$i>" | grep '>  *#' | grep -v -e '<adj>' -e '<adv>' | grep -v REGEX |  wc -l`;
 	elif [ "$i" = "adv" ]; then
-		TOTAL=`cat $INC | grep "<$i>" | grep -v '<adj>' | grep -v REGEX | wc -l`; 
-		AT=`cat $INC | grep "<$i>" | grep '@' | grep -v '<adj>'  | grep -v REGEX | wc -l`;
-		HASH=`cat $INC | grep "<$i>" | grep '>  *#' | grep -v '<adj>' | grep -v REGEX |  wc -l`;
+		TOTAL=`cat $INC | grep "<$i>" | grep -v -e '<v' -e '<adj>' | grep -v REGEX | wc -l`; 
+		AT=`cat $INC | grep "<$i>" | grep '@' | grep -v -e '<v' -e '<adj>'  | grep -v REGEX | wc -l`;
+		HASH=`cat $INC | grep "<$i>" | grep '>  *#' | grep -v -e '<v' -e '<adj>' | grep -v REGEX |  wc -l`;
 	elif [ "$i" = "det" ]; then
 		TOTAL=`cat $INC | grep "<$i>" | grep -v 'art<' | grep -v REGEX | wc -l`; 
 		AT=`cat $INC | grep "<$i>" | grep '@' | grep -v 'art<'  | grep -v REGEX | wc -l`;
