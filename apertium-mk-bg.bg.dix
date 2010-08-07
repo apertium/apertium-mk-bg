@@ -4450,6 +4450,24 @@
       <e>        <p>          <l>евите</l>          <r>яв<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
     </pardef>
 
+
+
+    <pardef n="св/ят__adj">
+      <e>        <p>          <l>ят</l>          <r>ят<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>етия</l>          <r>ят<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="obj"/></r></p></e>
+      <e>        <p>          <l>етият</l>          <r>ят<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="subj"/></r></p></e>
+      <e>        <p>          <l>ята</l>          <r>ят<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ятата</l>          <r>ят<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ято</l>          <r>ят<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>ятото</l>          <r>ят<s n="adj"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e>        <p>          <l>ети</l>          <r>ят<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e>        <p>          <l>етите</l>          <r>ят<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+    </pardef>
+
+
+
+
+
     <pardef n="заподозр/ян__adj">
       <e>        <p>          <l>ян</l>          <r>ян<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>ения</l>          <r>ян<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/><s n="obj"/></r></p></e>
@@ -8555,6 +8573,7 @@
 	<e lm="разрушен"><par n="P__adj"/><i>разрушен</i><par n="солен__adj"/></e>
 	    <e lm="уставен"><par n="P__adj"/><i>устав</i><par n="яс/ен__adj"/></e>
 	    <e lm="честен"><par n="P__adj"/><i>чест</i><par n="яс/ен__adj"/></e>
+	    <e lm="чест"><par n="P__adj"/><i>чест</i><par n="солен__adj"/></e>
 	    <e lm="фискален"><par n="P__adj"/><i>фискал</i><par n="яс/ен__adj"/></e>
 	<e lm="създаден"><par n="P__adj"/><i>създаден</i><par n="солен__adj"/></e>
 	    <e lm="футболен"><par n="P__adj"/><i>футбол</i><par n="яс/ен__adj"/></e>
@@ -8634,6 +8653,7 @@
 	<e lm="чист"><par n="P__adj"/><i>чист</i><par n="солен__adj"/></e>
 	<e lm="широк"><par n="P__adj"/><i>широк</i><par n="солен__adj"/></e>
 
+	<e lm="свят"><par n="P__adj"/><i>св</i><par n="св/ят__adj"/></e>
 
 
 <!-- Adverbs -->
