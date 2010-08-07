@@ -16,6 +16,7 @@
     <def-cat n="aor_lp">
       <cat-item tags="vblex.lp.aor.*"/>
       <cat-item tags="vbhaver.lp.aor.*"/>
+      <cat-item tags="vbmod.lp.aor.*"/>
     </def-cat>
 
     <def-cat n="adj">
@@ -98,6 +99,7 @@
       <attr-item tags="vblex"/>
       <attr-item tags="vbhaver"/>
       <attr-item tags="vbser"/>
+      <attr-item tags="vbmod"/>
     </def-attr>
 
     <def-attr n="a_prn">
