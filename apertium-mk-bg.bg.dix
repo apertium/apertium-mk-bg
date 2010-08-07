@@ -5080,9 +5080,9 @@
       <e>        <p>          <l>е</l>          <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>ето</l>        <r>е<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
       <e>        <p>          <l>ия</l>         <r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e r="LR">        <p>          <l>ета</l>         <r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e r="LR">     <p>       <l>ета</l>       <r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
       <e>        <p>          <l>ията</l>       <r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-      <e r="LR">        <p>          <l>етата</l>       <r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e r="LR">    <p>        <l>етата</l>     <r>е<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
     </pardef>
 
 <!-- -на в мн.ч. -->
@@ -5223,6 +5223,9 @@
         <e>        <p>          <l>ните</l>          <r>ен<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
         <e>        <p>          <l>ена</l>          <r>ен<s n="n"/><s n="m"/><s n="ct"/><s n="nom"/><s n="ind"/></r></p></e>
     </pardef>
+
+
+
 
     <pardef n="цивил/ен__n_m_sg">
         <e>        <p>          <l>ен</l>          <r>ен<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -6838,7 +6841,7 @@
 <e lm="място"><i>м</i><par n="м/ясто__n_nt"/></e>
 <e lm="тяло"><i>т</i><par n="т/яло__n_nt"/></e>
 
-<e lm="водорасло"><i>водорасл</i><par n="животн/о__n_nt"/></e>
+<e lm="водорасли"><i>водорасли</i><par n="данни__n_mf"/></e>
 <e lm="посолство"><i>посолств</i><par n="огледал/о__n_nt"/></e>
 <e lm="асо"><i>ас</i><par n="огледал/о__n_nt"/></e>
 <e lm="бюро"><i>бюр</i><par n="огледал/о__n_nt"/></e>
