@@ -7,7 +7,13 @@
       <cat-item tags="prn.rel"/>
       <cat-item tags="prn.rel.*"/>
     </def-cat>
-     
+
+    <def-cat n="pprs_adv">
+      <cat-item tags="vblex.pprs.adv"/>
+      <cat-item tags="vbhaver.pprs.adv"/>
+      <cat-item tags="vbhaver.pprs.adv"/>
+    </def-cat>
+    
     <def-cat n="pp">
       <cat-item tags="vblex.pp.*"/>
       <cat-item tags="vbhaver.pp.*"/>
@@ -17,6 +23,13 @@
       <cat-item tags="vblex.lp.aor.*"/>
       <cat-item tags="vbhaver.lp.aor.*"/>
       <cat-item tags="vbmod.lp.aor.*"/>
+    </def-cat>
+
+    <def-cat n="vfin">
+      <cat-item tags="vblex.pres.*"/>
+      <cat-item tags="vblex.pii.*"/>
+      <cat-item tags="vblex.aor.*"/>
+      <cat-item tags="vblex.imp.*"/>
     </def-cat>
 
     <def-cat n="adj">
@@ -92,6 +105,8 @@
       <attr-item tags="pp"/>
       <attr-item tags="pres"/>
       <attr-item tags="past"/>
+      <attr-item tags="pprs.adv"/>
+      <attr-item tags="imp"/>
       <attr-item tags="pii"/>
     </def-attr>
 
@@ -226,7 +241,41 @@
     </rule>
 
 
-    
+    <rule comment="RULE: Finite verb  → Finite verb: ( → )">
+      <pattern>
+        <pattern-item n="vfin"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="temps"/>
+            <clip pos="1" side="tl" part="pers"/>
+            <clip pos="1" side="tl" part="nbr"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="RULE: Present active participle → Present active participle: ( → )">
+      <pattern>
+        <pattern-item n="pprs_adv"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="temps"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+   
     <rule comment="RULE: PP → PP: ( → )">
       <pattern>
         <pattern-item n="pp"/>

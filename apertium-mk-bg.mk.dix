@@ -43,11 +43,9 @@
     <sdef n="aor"     c="Aorist"/>
     <sdef n="fti"     c="Future indicative"/>
     <sdef n="imp"     c="Imperative"/>
-    <sdef n="dee"     c="Adverbial participle, деепричастие"/>
+    <sdef n="pprs"   c="Adverbial participle, деепричастие"/>
     <sdef n="lp"      c="L-participle минало деятелно причастие"/>
     <sdef n="pp"      c="Past participle"/>
-
-
 
     <sdef n="pref"    c="Prefix"/>
     <sdef n="part"    c="Particle"/>
@@ -208,7 +206,7 @@
      <e>        <p>          <l>ло</l>         <r><s n="vbhaver"/><s n="lp"/><s n="aor"/><s n="nt"/><s n="sg"/></r></p></e>
      <e>        <p>          <l>ле</l>         <r><s n="vbhaver"/><s n="lp"/><s n="aor"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-     <e>        <p>          <l>јќи</l>         <r><s n="vbhaver"/><s n="dee"/></r></p></e>
+     <e>        <p>          <l>јќи</l>         <r><s n="vbhaver"/><s n="pprs"/><s n="adv"/></r></p></e>
    </pardef>
 
 	<!-- par: може		group: e		cat_type: non-finite		modall: yes	-->
@@ -244,7 +242,7 @@
   <e>        <p>          <l>ало</l>         <r>е<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="nt"/><s n="sg"/></r></p></e>
   <e>        <p>          <l>але</l>         <r>е<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>ејќи</l>         <r>е<s n="vbmod"/><s n="dee"/></r></p></e>
+  <e>        <p>          <l>ејќи</l>         <r>е<s n="vbmod"/><s n="pprs"/><s n="adv"/></r></p></e>
    </pardef>
 
    <pardef n="мора__vbmod">
@@ -327,7 +325,7 @@
      <e>        <p>          <l>ано</l>         <r>а<s n="vblex"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
      <e>        <p>          <l>ани</l>         <r>а<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-     <e>        <p>          <l>ајќи</l>         <r>а<s n="vblex"/><s n="dee"/></r></p></e>
+     <e>        <p>          <l>ајќи</l>         <r>а<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
    </pardef>
 
 
@@ -548,7 +546,7 @@
      <e>        <p>          <l>ено</l>         <r>и<s n="vblex"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
      <e>        <p>          <l>ени</l>         <r>и<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-     <e>        <p>          <l>ејќи</l>         <r>и<s n="vblex"/><s n="dee"/></r></p></e>
+     <e>        <p>          <l>ејќи</l>         <r>и<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
    </pardef>
 
 
@@ -651,7 +649,7 @@
   <e> <p>          <l>eни</l>         <r>и<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
   <e r="LR"> <p>          <l>јани</l>         <r>и<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>ејќи</l>         <r>и<s n="vblex"/><s n="dee"/></r></p></e>
+  <e>        <p>          <l>ејќи</l>         <r>и<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
 </pardef>
 
 
@@ -740,7 +738,7 @@
      <e>        <p>          <l>ано</l>         <r>и<s n="vblex"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
      <e>        <p>          <l>ани</l>         <r>и<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-     <e>        <p>          <l>ејќи</l>         <r>и<s n="vblex"/><s n="dee"/></r></p></e>
+     <e>        <p>          <l>ејќи</l>         <r>и<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
    </pardef>
 
 
@@ -889,7 +887,7 @@
   <e>        <p>          <l>ани</l>         <r>е<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
   <e r="LR">        <p>          <l>ени</l>         <r>е<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>ејќи</l>         <r>е<s n="vblex"/><s n="dee"/></r></p></e>
+  <e>        <p>          <l>ејќи</l>         <r>е<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
 </pardef>
 
 
@@ -936,7 +934,7 @@
   <e>        <p>          <l>ано</l>         <r>ие<s n="vblex"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
   <e>        <p>          <l>ани</l>         <r>ие<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>иејќи</l>         <r>ие<s n="vblex"/><s n="dee"/></r></p></e>
+  <e>        <p>          <l>иејќи</l>         <r>ие<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
 </pardef>
 
 
@@ -980,7 +978,7 @@
   <e>        <p>          <l>ато</l>         <r>ае<s n="vblex"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
   <e>        <p>          <l>ати</l>         <r>ае<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>аејќи</l>         <r>ае<s n="vblex"/><s n="dee"/></r></p></e>
+  <e>        <p>          <l>аејќи</l>         <r>ае<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
 </pardef>
 
 
@@ -1031,7 +1029,7 @@
   <e>        <p>          <l>кани</l>         <r>че<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
   <e r="LR">        <p>          <l>чени</l>         <r>че<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>чејќи</l>         <r>че<s n="vblex"/><s n="dee"/></r></p></e>
+  <e>        <p>          <l>чејќи</l>         <r>че<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
 </pardef>
 
 
@@ -1075,7 +1073,7 @@
   <e>        <p>          <l>зано</l>         <r>же<s n="vblex"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
   <e>        <p>          <l>зани</l>         <r>же<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>жејќи</l>         <r>же<s n="vblex"/><s n="dee"/></r></p></e>
+  <e>        <p>          <l>жејќи</l>         <r>же<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
 </pardef>
 
 <pardef n="изла/же__vblex"> <!-- свършен вид -->
@@ -1147,7 +1145,7 @@
   <e>        <p>          <l>ено</l>         <r>е<s n="vblex"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
   <e>        <p>          <l>ени</l>         <r>е<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>ејќи</l>        <r>е<s n="vblex"/><s n="dee"/></r></p></e>
+  <e>        <p>          <l>ејќи</l>        <r>е<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
 </pardef>
 
 
@@ -1197,7 +1195,7 @@
   <e>        <p>          <l>рани</l>         <r>ере<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
   <e r="LR">        <p>          <l>ерени</l>         <r>ере<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>ерејќи</l>         <r>ере<s n="vblex"/><s n="dee"/></r></p></e>
+  <e>        <p>          <l>ерејќи</l>         <r>ере<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
 </pardef>
 
 <pardef n="пос/теле__vblex"> <!-- свършен вид -->
@@ -1287,7 +1285,7 @@
   <e>        <p>          <l>рено</l>         <r>ре<s n="vblex"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
   <e>        <p>          <l>рени</l>         <r>ре<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 	
-  <e>        <p>          <l>ирјќи</l>         <r>ре<s n="vblex"/><s n="dee"/></r></p></e> 	<!-- irregular deeparticiple -->
+  <e>        <p>          <l>ирјќи</l>         <r>ре<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e> 	<!-- irregular deeparticiple -->
 </pardef>
 
 <pardef n="м/еле__vblex">
@@ -1330,7 +1328,7 @@
   <e>        <p>          <l>лено</l>         <r>еле<s n="vblex"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
   <e>        <p>          <l>лени</l>         <r>еле<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>елејќи</l>       <r>еле<s n="vblex"/><s n="dee"/></r></p></e>
+  <e>        <p>          <l>елејќи</l>       <r>еле<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
 </pardef>
 
 
@@ -1376,7 +1374,7 @@
   <e>        <p>          <l>ено</l>         <r>е<s n="vblex"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
   <e>        <p>          <l>ени</l>         <r>е<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>ејќи</l>         <r>е<s n="vblex"/><s n="dee"/></r></p></e>
+  <e>        <p>          <l>ејќи</l>         <r>е<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
 </pardef>
 
 <pardef n="рас/те__vblex">
@@ -1421,7 +1419,7 @@
   <e>        <p>          <l>нато</l>         <r>те<s n="vblex"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
   <e>        <p>          <l>нати</l>         <r>те<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>тејќи</l>         <r>те<s n="vblex"/><s n="dee"/></r></p></e>
+  <e>        <p>          <l>тејќи</l>         <r>те<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
 </pardef>
 
 <pardef n="до/јде__vblex"> <!-- свършен вид -->
@@ -1507,7 +1505,7 @@
   <e>        <p>          <l>дено</l>         <r>де<s n="vblex"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
   <e>        <p>          <l>дени</l>         <r>де<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>дејќи</l>         <r>де<s n="vblex"/><s n="dee"/></r></p></e> <!--това е странно -->
+  <e>        <p>          <l>дејќи</l>         <r>де<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e> <!--това е странно -->
 </pardef>
 
 
@@ -1551,7 +1549,7 @@
   <e>        <p>          <l>мено</l>         <r>ме<s n="vblex"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
   <e>        <p>          <l>мени</l>         <r>ме<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>мејќи</l>         <r>ме<s n="vblex"/><s n="dee"/></r></p></e>
+  <e>        <p>          <l>мејќи</l>         <r>ме<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
 </pardef>
 
 
@@ -1600,7 +1598,7 @@
   <e>        <p>          <l>дено</l>         <r>де<s n="vblex"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
   <e>        <p>          <l>дени</l>         <r>де<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>вајќи</l>         <r>де<s n="vblex"/><s n="dee"/></r></p></e>
+  <e>        <p>          <l>вајќи</l>         <r>де<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
 </pardef>
 
 
@@ -1644,7 +1642,7 @@
   <e>        <p>          <l>дено</l>         <r>де<s n="vblex"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
   <e>        <p>          <l>дени</l>         <r>де<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>дејќи</l>         <r>де<s n="vblex"/><s n="dee"/></r></p></e>
+  <e>        <p>          <l>дејќи</l>         <r>де<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
 </pardef>
 
 
@@ -1731,7 +1729,7 @@
   <e>        <p>          <l>чено</l>         <r>че<s n="vblex"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
   <e>        <p>          <l>чени</l>         <r>че<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>чејќи</l>         <r>че<s n="vblex"/><s n="dee"/></r></p></e>
+  <e>        <p>          <l>чејќи</l>         <r>че<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
 </pardef>
 
 <pardef n="вле/зе__vblex">
@@ -1774,7 +1772,7 @@
   <e>        <p>          <l>зено</l>         <r>зе<s n="vblex"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
   <e>        <p>          <l>зени</l>         <r>зе<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>зејќи</l>         <r>зе<s n="vblex"/><s n="dee"/></r></p></e>
+  <e>        <p>          <l>зејќи</l>         <r>зе<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
 </pardef>
 
 
@@ -1823,7 +1821,7 @@
   <e>        <p>          <l>жени</l>         <r>же<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
   <e r="LR">        <p>          <l>гани</l>         <r>же<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>жејќи</l>         <r>же<s n="vblex"/><s n="dee"/></r></p></e>
+  <e>        <p>          <l>жејќи</l>         <r>же<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
 </pardef>
 
 
@@ -1872,7 +1870,7 @@
   <e>        <p>          <l>ено</l>         <r>е<s n="vblex"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
   <e>        <p>          <l>ени</l>         <r>е<s n="vblex"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-  <e>        <p>          <l>ејќи</l>         <r>е<s n="vblex"/><s n="dee"/></r></p></e>
+  <e>        <p>          <l>ејќи</l>         <r>е<s n="vblex"/><s n="pprs"/><s n="adv"/></r></p></e>
 </pardef>
 
 
@@ -6108,6 +6106,7 @@
     <e lm="прави"><i>прав</i><par n="нос/и__vblex"/></e>		<!-- to do -->
     <e lm="работи"><i>работ</i><par n="нос/и__vblex"/></e>		<!-- to work -->
     <e lm="следи"><i>след</i><par n="нос/и__vblex"/></e> 	
+    <e lm="уследи по"><i>услед</i><par n="нос/и__vblex"/><p><l><b/>по</l><r><g><b/>по</g></r></p></e> 	
     <e lm="води"><i>вод</i><par n="нос/и__vblex"/></e> 	
     <e lm="нуди"><i>нуд</i><par n="нос/и__vblex"/></e> 	
     <e lm="движи"><i>движ</i><par n="нос/и__vblex"/></e> 	

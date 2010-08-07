@@ -4280,7 +4280,7 @@
 <e><p><l>чини<s n="vblex"/></l><r>струва<s n="vblex"/></r></p></e>
 
 <e><p><l>ужива<s n="vblex"/></l><r>радва<b/>се<s n="vblex"/></r></p></e> <!--се / enjoy-->
-<e><p><l>уследи<b/>по<s n="vblex"/></l><r>последва<s n="vblex"/></r></p></e>
+<e><p><l>уследи<g><b/>по</g><s n="vblex"/></l><r>последва<s n="vblex"/></r></p></e>
 <e><p><l>зарасте<s n="vblex"/></l><r>зарасте<s n="vblex"/></r></p></e>
 
    <!-- Punctuation -->
