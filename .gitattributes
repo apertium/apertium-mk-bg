@@ -12,6 +12,7 @@
 /apertium-mk-bg.post-mk.dix -text
 /bg-mk.prob -text
 dev/bg-full.dix -text
+dev/eval/eval.bg-mk.2010-08-07 -text svneol=unset#application/octet-stream
 dev/eval/eval.mk-bg.2010-08-07 -text svneol=unset#application/octet-stream
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
