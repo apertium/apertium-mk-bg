@@ -4230,8 +4230,8 @@
 <e><p><l>соопштува<s n="vblex"/></l><r>съобщава<s n="vblex"/></r></p></e>
 <e c="v0"><p><l>соопшти<s n="vblex"/></l><r>съобщи<s n="vblex"/></r></p></e> 
 <e r="LR" c="v1"><p><l>најави<s n="vblex"/></l><r>съобщи<s n="vblex"/></r></p></e>
-<e><p><l>соочи<s n="vblex"/></l><r>изправи<b/>срещу<s n="vblex"/></r></p></e>
-<e><p><l>соочува<s n="vblex"/></l><r>изправя<b/>срещу<s n="vblex"/></r></p></e>
+<e><p><l>соочи<s n="vblex"/></l><r>изправи<g><b/>срещу</g><s n="vblex"/></r></p></e>
+<e><p><l>соочува<s n="vblex"/></l><r>изправя<g><b/>срещу</g><s n="vblex"/></r></p></e>
 <e><p><l>соработува<s n="vblex"/></l><r>сътрудничи<s n="vblex"/></r></p></e>
 <e r="LR" c="v1"><p><l>состане<s n="vblex"/></l><r>срещне<s n="vblex"/></r></p></e>
 <e c="v0"><p><l>сретне<s n="vblex"/></l><r>срещне<s n="vblex"/></r></p></e> 
@@ -4281,7 +4281,7 @@
 <e><p><l>честита<s n="vblex"/></l><r>честити<s n="vblex"/></r></p></e>
 <e><p><l>чини<s n="vblex"/></l><r>струва<s n="vblex"/></r></p></e>
 
-<e><p><l>ужива<s n="vblex"/></l><r>радва<b/>се<s n="vblex"/></r></p></e> <!--се / enjoy-->
+<e><p><l>ужива<s n="vblex"/></l><r>радва<g><b/>се</g><s n="vblex"/></r></p></e> <!--се / enjoy-->
 <e><p><l>уследи<g><b/>по</g><s n="vblex"/></l><r>последва<s n="vblex"/></r></p></e>
 <e><p><l>зарасте<s n="vblex"/></l><r>зарасте<s n="vblex"/></r></p></e>
 
