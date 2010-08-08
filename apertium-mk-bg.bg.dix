@@ -780,9 +780,6 @@
 	<!-- МОЖЕ несвършен вид 
 						     г % ж -->
 	<pardef n="мо/же__vbmod">
-	  <e>        <p>          <l>жи</l>          <r>же<s n="vbmod"/><s n="imp"/><s n="sg"/></r></p></e>
-	  <e>        <p>          <l>жете</l>        <r>же<s n="vbmod"/><s n="imp"/><s n="pl"/></r></p></e>
-
 	  <e>        <p>          <l>га</l>          <r>же<s n="vbmod"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
 	  <e>        <p>          <l>жеш</l>         <r>же<s n="vbmod"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
 	  <e>        <p>          <l>же</l>          <r>же<s n="vbmod"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -820,24 +817,14 @@
 	  <e>        <p>          <l>жахте</l>        <r>же<s n="vbmod"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
 	  <e>        <p>          <l>жаха</l>         <r>же<s n="vbmod"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
 
-	  <e>        <p>          <l>гъл</l>          <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-	  <e r="LR">        <p>          <l>жал</l>          <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-	  <e>        <p>          <l>глия</l>        <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="m"/><s n="sg"/><s n="def"/><s n="obj"/></r></p></e>
-	  <e r="LR">        <p>          <l>жалия</l>        <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="m"/><s n="sg"/><s n="def"/><s n="obj"/></r></p></e>
-	  <e>        <p>          <l>глият</l>       <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="m"/><s n="sg"/><s n="def"/><s n="subj"/></r></p></e>
-	  <e r="LR">        <p>          <l>жалият</l>       <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="m"/><s n="sg"/><s n="def"/><s n="subj"/></r></p></e>
-	  <e>        <p>          <l>гла</l>       <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="f"/><s n="sg"/><s n="ind"/></r></p></e>
-	  <e r="LR">        <p>          <l>жала</l>       <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="f"/><s n="sg"/><s n="ind"/></r></p></e>
-	  <e>        <p>          <l>глата</l>     <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="f"/><s n="sg"/><s n="def"/></r></p></e>
-	  <e r="LR">        <p>          <l>жалата</l>     <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="f"/><s n="sg"/><s n="def"/></r></p></e>
-	  <e>        <p>          <l>гло</l>          <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="nt"/><s n="sg"/><s n="ind"/></r></p></e>
-	  <e r="LR">        <p>          <l>жало</l>          <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="nt"/><s n="sg"/><s n="ind"/></r></p></e>
-	  <e>        <p>          <l>глото</l>        <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="nt"/><s n="sg"/><s n="def"/></r></p></e>
-	  <e r="LR">        <p>          <l>жалото</l>        <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="nt"/><s n="sg"/><s n="def"/></r></p></e>
-	  <e>        <p>          <l>гли</l>       <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="mfn"/><s n="pl"/><s n="ind"/></r></p></e>
-	  <e r="LR">        <p>          <l>жали</l>       <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="mfn"/><s n="pl"/><s n="ind"/></r></p></e>
-	  <e>        <p>          <l>глите</l>     <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="mfn"/><s n="pl"/><s n="def"/></r></p></e>
-	  <e r="LR">        <p>          <l>жалите</l>     <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="mfn"/><s n="pl"/><s n="def"/></r></p></e>
+	  <e>        <p>          <l>гъл</l>          <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="m"/><s n="sg"/></r></p></e>
+	  <e r="LR">        <p>          <l>жал</l>          <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="m"/><s n="sg"/></r></p></e>
+	  <e>        <p>          <l>гла</l>       <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="f"/><s n="sg"/></r></p></e>
+	  <e r="LR">        <p>          <l>жала</l>       <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="f"/><s n="sg"/></r></p></e>
+	  <e>        <p>          <l>гло</l>          <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="nt"/><s n="sg"/></r></p></e>
+	  <e r="LR">        <p>          <l>жало</l>          <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="nt"/><s n="sg"/></r></p></e>
+	  <e>        <p>          <l>гли</l>       <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="mfn"/><s n="pl"/></r></p></e>
+	  <e r="LR">        <p>          <l>жали</l>       <r>же<s n="vbmod"/><s n="lp"/><s n="aor"/><s n="mfn"/><s n="pl"/></r></p></e>
 
 	  <e>        <p>          <l>жейки</l>         <r>же<s n="vbmod"/><s n="pprs"/><s n="adv"/></r></p></e>
 	</pardef>
@@ -884,15 +871,10 @@
 	  <e>        <p>          <l>хте</l>        <r><s n="vbmod"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
 	  <e>        <p>          <l>ха</l>         <r><s n="vbmod"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
 
-	  <e>        <p>          <l>л</l>          <r><s n="vbmod"/><s n="lp"/><s n="aor"/><s n="m"/><s n="sg"/><s n="ind"/></r></p></e>
-	  <e>        <p>          <l>лия</l>        <r><s n="vbmod"/><s n="lp"/><s n="aor"/><s n="m"/><s n="sg"/><s n="def"/><s n="obj"/></r></p></e>
-	  <e>        <p>          <l>лият</l>       <r><s n="vbmod"/><s n="lp"/><s n="aor"/><s n="m"/><s n="sg"/><s n="def"/><s n="subj"/></r></p></e>
-	  <e>        <p>          <l>ла</l>       <r><s n="vbmod"/><s n="lp"/><s n="aor"/><s n="f"/><s n="sg"/><s n="ind"/></r></p></e>
-	  <e>        <p>          <l>лата</l>     <r><s n="vbmod"/><s n="lp"/><s n="aor"/><s n="f"/><s n="sg"/><s n="def"/></r></p></e>
-	  <e>        <p>          <l>ло</l>          <r><s n="vbmod"/><s n="lp"/><s n="aor"/><s n="nt"/><s n="sg"/><s n="ind"/></r></p></e>
-	  <e>        <p>          <l>лото</l>        <r><s n="vbmod"/><s n="lp"/><s n="aor"/><s n="nt"/><s n="sg"/><s n="def"/></r></p></e>
-	  <e>        <p>          <l>ли</l>       <r><s n="vbmod"/><s n="lp"/><s n="aor"/><s n="mfn"/><s n="pl"/><s n="ind"/></r></p></e>
-	  <e>        <p>          <l>лите</l>     <r><s n="vbmod"/><s n="lp"/><s n="aor"/><s n="mfn"/><s n="pl"/><s n="def"/></r></p></e>
+	  <e>        <p>          <l>л</l>          <r><s n="vbmod"/><s n="lp"/><s n="aor"/><s n="m"/><s n="sg"/></r></p></e>
+	  <e>        <p>          <l>ла</l>       <r><s n="vbmod"/><s n="lp"/><s n="aor"/><s n="f"/><s n="sg"/></r></p></e>
+	  <e>        <p>          <l>ло</l>          <r><s n="vbmod"/><s n="lp"/><s n="aor"/><s n="nt"/><s n="sg"/></r></p></e>
+	  <e>        <p>          <l>ли</l>       <r><s n="vbmod"/><s n="lp"/><s n="aor"/><s n="mfn"/><s n="pl"/></r></p></e>
 	</pardef>
 
 
