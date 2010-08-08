@@ -40,7 +40,7 @@
     <!-- Orthographic rules to remove spaces following prefixes -->
     <e>
       <p>
-        <l><a/>по-<b/></l>
+        <l><a/>по<b/></l>
         <r>по</r>
       </p>
       <par n="abeceda"/>
