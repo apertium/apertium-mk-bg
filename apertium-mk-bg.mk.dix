@@ -46,6 +46,10 @@
     <sdef n="pprs"   c="Adverbial participle, деепричастие"/>
     <sdef n="lp"      c="L-participle минало деятелно причастие"/>
     <sdef n="pp"      c="Past participle"/>
+	<sdef n="tv"       c="Transitive"/>
+	<sdef n="iv"      c="Intansitive"/>
+	<sdef n="perf"       c="Perfective aspect"/>
+	<sdef n="imperf"      c="Imperfective aspect"/>
 
     <sdef n="pref"    c="Prefix"/>
     <sdef n="part"    c="Particle"/>

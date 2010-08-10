@@ -32,6 +32,14 @@
     <sdef n="pl"      c="Plural"/>
     <sdef n="sp"      c="Singular / Plural"/>
 
+
+<!--verbs-->
+	<sdef n="tv"       c="Transitive"/>
+	<sdef n="iv"      c="Intansitive"/>
+	<sdef n="perf"       c="Perfective aspect"/>
+	<sdef n="imperf"      c="Imperfective aspect"/>
+
+
 <!--proper nouns-->
     <sdef n="top"     c="Toponym"/>
     <sdef n="ant"     c="Anthroponym"/>
