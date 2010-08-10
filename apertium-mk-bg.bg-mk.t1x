@@ -142,7 +142,17 @@
       <attr-item tags="p2"/>
       <attr-item tags="p3"/>
     </def-attr>
-    
+
+    <def-attr n="transitivity">
+      <attr-item tags="tv"/>
+      <attr-item tags="iv"/>
+    </def-attr>
+
+    <def-attr n="aspect">
+      <attr-item tags="imperf"/>
+      <attr-item tags="perf"/>
+    </def-attr>
+     
   </section-def-attrs>
  
   <section-def-vars>
@@ -250,6 +260,8 @@
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
             <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="aspect"/>
+            <clip pos="1" side="tl" part="transitivity"/>
             <clip pos="1" side="tl" part="temps"/>
             <clip pos="1" side="tl" part="pers"/>
             <clip pos="1" side="tl" part="nbr"/>
@@ -268,6 +280,8 @@
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
             <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="aspect"/>
+            <clip pos="1" side="tl" part="transitivity"/>
             <clip pos="1" side="tl" part="temps"/>
             <clip pos="1" side="tl" part="lemq"/>
           </lu>
@@ -285,6 +299,8 @@
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
             <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="aspect"/>
+            <clip pos="1" side="tl" part="transitivity"/>
             <clip pos="1" side="tl" part="temps"/>
             <clip pos="1" side="tl" part="gen"/>
             <clip pos="1" side="tl" part="nbr"/>
@@ -303,6 +319,8 @@
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
             <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="aspect"/>
+            <clip pos="1" side="tl" part="transitivity"/>
             <clip pos="1" side="tl" part="temps"/>
             <clip pos="1" side="tl" part="gen"/>
             <clip pos="1" side="tl" part="nbr"/>
