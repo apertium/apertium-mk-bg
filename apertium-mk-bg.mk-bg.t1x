@@ -43,6 +43,12 @@
       <cat-item tags="vblex.pp.*"/>
     </def-cat>
 
+   <def-cat n="vfin">
+      <cat-item tags="vblex.pres.*"/>
+      <cat-item tags="vblex.pii.*"/>
+      <cat-item tags="vblex.aor.*"/>
+      <cat-item tags="vblex.imp.*"/>
+    </def-cat>
    
    <def-cat n="adj">
       <cat-item tags="adj.*"/>
@@ -431,6 +437,28 @@ output: def
       </action>
     </rule>
     
+
+    <rule comment="RULE: Finite verb  → Finite verb: ( → )">
+      <pattern>
+        <pattern-item n="vfin"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="aspect"/>
+            <clip pos="1" side="tl" part="transitivity"/>
+            <clip pos="1" side="tl" part="temps"/>
+            <clip pos="1" side="tl" part="pers"/>
+            <clip pos="1" side="tl" part="nbr"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="RULE: L-Participle → L-Participle : ( → )">
       <pattern>
         <pattern-item n="lp"/>
