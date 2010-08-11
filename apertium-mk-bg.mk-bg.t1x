@@ -31,6 +31,12 @@
       <cat-item tags="prn.ref.*"/>
     </def-cat>
     
+
+    <def-cat n="noun">
+      <cat-item tags="n.*"/>
+    </def-cat>
+
+
     <def-cat n="num">
       <cat-item tags="num.*"/>
     </def-cat>
@@ -660,6 +666,131 @@ output: def
         </out>
       </action>
     </rule>
+
+
+    <rule comment="RULE: ADJ NOUN Transfer noun´s gender to adjective">
+	  <pattern>
+	    <pattern-item n="adj"/>
+	    <pattern-item n="noun"/>
+	  </pattern>
+	  <action>
+
+	     <choose>
+	        <when>
+	          <test>
+	            <equal>
+	              <clip pos="2" side="tl" part="gen"/>
+	              <lit-tag v="m"/>
+	            </equal>
+	          </test>
+	          <let>
+	            <clip pos="1" side="tl" part="gen"/>
+	            <lit-tag v="m"/>
+	          </let>
+	        </when>
+	      </choose>
+
+	     <choose>
+	        <when>
+	          <test>
+	            <equal>
+	              <clip pos="2" side="tl" part="gen"/>
+	              <lit-tag v="f"/>
+	            </equal>
+	          </test>
+	          <let>
+	            <clip pos="1" side="tl" part="gen"/>
+	            <lit-tag v="f"/>
+	          </let>
+	        </when>
+	      </choose>
+
+	     <choose>
+	        <when>
+	          <test>
+	            <equal>
+	              <clip pos="2" side="tl" part="gen"/>
+	              <lit-tag v="nt"/>
+	            </equal>
+	          </test>
+	          <let>
+	            <clip pos="1" side="tl" part="gen"/>
+	            <lit-tag v="nt"/>
+	          </let>
+	        </when>
+	      </choose>
+	
+	     <choose>
+	        <when>
+	          <test>
+	            <equal>
+	              <clip pos="2" side="tl" part="nbr"/>
+	              <lit-tag v="pl"/>
+	            </equal>
+	          </test>
+	          <let>
+	            <clip pos="1" side="tl" part="gen"/>
+	            <lit-tag v="mfn"/>
+	          </let>
+	        </when>
+	      </choose>
+
+	     <choose>
+	        <when>
+	          <test>
+	            <equal>
+	              <clip pos="1" side="sl" part="defnes"/>
+	              <lit-tag v="prx"/>
+	            </equal>
+	          </test>
+	          <let>
+	            <clip pos="1" side="tl" part="defnes"/>
+	            <lit-tag v="def"/>
+	          </let>
+	        </when>
+	      </choose>
+
+	     <choose>
+	        <when>
+	          <test>
+	            <equal>
+	              <clip pos="1" side="sl" part="defnes"/>
+	              <lit-tag v="dst"/>
+	            </equal>
+	          </test>
+	          <let>
+	            <clip pos="1" side="tl" part="defnes"/>
+	            <lit-tag v="def"/>
+	          </let>
+	        </when>
+	      </choose>
+	
+	    <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_nom"/>
+            <clip pos="1" side="tl" part="a_adj"/>
+            <clip pos="1" side="tl" part="gen"/>
+            <clip pos="1" side="tl" part="nbr"/>
+            <clip pos="1" side="tl" part="cas"/>
+            <clip pos="1" side="tl" part="defnes"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+			<b pos="1"/>
+          <lu>
+          	<clip pos="2" side="tl" part="lemh"/>
+          	<clip pos="2" side="tl" part="a_nom"/>
+          	<clip pos="2" side="tl" part="gen"/>
+          	<clip pos="2" side="tl" part="nbr"/>
+          	<clip pos="2" side="tl" part="cas"/>
+          	<clip pos="2" side="tl" part="defnes"/>
+          	<clip pos="2" side="tl" part="lemq"/>
+      	   </lu>
+        </out>
+
+	  </action>
+	</rule>
+
 
 
   </section-rules>
