@@ -690,6 +690,88 @@ output: def
 	        </when>
 	      </choose>
 
+
+<!-- when masculine definite singular-->
+	     <choose>
+	        <when>
+	          <test>
+		      <and>
+	            <equal>
+	              <clip pos="1" side="tl" part="gen"/>
+	              <lit-tag v="m"/>
+	            </equal>
+	            <equal>
+	              <clip pos="1" side="tl" part="defnes"/>
+	              <lit-tag v="def"/>
+	            </equal>
+	            <equal>
+	              <clip pos="1" side="tl" part="nbr"/>
+	              <lit-tag v="sg"/>
+	            </equal>
+	          </and>
+	          </test>
+	          <let>
+	            <clip pos="1" side="tl" part="defnes"/>
+	            <lit-tag v="def.obj"/>    <!--		TODO: obj or subj?	-->
+	          </let>
+	        </when>
+	      </choose>
+
+	     <choose>
+	        <when>
+	          <test>
+		      <and>
+	            <equal>
+	              <clip pos="1" side="tl" part="gen"/>
+	              <lit-tag v="m"/>
+	            </equal>
+	            <equal>
+	              <clip pos="1" side="tl" part="defnes"/>
+	              <lit-tag v="prx"/>
+	            </equal>
+	            <equal>
+	              <clip pos="1" side="tl" part="nbr"/>
+	              <lit-tag v="sg"/>
+	            </equal>
+	          </and>
+	          </test>
+	          <let>
+	            <clip pos="1" side="tl" part="defnes"/>
+	            <lit-tag v="def.obj"/><!--		TODO: obj or subj?	-->
+	          </let>
+	        </when>
+	      </choose>
+
+
+	     <choose>
+	        <when>
+	          <test>
+		      <and>
+	            <equal>
+	              <clip pos="1" side="tl" part="gen"/>
+	              <lit-tag v="m"/>
+	            </equal>
+	            <equal>
+	              <clip pos="1" side="tl" part="defnes"/>
+	              <lit-tag v="dst"/>
+	            </equal>
+	            <equal>
+	              <clip pos="1" side="tl" part="nbr"/>
+	              <lit-tag v="sg"/>
+	            </equal>
+	          </and>
+	          </test>
+	          <let>
+	            <clip pos="1" side="tl" part="defnes"/>
+	            <lit-tag v="def.obj"/><!--		TODO: obj or subj?	-->
+	          </let>
+	        </when>
+	      </choose>
+
+
+
+
+
 	     <choose>
 	        <when>
 	          <test>
@@ -734,7 +816,55 @@ output: def
 	          </let>
 	        </when>
 	      </choose>
+	
 
+<!-- when  definite plural-->
+<choose>
+   <when>
+     <test>
+     <and>
+       <equal>
+         <clip pos="1" side="tl" part="defnes"/>
+         <lit-tag v="prx"/>
+       </equal>
+       <equal>
+         <clip pos="1" side="tl" part="nbr"/>
+         <lit-tag v="pl"/>
+       </equal>
+     </and>
+     </test>
+     <let>
+       <clip pos="1" side="tl" part="defnes"/>
+       <lit-tag v="def"/>
+     </let>
+   </when>
+ </choose>
+
+
+<choose>
+   <when>
+     <test>
+     <and>
+       <equal>
+         <clip pos="1" side="tl" part="defnes"/>
+         <lit-tag v="dst"/>
+       </equal>
+       <equal>
+         <clip pos="1" side="tl" part="nbr"/>
+         <lit-tag v="pl"/>
+       </equal>
+     </and>
+     </test>
+     <let>
+       <clip pos="1" side="tl" part="defnes"/>
+       <lit-tag v="def"/>
+     </let>
+   </when>
+ </choose>
+
+	
+
+		<!--
 	     <choose>
 	        <when>
 	          <test>
@@ -749,21 +879,30 @@ output: def
 	          </let>
 	        </when>
 	      </choose>
+-->
 
+<!--
 	     <choose>
 	        <when>
-	          <test>
-	            <equal>
-	              <clip pos="1" side="sl" part="defnes"/>
-	              <lit-tag v="dst"/>
-	            </equal>
-	          </test>
+		       <test>
+		          <and>
+		            <equal>
+		                <clip pos="1" side="sl" part="defnes"/>
+		                <lit-tag v="dst"/>
+		            </equal>
+		            <equal>
+		                <clip pos="1" side="tl" part="gen"/>
+		                <lit-tag v="m"/>
+		            </equal>
+		          </and>
+		       </test>
 	          <let>
 	            <clip pos="1" side="tl" part="defnes"/>
-	            <lit-tag v="def"/>
+	            <lit-tag v="def.subj"/>
 	          </let>
 	        </when>
 	      </choose>
+-->
 	
 	    <out>
           <lu>
