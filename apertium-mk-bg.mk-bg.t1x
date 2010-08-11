@@ -360,7 +360,6 @@ output: def
         <clip pos="1" side="tl" part="defnes"/> 
         <lit-tag v="def.obj"/>
       </let>
-
     </when>
   </choose>
 
@@ -904,6 +903,140 @@ output: def
 	      </choose>
 -->
 	
+	
+	<choose>
+	   <when>
+	     <test>
+	     <and>
+	       <equal>
+	         <clip pos="1" side="tl" part="defnes"/>
+	         <lit-tag v="def.subj"/>
+	       </equal>
+	       <equal>
+	         <clip pos="1" side="tl" part="gen"/>
+	         <lit-tag v="f"/>
+	       </equal>
+	     </and>
+	     </test>
+	     <let>
+	       <clip pos="1" side="tl" part="defnes"/>
+	       <lit-tag v="def"/>
+	     </let>
+	   </when>
+	 </choose>
+	
+	<choose>
+	   <when>
+	     <test>
+	     <and>
+	       <equal>
+	         <clip pos="1" side="tl" part="defnes"/>
+	         <lit-tag v="def.obj"/>
+	       </equal>
+	       <equal>
+	         <clip pos="1" side="tl" part="gen"/>
+	         <lit-tag v="f"/>
+	       </equal>
+	     </and>
+	     </test>
+	     <let>
+	       <clip pos="1" side="tl" part="defnes"/>
+	       <lit-tag v="def"/>
+	     </let>
+	   </when>
+	 </choose>
+	
+	<choose>
+	   <when>
+	     <test>
+	     <and>
+	       <equal>
+	         <clip pos="1" side="tl" part="defnes"/>
+	         <lit-tag v="def.subj"/>
+	       </equal>
+	       <equal>
+	         <clip pos="1" side="tl" part="gen"/>
+	         <lit-tag v="nt"/>
+	       </equal>
+	     </and>
+	     </test>
+	     <let>
+	       <clip pos="1" side="tl" part="defnes"/>
+	       <lit-tag v="def"/>
+	     </let>
+	   </when>
+	 </choose>
+
+	<choose>
+	   <when>
+	     <test>
+	     <and>
+	       <equal>
+	         <clip pos="1" side="tl" part="defnes"/>
+	         <lit-tag v="def.obj"/>
+	       </equal>
+	       <equal>
+	         <clip pos="1" side="tl" part="gen"/>
+	         <lit-tag v="nt"/>
+	       </equal>
+	     </and>
+	     </test>
+	     <let>
+	       <clip pos="1" side="tl" part="defnes"/>
+	       <lit-tag v="def"/>
+	     </let>
+	   </when>
+	 </choose>
+	
+	<choose>
+	   <when>
+	     <test>
+	     <and>
+	       <equal>
+	         <clip pos="1" side="tl" part="defnes"/>
+	         <lit-tag v="def.subj"/>
+	       </equal>
+	       <equal>
+	         <clip pos="1" side="tl" part="gen"/>
+	         <lit-tag v="mfn"/>
+	       </equal>
+	     </and>
+	     </test>
+	     <let>
+	       <clip pos="1" side="tl" part="defnes"/>
+	       <lit-tag v="def"/>
+	     </let>
+	   </when>
+	 </choose>
+
+	<choose>
+	   <when>
+	     <test>
+	     <and>
+	       <equal>
+	         <clip pos="1" side="tl" part="defnes"/>
+	         <lit-tag v="def.obj"/>
+	       </equal>
+	       <equal>
+	         <clip pos="1" side="tl" part="gen"/>
+	         <lit-tag v="mfn"/>
+	       </equal>
+	     </and>
+	     </test>
+	     <let>
+	       <clip pos="1" side="tl" part="defnes"/>
+	       <lit-tag v="def"/>
+	     </let>
+	   </when>
+	 </choose>
+	
+	
+	<!--    close proba	-->
+	
+	
+	
+	
+	
 	    <out>
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
@@ -929,6 +1062,10 @@ output: def
 
 	  </action>
 	</rule>
+
+
+
+
 
 
 
