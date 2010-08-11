@@ -7115,6 +7115,14 @@
 
 
 	<!-- Глаголи -->
+    <e lm="е"><i></i><par n="/е__vbser"/></e>			<!-- to be -->
+    <e lm="има"><i>има</i><par n="има__vbhaver"/></e>
+	<e lm="нема"><i>нема</i><par n="има__vbhaver"/></e>
+    <e lm="може"><i>мож</i><par n="мож/е__vbmod"/></e>		<!-- to have the ability to -->
+    <e lm="мора"><i>мора</i><par n="мора__vbmod"/></e>		<!-- must -->
+
+
+
 
 	 <e lm="чита"><i>чит</i><par n="вик/а__vblex"/></e>			<!-- to accept -->
 	    <e lm="донесе"><i>доне</i><par n="доне/се__vblex"/></e>
