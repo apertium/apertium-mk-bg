@@ -3833,8 +3833,8 @@
 <e><p><l>загрози<s n="vblex"/></l><r>застраши<s n="vblex"/></r></p></e> 
 <e><p><l>задржува<s n="vblex"/></l><r>задържа<s n="vblex"/></r></p></e>
 <e><p><l>задржи<s n="vblex"/></l><r>задържи<s n="vblex"/></r></p></e> 
-<e><p><l>закани<s n="vblex"/></l><r>закани<s n="vblex"/></r></p></e> 
-<e><p><l>заканува<s n="vblex"/></l><r>заканя<s n="vblex"/></r></p></e> 
+<e><p><l>закани<g><b/>се</g><s n="vblex"/></l><r>закани<g><b/>се</g><s n="vblex"/></r></p></e> 
+<e><p><l>заканува<g><b/>се</g><s n="vblex"/></l><r>заканя<g><b/>се</g><s n="vblex"/></r></p></e> 
 <e><p><l>заклучи<s n="vblex"/></l><r>заключи<s n="vblex"/></r></p></e> 
 <e><p><l>заклучува<s n="vblex"/></l><r>заключва<s n="vblex"/></r></p></e> 
 <e><p><l>залага<s n="vblex"/></l><r>стреми<s n="vblex"/></r></p></e> <!--залага за стреми към-->
@@ -3958,7 +3958,7 @@
 <e><p><l>наследи<s n="vblex"/></l><r>наследи<s n="vblex"/></r></p></e>
 <e><p><l>настапува<s n="vblex"/></l><r>настъпва<s n="vblex"/></r></p></e>
 <e><p><l>настапи<s n="vblex"/></l><r>настъпи<s n="vblex"/></r></p></e> 
-<e><p><l>натпреварува<s n="vblex"/></l><r>състезава<s n="vblex"/></r></p></e>
+<e><p><l>натпреварува<g><b/>се</g><s n="vblex"/></l><r>състезава<g><b/>се</g><s n="vblex"/></r></p></e>
 <e><p><l>наштети<s n="vblex"/></l><r>навреди<s n="vblex"/></r></p></e> 
 <e><p><l>негира<s n="vblex"/></l><r>отрича<s n="vblex"/></r></p></e>
 <e><p><l>носи<s n="vblex"/></l><r>носи<s n="vblex"/></r></p></e>
@@ -3997,9 +3997,9 @@
 <e><p><l>однесе<s n="vblex"/></l><r>отнесе<s n="vblex"/></r></p></e> 
 <e><p><l>одобри<s n="vblex"/></l><r>одобри<s n="vblex"/></r></p></e> 
 <e><p><l>одобрува<s n="vblex"/></l><r>одобрява<s n="vblex"/></r></p></e>
-<e r="LR" c="v2"><p><l>одржи<s n="vblex"/></l><r>състои<s n="vblex"/></r></p></e> <!--мин време одржа-->
-<e r="LR" c="v1"><p><l>одржува<s n="vblex"/></l><r>състои<s n="vblex"/></r></p></e>
-<e c="v0"><p><l>состои<s n="vblex"/></l><r>състои<s n="vblex"/></r></p></e>
+<e r="LR" c="v2"><p><l>одржи<g><b/>се</g><s n="vblex"/></l><r>състои<g><b/>се</g><s n="vblex"/></r></p></e> 
+<e r="LR" c="v1"><p><l>одржува<g><b/>се</g><s n="vblex"/></l><r>състои<g><b/>се</g><s n="vblex"/></r></p></e>
+<e c="v0"><p><l>состои<g><b/>се</g><s n="vblex"/></l><r>състои<g><b/>се</g><s n="vblex"/></r></p></e>
 <e><p><l>олеснува<s n="vblex"/></l><r>улеснява<s n="vblex"/></r></p></e>
 <e><p><l>олесни<s n="vblex"/></l><r>улесни<s n="vblex"/></r></p></e> 
 <e><p><l>опише<s n="vblex"/></l><r>опише<s n="vblex"/></r></p></e>
@@ -4228,7 +4228,7 @@
 <e><p><l>смета<s n="vblex"/></l><r>смята<s n="vblex"/></r></p></e>
 <e><p><l>собере<s n="vblex"/></l><r>събере<s n="vblex"/></r></p></e> 
 <e><p><l>собира<s n="vblex"/></l><r>събира<s n="vblex"/></r></p></e>
-<e><p><l>согласи<s n="vblex"/></l><r>съгласи<s n="vblex"/></r></p></e>
+<e><p><l>согласи<g><b/>се</g><s n="vblex"/></l><r>съгласи<g><b/>се</g><s n="vblex"/></r></p></e>
 <e><p><l>согласува<s n="vblex"/></l><r>съгласява<s n="vblex"/></r></p></e>
 <e><p><l>содржи<s n="vblex"/></l><r>съдържа<s n="vblex"/></r></p></e>
 <e><p><l>создава<s n="vblex"/></l><r>създава<s n="vblex"/></r></p></e> 
@@ -4246,7 +4246,7 @@
 <e r="LR" c="v1"><p><l>состанува<s n="vblex"/></l><r>среща<s n="vblex"/></r></p></e>
 <e c="v0"><p><l>сретнува<s n="vblex"/></l><r>среща<s n="vblex"/></r></p></e>
 <e><p><l>сочинува<s n="vblex"/></l><r>съставлява<s n="vblex"/></r></p></e>
-<e><p><l>справи<s n="vblex"/></l><r>справи<s n="vblex"/></r></p></e>
+<e><p><l>справи<g><b/>се</g><s n="vblex"/></l><r>справи<g><b/>се</g><s n="vblex"/></r></p></e>
 <e><p><l>справува<s n="vblex"/></l><r>справя<s n="vblex"/></r></p></e>
 <e><p><l>спречи<s n="vblex"/></l><r>предотврати<s n="vblex"/></r></p></e> 
 <e><p><l>спречува<s n="vblex"/></l><r>предотвратява<s n="vblex"/></r></p></e> 
@@ -4291,7 +4291,7 @@
 
 <e><p><l>ужива<s n="vblex"/></l><r>радва<g><b/>се</g><s n="vblex"/></r></p></e> <!--се / enjoy-->
 <e><p><l>уследи<g><b/>по</g><s n="vblex"/></l><r>последва<s n="vblex"/></r></p></e>
-<e><p><l>зарасте<s n="vblex"/></l><r>зарасте<s n="vblex"/></r></p></e>
+<e><p><l>зарасне<s n="vblex"/></l><r>зарасте<s n="vblex"/></r></p></e>
 
    <!-- Punctuation -->
 
