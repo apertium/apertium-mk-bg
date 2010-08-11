@@ -663,7 +663,7 @@
      <e>        <p>          <l>ето</l>         <r>и<s n="vblex"/><s n="imperf"/><s n="tv"/><s n="pp"/><s n="nt"/><s n="sg"/></r></p></e>
      <e>        <p>          <l>ети</l>         <r>и<s n="vblex"/><s n="imperf"/><s n="tv"/><s n="pp"/><s n="mfn"/><s n="pl"/></r></p></e>
 
-     <e>        <p>          <l>ејќи</l>         <r>а<s n="vblex"/><s n="imperf"/><s n="tv"/><s n="pprs"/><s n="adv"/></r></p></e>
+     <e>        <p>          <l>ејќи</l>         <r>и<s n="vblex"/><s n="imperf"/><s n="tv"/><s n="pprs"/><s n="adv"/></r></p></e>
    </pardef>
 
 
@@ -7403,7 +7403,7 @@
 	<e lm="спроведува"><i>спроведув</i><par n="вик/а__vblex"/></e>
 	<e lm="содржи"><i>содрж</i><par n="држ/и__vblex"/></e>
 	<e lm="одржи"><i>одрж</i><par n="одрж/и__vblex"/><p><l><b/>се</l><r><g><b/>се</g></r></p></e>
-	<e lm="одржува"><i>содрж</i><par n="патув/а__vblex"/><p><l><b/>се</l><r><g><b/>се</g></r></p></e>
+	<e lm="одржува"><i>одржув</i><par n="патув/а__vblex"/><p><l><b/>се</l><r><g><b/>се</g></r></p></e>
 
 	  <e lm="напушта"><i>напушт</i><par n="вик/а__vblex"/></e>
 	  <e lm="смета"><i>смет</i><par n="вик/а__vblex"/></e> 		<!-- to consider -->
