@@ -3249,10 +3249,14 @@
      <e>        <p>        <l>темина</l>      <r><s n="num"/><s n="ma"/><s n="nom"/><s n="def"/></r></p></e>
      <e r="LR">        <p>        <l>емина</l>      <r><s n="num"/><s n="ma"/><s n="nom"/><s n="def"/></r></p></e>
 
-     <e>        <p>          <l>ина</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="ind"/></r></p></e>
-     <e>        <p>          <l>ината</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="def"/></r></p></e>
-     <e>        <p>          <l>инава</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="prx"/></r></p></e>
-     <e>        <p>          <l>инана</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e>        <p>          <l>тина</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e r="LR">        <p>          <l>ина</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="ind"/></r></p></e>
+     <e>        <p>          <l>тината</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="def"/></r></p></e>
+     <e r="LR">        <p>          <l>ината</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="def"/></r></p></e>
+     <e>        <p>          <l>тинава</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e r="LR">        <p>          <l>инава</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="prx"/></r></p></e>
+     <e>        <p>          <l>тинана</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="dst"/></r></p></e>
+     <e r="LR">        <p>          <l>инана</l>        <r><s n="num"/><s n="mfn"/><s n="apprx"/><s n="nom"/><s n="dst"/></r></p></e>
     </pardef>
 
 
