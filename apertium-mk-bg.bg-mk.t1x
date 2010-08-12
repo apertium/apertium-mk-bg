@@ -599,9 +599,37 @@
 	        </when>
 	      </choose>
 	
+		<choose>
+		   <when>
+		     <test>
+		       <equal>
+		         <clip pos="1" side="tl" part="defnes"/>
+		         <lit-tag v="def.obj"/>
+		       </equal>
+		     </test>
+		     <let>
+		       <clip pos="1" side="tl" part="defnes"/>
+		       <lit-tag v="def"/>  
+		     </let>
+		   </when>
+		 </choose>
 	
 	
-	
+		<choose>
+		   <when>
+		     <test>
+		       <equal>
+		         <clip pos="1" side="tl" part="defnes"/>
+		         <lit-tag v="def.subj"/>
+		       </equal>
+		     </test>
+		     <let>
+		       <clip pos="1" side="tl" part="defnes"/>
+		       <lit-tag v="def"/>  
+		     </let>
+		   </when>
+		 </choose>
+		
 	    <out>
           <lu>
             <clip pos="1" side="tl" part="lemh"/>

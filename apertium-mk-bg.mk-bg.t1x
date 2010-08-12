@@ -690,86 +690,6 @@ output: def
 	      </choose>
 
 
-<!-- when masculine definite singular-->
-	     <choose>
-	        <when>
-	          <test>
-		      <and>
-	            <equal>
-	              <clip pos="1" side="tl" part="gen"/>
-	              <lit-tag v="m"/>
-	            </equal>
-	            <equal>
-	              <clip pos="1" side="tl" part="defnes"/>
-	              <lit-tag v="def"/>
-	            </equal>
-	            <equal>
-	              <clip pos="1" side="tl" part="nbr"/>
-	              <lit-tag v="sg"/>
-	            </equal>
-	          </and>
-	          </test>
-	          <let>
-	            <clip pos="1" side="tl" part="defnes"/>
-	            <lit-tag v="def.obj"/>    <!--		TODO: obj or subj?	-->
-	          </let>
-	        </when>
-	      </choose>
-
-	     <choose>
-	        <when>
-	          <test>
-		      <and>
-	            <equal>
-	              <clip pos="1" side="tl" part="gen"/>
-	              <lit-tag v="m"/>
-	            </equal>
-	            <equal>
-	              <clip pos="1" side="tl" part="defnes"/>
-	              <lit-tag v="prx"/>
-	            </equal>
-	            <equal>
-	              <clip pos="1" side="tl" part="nbr"/>
-	              <lit-tag v="sg"/>
-	            </equal>
-	          </and>
-	          </test>
-	          <let>
-	            <clip pos="1" side="tl" part="defnes"/>
-	            <lit-tag v="def.obj"/><!--		TODO: obj or subj?	-->
-	          </let>
-	        </when>
-	      </choose>
-
-
-	     <choose>
-	        <when>
-	          <test>
-		      <and>
-	            <equal>
-	              <clip pos="1" side="tl" part="gen"/>
-	              <lit-tag v="m"/>
-	            </equal>
-	            <equal>
-	              <clip pos="1" side="tl" part="defnes"/>
-	              <lit-tag v="dst"/>
-	            </equal>
-	            <equal>
-	              <clip pos="1" side="tl" part="nbr"/>
-	              <lit-tag v="sg"/>
-	            </equal>
-	          </and>
-	          </test>
-	          <let>
-	            <clip pos="1" side="tl" part="defnes"/>
-	            <lit-tag v="def.obj"/><!--		TODO: obj or subj?	-->
-	          </let>
-	        </when>
-	      </choose>
-
-
-
-
 
 	     <choose>
 	        <when>
@@ -862,13 +782,13 @@ output: def
  </choose>
 
 	
+<!--prx, dst >> def (for any but masculine singular)-->
 
-		<!--
 	     <choose>
 	        <when>
 	          <test>
 	            <equal>
-	              <clip pos="1" side="sl" part="defnes"/>
+	              <clip pos="1" side="tl" part="defnes"/>
 	              <lit-tag v="prx"/>
 	            </equal>
 	          </test>
@@ -878,30 +798,22 @@ output: def
 	          </let>
 	        </when>
 	      </choose>
--->
 
-<!--
+
 	     <choose>
 	        <when>
 		       <test>
-		          <and>
 		            <equal>
 		                <clip pos="1" side="sl" part="defnes"/>
 		                <lit-tag v="dst"/>
 		            </equal>
-		            <equal>
-		                <clip pos="1" side="tl" part="gen"/>
-		                <lit-tag v="m"/>
-		            </equal>
-		          </and>
 		       </test>
 	          <let>
 	            <clip pos="1" side="tl" part="defnes"/>
-	            <lit-tag v="def.subj"/>
+	            <lit-tag v="def"/>
 	          </let>
 	        </when>
 	      </choose>
--->
 	
 	
 	<choose>
@@ -1028,13 +940,112 @@ output: def
 	       <lit-tag v="def"/>  
 	     </let>
 	   </when>
+	 </choose>	
+	
+	
+	
+        	<!-- when masculine definite singular-->
+		     <choose>
+		        <when>
+		          <test>
+			      <and>
+		            <equal>
+		              <clip pos="1" side="tl" part="gen"/>
+		              <lit-tag v="m"/>
+		            </equal>
+		            <equal>
+		              <clip pos="1" side="tl" part="defnes"/>
+		              <lit-tag v="def"/>
+		            </equal>
+		            <equal>
+		              <clip pos="1" side="tl" part="nbr"/>
+		              <lit-tag v="sg"/>
+		            </equal>
+		          </and>
+		          </test>
+		          <let>
+		            <clip pos="1" side="tl" part="defnes"/>
+		            <lit-tag v="def.obj"/>    <!--		TODO: obj or subj?	-->
+		          </let>
+		        </when>
+		      </choose>
+
+		     <choose>
+		        <when>
+		          <test>
+			      <and>
+		            <equal>
+		              <clip pos="1" side="tl" part="gen"/>
+		              <lit-tag v="m"/>
+		            </equal>
+		            <equal>
+		              <clip pos="1" side="tl" part="defnes"/>
+		              <lit-tag v="prx"/>
+		            </equal>
+		            <equal>
+		              <clip pos="1" side="tl" part="nbr"/>
+		              <lit-tag v="sg"/>
+		            </equal>
+		          </and>
+		          </test>
+		          <let>
+		            <clip pos="1" side="tl" part="defnes"/>
+		            <lit-tag v="def.obj"/><!--		TODO: obj or subj?	-->
+		          </let>
+		        </when>
+		      </choose>
+
+
+		     <choose>
+		        <when>
+		          <test>
+			      <and>
+		            <equal>
+		              <clip pos="1" side="tl" part="gen"/>
+		              <lit-tag v="m"/>
+		            </equal>
+		            <equal>
+		              <clip pos="1" side="tl" part="defnes"/>
+		              <lit-tag v="dst"/>
+		            </equal>
+		            <equal>
+		              <clip pos="1" side="tl" part="nbr"/>
+		              <lit-tag v="sg"/>
+		            </equal>
+		          </and>
+		          </test>
+		          <let>
+		            <clip pos="1" side="tl" part="defnes"/>
+		            <lit-tag v="def.obj"/><!--		TODO: obj or subj?	-->
+		          </let>
+		        </when>
+		      </choose>
+
+
+
+
+	
+<!--шведски амбасади >> шведски посолства, fixes a tagging error, where the plural is wrongfully tagged as masculine singular in adjectives ending in -и -->	
+	<choose>
+	   <when>
+	     <test>
+	     <and>
+	       <equal>
+	         <clip pos="1" side="tl" part="nbr"/>
+	         <lit-tag v="sg"/>
+	       </equal>
+	       <equal>
+	         <clip pos="1" side="tl" part="gen"/>
+	         <lit-tag v="mfn"/>
+	       </equal>
+	     </and>
+	     </test>
+	     <let>
+	       <clip pos="1" side="tl" part="nbr"/>
+	       <lit-tag v="pl"/>  
+	     </let>
+	   </when>
 	 </choose>
-	
-	
-	<!--    close proba	-->
-	
-	
-	
 	
 	
 	    <out>
