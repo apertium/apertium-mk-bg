@@ -2,10 +2,12 @@
 
 <transfer>
   <section-def-cats>
-    <def-cat n="lp">
-      <cat-item tags="vblex.lp.aor.*"/>
-      <cat-item tags="vbhaver.lp.aor.*"/>
-      <cat-item tags="vbmod.lp.aor.*"/>
+    <def-cat n="lp_aor">
+      <cat-item tags="vblex.perf.tv.lp.aor.*"/>
+      <cat-item tags="vblex.imperf.tv.lp.aor.*"/>
+      <cat-item tags="vblex.perf.iv.lp.aor.*"/>
+      <cat-item tags="vblex.imperf.iv.lp.aor.*"/>
+<!--      <cat-item tags="vbhaver.*"/>     -->
     </def-cat>
 
     <def-cat n="pronom_pers">
@@ -59,16 +61,24 @@
     </def-cat>
    
    <def-cat n="pp">
-      <cat-item tags="vblex.pp.*"/>
+	      <cat-item tags="vblex.perf.tv.pp.*"/>
+	      <cat-item tags="vblex.imperf.tv.pp.*"/>
+	      <cat-item tags="vblex.perf.iv.pp.*"/>
+	      <cat-item tags="vblex.imperf.iv.pp.*"/>
+	<!--      <cat-item tags="vbhaver.*"/>     -->
     </def-cat>
 
    <def-cat n="vfin">
-      <cat-item tags="vblex.pres.*"/>
-      <cat-item tags="vblex.pii.*"/>
-      <cat-item tags="vblex.aor.*"/>
-      <cat-item tags="vblex.imp.*"/>
-    </def-cat>
+      <cat-item tags="vblex.*"/>
+   </def-cat>
    
+
+   <def-cat n="vfin_iv">
+      <cat-item tags="vblex.perf.iv.*"/>
+      <cat-item tags="vblex.imperf.iv.*"/>
+    </def-cat>
+
+
    <def-cat n="adj">
       <cat-item tags="adj.*"/>
     </def-cat>
@@ -87,10 +97,12 @@
     <def-attr n="temps">
       <attr-item tags="pres"/>
       <attr-item tags="pp"/>
-      <attr-item tags="dee"/>
+      <attr-item tags="pprs.adv"/>
       <attr-item tags="lp.aor"/>
-      <attr-item tags="lp"/>
+      <attr-item tags="lp.pii"/>
+      <attr-item tags="pii"/>
       <attr-item tags="aor"/>
+      <attr-item tags="imp"/>
     </def-attr>
   
     <def-attr n="gen">
@@ -834,23 +846,6 @@ output: def
 						        </when>
 						      </choose>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	        <out>
 	          <lu>
 	            <clip pos="1" side="tl" part="lemh"/>
@@ -931,48 +926,7 @@ output: def
 
 
 
-    <rule comment="RULE: Finite verb  → Finite verb: ( → )">
-      <pattern>
-        <pattern-item n="vfin"/>
-      </pattern>
-      <action>
-        <out>
-          <lu>
-            <clip pos="1" side="tl" part="lemh"/>
-            <clip pos="1" side="tl" part="a_verb"/>
-            <clip pos="1" side="tl" part="aspect"/>
-            <clip pos="1" side="tl" part="transitivity"/>
-            <clip pos="1" side="tl" part="temps"/>
-            <clip pos="1" side="tl" part="pers"/>
-            <clip pos="1" side="tl" part="nbr"/>
-            <clip pos="1" side="tl" part="lemq"/>
-          </lu>
-        </out>
-      </action>
-    </rule>
 
-
-    <rule comment="RULE: L-Participle → L-Participle : ( → )">
-      <pattern>
-        <pattern-item n="lp"/>
-      </pattern>
-      <action>
-        <out>
-          <lu>
-            <clip pos="1" side="tl" part="lemh"/>
-            <clip pos="1" side="tl" part="a_verb"/>
-            <clip pos="1" side="tl" part="aspect"/>
-            <clip pos="1" side="tl" part="transitivity"/>
-            <clip pos="1" side="tl" part="temps"/>
-            <clip pos="1" side="tl" part="gen"/>
-            <clip pos="1" side="tl" part="nbr"/>
-            <clip pos="1" side="tl" part="cas"/>
-            <lit-tag v="ind"/>
-            <clip pos="1" side="tl" part="lemq"/>
-          </lu>
-        </out>
-      </action>
-    </rule>
 
 
   <rule comment="RULE: Numeral → Numeral : ( → )">
@@ -1132,27 +1086,6 @@ output: def
     </action>
   </rule>
 
-    <rule comment="RULE: Past Participle → Past Participle : ( → )">
-      <pattern>
-        <pattern-item n="pp"/>
-      </pattern>
-      <action>
-        <out>
-          <lu>
-            <clip pos="1" side="tl" part="lemh"/>
-            <clip pos="1" side="tl" part="a_verb"/>
-            <clip pos="1" side="tl" part="aspect"/>
-            <clip pos="1" side="tl" part="transitivity"/>
-            <clip pos="1" side="tl" part="temps"/>
-            <clip pos="1" side="tl" part="gen"/>
-            <clip pos="1" side="tl" part="nbr"/>
-            <clip pos="1" side="tl" part="cas"/>
-            <lit-tag v="ind"/>
-            <clip pos="1" side="tl" part="lemq"/>
-          </lu>
-        </out>
-      </action>
-    </rule>
 
 
 
@@ -1480,7 +1413,7 @@ output: def
 		          </test>
 		          <let>
 		            <clip pos="1" side="tl" part="defnes"/>
-		            <lit-tag v="def.obj"/><!--		TODO: obj or subj?	-->
+		            <lit-tag v="def.obj"/>         <!--		TODO: obj or subj?	-->
 		          </let>
 		        </when>
 		      </choose>
@@ -1564,9 +1497,242 @@ output: def
 	  </action>
 	</rule>
 
+    <rule comment="RULE: Past passive participle -> past active participle (intransitive verbs). (pp -> lp.aor) ">
+      <pattern>
+        <pattern-item n="vfin_iv"/>
+      </pattern>
+      <action>
+	
+	     <choose>
+	        <when>
+	          <test>
+	            <equal>
+	              <clip pos="1" side="tl" part="temps"/>
+	              <lit-tag v="pp"/>
+	            </equal>
+	          </test>
+	          <let>
+	            <clip pos="1" side="tl" part="temps"/>
+	            <lit-tag v="lp.aor"/>
+	          </let>
+	        </when>
+	      </choose>
+
+	     <choose>
+	        <when>
+	          <test>
+		        <not><equal>
+	              <clip pos="1" side="tl" part="defnes"/>
+	              <lit-tag v="ind"/>
+	            </equal></not>
+	          </test>
+	          <let>
+	            <clip pos="1" side="tl" part="defnes"/>
+	            <lit-tag v="def"/>
+	          </let>
+	        </when>
+	      </choose>
+	
+	     <choose>
+	        <when>
+	          <test>
+		      <and>
+			<not><equal>
+	              <clip pos="1" side="tl" part="defnes"/>
+	              <lit-tag v="ind"/>
+	        </equal></not>
+	        <equal>
+              <clip pos="1" side="tl" part="gen"/>
+              <lit-tag v="m"/>
+            </equal>
+		      </and>
+	          </test>
+	          <let>
+	            <clip pos="1" side="tl" part="defnes"/>
+	            <lit-tag v="def.obj"/>
+	          </let>
+	        </when>
+	      </choose>
+
+		   <out>
+		  <lu>
+		    <clip pos="1" side="tl" part="lemh"/>
+		    <clip pos="1" side="tl" part="a_verb"/>
+		    <clip pos="1" side="tl" part="aspect"/>
+		    <clip pos="1" side="tl" part="transitivity"/>
+		    <clip pos="1" side="tl" part="temps"/>
+		    <clip pos="1" side="tl" part="pers"/>
+		    <clip pos="1" side="tl" part="gen"/>
+		    <clip pos="1" side="tl" part="nbr"/>
+		    <clip pos="1" side="tl" part="cas"/>
+		    <clip pos="1" side="tl" part="defnes"/>
+		    <clip pos="1" side="tl" part="lemq"/>
+		  </lu>
+		</out>
+
+		  </action>
+		</rule>
 
 
 
+
+
+
+
+
+
+
+
+
+<!--
+	    <rule comment="RULE: Past active participle -> past active participle . (lp.aor -> lp.aor) 
+						adding the defnes tag to Bulgarian">
+	      <pattern>
+	        <pattern-item n="vfin"/>
+	      </pattern>
+	      <action>
+
+		     <choose>
+		        <when>
+		          <test>
+		            <equal>
+		              <clip pos="1" side="tl" part="temps"/>
+		              <lit-tag v="lp.aor"/>
+		            </equal>
+		          </test>
+		          <let>
+		            <clip pos="1" side="tl" part="defnes"/>
+		            <lit-tag v="ind"/>
+		          </let>
+		        </when>
+		      </choose>
+
+
+			 <out>
+			  <lu>
+			    <clip pos="1" side="tl" part="lemh"/>
+			    <clip pos="1" side="tl" part="a_verb"/>
+			    <clip pos="1" side="tl" part="aspect"/>
+			    <clip pos="1" side="tl" part="transitivity"/>
+			    <clip pos="1" side="tl" part="temps"/>
+			    <clip pos="1" side="tl" part="pers"/>
+			    <clip pos="1" side="tl" part="gen"/>
+			    <clip pos="1" side="tl" part="nbr"/>
+			    <clip pos="1" side="tl" part="defnes"/>
+			    <clip pos="1" side="tl" part="lemq"/>
+			  </lu>
+			 </out>
+
+			  </action>
+		</rule>
+-->
+
+<!--		    <rule comment="RULE: Finite verb  → Finite verb: ( → )">
+		      <pattern>
+		        <pattern-item n="vfin"/>
+		      </pattern>
+		      <action>
+		        <out>
+		          <lu>
+		            <clip pos="1" side="tl" part="lemh"/>
+		            <clip pos="1" side="tl" part="a_verb"/>
+		            <clip pos="1" side="tl" part="aspect"/>
+		            <clip pos="1" side="tl" part="transitivity"/>
+		            <clip pos="1" side="tl" part="temps"/>
+		            <clip pos="1" side="tl" part="pers"/>
+		            <clip pos="1" side="tl" part="gen"/>
+		            <clip pos="1" side="tl" part="nbr"/>
+		            <clip pos="1" side="tl" part="defnes"/>
+		            <clip pos="1" side="tl" part="lemq"/>
+		          </lu>
+		        </out>
+		      </action>
+		    </rule>
+-->
+
+
+    <rule comment="RULE: L-Participle → L-Participle : ( → )">
+      <pattern>
+        <pattern-item n="lp_aor"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="aspect"/>
+            <clip pos="1" side="tl" part="transitivity"/>
+            <clip pos="1" side="tl" part="temps"/>
+            <clip pos="1" side="tl" part="gen"/>
+            <clip pos="1" side="tl" part="nbr"/>
+            <clip pos="1" side="tl" part="cas"/>
+            <lit-tag v="ind"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="RULE: Past Participle → Past Participle : ( → )">
+      <pattern>
+        <pattern-item n="pp"/>
+      </pattern>
+      <action>
+	
+	     <choose>
+	        <when>
+	          <test>
+		        <not><equal>
+	              <clip pos="1" side="tl" part="defnes"/>
+	              <lit-tag v="ind"/>
+	            </equal></not>
+	          </test>
+	          <let>
+	            <clip pos="1" side="tl" part="defnes"/>
+	            <lit-tag v="def"/>
+	          </let>
+	        </when>
+	      </choose>
+
+	     <choose>
+	        <when>
+	          <test>
+		      <and>
+			<not><equal>
+	              <clip pos="1" side="tl" part="defnes"/>
+	              <lit-tag v="ind"/>
+	        </equal></not>
+	        <equal>
+              <clip pos="1" side="tl" part="gen"/>
+              <lit-tag v="m"/>
+            </equal>
+		      </and>
+	          </test>
+	          <let>
+	            <clip pos="1" side="tl" part="defnes"/>
+	            <lit-tag v="def.obj"/>
+	          </let>
+	        </when>
+	      </choose>
+	
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="aspect"/>
+            <clip pos="1" side="tl" part="transitivity"/>
+            <clip pos="1" side="tl" part="temps"/>
+            <clip pos="1" side="tl" part="gen"/>
+            <clip pos="1" side="tl" part="nbr"/>
+            <clip pos="1" side="tl" part="cas"/>
+            <clip pos="1" side="tl" part="defnes"/>
+<!--            <lit-tag v="ind"/>   -->
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
 
 
 
