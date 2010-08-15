@@ -56,6 +56,8 @@
       <cat-item tags="vblex.imperf.tv.pprs.*"/>
       <cat-item tags="vblex.perf.iv.pprs.*"/>
       <cat-item tags="vblex.imperf.iv.pprs.*"/>    
+      <cat-item tags="vbmod.pprs.*"/>    
+      <cat-item tags="vbhaver.pprs.*"/>    
     </def-cat>
 
     <def-cat n="noun">
@@ -321,7 +323,7 @@
 
 
 <!-- TODO TODO TODO -->
-<!-- This is a dummy rule TODO TODO TODO -->
+																								<!-- This is a dummy rule TODO TODO TODO -->
     <rule comment="RULE: Present active participle → Деепричастие: ( → )">  
       <pattern>
         <pattern-item n="pprs"/>

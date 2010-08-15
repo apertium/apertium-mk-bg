@@ -7,7 +7,7 @@
       <cat-item tags="vblex.imperf.tv.lp.aor.*"/>
       <cat-item tags="vblex.perf.iv.lp.aor.*"/>
       <cat-item tags="vblex.imperf.iv.lp.aor.*"/>
-<!--      <cat-item tags="vbhaver.*"/>     -->
+      <cat-item tags="vbhaver.lp.aor.*"/> 
     </def-cat>
 
     <def-cat n="pronom_pers">

@@ -1,5 +1,5 @@
 
-sun 15 ágú 2010 22:03:28 GMT
+sun 15 ágú 2010 22:18:45 GMT
 ===============================================
 POS	Total	Clean	With @	With #	Clean %
 vblex	6120	 5933	 0	 187	 96.9
@@ -9,8 +9,8 @@ np	145	 145	 0	 0	 100
 num	93	 93	 0	 0	 100
 prn	30	 30	 0	 0	 100
 adv	25	 25	 0	 0	 100
-vbhaver	22	 20	 0	 2	 90.9
-vbmod	18	 16	 0	 2	 88.9
+vbhaver	22	 22	 0	 0	 100
+vbmod	18	 18	 0	 0	 100
 vbser	8	 8	 0	 0	 100
 cnjsub	2	 2	 0	 0	 100
 cnjcoo	1	 1	 0	 0	 100
