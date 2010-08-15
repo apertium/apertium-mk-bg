@@ -73,9 +73,9 @@
    </def-cat>
    
 
-   <def-cat n="vfin_iv">
-      <cat-item tags="vblex.perf.iv.*"/>
-      <cat-item tags="vblex.imperf.iv.*"/>
+   <def-cat n="vfin_iv_pp">
+      <cat-item tags="vblex.perf.iv.pp.*"/>
+      <cat-item tags="vblex.imperf.iv.pp.*"/>
     </def-cat>
 
 
@@ -1499,24 +1499,9 @@ output: def
 
     <rule comment="RULE: Past passive participle -> past active participle (intransitive verbs). (pp -> lp.aor) ">
       <pattern>
-        <pattern-item n="vfin_iv"/>
+        <pattern-item n="vfin_iv_pp"/>
       </pattern>
       <action>
-	
-	     <choose>
-	        <when>
-	          <test>
-	            <equal>
-	              <clip pos="1" side="tl" part="temps"/>
-	              <lit-tag v="pp"/>
-	            </equal>
-	          </test>
-	          <let>
-	            <clip pos="1" side="tl" part="temps"/>
-	            <lit-tag v="lp.aor"/>
-	          </let>
-	        </when>
-	      </choose>
 
 	     <choose>
 	        <when>
@@ -1560,7 +1545,8 @@ output: def
 		    <clip pos="1" side="tl" part="a_verb"/>
 		    <clip pos="1" side="tl" part="aspect"/>
 		    <clip pos="1" side="tl" part="transitivity"/>
-		    <clip pos="1" side="tl" part="temps"/>
+			<lit-tag v="lp.aor"/>
+<!--		    <clip pos="1" side="tl" part="temps"/>  -->
 		    <clip pos="1" side="tl" part="pers"/>
 		    <clip pos="1" side="tl" part="gen"/>
 		    <clip pos="1" side="tl" part="nbr"/>
@@ -1656,6 +1642,7 @@ output: def
         <pattern-item n="lp_aor"/>
       </pattern>
       <action>
+	
         <out>
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
@@ -1666,7 +1653,8 @@ output: def
             <clip pos="1" side="tl" part="gen"/>
             <clip pos="1" side="tl" part="nbr"/>
             <clip pos="1" side="tl" part="cas"/>
-            <lit-tag v="ind"/>
+<!--            <clip pos="1" side="tl" part="defnes"/>   -->
+            <lit-tag v="ind"/>   
             <clip pos="1" side="tl" part="lemq"/>
           </lu>
         </out>

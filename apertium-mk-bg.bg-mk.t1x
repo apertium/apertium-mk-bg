@@ -9,7 +9,10 @@
     </def-cat>
 
     <def-cat n="pprs_adv">
-      <cat-item tags="vblex.pprs.adv"/>
+	  <cat-item tags="vblex.perf.tv.pprs.adv"/>
+      <cat-item tags="vblex.imperf.tv.pprs.adv"/>
+      <cat-item tags="vblex.perf.iv.pprs.adv"/>
+      <cat-item tags="vblex.imperf.iv.pprs.adv"/>    
       <cat-item tags="vbhaver.pprs.adv"/>
       <cat-item tags="vbhaver.pprs.adv"/>
     </def-cat>
@@ -19,8 +22,24 @@
       <cat-item tags="vbhaver.pp.*"/>
     </def-cat>
 
-    <def-cat n="aor_lp">
-      <cat-item tags="vblex.lp.aor.*"/>
+    <def-cat n="lp_aor_ind">
+	  <cat-item tags="vblex.perf.tv.lp.aor.*.ind"/>
+      <cat-item tags="vblex.imperf.tv.lp.aor.*.ind"/>
+      <cat-item tags="vblex.perf.iv.alp.aor.*.ind"/>
+      <cat-item tags="vblex.imperf.iv.lp.aor.*.ind"/>
+      <cat-item tags="vbhaver.lp.aor.*"/>
+      <cat-item tags="vbmod.lp.aor.*"/>
+    </def-cat>
+
+    <def-cat n="lp_aor_def">
+	  <cat-item tags="vblex.perf.tv.lp.aor.*.def.*"/>
+      <cat-item tags="vblex.imperf.tv.lp.aor.*.def.*"/>
+      <cat-item tags="vblex.perf.iv.lp.aor.*.def.*"/>
+      <cat-item tags="vblex.imperf.iv.lp.aor.*.def.*"/>
+	  <cat-item tags="vblex.perf.tv.lp.aor.*.def"/>
+      <cat-item tags="vblex.imperf.tv.lp.aor.*.def"/>
+      <cat-item tags="vblex.perf.iv.lp.aor.*.def"/>
+      <cat-item tags="vblex.imperf.iv.lp.aor.*.def"/>
       <cat-item tags="vbhaver.lp.aor.*"/>
       <cat-item tags="vbmod.lp.aor.*"/>
     </def-cat>
@@ -30,6 +49,13 @@
       <cat-item tags="vblex.pii.*"/>
       <cat-item tags="vblex.aor.*"/>
       <cat-item tags="vblex.imp.*"/>
+    </def-cat>
+
+    <def-cat n="pprs">
+      <cat-item tags="vblex.perf.tv.pprs.*"/>
+      <cat-item tags="vblex.imperf.tv.pprs.*"/>
+      <cat-item tags="vblex.perf.iv.pprs.*"/>
+      <cat-item tags="vblex.imperf.iv.pprs.*"/>    
     </def-cat>
 
     <def-cat n="noun">
@@ -275,7 +301,7 @@
       </action>
     </rule>
 
-    <rule comment="RULE: Present active participle → Present active participle: ( → )">
+    <rule comment="RULE: Деепричастие → Деепричастие: ( → )">
       <pattern>
         <pattern-item n="pprs_adv"/>
       </pattern>
@@ -287,6 +313,27 @@
             <clip pos="1" side="tl" part="aspect"/>
             <clip pos="1" side="tl" part="transitivity"/>
             <clip pos="1" side="tl" part="temps"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+
+<!-- TODO TODO TODO -->
+<!-- This is a dummy rule TODO TODO TODO -->
+    <rule comment="RULE: Present active participle → Деепричастие: ( → )">  
+      <pattern>
+        <pattern-item n="pprs"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="aspect"/>
+            <clip pos="1" side="tl" part="transitivity"/>
+			<lit-tag v="pprs.adv"/> 
             <clip pos="1" side="tl" part="lemq"/>
           </lu>
         </out>
@@ -314,9 +361,9 @@
       </action>
     </rule>
 
-    <rule comment="RULE: LP aor → LP aor: ( → )">
+    <rule comment="RULE: LP aor (indefinite) → LP aor: ( → )">
       <pattern>
-        <pattern-item n="aor_lp"/>
+        <pattern-item n="lp_aor_ind"/>
       </pattern>
       <action>
         <out>
@@ -328,6 +375,28 @@
             <clip pos="1" side="tl" part="temps"/>
             <clip pos="1" side="tl" part="gen"/>
             <clip pos="1" side="tl" part="nbr"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="RULE: LP aor (definite) → PP ( → )">
+      <pattern>
+        <pattern-item n="lp_aor_def"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="aspect"/>
+            <clip pos="1" side="tl" part="transitivity"/>
+			<lit-tag v="pp"/> 
+            <clip pos="1" side="tl" part="gen"/>
+            <clip pos="1" side="tl" part="nbr"/>
+			<lit-tag v="def"/> 
             <clip pos="1" side="tl" part="lemq"/>
           </lu>
         </out>
@@ -491,7 +560,7 @@
       </action>
     </rule>
 
-    <rule comment="RULE: Adjective → Adjective : (тежкион → тежкият)">
+    <rule comment="RULE: Adjective → Adjective : (тежкия/тежкият → тешкиот)">
       <pattern>
         <pattern-item n="adj"/>
       </pattern>
@@ -516,6 +585,7 @@
             </let>
           </when>
         </choose>
+
         <out>
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
