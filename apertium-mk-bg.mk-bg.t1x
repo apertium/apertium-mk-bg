@@ -85,6 +85,10 @@
       <cat-item tags="vblex.imperf.tv.pii.*"/>
       <cat-item tags="vblex.perf.iv.pii.*"/>
       <cat-item tags="vblex.imperf.iv.pii.*"/>
+	  <cat-item tags="vblex.perf.tv.lp.pii.*"/>
+      <cat-item tags="vblex.imperf.tv.lp.pii.*"/>
+      <cat-item tags="vblex.perf.iv.lp.pii.*"/>
+      <cat-item tags="vblex.imperf.iv.lp.pii.*"/>
 	  <cat-item tags="vblex.perf.tv.aor.*"/>
       <cat-item tags="vblex.imperf.tv.aor.*"/>
       <cat-item tags="vblex.perf.iv.aor.*"/>
