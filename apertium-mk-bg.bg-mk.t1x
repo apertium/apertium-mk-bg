@@ -28,7 +28,7 @@
     <def-cat n="lp_aor_ind">
 	  <cat-item tags="vblex.perf.tv.lp.aor.*.ind"/>
       <cat-item tags="vblex.imperf.tv.lp.aor.*.ind"/>
-      <cat-item tags="vblex.perf.iv.alp.aor.*.ind"/>
+      <cat-item tags="vblex.perf.iv.lp.aor.*.ind"/>
       <cat-item tags="vblex.imperf.iv.lp.aor.*.ind"/>
       <cat-item tags="vbhaver.lp.aor.*"/>
       <cat-item tags="vbmod.lp.aor.*"/>
