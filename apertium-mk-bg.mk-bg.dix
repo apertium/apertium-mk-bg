@@ -3999,8 +3999,8 @@
 <e><p><l>однесе<s n="vblex"/></l><r>отнесе<s n="vblex"/></r></p></e> 
 <e><p><l>одобри<s n="vblex"/></l><r>одобри<s n="vblex"/></r></p></e> 
 <e><p><l>одобрува<s n="vblex"/></l><r>одобрява<s n="vblex"/></r></p></e>
-<e r="LR" c="v2"><p><l>одржи<g><b/>се</g><s n="vblex"/></l><r>състои<g><b/>се</g><s n="vblex"/></r></p></e> 
-<e r="LR" c="v1"><p><l>одржува<g><b/>се</g><s n="vblex"/></l><r>състои<g><b/>се</g><s n="vblex"/></r></p></e>
+<e r="LR" c="v2"><p><l>одржи<g><b/>се</g><s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>състои<g><b/>се</g><s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e> 
+<e r="LR" c="v1"><p><l>одржува<g><b/>се</g><s n="vblex"/><s n="imperf"/><s n="tv"/></l><r>състои<g><b/>се</g><s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
 <e c="v0"><p><l>состои<g><b/>се</g><s n="vblex"/></l><r>състои<g><b/>се</g><s n="vblex"/></r></p></e>
 <e><p><l>олеснува<s n="vblex"/></l><r>улеснява<s n="vblex"/></r></p></e>
 <e><p><l>олесни<s n="vblex"/></l><r>улесни<s n="vblex"/></r></p></e> 
@@ -4248,7 +4248,7 @@
 <e r="LR" c="v1"><p><l>состанува<s n="vblex"/></l><r>среща<s n="vblex"/></r></p></e>
 <e c="v0"><p><l>сретнува<s n="vblex"/></l><r>среща<s n="vblex"/></r></p></e>
 <e><p><l>сочинува<s n="vblex"/></l><r>съставлява<s n="vblex"/></r></p></e>
-<e><p><l>справи<g><b/>се</g><s n="vblex"/></l><r>справи<g><b/>се</g><s n="vblex"/></r></p></e>
+<e><p><l>справи<g><b/>се</g><s n="vblex"/><s n="perf"/><s n="tv"/></l><r>справи<g><b/>се</g><s n="vblex"/><s n="perf"/><s n="iv"/></r></p></e>
 <e><p><l>справува<s n="vblex"/></l><r>справя<s n="vblex"/></r></p></e>
 <e><p><l>спречи<s n="vblex"/></l><r>предотврати<s n="vblex"/></r></p></e> 
 <e><p><l>спречува<s n="vblex"/></l><r>предотвратява<s n="vblex"/></r></p></e> 
