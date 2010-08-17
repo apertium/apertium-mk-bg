@@ -884,6 +884,8 @@
 	  <e>        <p>          <l>ла</l>       <r><s n="vbmod"/><s n="lp"/><s n="aor"/><s n="f"/><s n="sg"/></r></p></e>
 	  <e>        <p>          <l>ло</l>          <r><s n="vbmod"/><s n="lp"/><s n="aor"/><s n="nt"/><s n="sg"/></r></p></e>
 	  <e>        <p>          <l>ли</l>       <r><s n="vbmod"/><s n="lp"/><s n="aor"/><s n="mfn"/><s n="pl"/></r></p></e>
+	
+	  <e>        <p>          <l>йки</l>         <r><s n="vbmod"/><s n="pprs"/><s n="adv"/></r></p></e>
 	</pardef>
 
 
