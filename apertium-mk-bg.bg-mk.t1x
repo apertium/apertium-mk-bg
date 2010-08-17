@@ -48,10 +48,22 @@
     </def-cat>
 
     <def-cat n="vfin">
-      <cat-item tags="vblex.*.imp.*"/>
-      <cat-item tags="vblex.*.pii.*"/>
-      <cat-item tags="vblex.*.pres.*"/>
-      <cat-item tags="vblex.*.aor.*"/>
+	  <cat-item tags="vblex.perf.tv.imp.*"/>
+      <cat-item tags="vblex.imperf.tv.imp.*"/>
+      <cat-item tags="vblex.perf.iv.imp.*"/>
+      <cat-item tags="vblex.imperf.iv.imp.*"/>
+	  <cat-item tags="vblex.perf.tv.pres.*"/>
+      <cat-item tags="vblex.imperf.tv.pres.*"/>
+      <cat-item tags="vblex.perf.iv.pres.*"/>
+      <cat-item tags="vblex.imperf.iv.pres.*"/>
+	  <cat-item tags="vblex.perf.tv.pii.*"/>
+      <cat-item tags="vblex.imperf.tv.pii.*"/>
+      <cat-item tags="vblex.perf.iv.pii.*"/>
+      <cat-item tags="vblex.imperf.iv.pii.*"/>
+	  <cat-item tags="vblex.perf.tv.aor.*"/>
+      <cat-item tags="vblex.imperf.tv.aor.*"/>
+      <cat-item tags="vblex.perf.iv.aor.*"/>
+      <cat-item tags="vblex.imperf.iv.aor.*"/>
     </def-cat>
 
     <def-cat n="pprs">
