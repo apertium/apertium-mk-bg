@@ -152,6 +152,7 @@
 
     <def-attr n="temps">
       <attr-item tags="lp.aor"/>
+      <attr-item tags="lp.pii"/>
       <attr-item tags="aor"/>
       <attr-item tags="pp"/>
       <attr-item tags="pres"/>
