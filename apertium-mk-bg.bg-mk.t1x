@@ -17,6 +17,15 @@
       <cat-item tags="vbhaver.pprs.adv"/>
     </def-cat>
     
+    <def-cat n="lp_pii">
+      <cat-item tags="vblex.perf.tv.lp.pii.*"/>
+      <cat-item tags="vblex.imperf.tv.lp.pii.*"/>
+      <cat-item tags="vblex.perf.iv.lp.pii.*"/>
+      <cat-item tags="vblex.imperf.iv.lp.pii.*"/>
+      <cat-item tags="vbhaver.lp.pii.*"/> 
+    </def-cat>
+
+
     <def-cat n="pp">
 	  <cat-item tags="vblex.perf.tv.pp.*"/>
       <cat-item tags="vblex.imperf.tv.pp.*"/>
@@ -35,14 +44,14 @@
     </def-cat>
 
     <def-cat n="lp_aor_def">
-	  <cat-item tags="vblex.perf.tv.lp.aor.*.def.*"/>
-      <cat-item tags="vblex.imperf.tv.lp.aor.*.def.*"/>
-      <cat-item tags="vblex.perf.iv.lp.aor.*.def.*"/>
-      <cat-item tags="vblex.imperf.iv.lp.aor.*.def.*"/>
-	  <cat-item tags="vblex.perf.tv.lp.aor.*.def"/>
-      <cat-item tags="vblex.imperf.tv.lp.aor.*.def"/>
-      <cat-item tags="vblex.perf.iv.lp.aor.*.def"/>
-      <cat-item tags="vblex.imperf.iv.lp.aor.*.def"/>
+	  <cat-item tags="vblex.perf.tv.lp.aor.*.*.def.*.*"/>
+      <cat-item tags="vblex.imperf.tv.lp.aor.*.*.def.*.*"/>
+      <cat-item tags="vblex.perf.iv.lp.aor.*.*.def.*.*"/>
+      <cat-item tags="vblex.imperf.iv.lp.aor.*.*.def.*.*"/>
+	  <cat-item tags="vblex.perf.tv.lp.aor.*.*.def"/>
+      <cat-item tags="vblex.imperf.tv.lp.aor.*.*.def"/>
+      <cat-item tags="vblex.perf.iv.lp.aor.*.*.def"/>
+      <cat-item tags="vblex.imperf.iv.lp.aor.*.*.def"/>
       <cat-item tags="vbhaver.lp.aor.*"/>
       <cat-item tags="vbmod.lp.aor.*"/>
     </def-cat>
@@ -60,10 +69,6 @@
       <cat-item tags="vblex.imperf.tv.pii.*"/>
       <cat-item tags="vblex.perf.iv.pii.*"/>
       <cat-item tags="vblex.imperf.iv.pii.*"/>
-	  <cat-item tags="vblex.perf.tv.lp.pii.*"/>
-      <cat-item tags="vblex.imperf.tv.lp.pii.*"/>
-      <cat-item tags="vblex.perf.iv.lp.pii.*"/>
-      <cat-item tags="vblex.imperf.iv.lp.pii.*"/>
 	  <cat-item tags="vblex.perf.tv.aor.*"/>
       <cat-item tags="vblex.imperf.tv.aor.*"/>
       <cat-item tags="vblex.perf.iv.aor.*"/>
@@ -151,6 +156,7 @@
     </def-attr>
 
     <def-attr n="temps">
+      <attr-item tags="lp.pii"/>
       <attr-item tags="lp.aor"/>
       <attr-item tags="lp.pii"/>
       <attr-item tags="aor"/>
@@ -209,6 +215,7 @@
  
   <section-def-vars>
     <def-var n="number"/>
+    <def-var n="pprs_periphrasis"/>
   </section-def-vars>  
 
   <section-def-macros>
@@ -346,6 +353,7 @@
 
 <!-- TODO TODO TODO -->
 																								<!-- This is a dummy rule TODO TODO TODO -->
+
     <rule comment="RULE: Present active participle → Деепричастие: ( → )">  
       <pattern>
         <pattern-item n="pprs"/>
@@ -363,6 +371,54 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="RULE: Present active participle → Деепричастие: ( → )">  
+      <pattern>
+        <pattern-item n="pprs"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <!-- Here we build up a periphrastic expression of the present participle 
+             It is formed from: ',' + relative pronoun + verb in third person, present tense.
+             -->
+        <let>
+          <var n="pprs_periphrasis"/> 
+          <concat>
+            <lit v="^,"/><lit-tag v="cm"/><lit v="$ ^"/>
+            <lit v="којшто"/><lit-tag v="prn.rel"/>
+            <clip pos="1" side="tl" part="gen"/>
+            <clip pos="1" side="tl" part="nbr"/><lit-tag v="nom"/>
+            <lit v="$ ^"/>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="aspect"/>
+            <clip pos="1" side="tl" part="transitivity"/>
+            <lit-tag v="pres.p3"/>
+            <clip pos="2" side="tl" part="nbr"/>
+            <clip pos="1" side="tl" part="lemq"/>
+            <lit v="$"/>
+          </concat>
+        </let>
+        <out>
+          <lu>
+            <clip pos="2" side="tl" part="lemh"/>
+            <clip pos="2" side="tl" part="a_nom"/>
+          	<clip pos="2" side="tl" part="gen"/>
+          	<clip pos="2" side="tl" part="nbr"/>
+          	<clip pos="2" side="tl" part="cas"/>
+          	<clip pos="2" side="tl" part="defnes"/>
+            <clip pos="2" side="tl" part="lemq"/>
+
+          </lu>
+          <var n="pprs_periphrasis"/>
+        </out>
+        <let>
+          <var n="pprs_periphrasis"/>
+          <lit v=""/>
+        </let>
+      </action>
+    </rule>
+
 
    
     <rule comment="RULE: PP → PP: ( → )">
@@ -408,6 +464,28 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="RULE: L-Participle → L-Participle : ( → )">
+      <pattern>
+        <pattern-item n="lp_pii"/>
+      </pattern>
+      <action>
+	
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="aspect"/>
+            <clip pos="1" side="tl" part="transitivity"/>
+            <clip pos="1" side="tl" part="temps"/>
+            <clip pos="1" side="tl" part="gen"/>
+            <clip pos="1" side="tl" part="nbr"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="RULE: LP aor (indefinite) → LP aor: ( → )">
       <pattern>

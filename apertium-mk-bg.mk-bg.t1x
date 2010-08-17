@@ -8,6 +8,15 @@
       <cat-item tags="vblex.*"/>
     </def-cat>
 -->
+
+    <def-cat n="lp_pii">
+      <cat-item tags="vblex.perf.tv.lp.pii.*"/>
+      <cat-item tags="vblex.imperf.tv.lp.pii.*"/>
+      <cat-item tags="vblex.perf.iv.lp.pii.*"/>
+      <cat-item tags="vblex.imperf.iv.lp.pii.*"/>
+      <cat-item tags="vbhaver.lp.pii.*"/> 
+    </def-cat>
+
     <def-cat n="lp_aor">
       <cat-item tags="vblex.perf.tv.lp.aor.*"/>
       <cat-item tags="vblex.imperf.tv.lp.aor.*"/>
@@ -50,6 +59,11 @@
       <cat-item tags="prn.rel.*"/>
       <cat-item tags="prn.neg.*"/>
       <cat-item tags="prn.ref.*"/>
+    </def-cat>
+
+    <def-cat n="pprs_adv">
+      <cat-item tags="vblex.*.*.pprs.adv"/>
+      <cat-item tags="vblex.*.*.pprs.adv.*"/>
     </def-cat>
 
     <def-cat n="noun">
@@ -1658,6 +1672,49 @@ output: def
 		      </action>
 		    </rule>
 
+
+
+    <rule comment="RULE: Adverbial present participle → Adverbial present participle : ( → )">
+      <pattern>
+        <pattern-item n="pprs_adv"/>
+      </pattern>
+      <action>
+	
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="aspect"/>
+            <clip pos="1" side="tl" part="transitivity"/>
+            <clip pos="1" side="tl" part="temps"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+
+
+    <rule comment="RULE: L-Participle → L-Participle : ( → )">
+      <pattern>
+        <pattern-item n="lp_pii"/>
+      </pattern>
+      <action>
+	
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="aspect"/>
+            <clip pos="1" side="tl" part="transitivity"/>
+            <clip pos="1" side="tl" part="temps"/>
+            <clip pos="1" side="tl" part="gen"/>
+            <clip pos="1" side="tl" part="nbr"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
 
 
     <rule comment="RULE: L-Participle → L-Participle : ( → )">

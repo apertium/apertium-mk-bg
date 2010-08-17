@@ -4001,6 +4001,7 @@
 <e><p><l>одобрува<s n="vblex"/></l><r>одобрява<s n="vblex"/></r></p></e>
 <e r="LR" c="v2"><p><l>одржи<g><b/>се</g><s n="vblex"/></l><r>състои<g><b/>се</g><s n="vblex"/></r></p></e> 
 <e r="LR" c="v1"><p><l>одржува<g><b/>се</g><s n="vblex"/></l><r>състои<g><b/>се</g><s n="vblex"/></r></p></e>
+<e r="LR" c="v1"><p><l>одржува<g><b/>се</g><s n="vblex"/><s n="imperf"/><s n="iv"/></l><r>състои<g><b/>се</g><s n="vblex"/><s n="imperf"/><s n="iv"/></r></p></e>
 <e c="v0"><p><l>состои<g><b/>се</g><s n="vblex"/></l><r>състои<g><b/>се</g><s n="vblex"/></r></p></e>
 <e><p><l>олеснува<s n="vblex"/></l><r>улеснява<s n="vblex"/></r></p></e>
 <e><p><l>олесни<s n="vblex"/></l><r>улесни<s n="vblex"/></r></p></e> 
