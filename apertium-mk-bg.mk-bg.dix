@@ -141,7 +141,7 @@
 <e r="LR" c="v1"><p><l>колкав<s n="prn"/><s n="itg"/></l><r>какъв<s n="prn"/><s n="itg"/></r></p></e> <!--колко голям-->
 
 <e c="v0"><p><l>што<s n="prn"/><s n="itg"/></l><r>какво<s n="prn"/><s n="itg"/></r></p></e> <!--несклоняемо-->
-<e r="RL" c="v1"><p><l>што<s n="prn"/><s n="itg"/></l><r>що<s n="prn"/><s n="itg"/></r></p></e>с
+<e r="RL" c="v1"><p><l>што<s n="prn"/><s n="itg"/></l><r>що<s n="prn"/><s n="itg"/></r></p></e>
 
 <e c="v0"><p><l>зошто<s n="prn"/><s n="itg"/></l><r>защо<s n="prn"/><s n="itg"/></r></p></e><!--несклоняемо-->
 <e r="LR" c="v1"><p><l>поради<b/>што<s n="prn"/><s n="itg"/></l><r>защо<s n="prn"/><s n="itg"/></r></p></e><!--несклоняемо-->
