@@ -89,7 +89,6 @@
     <sdef n="imp"/>
     <sdef n="pp" 		c="Past (passive) participle, минало страдателно причастие, горен"	/>
     <sdef n="lp"      c="L-participle, aka past active participle минало деятелно причастие, горял, горил"/>
-    <sdef n="pprs"     c="Adverbial participle, деепричастие, горейки"/>
     <sdef n="pprs"     c="Present active participle, горящ"/>
 	<sdef n="tv"       c="Transitive"/>
 	<sdef n="iv"      c="Intansitive"/>

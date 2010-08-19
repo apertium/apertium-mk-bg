@@ -109,7 +109,6 @@
     <sdef n="acr"     c="Acronym"/>
     <sdef n="ant"     c="Antroponym"/>
     <sdef n="top"     c="Toponym"/>
-    <sdef n="al"      c="altres"/>
     <sdef n="cog"     c="Surnames"/>
 
     <sdef n="al"      c="Other / Otros"/>
@@ -137,7 +136,6 @@
     <sdef n="lquest"  c="Left question-mark"/>
     <sdef n="web"/>
     <sdef n="subs"/>
-    <sdef n="pprs"/>    
     <sdef n="guio"    c="Hyphen"/> 
     <sdef n="vbdo"/>
     <sdef n="unc"/>
@@ -146,7 +144,7 @@
     <sdef n="apos"    c="Apostrophe"/>
 
   </sdefs>
-
+  <pardefs>
 
 
   <!-- Глаголи -->
@@ -4175,7 +4173,6 @@
 <!-- END VERBS-->
 
 
-  <pardefs>
 
   <!-- punctuation -->
     <pardef n="guionet">

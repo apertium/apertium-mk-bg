@@ -1,7 +1,11 @@
 * text=auto !eol
 /ACKNOWLEDGEMENTS -text
 /AUTHORS -text
+/COPYING -text
+/ChangeLog -text
 /Makefile -text
+/Makefile.am -text
+/NEWS -text
 /apertium-mk-bg.bg-mk.t1x -text
 /apertium-mk-bg.bg.acx -text
 /apertium-mk-bg.bg.dix -text
@@ -13,6 +17,7 @@
 /apertium-mk-bg.post-bg.dix -text
 /apertium-mk-bg.post-mk.dix -text
 /bg-mk.prob -text
+/configure.ac -text
 dev/apertium-to-visl.py -text
 dev/bg-full.dix -text
 dev/eval/eval.bg-mk.2010-08-07 -text svneol=unset#application/octet-stream
