@@ -1486,7 +1486,7 @@ output: def
 
 	
 <!--шведски амбасади >> шведски посолства, fixes a tagging error, where the plural is wrongfully tagged as masculine singular in adjectives ending in -и -->	
-	<choose>
+<!--	<choose>
 	   <when>
 	     <test>
 	     <and>
@@ -1506,7 +1506,7 @@ output: def
 	     </let>
 	   </when>
 	 </choose>
-	
+-->	
 	
 	    <out>
           <lu>
