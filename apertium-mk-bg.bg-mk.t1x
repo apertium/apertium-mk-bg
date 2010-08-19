@@ -8,6 +8,16 @@
       <cat-item tags="prn.rel.*"/>
     </def-cat>
 
+    <def-cat n="copula_fin">
+      <cat-item tags="vbser.pres.*"/>
+      <cat-item tags="vbser.pii.*"/>
+    </def-cat>
+
+    <def-cat n="copula_lp">
+      <cat-item tags="vbser.lp.pii.*"/>
+    </def-cat>
+
+
     <def-cat n="pprs_adv">
 	  <cat-item tags="vblex.perf.tv.pprs.adv"/>
       <cat-item tags="vblex.imperf.tv.pprs.adv"/>
@@ -418,6 +428,71 @@
         </let>
       </action>
     </rule>
+
+
+
+
+    <rule comment="RULE: Present active participle → Деепричастие: ( → )">  
+      <pattern>
+        <pattern-item n="pprs"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <clip pos="1" side="tl" part="aspect"/>
+            <clip pos="1" side="tl" part="transitivity"/>
+			<lit-tag v="pprs.adv"/> 
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="RULE: Copula (finite) + Present active participle → Present tense: ( → )">  
+      <pattern>
+        <pattern-item n="copula_fin"/>
+        <pattern-item n="pprs"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="2" side="tl" part="lemh"/>
+            <clip pos="2" side="tl" part="a_verb"/>
+          	<clip pos="2" side="tl" part="aspect"/>
+          	<clip pos="2" side="tl" part="transitivity"/>
+          	<clip pos="1" side="tl" part="temps"/>
+          	<clip pos="1" side="tl" part="pers"/>
+            <clip pos="1" side="tl" part="nbr"/>
+            <clip pos="2" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="RULE: Copula (participle) + Present active participle → lp.pii: ( → )">  
+      <pattern>
+        <pattern-item n="copula_lp"/>
+        <pattern-item n="pprs"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="2" side="tl" part="lemh"/>
+            <clip pos="2" side="tl" part="a_verb"/>
+          	<clip pos="2" side="tl" part="aspect"/>
+          	<clip pos="2" side="tl" part="transitivity"/>
+          	<clip pos="1" side="tl" part="temps"/>
+          	<clip pos="1" side="tl" part="gen"/>
+            <clip pos="1" side="tl" part="nbr"/>
+            <clip pos="2" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
 
 
    
