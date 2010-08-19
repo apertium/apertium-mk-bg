@@ -1,4 +1,5 @@
 * text=auto !eol
+/ACKNOWLEDGEMENTS -text
 /AUTHORS -text
 /Makefile -text
 /apertium-mk-bg.bg-mk.t1x -text
