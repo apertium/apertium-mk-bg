@@ -3,7 +3,6 @@
 /AUTHORS -text
 /COPYING -text
 /ChangeLog -text
-/Makefile -text
 /Makefile.am -text
 /NEWS -text
 /apertium-mk-bg.bg-mk.t1x -text

@@ -5648,7 +5648,7 @@
 	<pardef n="Радин/а__np">
 	  <e>        <p>          <l>а</l>          <r>а<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
 	  <e>        <p>          <l>о</l>          <r>а<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
-	</pardef>a
+	</pardef>
 
 	<pardef n="Цец/а__np">
 	  <e>        <p>          <l>а</l>          <r>а<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>

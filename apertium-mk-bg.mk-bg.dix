@@ -60,7 +60,6 @@
 <sdef n="ind"      c="Indefinite"/>
 <sdef n="tot"      c="Totalising"/>
 <sdef n="clt"       c="Clitic"/>
-<sdef n="ref"       c="Reflexive"/>
      
 
 <!--punctuation-->
