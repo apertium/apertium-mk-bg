@@ -15,6 +15,7 @@
 /apertium-mk-bg.mk.dix -text
 /apertium-mk-bg.post-bg.dix -text
 /apertium-mk-bg.post-mk.dix -text
+/autogen.sh -text
 /bg-mk.prob -text
 /configure.ac -text
 dev/apertium-to-visl.py -text
