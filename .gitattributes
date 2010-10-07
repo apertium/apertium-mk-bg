@@ -38,4 +38,5 @@ dev/testvoc.sh -text
 /modes.xml -text
 /pending-tests.sh -text
 /regression-tests.sh -text
+/test.dix -text
 /wiki-tests.sh -text
