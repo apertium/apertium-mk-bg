@@ -30,6 +30,7 @@ dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
 dev/interwiki.bg-mk -text
 dev/mk-full.dix -text
+dev/numeral_expressions.freq.txt -text
 dev/testvoc-summary.bg-mk.txt -text
 dev/testvoc-summary.mk-bg.txt -text
 dev/testvoc.sh -text
