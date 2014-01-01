@@ -31,6 +31,7 @@ dev/eval/wikipedia.2010-12-21.mk-bg.GOOGLE.eval -text svneol=unset#application/o
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
 dev/interwiki.bg-mk -text
+dev/mk-bg.nouns.xml -text
 dev/mk-full.dix -text
 dev/numeral_expressions.freq.txt -text
 dev/testvoc-summary.bg-mk.txt -text
