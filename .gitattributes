@@ -32,6 +32,7 @@ dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
 dev/interwiki.bg-mk -text
 dev/mk-bg.nouns.xml -text
+dev/mk-bg.toponims.txt -text
 dev/mk-full.dix -text
 dev/numeral_expressions.freq.txt -text
 dev/testvoc-summary.bg-mk.txt -text
