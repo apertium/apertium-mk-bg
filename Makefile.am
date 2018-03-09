@@ -1,6 +1,6 @@
 VERSION=0.2.0
-LANG1=mk
-LANG2=bg
+LANG1=mkd
+LANG2=bul
 PREFIX1=$(LANG1)-$(LANG2)
 PREFIX2=$(LANG2)-$(LANG1)
 
@@ -78,9 +78,9 @@ clean-dicts:
 	touch $(BASENAME).$(LANG1).dix $(BASENAME).$(LANG2).dix $(BASENAME).$(PREFIX1).dix
 	rm $(BASENAME).$(LANG1).dix
 
-apertium_mk_bgmodesdir=$(prefix)/share/apertium/modes/
-apertium_mk_bgdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_mk_bg_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
+apertium_mkd_bulmodesdir=$(prefix)/share/apertium/modes/
+apertium_mkd_buldir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
+apertium_mkd_bul_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
                     $(PREFIX1).autobil.bin $(PREFIX2).autobil.bin \
                     $(PREFIX1).autogen.bin \
                     $(PREFIX2).autogen.bin \
@@ -98,9 +98,9 @@ apertium_mk_bg_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
 
 install-data-local:
 	$(prefix)/bin/apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	test -d $(DESTDIR)$(apertium_mk_bgmodesdir) || mkdir $(DESTDIR)$(apertium_mk_bgmodesdir)
-	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_mk_bgmodesdir)
-	$(INSTALL_DATA) $(PREFIX2).mode $(DESTDIR)$(apertium_mk_bgmodesdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX2).t1x $(DESTDIR)$(apertium_mk_bgdir)
+	test -d $(DESTDIR)$(apertium_mkd_bulmodesdir) || mkdir $(DESTDIR)$(apertium_mkd_bulmodesdir)
+	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_mkd_bulmodesdir)
+	$(INSTALL_DATA) $(PREFIX2).mode $(DESTDIR)$(apertium_mkd_bulmodesdir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX2).t1x $(DESTDIR)$(apertium_mkd_buldir)
 
 CLEANFILES = -r $(TARGETS_COMMON) 
