@@ -1,4 +1,3 @@
-VERSION=0.2.0
 LANG1=mkd
 LANG2=bul
 PREFIX1=$(LANG1)-$(LANG2)
@@ -10,7 +9,9 @@ TARGETS_COMMON = $(PREFIX1).autopgen.bin $(PREFIX2).autopgen.bin \
 	$(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin \
 	$(PREFIX2).automorf.bin $(PREFIX2).autobil.bin $(PREFIX2).autogen.bin \
 	$(PREFIX1).t1x.bin $(PREFIX1).rlx.bin $(PREFIX2).rlx.bin \
-	$(PREFIX2).t1x.bin $(PREFIX1).mode modes 
+	$(PREFIX2).t1x.bin
+
+@ap_include@
 
 $(PREFIX2).autogen.bin: $(BASENAME).$(LANG1).dix
 	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
@@ -66,19 +67,10 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
            $(BASENAME).$(PREFIX2).t1x \
            modes.xml
 
-$(PREFIX1).mode: modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
-
-$(PREFIX2).mode: modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
-
 clean-dicts:
 	touch $(BASENAME).$(LANG1).dix $(BASENAME).$(LANG2).dix $(BASENAME).$(PREFIX1).dix
 	rm $(BASENAME).$(LANG1).dix
 
-apertium_mkd_bulmodesdir=$(prefix)/share/apertium/modes/
 apertium_mkd_buldir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
 apertium_mkd_bul_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
                     $(PREFIX1).autobil.bin $(PREFIX2).autobil.bin \
@@ -92,15 +84,9 @@ apertium_mkd_bul_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
 		    $(BASENAME).$(PREFIX1).t1x \
 		    $(BASENAME).$(PREFIX2).t1x \
 		    $(PREFIX2).autopgen.bin \
-		    $(PREFIX1).autopgen.bin \
-		    $(PREFIX1).mode \
-		    $(PREFIX2).mode
+		    $(PREFIX1).autopgen.bin
 
-install-data-local:
-	$(prefix)/bin/apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	test -d $(DESTDIR)$(apertium_mkd_bulmodesdir) || mkdir $(DESTDIR)$(apertium_mkd_bulmodesdir)
-	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_mkd_bulmodesdir)
-	$(INSTALL_DATA) $(PREFIX2).mode $(DESTDIR)$(apertium_mkd_bulmodesdir)
+install-data-local: install-modes
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX2).t1x $(DESTDIR)$(apertium_mkd_buldir)
 
 CLEANFILES = -r $(TARGETS_COMMON) 
