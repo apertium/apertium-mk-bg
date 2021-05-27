@@ -24,8 +24,8 @@ cleansrc () {
 cleantrg () {
     grep "<li> ($SRCLANG)" | $SED 's/<.*li>//g' | $SED 's/ /_/g' | $SED 's/(\w\w)//g' | $SED 's/<i>//g' | cut -f2 -d'*' | $SED 's/<\/i>_→/!/g' | sed 's/::/!/g' | cut -f2 -d'!' | $SED 's/_/ /g' | $SED 's/^ *//g' | $SED 's/ *$//g' | $SED 's/$/./g'
 }
-wget -O - -q http://wiki.apertium.org/wiki/Macedonian_and_Bulgarian/$TESTTYPE | cleansrc > $SRCLIST;
-wget -O - -q http://wiki.apertium.org/wiki/Macedonian_and_Bulgarian/$TESTTYPE | cleantrg > $TRGLIST;
+wget -O - -q https://wiki.apertium.org/wiki/Macedonian_and_Bulgarian/$TESTTYPE | cleansrc > $SRCLIST;
+wget -O - -q https://wiki.apertium.org/wiki/Macedonian_and_Bulgarian/$TESTTYPE | cleantrg > $TRGLIST;
 
 apertium -d . $mode < $SRCLIST > $TSTLIST;
 
