@@ -1,0 +1,264 @@
+[-X-HNlOAnumM#0] ^Free<prn><pers><p3><f><sg><nom>$ ^даде<vblex><perf><tv><pres><p3><sg>$ ^книга<n><f><sg><nom><def>$ ^е<vbser><pres><p2><sg>$^.<sent>$
+[/-X-HNlOAnumM]
+[-a7a6CJaoXG3#0] ^нов<adj><mfn><pl><nom><ind>$ ^летище<n><nt><pl><nom><ind>$
+[/-a7a6CJaoXG3]
+[-iVxK4i6YP5m#0] ^твой<prn><pos><m><sg><def><subj>$ ^мъж<n><m><sg><nom><ind>$ ^е<vbser><pres><p3><sg>$ ^тук<adv>$^.<sent>$
+[/-iVxK4i6YP5m]
+[03EZtwqCHlis#0] ^зелен<adj><mfn><pl><nom><def>$ ^тревна<n><f><pl><nom><ind># площ$
+[/03EZtwqCHlis]
+[0AACRvV_NUrK#0] ^някакъв<prn><ind><f><sg>$^.<sent>$
+[/0AACRvV_NUrK]
+[0Z7dmWNfNEtl#0] ^мъж<n><m><sg><nom><def><subj>$ ^е<vbser><pres><p3><sg>$ ^хубав<adj><m><sg><nom><ind>$^.<sent>$
+[/0Z7dmWNfNEtl]
+[1-SvMv19FrNV#0] ^един<num><f><sg><nom><def>$^.<sent>$
+[/1-SvMv19FrNV]
+[14p_TebPMhXQ#0] ^когато<prn><rel>$^.<sent>$
+[/14p_TebPMhXQ]
+[19Yd2g2cjVbN#0] ^Този<prn><dem><f><sg>$ ^книга<n><f><sg><nom><ind>$ ^е<vbser><pres><p3><sg>$ ^голям<adj><f><sg><nom><ind>$^.<sent>$
+[/19Yd2g2cjVbN]
+[1Bez0U7lgO5f#0] ^сила<n><f><pl><nom><ind># за сигурност$
+[/1Bez0U7lgO5f]
+[1fsGq3ybSaJD#0] ^лишаване<n><nt><sg><nom><ind># от свобода$
+[/1fsGq3ybSaJD]
+[1xpaF9fpIZz1#0] ^зелена<n><f><sg><nom><ind># светлина$
+[/1xpaF9fpIZz1]
+[2IXYmsIVUoJO#0] ^казва<vblex><imperf><tv><pii><p1><sg>$ ^clitic<prn><pos><clt><p3><m><sg>$ ^на<pr>$ ^брат<n><m><sg><nom><ind>$ ^мие<vblex><imperf><tv><aor><p3><sg>$^.<sent>$
+[/2IXYmsIVUoJO]
+[2VhQ6uME9WJb#0] ^девети<num><ord><m><sg><nom><ind>$^.<sent>$
+[/2VhQ6uME9WJb]
+[2g9l6abN6Yan#0] ^няколко<prn><ind><ind>$^.<sent>$
+[/2g9l6abN6Yan]
+[3QQV_vbCtOOa#0] ^където<prn><rel>$^.<sent>$
+[/3QQV_vbCtOOa]
+[3T868yL-tKN4#0] ^колко<prn><itg>$^.<sent>$
+[/3T868yL-tKN4]
+[3uzpRtWN8BPo#0] ^не<adv>$ ^е<vbser><pres><p1><pl>$ ^чете<vblex><imperf><tv><lp><aor><mfn><pl><ind>$^.<sent>$
+[/3uzpRtWN8BPo]
+[4cRhy1FMNBvd#0] ^зелен<adj><mfn><pl><nom><ind>$ ^тревна<n><f><pl><nom><ind># площ$
+[/4cRhy1FMNBvd]
+[4rtZU-0YaUrD#0] ^Free<prn><pers><p3><nt><sg><nom>$ ^clitic<prn><ref><pers><mfn><sp><acc>$ ^мие<vblex><imperf><tv><pres><p3><sg>$^.<sent>$
+[/4rtZU-0YaUrD]
+[4zw_eAda5URg#0] ^всеки<prn><tot><m><sg><acc>$^.<sent>$
+[/4zw_eAda5URg]
+[5HBavPhgQCSJ#0] ^Онзи<prn><dem><nt><sg>$ ^мие<vblex><imperf><tv><pres><p3><sg>$ ^ръка<n><f><pl><nom><def>$ ^е<vbser><pres><p2><sg>$^.<sent>$
+[/5HBavPhgQCSJ]
+[5sdhrOM03Qcg#0] ^изпълнителен<n><m><sg><nom><ind># директор$
+[/5sdhrOM03Qcg]
+[75FCVkdexXVr#0] ^не<adv>$ ^е<vbser><pres><p1><sg>$ ^чете<vblex><imperf><tv><lp><aor><m><sg><ind>$^.<sent>$
+[/75FCVkdexXVr]
+[7MS4q1hq4WAL#0] ^Този<prn><dem><m><sg>$ ^е<vbser><pres><p3><sg>$ ^тук<adv>$^.<sent>$
+[/7MS4q1hq4WAL]
+[7VfsoKH5Tov-#0] ^твой<prn><pos><f><sg><def>$ ^книга<n><f><sg><nom><ind>$^.<sent>$
+[/7VfsoKH5Tov-]
+[7t5khEWj8UCl#0] ^среща<n><f><sg><nom><ind># на върха$
+[/7t5khEWj8UCl]
+[AG0yuqe2emgZ#0] ^неколцина<prn><ind><ind>$^.<sent>$
+[/AG0yuqe2emgZ]
+[ANKtstC97Dce#0] ^дневен<n><m><sg><nom><ind># ред$
+[/ANKtstC97Dce]
+[CQSYg9t2PznL#0] ^е<vbser><lp><pii><mfn><pl>$ ^чете<vblex><imperf><tv><lp><aor><mfn><pl><ind>$^.<sent>$
+[/CQSYg9t2PznL]
+[CcSwqtMRmPOV#0] ^защо<prn><itg>$^.<sent>$
+[/CcSwqtMRmPOV]
+[D0lYJcEvSJ1L#0] ^някой<prn><ind><f><sg><gen>$^.<sent>$
+[/D0lYJcEvSJ1L]
+[FIXKbzeR1Q0d#0] ^Този<prn><dem><nt><sg>$ ^трябва<vbmod><pres><p3><sg>$ ^да<part>$ ^помогне<vblex><perf><iv><pres><p3><sg>$^.<sent>$
+[/FIXKbzeR1Q0d]
+[GZIcaQ-WJIuq#0] ^план<n><m><sg><nom><ind># за действие$
+[/GZIcaQ-WJIuq]
+[G_9QB8JAFaN8#0] ^липса<n><f><sg><nom><ind># на сътрудничество$
+[/G_9QB8JAFaN8]
+[H1s_NMnjyzw0#0] ^мъж<n><m><sg><nom><def><subj>$ ^е<vbser><pres><p3><sg>$ ^хубав<adj><m><sg><nom><ind>$^.<sent>$
+[/H1s_NMnjyzw0]
+[HltxBRQ5aiDW#0] ^Free<prn><pers><p1><mfn><pl><nom>$ ^е<vbser><pres><p1><pl>$ ^тук<adv>$^.<sent>$
+[/HltxBRQ5aiDW]
+[Hvximj8Ewmz8#0] ^нищо<prn><neg>$^.<sent>$
+[/Hvximj8Ewmz8]
+[IFQ9ChhyP73q#0] ^Книга<n><f><sg><nom><def>$ ^е<vbser><pres><p3><sg>$ ^на<pr>$ ^голям<adj><f><sg><nom><def>$ ^маса<n><f><sg><nom><ind>$^.<sent>$
+[/IFQ9ChhyP73q]
+[Ij6S_NoxWSZC#0] ^зелен<adj><f><sg><nom><ind>$ ^тревна<n><f><sg><nom><ind># площ$
+[/Ij6S_NoxWSZC]
+[IsFJQE1oOfvq#0] ^девети<num><ord><m><sg><nom><ind>$^.<sent>$
+[/IsFJQE1oOfvq]
+[JgJ28mrh5MBa#0] ^е<vbser><pres><p1><pl>$ ^чете<vblex><imperf><tv><lp><aor><mfn><pl><ind>$^.<sent>$
+[/JgJ28mrh5MBa]
+[JvfAZsKCCiaX#0] ^зелен<adj><f><sg><nom><def>$ ^тревна<n><f><sg><nom><ind># площ$
+[/JvfAZsKCCiaX]
+[KHlWUnxxS3h-#0] ^кандидат<n><m><sg><nom><ind># за министър-председател$
+[/KHlWUnxxS3h-]
+[Kc2oGdfBZW02#0] ^какво<prn><itg>$^.<sent>$
+[/Kc2oGdfBZW02]
+[KjshIW8elaUG#0] ^заповед<n><f><sg><nom><ind># за арест$
+[/KjshIW8elaUG]
+[Li-neoV_2npj#0] ^какъв<prn><itg><f><sg>$^.<sent>$
+[/Li-neoV_2npj]
+[NFe_xElRUV29#0] ^Free<prn><pers><p3><f><sg><nom>$ ^е<vbser><pres><p3><sg>$ ^тук<adv>$^.<sent>$
+[/NFe_xElRUV29]
+[P06M2qs9mBO1#0] ^Free<prn><pers><p3><m><sg><nom>$ ^даде<vblex><perf><tv><pres><p3><sg>$ ^free<prn><ref><pers><mfn><sp><dat>$^.<sent>$
+[/P06M2qs9mBO1]
+[Q3Uqw_I1U9g3#0] ^е<vbser><lp><pii><f><sg>$ ^чете<vblex><imperf><tv><lp><aor><f><sg><ind>$^.<sent>$
+[/Q3Uqw_I1U9g3]
+[QqiuplWKas1Q#0] ^граничен<n><m><sg><nom><ind># пункт$
+[/QqiuplWKas1Q]
+[R3XzMLJgpDg-#0] ^как<prn><itg>$^.<sent>$
+[/R3XzMLJgpDg-]
+[R_yQ0dJhrwfP#0] ^не<adv>$ ^е<vbser><lp><pii><f><sg>$ ^чете<vblex><imperf><tv><lp><aor><f><sg><ind>$^.<sent>$
+[/R_yQ0dJhrwfP]
+[SV1JHSDRfJTx#0] ^нов<adj><nt><sg><nom><ind>$ ^летище<n><nt><sg><nom><ind>$
+[/SV1JHSDRfJTx]
+[T9XUXT2cGKVE#0] ^не<adv>$ ^е<vbser><lp><pii><m><sg>$ ^чете<vblex><imperf><tv><lp><aor><m><sg><ind>$^.<sent>$
+[/T9XUXT2cGKVE]
+[TTRxVHcFYVxL#0] ^Free<prn><pers><p3><nt><sg><nom>$ ^е<vbser><pres><p3><sg>$ ^тук<adv>$^.<sent>$
+[/TTRxVHcFYVxL]
+[TqK7DPdwpagc#0] ^зелен<adj><f><sg><nom><def>$ ^тревна<n><f><sg><nom><ind># площ$
+[/TqK7DPdwpagc]
+[U4ivkBm1xYDS#0] ^никой<prn><neg><f><sg><nom>$^.<sent>$
+[/U4ivkBm1xYDS]
+[U8OV7QU6N9Lt#0] ^Free<prn><pers><p3><mfn><pl><nom>$ ^е<vbser><pres><p3><pl>$ ^такъв<prn><dem><mfn><pl><ind>$^.<sent>$
+[/U8OV7QU6N9Lt]
+[UpfdUvU_q4ka#0] ^петдесет<num><mfn><nom><ind>$^.<sent>$
+[/UpfdUvU_q4ka]
+[V6975T6vGffZ#0] ^Free<prn><pers><p3><m><sg><nom>$ ^даде<vblex><perf><tv><pres><p3><sg>$ ^free<prn><ref><pos><f><sg><def>$ ^книга<n><f><sg><nom><ind>$^.<sent>$
+[/V6975T6vGffZ]
+[VBNMTNbFLEl3#0] ^няколко<prn><ind><ind>$^.<sent>$
+[/VBNMTNbFLEl3]
+[VILHHra1Wnvd#0] ^няколко<prn><ind><ind>$^.<sent>$
+[/VILHHra1Wnvd]
+[VxpBsup8h7iG#0] ^Free<prn><pers><p1><mfn><sg><nom>$ ^е<vbser><pres><p1><sg>$ ^стар<adj><m><sg><nom><ind>$^.<sent>$
+[/VxpBsup8h7iG]
+[WPZILSGbJNOT#0] ^европейско<n><nt><sg><nom><ind># законодателство$
+[/WPZILSGbJNOT]
+[WVc0XruFod_t#0] ^какъвто<prn><rel><f><sg>$^.<sent>$
+[/WVc0XruFod_t]
+[Wz3HvBLmRf4T#0] ^ще<vaux><pres><p3><sg>$ ^clitic<prn><pers><clt><p3><m><sg><acc>$ ^насърчи<vblex><perf><tv><pres><p3><sg>$^.<sent>$
+[/Wz3HvBLmRf4T]
+[X7nbAsLEd1MM#0] ^твой<prn><pos><m><sg><def><subj>$ ^мъж<n><m><sg><nom><ind>$ ^е<vbser><pres><p3><sg>$ ^тук<adv>$^.<sent>$
+[/X7nbAsLEd1MM]
+[XHeMIi9ud0_t#0] ^план<n><m><pl><nom><ind># за действие$
+[/XHeMIi9ud0_t]
+[XaQmhNhbLivN#0] ^защо<prn><itg>$^.<sent>$
+[/XaQmhNhbLivN]
+[YVCNkEuUhVAk#0] ^стотен<num><ord><m><sg><nom><ind>$^.<sent>$
+[/YVCNkEuUhVAk]
+[YXFH5F7OaUrm#0] ^зелен<adj><mfn><pl><nom><def>$ ^тревна<n><f><pl><nom><ind># площ$
+[/YXFH5F7OaUrm]
+[_BSqjWaXN7c-#0] ^да<part>$ ^free<prn><pers><p2><mfn><sg><nom>$ ^*дам$ ^на<pr>$ ^free<prn><pers><p2><mfn><sg><acc>$^.<sent>$
+[/_BSqjWaXN7c-]
+[_qDtSyPTzEd_#0] ^кой<prn><itg><m><sg><dat>$^.<sent>$
+[/_qDtSyPTzEd_]
+[a4PTX2PUTCdg#0] ^Книга<n><f><sg><nom><def>$ ^е<vbser><pres><p3><sg>$ ^на<pr>$ ^маса<n><f><sg><nom><def>$^.<sent>$
+[/a4PTX2PUTCdg]
+[a9MTTXOVd_qw#0] ^неколцина<prn><ind><ind>$^.<sent>$
+[/a9MTTXOVd_qw]
+[bLvDM_rAewV2#0] ^Книга<n><f><sg><nom><def>$ ^е<vbser><pres><p3><sg>$ ^голям<adj><f><sg><nom><def>$^.<sent>$
+[/bLvDM_rAewV2]
+[bqALRYUqrXtv#0] ^е<vbser><lp><pii><nt><sg>$ ^чете<vblex><imperf><tv><lp><aor><nt><sg><ind>$^.<sent>$
+[/bqALRYUqrXtv]
+[brTLhm3SRvUa#0] ^николко<prn><neg>$^.<sent>$
+[/brTLhm3SRvUa]
+[cKEXomrUq6_l#0] ^е<vbser><lp><pii><m><sg>$ ^чете<vblex><imperf><tv><lp><aor><m><sg><ind>$^.<sent>$
+[/cKEXomrUq6_l]
+[cOQ-mBy0eVuc#0] ^е<vbser><pres><p1><sg>$ ^чете<vblex><imperf><tv><lp><aor><m><sg><ind>$^.<sent>$
+[/cOQ-mBy0eVuc]
+[cOWj93l_Np1m#0] ^зелен<adj><f><sg><nom><def>$ ^тревна<n><f><sg><nom><ind># площ$
+[/cOWj93l_Np1m]
+[ceSnpexW6z9U#0] ^превозно<n><nt><sg><nom><ind># средство$
+[/ceSnpexW6z9U]
+[chIt2Rja0OcI#0] ^не<adv>$ ^е<vbser><pii><p2><pl>$ ^чете<vblex><imperf><tv><lp><aor><mfn><pl><ind>$^.<sent>$
+[/chIt2Rja0OcI]
+[cx_5Mqg-16yV#0] ^всякакъв<prn><tot><f><sg>$^.<sent>$
+[/cx_5Mqg-16yV]
+[dMjVgAIWSODo#0] ^не<adv>$ ^е<vbser><lp><pii><nt><sg>$ ^чете<vblex><imperf><tv><lp><aor><nt><sg><ind>$^.<sent>$
+[/dMjVgAIWSODo]
+[e1rwX1o3nKHl#0] ^няколко<prn><ind><ind>$^.<sent>$
+[/e1rwX1o3nKHl]
+[eJdcpvtykpyI#0] ^Скала<n><f><sg><nom><def># на Рихтер$
+[/eJdcpvtykpyI]
+[etI9JTWEeMul#0] ^Трябва<vbmod><pres><p3><sg>$ ^да<part>$ ^ходи<vblex><imperf><iv><pres><p2><sg>$^.<sent>$
+[/etI9JTWEeMul]
+[ffTCVvfSUoGg#0] ^домашна<n><f><sg><nom><ind># птица$
+[/ffTCVvfSUoGg]
+[k2QV0T3fXdNg#0] ^не<adv>$ ^е<vbser><pii><p1><sg>$ ^чете<vblex><imperf><tv><lp><aor><m><sg><ind>$^.<sent>$
+[/k2QV0T3fXdNg]
+[kJeLP-iMh4aE#0] ^да<part>$ ^clitic<prn><pos><clt><p3><m><sg>$ ^каже<vblex><perf><tv><pres><p1><sg>$ ^на<pr>$ ^брат<n><m><sg><nom><ind>$ ^мие<vblex><imperf><tv><aor><p3><sg>$^.<sent>$
+[/kJeLP-iMh4aE]
+[kVtAJM3LIsOo#0] ^Free<prn><pers><p1><mfn><sg><nom>$ ^clitic<prn><pers><clt><p3><f><sg><acc>$ ^има<vbhaver><pres><p1><sg>$ ^*прочитано$ ^книга<n><f><sg><nom><def>$^.<sent>$
+[/kVtAJM3LIsOo]
+[kXCTSrJ-ol1P#0] ^е<vbser><pii><p1><sg>$ ^чете<vblex><imperf><tv><lp><aor><m><sg><ind>$^.<sent>$
+[/kXCTSrJ-ol1P]
+[kbGoRFMfLA09#0] ^зелен<adj><mfn><pl><nom><def>$ ^тревна<n><f><pl><nom><ind># площ$
+[/kbGoRFMfLA09]
+[klZqw8T2STnS#0] ^крайъгълен<n><m><pl><nom><ind># камък$
+[/klZqw8T2STnS]
+[kzAg3d39HxLt#0] ^който<prn><rel><f><sg><gen>$^.<sent>$
+[/kzAg3d39HxLt]
+[lgDhbHXk5u3C#0] ^не<adv>$ ^е<vbser><lp><pii><mfn><pl>$ ^чете<vblex><imperf><tv><lp><aor><mfn><pl><ind>$^.<sent>$
+[/lgDhbHXk5u3C]
+[lkf4eq7zBMZn#0] ^кой<prn><itg><m><sg><acc>$^.<sent>$
+[/lkf4eq7zBMZn]
+[m5lJaI8N4Jjk#0] ^е<vbser><pii><p2><pl>$ ^чете<vblex><imperf><tv><lp><aor><mfn><pl><ind>$^.<sent>$
+[/m5lJaI8N4Jjk]
+[muCByghPS-eB#0] ^Онзи<prn><dem><nt><sg>$ ^е<vbser><pres><p3><sg>$ ^тук<adv>$^.<sent>$
+[/muCByghPS-eB]
+[nqRAwIMI1gXy#0] ^твой<prn><pos><m><sg><def><subj>$ ^мъж<n><m><sg><nom><ind>$ ^е<vbser><pres><p3><sg>$ ^тук<adv>$^.<sent>$
+[/nqRAwIMI1gXy]
+[ny1itqLXtzbv#0] ^защото<prn><rel>$^.<sent>$
+[/ny1itqLXtzbv]
+[nyds357KXscQ#0] ^стотен<num><ord><m><sg><nom><ind>$^.<sent>$
+[/nyds357KXscQ]
+[omzmab9c3bCQ#0] ^какъв<prn><itg><mfn><pl>$^.<sent>$
+[/omzmab9c3bCQ]
+[pIRl3ErOG4Cp#0] ^Убиец<n><m><sg><nom><def><obj>$ ^дължи<vblex><imperf><tv><lp><pii><m><sg>$ ^пара<n><f><pl><nom><ind>$^.<sent>$
+[/pIRl3ErOG4Cp]
+[pMtVs3-v-dxl#0] ^околна<n><f><sg><nom><ind># среда$
+[/pMtVs3-v-dxl]
+[qSWPZ-OkBiLV#0] ^никой<prn><neg><m><sg><dat>$^.<sent>$
+[/qSWPZ-OkBiLV]
+[qZAw6FfYp8M2#0] ^неколцина<prn><ind><ind>$^.<sent>$
+[/qZAw6FfYp8M2]
+[qgnd-P3O0106#0] ^Free<prn><pers><p2><mfn><pl><nom>$ ^е<vbser><pres><p2><pl>$ ^тук<adv>$^.<sent>$
+[/qgnd-P3O0106]
+[qh5SMCQDVA_v#0] ^предпроектно<n><nt><pl><nom><ind># проучване$
+[/qh5SMCQDVA_v]
+[rHgY3apLix9-#0] ^книга<n><f><sg><nom><def>$ ^free<prn><pers><p2><mfn><sg><nom>$^.<sent>$
+[/rHgY3apLix9-]
+[rJXVqK7OLP7Z#0] ^Free<prn><pers><p3><m><sg><nom>$ ^е<vbser><pres><p3><sg>$ ^тук<adv>$^.<sent>$
+[/rJXVqK7OLP7Z]
+[rdYANkjqXk0h#0] ^негов<prn><pos><mfn><pl><def>$ ^ръка<n><f><pl><nom><ind>$^.<sent>$
+[/rdYANkjqXk0h]
+[ryiHYpnd4_L0#0] ^Онзи<prn><dem><nt><sg>$ ^мие<vblex><imperf><tv><pres><p3><sg>$ ^free<prn><ref><pos><mfn><pl><def>$ ^ръка<n><f><pl><nom><ind>$^.<sent>$
+[/ryiHYpnd4_L0]
+[s-ZIec6YFaks#0] ^за<pr>$ ^free<prn><pers><p3><mfn><pl><acc>$^.<sent>$
+[/s-ZIec6YFaks]
+[sSFJGD-duX9f#0] ^Ще<vaux><pii><p1><sg>$ ^да<part>$ ^пристигне<vblex><perf><iv><pres><p1><sg>$^.<sent>$
+[/sSFJGD-duX9f]
+[saHD3uhYrMNz#0] ^заместник секретар<n><m><sg><nom><ind>$
+[/saHD3uhYrMNz]
+[tTuGYNnuxfYE#0] ^мъж<n><m><sg><nom><def><subj>$ ^е<vbser><pres><p3><sg>$ ^хубав<adj><m><sg><nom><ind>$^.<sent>$
+[/tTuGYNnuxfYE]
+[uVh16MJ0u4vG#0] ^нов<adj><mfn><pl><nom><def>$ ^летище<n><nt><pl><nom><ind>$
+[/uVh16MJ0u4vG]
+[ubU_7SGb1E1V#0] ^Free<prn><pers><p1><mfn><sg><nom>$ ^е<vbser><pres><p1><sg>$ ^македонец<n><m><sg><nom><ind>$^.<sent>$
+[/ubU_7SGb1E1V]
+[wYKZJZprx61W#0] ^един<num><m><sg><nom><ind>$^.<sent>$
+[/wYKZJZprx61W]
+[wplIK-q3YZnN#0] ^недвижимо<n><nt><sg><nom><ind># имущество$
+[/wplIK-q3YZnN]
+[wsdjw7BchVHi#0] ^парников<n><m><pl><nom><ind># газ$
+[/wsdjw7BchVHi]
+[xGymJNHi66-E#0] ^неколцина<prn><ind><ind>$^.<sent>$
+[/xGymJNHi66-E]
+[xMep6PJC_cYO#0] ^Free<prn><pers><p1><mfn><sg><nom>$ ^е<vbser><pres><p1><sg>$ ^тук<adv>$^.<sent>$
+[/xMep6PJC_cYO]
+[yC67TeQ7Z2qA#0] ^ръка<n><f><pl><nom><def>$ ^clitic<prn><pos><clt><p3><m><sg>$^.<sent>$
+[/yC67TeQ7Z2qA]
+[yVDKYPL2fSLU#0] ^нов<adj><nt><sg><nom><def>$ ^летище<n><nt><sg><nom><ind>$
+[/yVDKYPL2fSLU]
+[yacpFAmNqxIW#0] ^ще<vaux><pii><p3><sg>$ ^да<part>$ ^дойде<vblex><perf><iv><pres><p3><sg>$^.<sent>$
+[/yacpFAmNqxIW]
+[z2cAgU7Cjg3y#0] ^всичкият<prn><tot><f><sg><def>$^.<sent>$
+[/z2cAgU7Cjg3y]
+[zuDyrwVG_TaG#0] ^Free<prn><pers><p3><mfn><pl><nom>$ ^е<vbser><pres><p3><pl>$ ^тук<adv>$^.<sent>$
+[/zuDyrwVG_TaG]
+[zzAB-clTFKy_#0] ^Free<prn><pers><p2><mfn><sg><nom>$ ^е<vbser><pres><p2><sg>$ ^тук<adv>$^.<sent>$
+[/zzAB-clTFKy_]

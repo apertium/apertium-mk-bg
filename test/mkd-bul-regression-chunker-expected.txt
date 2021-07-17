@@ -1,0 +1,48 @@
+[4fmalO5ZU-lI#0] ^От<pr>$ ^днес<adv>$^,<cm>$ ^криза<n><f><sg><nom><def>$ ^е<vbser><pres><p3><sg>$ ^негов<prn><pos><f><sg><ind>$^.<sent>$
+[/4fmalO5ZU-lI]
+[6yIjpWJ6aFZ0#0] ^adj<pref><comp>$ ^нов<adj><m><sg><nom><ind>$^.<sent>$
+[/6yIjpWJ6aFZ0]
+[8UVTFzt8vAt-#0] ^От<pr>$ ^днес<adv>$^,<cm>$ ^криза<n><f><sg><nom><def>$ ^е<vbser><pres><p3><sg>$ ^мой<prn><pos><f><sg><ind>$^.<sent>$
+[/8UVTFzt8vAt-]
+[8V7C3JtVMMgs#0] ^труден<adj><m><sg><nom><ind>$^.<sent>$
+[/8V7C3JtVMMgs]
+[ExmrWPMewjab#0] ^летище<n><nt><pl><nom><ind>$
+[/ExmrWPMewjab]
+[JaLU3eP7NlUl#0] ^От<pr>$ ^днес<adv>$^,<cm>$ ^криза<n><f><sg><nom><def>$ ^е<vbser><pres><p3><sg>$ ^ваш<prn><pos><f><sg><ind>$^.<sent>$
+[/JaLU3eP7NlUl]
+[Jo_TIUrK6gG1#0] ^От<pr>$ ^днес<adv>$^,<cm>$ ^криза<n><f><sg><nom><def>$ ^е<vbser><pres><p3><sg>$ ^твой<prn><pos><f><sg><ind>$^.<sent>$
+[/Jo_TIUrK6gG1]
+[Sw03je2GsXLf#0] ^adj<pref><comp>$ ^труден<adj><m><sg><nom><ind>$^.<sent>$
+[/Sw03je2GsXLf]
+[T4VCyfFG0f8-#0] ^летище<n><nt><pl><nom><def>$
+[/T4VCyfFG0f8-]
+[ThC_I6teqUox#0] ^летище<n><nt><pl><nom><def>$
+[/ThC_I6teqUox]
+[Ui14bMQVuJHq#0] ^нов<adj><m><sg><nom><ind>$^.<sent>$
+[/Ui14bMQVuJHq]
+[XOULUxS4tsWF#0] ^летище<n><nt><sg><nom><def>$
+[/XOULUxS4tsWF]
+[Z4qVEpO7_OvW#0] ^много<adv>$^.<sent>$
+[/Z4qVEpO7_OvW]
+[a-EyChMDOUS9#0] ^летище<n><nt><sg><nom><def>$
+[/a-EyChMDOUS9]
+[bUtXTJyc3Hqu#0] ^летище<n><nt><pl><nom><def>$
+[/bUtXTJyc3Hqu]
+[ePn8cpg6IdZZ#0] ^летище<n><nt><sg><nom><ind>$
+[/ePn8cpg6IdZZ]
+[f1rk0_Q9KOZO#0] ^adj<pref><sup>$ ^труден<adj><m><sg><nom><ind>$^.<sent>$
+[/f1rk0_Q9KOZO]
+[jhrjNw2xmcMm#0] ^От<pr>$ ^днес<adv>$^,<cm>$ ^криза<n><f><sg><nom><def>$ ^е<vbser><pres><p3><sg>$ ^free<prn><ref><pos><f><sg><ind>$^.<sent>$
+[/jhrjNw2xmcMm]
+[ngeWkItlLT2Y#0] ^летище<n><nt><sg><nom><def>$
+[/ngeWkItlLT2Y]
+[njiF_QEsiGwI#0] ^повече<adv>$^.<sent>$
+[/njiF_QEsiGwI]
+[sURAk2EJr8op#0] ^От<pr>$ ^днес<adv>$^,<cm>$ ^криза<n><f><sg><nom><def>$ ^е<vbser><pres><p3><sg>$ ^наш<prn><pos><f><sg><ind>$^.<sent>$
+[/sURAk2EJr8op]
+[t4tx4VQIiE18#0] ^adj<pref><sup>$ ^нов<adj><m><sg><nom><ind>$^.<sent>$
+[/t4tx4VQIiE18]
+[tt6iECpW5i6q#0] ^От<pr>$ ^днес<adv>$^,<cm>$ ^криза<n><f><sg><nom><def>$ ^е<vbser><pres><p3><sg>$ ^неин<prn><pos><f><sg><ind>$^.<sent>$
+[/tt6iECpW5i6q]
+[vK6qutiGu3yG#0] ^От<pr>$ ^днес<adv>$^,<cm>$ ^криза<n><f><sg><nom><def>$ ^е<vbser><pres><p3><sg>$ ^техен<prn><pos><f><sg><ind>$^.<sent>$
+[/vK6qutiGu3yG]

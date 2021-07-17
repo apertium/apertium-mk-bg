@@ -1,0 +1,48 @@
+[4fmalO5ZU-lI#0] ^Од/од<pr>$ ^денес/денес<adv>$^,/,<cm>$ ^кризата/криза<n><f><sg><nom><def>$ ^е/е<vbser><pres><p3><sg>$ ^негова/негов<prn><pos><f><sg><ind>$^./.<sent>$
+[/4fmalO5ZU-lI]
+[6yIjpWJ6aFZ0#0] ^понов/adj<pref><comp>+нов<adj><m><sg><nom><ind>$^./.<sent>$
+[/6yIjpWJ6aFZ0]
+[8UVTFzt8vAt-#0] ^Од/од<pr>$ ^денес/денес<adv>$^,/,<cm>$ ^кризата/криза<n><f><sg><nom><def>$ ^е/е<vbser><pres><p3><sg>$ ^моја/мој<prn><pos><f><sg><ind>$^./.<sent>$
+[/8UVTFzt8vAt-]
+[8V7C3JtVMMgs#0] ^тежок/тежок<adj><m><sg><nom><ind>$^./.<sent>$
+[/8V7C3JtVMMgs]
+[ExmrWPMewjab#0] ^аеродроми/аеродром<n><m><pl><nom><ind>$
+[/ExmrWPMewjab]
+[JaLU3eP7NlUl#0] ^Од/од<pr>$ ^денес/денес<adv>$^,/,<cm>$ ^кризата/криза<n><f><sg><nom><def>$ ^е/е<vbser><pres><p3><sg>$ ^ваша/ваш<prn><pos><f><sg><ind>$^./.<sent>$
+[/JaLU3eP7NlUl]
+[Jo_TIUrK6gG1#0] ^Од/од<pr>$ ^денес/денес<adv>$^,/,<cm>$ ^кризата/криза<n><f><sg><nom><def>$ ^е/е<vbser><pres><p3><sg>$ ^твоја/твој<prn><pos><f><sg><ind>$^./.<sent>$
+[/Jo_TIUrK6gG1]
+[Sw03je2GsXLf#0] ^потежок/adj<pref><comp>+тежок<adj><m><sg><nom><ind>$^./.<sent>$
+[/Sw03je2GsXLf]
+[T4VCyfFG0f8-#0] ^аеродромиве/аеродром<n><m><pl><nom><prx>$
+[/T4VCyfFG0f8-]
+[ThC_I6teqUox#0] ^аеродромине/аеродром<n><m><pl><nom><dst>$
+[/ThC_I6teqUox]
+[Ui14bMQVuJHq#0] ^нов/нов<adj><m><sg><nom><ind>$^./.<sent>$
+[/Ui14bMQVuJHq]
+[XOULUxS4tsWF#0] ^аеродромон/аеродром<n><m><sg><nom><dst>$
+[/XOULUxS4tsWF]
+[Z4qVEpO7_OvW#0] ^многу/многу<adv>$^./.<sent>$
+[/Z4qVEpO7_OvW]
+[a-EyChMDOUS9#0] ^аеродромов/аеродром<n><m><sg><nom><prx>$
+[/a-EyChMDOUS9]
+[bUtXTJyc3Hqu#0] ^аеродромите/аеродром<n><m><pl><nom><def>$
+[/bUtXTJyc3Hqu]
+[ePn8cpg6IdZZ#0] ^аеродром/аеродром<n><m><sg><nom><ind>$
+[/ePn8cpg6IdZZ]
+[f1rk0_Q9KOZO#0] ^најтежок/adj<pref><sup>+тежок<adj><m><sg><nom><ind>$^./.<sent>$
+[/f1rk0_Q9KOZO]
+[jhrjNw2xmcMm#0] ^Од/од<pr>$ ^денес/денес<adv>$^,/,<cm>$ ^кризата/криза<n><f><sg><nom><def>$ ^е/е<vbser><pres><p3><sg>$ ^своја/free<prn><ref><pos><f><sg><ind>$^./.<sent>$
+[/jhrjNw2xmcMm]
+[ngeWkItlLT2Y#0] ^аеродромот/аеродром<n><m><sg><nom><def>$
+[/ngeWkItlLT2Y]
+[njiF_QEsiGwI#0] ^повеќе/повеќе<adv>$^./.<sent>$
+[/njiF_QEsiGwI]
+[sURAk2EJr8op#0] ^Од/од<pr>$ ^денес/денес<adv>$^,/,<cm>$ ^кризата/криза<n><f><sg><nom><def>$ ^е/е<vbser><pres><p3><sg>$ ^наша/наш<prn><pos><f><sg><ind>$^./.<sent>$
+[/sURAk2EJr8op]
+[t4tx4VQIiE18#0] ^најнов/adj<pref><sup>+нов<adj><m><sg><nom><ind>$^./.<sent>$
+[/t4tx4VQIiE18]
+[tt6iECpW5i6q#0] ^Од/од<pr>$ ^денес/денес<adv>$^,/,<cm>$ ^кризата/криза<n><f><sg><nom><def>$ ^е/е<vbser><pres><p3><sg>$ ^нејзина/нејзин<prn><pos><f><sg><ind>$^./.<sent>$
+[/tt6iECpW5i6q]
+[vK6qutiGu3yG#0] ^Од/од<pr>$ ^денес/денес<adv>$^,/,<cm>$ ^кризата/криза<n><f><sg><nom><def>$ ^е/е<vbser><pres><p3><sg>$ ^нивна/нивен<prn><pos><f><sg><ind>$^./.<sent>$
+[/vK6qutiGu3yG]

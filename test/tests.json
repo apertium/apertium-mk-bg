@@ -1,0 +1,14 @@
+{
+    "bul-mkd-pending": {
+        "input": "bul-mkd-pending-input.txt",
+        "mode": "bul-mkd"
+    },
+    "mkd-bul-pending": {
+        "input": "mkd-bul-pending-input.txt",
+        "mode": "mkd-bul"
+    },
+    "mkd-bul-regression": {
+        "input": "mkd-bul-regression-input.txt",
+        "mode": "mkd-bul"
+    }
+}

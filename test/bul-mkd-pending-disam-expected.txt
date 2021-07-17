@@ -1,0 +1,118 @@
+[-M6uTcT_HVHF#0] ^Той/Free<prn><pers><p3><m><sg><nom>$ ^е/е<vbser><pres><p3><sg>$ ^бил/е<vbser><lp><pii><m><sg>$ ^платил/плати<vblex><perf><iv><lp><aor><m><sg><ind>/плати<vblex><perf><tv><lp><aor><m><sg><ind>$^./.<sent>$
+[/-M6uTcT_HVHF]
+[2-FNmhrA_jUN#0] ^зелена/зелен<adj><f><sg><nom><ind>$ ^тревна площ/тревна# площ<n><f><sg><nom><ind>$
+[/2-FNmhrA_jUN]
+[5cdG6zcPoBvH#0] ^заповед за арест/заповед# за арест<n><f><sg><nom><ind>/заповед# за арест<n><f><sg><voc><ind>$
+[/5cdG6zcPoBvH]
+[6Cuvu05YCOnT#0] ^чия/кой<prn><itg><f><sg><gen>$^./.<sent>$
+[/6Cuvu05YCOnT]
+[6aLswiGCdsaX#0] ^планове за действие/план# за действие<n><m><pl><nom><ind>$
+[/6aLswiGCdsaX]
+[73po8Q8aSiiE#0] ^зелените/зелен<adj><mfn><pl><nom><def>$ ^тревни площи/тревна# площ<n><f><pl><nom><ind>$
+[/73po8Q8aSiiE]
+[7XK1GbOpiSlU#0] ^Вече/Вече<adv>$ ^бях/е<vbser><pii><p1><sg>$ ^ял/яде<vblex><imperf><tv><lp><aor><m><sg><ind>$^./.<sent>$
+[/7XK1GbOpiSlU]
+[9td2hhxVTr9A#0] ^седемнадесети/седемнадесети<num><ord><mfn><pl><nom><ind>/седемнадесети<num><ord><m><sg><nom><ind>/седемнайсети<num><ord><mfn><pl><nom><ind>/седемнайсети<num><ord><m><sg><nom><ind>$^./.<sent>$
+[/9td2hhxVTr9A]
+[CQFpd6a9eS4r#0] ^шведското/шведски<adj><nt><sg><nom><def>$ ^посолство/посолство<n><nt><sg><nom><ind>$
+[/CQFpd6a9eS4r]
+[CRBVjjvcIKIw#0] ^Ще/Ще<vaux><pres><p1><sg>/Ще<vaux><pres><p1><pl>/Ще<vaux><pres><p2><sg>/Ще<vaux><pres><p2><pl>/Ще<vaux><pres><p3><sg>/Ще<vaux><pres><p3><pl>$ ^сме/е<vbser><pres><p1><pl>$ ^свършили/свърши<vblex><perf><tv><lp><aor><mfn><pl><ind>$^./.<sent>$
+[/CRBVjjvcIKIw]
+[DiMySXZeC8xm#0] ^нови/нов<adj><mfn><pl><nom><ind>$ ^данни/данни<n><mfn><pl><nom><ind>$
+[/DiMySXZeC8xm]
+[GIIqc5_3sOmS#0] ^кандидат за министър-председател/кандидат# за министър-председател<n><m><sg><nom><ind>$
+[/GIIqc5_3sOmS]
+[HNH04juKhkvc#0] ^Небето/Небе<n><nt><sg><nom><def>$ ^е/е<vbser><pres><p3><sg>$ ^синьо/син<adj><nt><sg><nom><ind>$^./.<sent>$
+[/HNH04juKhkvc]
+[Hb9j1jDYVG0t#0] ^сили за сигурност/сила# за сигурност<n><f><pl><nom><ind>$
+[/Hb9j1jDYVG0t]
+[Hns6XPsR2v_n#0] ^Чашата/Чаша<n><f><sg><nom><def>$ ^е/е<vbser><pres><p3><sg>$ ^на/на<pr>$ ^масата/маса<n><f><sg><nom><def>$^./.<sent>$
+[/Hns6XPsR2v_n]
+[IUAVyZCEXsD_#0] ^дневен ред/дневен# ред<n><m><sg><nom><ind>$
+[/IUAVyZCEXsD_]
+[IwlZYZcaKpci#0] ^зелени/зелен<adj><mfn><pl><nom><ind>$ ^тревни площи/тревна# площ<n><f><pl><nom><ind>$
+[/IwlZYZcaKpci]
+[MtmgAR0Jr-pI#0] ^крайъгълни камъни/крайъгълен# камък<n><m><pl><nom><ind>$
+[/MtmgAR0Jr-pI]
+[NawzaLdNMB-w#0] ^Щях/Ще<vaux><pii><p1><sg>$ ^да/да<part>$ ^пристигна/пристигне<vblex><perf><iv><pres><p1><sg>/пристигне<vblex><perf><iv><aor><p2><sg>/пристигне<vblex><perf><iv><aor><p3><sg>$^./.<sent>$
+[/NawzaLdNMB-w]
+[OAVnftlhTmrf#0] ^заместник секретар/заместник секретар<n><m><sg><nom><ind>$
+[/OAVnftlhTmrf]
+[OpgSMJ0V1gyv#0] ^сериозен/сериозен<adj><m><sg><nom><ind>$ ^анализ/анализ<n><m><sg><nom><ind>$
+[/OpgSMJ0V1gyv]
+[PDLXKeIULaRL#0] ^зелената/зелен<adj><f><sg><nom><def>$ ^тревна площ/тревна# площ<n><f><sg><nom><ind>$
+[/PDLXKeIULaRL]
+[QYL5dVLXQfLV#0] ^парникови газове/парников# газ<n><m><pl><nom><ind>$
+[/QYL5dVLXQfLV]
+[QswzEdq0AQh6#0] ^тринадесетте/тринадесет<num><mfn><nom><def>/тринайсет<num><mfn><nom><def>$^./.<sent>$
+[/QswzEdq0AQh6]
+[Rg2D_aLXUdQe#0] ^седемнайсети/*седемнайсети$^./.<sent>$
+[/Rg2D_aLXUdQe]
+[RvoeS3GePn0B#0] ^всяка/всеки<prn><tot><f><sg><nom>$ ^сутрин/сутрин<n><f><sg><nom><ind>/сутрин<n><f><sg><voc><ind>$ ^се/clitic<prn><ref><pers><mfn><sp><acc>$ ^мия/мие<vblex><imperf><iv><pres><p1><sg>/мие<vblex><imperf><tv><pres><p1><sg>$
+[/RvoeS3GePn0B]
+[SHJCZAscDQYf#0] ^Той/Free<prn><pers><p3><m><sg><nom>$ ^е/е<vbser><pres><p3><sg>$ ^писал/пише<vblex><imperf><iv><lp><aor><m><sg><ind>/пише<vblex><imperf><tv><lp><aor><m><sg><ind>$ ^романи/роман<n><m><pl><nom><ind>$^./.<sent>$
+[/SHJCZAscDQYf]
+[YgewIERrkBFS#0] ^Бил/Е<vbser><lp><pii><m><sg>$ ^писал/пише<vblex><imperf><iv><lp><aor><m><sg><ind>/пише<vblex><imperf><tv><lp><aor><m><sg><ind>$^./.<sent>$
+[/YgewIERrkBFS]
+[Yz_f2oAKlzxA#0] ^новите/нов<adj><mfn><pl><nom><def>$ ^данни/данни<n><mfn><pl><nom><ind>$
+[/Yz_f2oAKlzxA]
+[arPsE_n3DhpQ#0] ^лишаване от свобода/лишаване# от свобода<n><nt><sg><nom><ind>$
+[/arPsE_n3DhpQ]
+[cUaXizKZAlhB#0] ^бяла/бял<adj><f><sg><nom><ind>$ ^захар/захар<n><f><sg><nom><ind>/захар<n><f><sg><voc><ind>$
+[/cUaXizKZAlhB]
+[cpz7LWC9OMvL#0] ^изпълнителен директор/изпълнителен# директор<n><m><sg><nom><ind>$
+[/cpz7LWC9OMvL]
+[dDwYw4iJfiCd#0] ^нелегална/нелегален<adj><f><sg><nom><ind>$ ^контрабанда/контрабанда<n><f><sg><nom><ind>$
+[/dDwYw4iJfiCd]
+[fSNaS5A48Txt#0] ^зелена светлина/зелена# светлина<n><f><sg><nom><ind>$
+[/fSNaS5A48Txt]
+[fYbWugzwevVB#0] ^скалата на Рихтер/скала# на Рихтер<n><f><sg><nom><def>$
+[/fYbWugzwevVB]
+[hmMFe05g-Sec#0] ^превозно средство/превозно# средство<n><nt><sg><nom><ind>$
+[/hmMFe05g-Sec]
+[hsKjjVtJGFbR#0] ^мия/мие<vblex><imperf><iv><pres><p1><sg>/мие<vblex><imperf><tv><pres><p1><sg>$ ^се/clitic<prn><ref><pers><mfn><sp><acc>$ ^всяка/всеки<prn><tot><f><sg><nom>$ ^сутрин/сутрин<n><f><sg><nom><ind>/сутрин<n><f><sg><voc><ind>$
+[/hsKjjVtJGFbR]
+[in3cDpCimumM#0] ^бил/е<vbser><lp><pii><m><sg>$ ^съм/е<vbser><pres><p1><sg>$ ^платил/плати<vblex><perf><iv><lp><aor><m><sg><ind>/плати<vblex><perf><tv><lp><aor><m><sg><ind>$^./.<sent>$
+[/in3cDpCimumM]
+[kD83VO4o_Xjc#0] ^голямата/голям<adj><f><sg><nom><def>$ ^стъпка/стъпка<n><f><sg><nom><ind>$
+[/kD83VO4o_Xjc]
+[l2FqKhg7Jn_h#0] ^недвижимо имущество/недвижимо# имущество<n><nt><sg><nom><ind>$
+[/l2FqKhg7Jn_h]
+[l3xXrT78GIjo#0] ^Беше/Е<vbser><pii><p2><sg>/Е<vbser><pii><p3><sg>$ ^убит/убит<adj><m><sg><nom><ind>/убие<vblex><perf><tv><pp><m><sg><ind>$^./.<sent>$
+[/l3xXrT78GIjo]
+[m__DdfJfYGHZ#0] ^липса на сътрудничество/липса# на сътрудничество<n><f><sg><nom><ind>$
+[/m__DdfJfYGHZ]
+[mgZElUmkNg_D#0] ^Ще/Ще<vaux><pres><p1><sg>/Ще<vaux><pres><p1><pl>/Ще<vaux><pres><p2><sg>/Ще<vaux><pres><p2><pl>/Ще<vaux><pres><p3><sg>/Ще<vaux><pres><p3><pl>$ ^съм/е<vbser><pres><p1><sg>$ ^платял/плати<vblex><perf><iv><lp><pii><m><sg>/плати<vblex><perf><tv><lp><pii><m><sg>$^./.<sent>$
+[/mgZElUmkNg_D]
+[mtoOtI8HTpD_#0] ^среща на върха/среща# на върха<n><f><sg><nom><ind>$
+[/mtoOtI8HTpD_]
+[nhulyqXZyb6i#0] ^граничен пункт/граничен# пункт<n><m><sg><nom><ind>$
+[/nhulyqXZyb6i]
+[on9TUmlEAxBO#0] ^Убит/Убит<adj><m><sg><nom><ind>/Убие<vblex><perf><tv><pp><m><sg><ind>$ ^е/е<vbser><pres><p3><sg>$^./.<sent>$
+[/on9TUmlEAxBO]
+[ppF9qmkL2_0u#0] ^тринайсетте/*тринайсетте$^./.<sent>$
+[/ppF9qmkL2_0u]
+[psTvQr0NKQBR#0] ^околна среда/околна# среда<n><f><sg><nom><ind>$
+[/psTvQr0NKQBR]
+[q9ti9HnTKkdD#0] ^домашна птица/домашна# птица<n><f><sg><nom><ind>$
+[/q9ti9HnTKkdD]
+[qSYLWEPJxAgW#0] ^що/що<prn><itg>$^./.<sent>$
+[/qSYLWEPJxAgW]
+[rwzmlklECN_D#0] ^Той/Free<prn><pers><p3><m><sg><nom>$ ^бил/е<vbser><lp><pii><m><sg>$ ^платил/плати<vblex><perf><iv><lp><aor><m><sg><ind>/плати<vblex><perf><tv><lp><aor><m><sg><ind>$^./.<sent>$
+[/rwzmlklECN_D]
+[sg4QuX2jUAdV#0] ^план за действие/план# за действие<n><m><sg><nom><ind>$
+[/sg4QuX2jUAdV]
+[tAfl23yhHTU1#0] ^силната/силен<adj><f><sg><nom><def>$ ^йена/йена<n><f><sg><nom><ind>$
+[/tAfl23yhHTU1]
+[tEgCyFnH2A7A#0] ^висок/висок<adj><m><sg><nom><ind>$ ^акциз/акциз<n><m><sg><nom><ind>$
+[/tEgCyFnH2A7A]
+[tR-dglAL1dTB#0] ^Пишел/Пише<vblex><imperf><iv><lp><pii><m><sg>/Пише<vblex><imperf><tv><lp><pii><m><sg>$ ^е/е<vbser><pres><p3><sg>$^./.<sent>$
+[/tR-dglAL1dTB]
+[u1-6simSuaWP#0] ^предпроектни проучвания/предпроектно# проучване<n><nt><pl><nom><ind>$
+[/u1-6simSuaWP]
+[uvBM1mh5YauN#0] ^европейско законодателство/европейско# законодателство<n><nt><sg><nom><ind>$
+[/uvBM1mh5YauN]
+[vi8Bw1XSujwK#0] ^честата/чест<adj><f><sg><nom><def>$ ^употреба/употреба<n><f><sg><nom><ind>$
+[/vi8Bw1XSujwK]
+[wpF6v5ygYS46#0] ^да/да<part>$ ^е/е<vbser><pres><p3><sg>$ ^дошъл/дойде<vblex><perf><iv><lp><aor><m><sg><ind>$^./.<sent>$
+[/wpF6v5ygYS46]

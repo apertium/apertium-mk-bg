@@ -1,0 +1,264 @@
+[-X-HNlOAnumM#0] ^Таа/тој<prn><dem><f><sg>/free<prn><pers><p3><f><sg><nom>$ ^даде/даде<vblex><perf><tv><pres><p3><sg>/даде<vblex><perf><tv><aor><p2><sg>/даде<vblex><perf><tv><aor><p3><sg>$ ^книгата/книга<n><f><sg><nom><def>$ ^си/е<vbser><pres><p2><sg>/clitic<prn><ref><pos>/clitic<prn><ref><pers><mfn><sp><dat>$^./.<sent>$
+[/-X-HNlOAnumM]
+[-a7a6CJaoXG3#0] ^нови/нов<adj><mfn><pl><nom><ind>$ ^аеродроми/аеродром<n><m><pl><nom><ind>$
+[/-a7a6CJaoXG3]
+[-iVxK4i6YP5m#0] ^твојот/твој<prn><pos><m><sg><def>$ ^маж/маж<n><m><sg><nom><ind>$ ^е/е<vbser><pres><p3><sg>$ ^тука/тука<adv>$^./.<sent>$
+[/-iVxK4i6YP5m]
+[03EZtwqCHlis#0] ^зеленине/зелен<adj><mfn><pl><nom><dst>$ ^тревници/тревник<n><m><pl><nom><ind>$
+[/03EZtwqCHlis]
+[0AACRvV_NUrK#0] ^некаква/некаков<prn><ind><f><sg>$^./.<sent>$
+[/0AACRvV_NUrK]
+[0Z7dmWNfNEtl#0] ^мажот/маж<n><m><sg><nom><def>$ ^е/е<vbser><pres><p3><sg>$ ^убав/убав<adj><m><sg><nom><ind>$^./.<sent>$
+[/0Z7dmWNfNEtl]
+[1-SvMv19FrNV#0] ^едната/еден<num><f><sg><nom><def>$^./.<sent>$
+[/1-SvMv19FrNV]
+[14p_TebPMhXQ#0] ^кога што/кога што<prn><rel>$^./.<sent>$
+[/14p_TebPMhXQ]
+[19Yd2g2cjVbN#0] ^Оваа/овој<prn><dem><f><sg>$ ^книга/книга<n><f><sg><nom><ind>$ ^е/е<vbser><pres><p3><sg>$ ^голема/голем<adj><f><sg><nom><ind>$^./.<sent>$
+[/19Yd2g2cjVbN]
+[1Bez0U7lgO5f#0] ^безбедносни сили/безбедносна<n><f><pl><nom><ind># сила$
+[/1Bez0U7lgO5f]
+[1fsGq3ybSaJD#0] ^затворска казна/затворска<n><f><sg><nom><ind># казна$
+[/1fsGq3ybSaJD]
+[1xpaF9fpIZz1#0] ^зелено светло/зелено<n><nt><sg><nom><ind># светло$
+[/1xpaF9fpIZz1]
+[2IXYmsIVUoJO#0] ^му/clitic<prn><pos><clt><p3><m><sg>/clitic<prn><pos><clt><p3><nt><sg>/clitic<prn><pers><clt><p3><m><sg><dat>/clitic<prn><pers><clt><p3><nt><sg><dat>$ ^кажував/кажува<vblex><imperf><tv><pii><p1><sg>/кажува<vblex><imperf><tv><aor><p1><sg>$ ^на/на<pr>$ ^брат/брат<n><m><sg><nom><ind>$ ^ми/мие<vblex><imperf><tv><aor><p2><sg>/мие<vblex><imperf><tv><aor><p3><sg>/мие<vblex><imperf><iv><aor><p2><sg>/мие<vblex><imperf><iv><aor><p3><sg>/clitic<prn><pos><clt><p1><mfn><sg>/clitic<prn><pers><clt><p1><mfn><sg><dat>$^./.<sent>$
+[/2IXYmsIVUoJO]
+[2VhQ6uME9WJb#0] ^деветти/деветти<num><ord><m><sg><nom><ind>/деветти<num><ord><mfn><pl><nom><ind>$^./.<sent>$
+[/2VhQ6uME9WJb]
+[2g9l6abN6Yan#0] ^неколкуно/неколку<prn><ind><dst>$^./.<sent>$
+[/2g9l6abN6Yan]
+[3QQV_vbCtOOa#0] ^каде што/каде што<prn><rel>$^./.<sent>$
+[/3QQV_vbCtOOa]
+[3T868yL-tKN4#0] ^колку/колку<prn><itg>/колку<prn><rel>$^./.<sent>$
+[/3T868yL-tKN4]
+[3uzpRtWN8BPo#0] ^немаме/нема<vbhaver><pres><p1><pl>$ ^читано/чита<vblex><imperf><tv><pp><nt><sg><ind>/чита<vblex><imperf><iv><pp><nt><sg><ind>$^./.<sent>$
+[/3uzpRtWN8BPo]
+[4cRhy1FMNBvd#0] ^зелени/зелен<adj><mfn><pl><nom><ind>$ ^тревници/тревник<n><m><pl><nom><ind>$
+[/4cRhy1FMNBvd]
+[4rtZU-0YaUrD#0] ^Тоа/тој<prn><dem><nt><sg>/free<prn><pers><p3><nt><sg><nom>$ ^се/е<vbser><pres><p3><pl>/clitic<prn><ref><pers><mfn><sp><acc>$ ^мие/мие<vblex><imperf><tv><pres><p3><sg>/мие<vblex><imperf><iv><pres><p3><sg>$^./.<sent>$
+[/4rtZU-0YaUrD]
+[4zw_eAda5URg#0] ^секого/секој<prn><tot><m><sg><acc>$^./.<sent>$
+[/4zw_eAda5URg]
+[5HBavPhgQCSJ#0] ^Она/оној<prn><dem><nt><sg>/free<prn><pers><p3><f><sg><nom>$ ^мие/мие<vblex><imperf><tv><pres><p3><sg>/мие<vblex><imperf><iv><pres><p3><sg>$ ^рацете/рака<n><f><pl><nom><def>$ ^си/е<vbser><pres><p2><sg>/clitic<prn><ref><pos>/clitic<prn><ref><pers><mfn><sp><dat>$^./.<sent>$
+[/5HBavPhgQCSJ]
+[5sdhrOM03Qcg#0] ^извршен директор/извршен<n><m><sg><nom><ind># директор$
+[/5sdhrOM03Qcg]
+[75FCVkdexXVr#0] ^немам/нема<vbhaver><pres><p1><sg>$ ^читано/чита<vblex><imperf><tv><pp><nt><sg><ind>/чита<vblex><imperf><iv><pp><nt><sg><ind>$^./.<sent>$
+[/75FCVkdexXVr]
+[7MS4q1hq4WAL#0] ^Овој/овој<prn><dem><m><sg>$ ^е/е<vbser><pres><p3><sg>$ ^тука/тука<adv>$^./.<sent>$
+[/7MS4q1hq4WAL]
+[7VfsoKH5Tov-#0] ^твојата/твој<prn><pos><f><sg><def>$ ^книга/книга<n><f><sg><nom><ind>$^./.<sent>$
+[/7VfsoKH5Tov-]
+[7t5khEWj8UCl#0] ^самит/самит<n><m><sg><nom><ind>$
+[/7t5khEWj8UCl]
+[AG0yuqe2emgZ#0] ^неколцината/неколцина<prn><ind><def>$^./.<sent>$
+[/AG0yuqe2emgZ]
+[ANKtstC97Dce#0] ^агенда/агенда<n><f><sg><nom><ind>$
+[/ANKtstC97Dce]
+[CQSYg9t2PznL#0] ^имале/има<vbhaver><lp><pii><mfn><pl>/има<vbhaver><lp><aor><mfn><pl>$ ^читано/чита<vblex><imperf><tv><pp><nt><sg><ind>/чита<vblex><imperf><iv><pp><nt><sg><ind>$^./.<sent>$
+[/CQSYg9t2PznL]
+[CcSwqtMRmPOV#0] ^поради што/поради што<prn><itg>$^./.<sent>$
+[/CcSwqtMRmPOV]
+[D0lYJcEvSJ1L#0] ^нечија/некој<prn><ind><f><sg><gen>$^./.<sent>$
+[/D0lYJcEvSJ1L]
+[FIXKbzeR1Q0d#0] ^Ова/овој<prn><dem><nt><sg>$ ^мора/мора<vbmod><pres><p3><sg>/мора<vbmod><aor><p2><sg>/мора<vbmod><aor><p3><sg>$ ^да/да<ij>/да<part>$ ^помогне/помогне<vblex><perf><iv><pres><p3><sg>$^./.<sent>$
+[/FIXKbzeR1Q0d]
+[GZIcaQ-WJIuq#0] ^акционен план/акционен<n><m><sg><nom><ind># план$
+[/GZIcaQ-WJIuq]
+[G_9QB8JAFaN8#0] ^несоработка/несоработка<n><f><sg><nom><ind>$
+[/G_9QB8JAFaN8]
+[H1s_NMnjyzw0#0] ^мажон/маж<n><m><sg><nom><dst>$ ^е/е<vbser><pres><p3><sg>$ ^убав/убав<adj><m><sg><nom><ind>$^./.<sent>$
+[/H1s_NMnjyzw0]
+[HltxBRQ5aiDW#0] ^Ние/free<prn><pers><p1><mfn><pl><nom>$ ^сме/е<vbser><pres><p1><pl>$ ^тука/тука<adv>$^./.<sent>$
+[/HltxBRQ5aiDW]
+[Hvximj8Ewmz8#0] ^ништо/ништо<prn><neg>$^./.<sent>$
+[/Hvximj8Ewmz8]
+[IFQ9ChhyP73q#0] ^Книгата/книга<n><f><sg><nom><def>$ ^е/е<vbser><pres><p3><sg>$ ^на/на<pr>$ ^големата/голем<adj><f><sg><nom><def>$ ^маса/маса<n><f><sg><nom><ind>$^./.<sent>$
+[/IFQ9ChhyP73q]
+[Ij6S_NoxWSZC#0] ^зелен/зелен<adj><m><sg><nom><ind>$ ^тревник/тревник<n><m><sg><nom><ind>$
+[/Ij6S_NoxWSZC]
+[IsFJQE1oOfvq#0] ^девети/девети<num><ord><m><sg><nom><ind>/девети<num><ord><mfn><pl><nom><ind>$^./.<sent>$
+[/IsFJQE1oOfvq]
+[JgJ28mrh5MBa#0] ^имаме/има<vbhaver><pres><p1><pl>$ ^читано/чита<vblex><imperf><tv><pp><nt><sg><ind>/чита<vblex><imperf><iv><pp><nt><sg><ind>$^./.<sent>$
+[/JgJ28mrh5MBa]
+[JvfAZsKCCiaX#0] ^зелениот/зелен<adj><m><sg><nom><def>$ ^тревник/тревник<n><m><sg><nom><ind>$
+[/JvfAZsKCCiaX]
+[KHlWUnxxS3h-#0] ^мандатор/мандатор<n><m><sg><nom><ind>$
+[/KHlWUnxxS3h-]
+[Kc2oGdfBZW02#0] ^што/што<cnjsub>/што<prn><itg>/што<prn><rel>$^./.<sent>$
+[/Kc2oGdfBZW02]
+[KjshIW8elaUG#0] ^потерница/потерница<n><f><sg><nom><ind>$
+[/KjshIW8elaUG]
+[Li-neoV_2npj#0] ^каква/каков<prn><itg><f><sg>/каков<prn><rel><f><sg>$^./.<sent>$
+[/Li-neoV_2npj]
+[NFe_xElRUV29#0] ^Таа/тој<prn><dem><f><sg>/free<prn><pers><p3><f><sg><nom>$ ^е/е<vbser><pres><p3><sg>$ ^тука/тука<adv>$^./.<sent>$
+[/NFe_xElRUV29]
+[P06M2qs9mBO1#0] ^Тој/тој<prn><dem><m><sg>/free<prn><pers><p3><m><sg><nom>$ ^даде/даде<vblex><perf><tv><pres><p3><sg>/даде<vblex><perf><tv><aor><p2><sg>/даде<vblex><perf><tv><aor><p3><sg>$ ^на себеси/free<prn><ref><pers><mfn><sp><dat>$^./.<sent>$
+[/P06M2qs9mBO1]
+[Q3Uqw_I1U9g3#0] ^имала/има<vbhaver><lp><pii><f><sg>/има<vbhaver><lp><aor><f><sg>$ ^читано/чита<vblex><imperf><tv><pp><nt><sg><ind>/чита<vblex><imperf><iv><pp><nt><sg><ind>$^./.<sent>$
+[/Q3Uqw_I1U9g3]
+[QqiuplWKas1Q#0] ^премин/премин<n><m><sg><nom><ind>$
+[/QqiuplWKas1Q]
+[R3XzMLJgpDg-#0] ^како/како<adv>/како<prn><itg>/како<prn><rel>$^./.<sent>$
+[/R3XzMLJgpDg-]
+[R_yQ0dJhrwfP#0] ^немала/нема<vbhaver><lp><pii><f><sg>/нема<vbhaver><lp><aor><f><sg>$ ^читано/чита<vblex><imperf><tv><pp><nt><sg><ind>/чита<vblex><imperf><iv><pp><nt><sg><ind>$^./.<sent>$
+[/R_yQ0dJhrwfP]
+[SV1JHSDRfJTx#0] ^нов/нов<adj><m><sg><nom><ind>$ ^аеродром/аеродром<n><m><sg><nom><ind>$
+[/SV1JHSDRfJTx]
+[T9XUXT2cGKVE#0] ^немал/нема<vbhaver><lp><pii><m><sg>/нема<vbhaver><lp><aor><m><sg>$ ^читано/чита<vblex><imperf><tv><pp><nt><sg><ind>/чита<vblex><imperf><iv><pp><nt><sg><ind>$^./.<sent>$
+[/T9XUXT2cGKVE]
+[TTRxVHcFYVxL#0] ^Тоа/тој<prn><dem><nt><sg>/free<prn><pers><p3><nt><sg><nom>$ ^е/е<vbser><pres><p3><sg>$ ^тука/тука<adv>$^./.<sent>$
+[/TTRxVHcFYVxL]
+[TqK7DPdwpagc#0] ^зеленион/зелен<adj><m><sg><nom><dst>$ ^тревник/тревник<n><m><sg><nom><ind>$
+[/TqK7DPdwpagc]
+[U4ivkBm1xYDS#0] ^никоја/никој<prn><neg><f><sg><nom>$^./.<sent>$
+[/U4ivkBm1xYDS]
+[U8OV7QU6N9Lt#0] ^Тие/тој<prn><dem><mfn><pl>/free<prn><pers><p3><mfn><pl><nom>$ ^се/е<vbser><pres><p3><pl>/clitic<prn><ref><pers><mfn><sp><acc>$ ^такви/таков<prn><dem><mfn><pl><ind>$^./.<sent>$
+[/U8OV7QU6N9Lt]
+[UpfdUvU_q4ka#0] ^педесет/педесет<num><mfn><nom><ind>$^./.<sent>$
+[/UpfdUvU_q4ka]
+[V6975T6vGffZ#0] ^Тој/тој<prn><dem><m><sg>/free<prn><pers><p3><m><sg><nom>$ ^даде/даде<vblex><perf><tv><pres><p3><sg>/даде<vblex><perf><tv><aor><p2><sg>/даде<vblex><perf><tv><aor><p3><sg>$ ^својата/free<prn><ref><pos><f><sg><def>$ ^книга/книга<n><f><sg><nom><ind>$^./.<sent>$
+[/V6975T6vGffZ]
+[VBNMTNbFLEl3#0] ^неколкуто/неколку<prn><ind><def>$^./.<sent>$
+[/VBNMTNbFLEl3]
+[VILHHra1Wnvd#0] ^неколкуво/неколку<prn><ind><prx>$^./.<sent>$
+[/VILHHra1Wnvd]
+[VxpBsup8h7iG#0] ^Јас/free<prn><pers><p1><mfn><sg><nom>$ ^сум/е<vbser><pres><p1><sg>$ ^стар/стар<adj><m><sg><nom><ind>$^./.<sent>$
+[/VxpBsup8h7iG]
+[WPZILSGbJNOT#0] ^аквис/аквис<n><m><sg><nom><ind>$
+[/WPZILSGbJNOT]
+[WVc0XruFod_t#0] ^каква што/каков<prn><rel><f><sg># што$^./.<sent>$
+[/WVc0XruFod_t]
+[Wz3HvBLmRf4T#0] ^ќе/ќе<part>$ ^го/clitic<prn><pers><clt><p3><m><sg><acc>/clitic<prn><pers><clt><p3><nt><sg><acc>$ ^охрабри/охрабри<vblex><perf><tv><imp><sg>/охрабри<vblex><perf><tv><pres><p3><sg>/охрабри<vblex><perf><tv><aor><p2><sg>/охрабри<vblex><perf><tv><aor><p3><sg>$^./.<sent>$
+[/Wz3HvBLmRf4T]
+[X7nbAsLEd1MM#0] ^твојов/твој<prn><pos><m><sg><prx>$ ^маж/маж<n><m><sg><nom><ind>$ ^е/е<vbser><pres><p3><sg>$ ^тука/тука<adv>$^./.<sent>$
+[/X7nbAsLEd1MM]
+[XHeMIi9ud0_t#0] ^акционни планови/акционен<n><m><pl><nom><ind># план$
+[/XHeMIi9ud0_t]
+[XaQmhNhbLivN#0] ^зошто/зошто<prn><itg>$^./.<sent>$
+[/XaQmhNhbLivN]
+[YVCNkEuUhVAk#0] ^стоти/стоти<num><ord><m><sg><nom><ind>/стоти<num><ord><mfn><pl><nom><ind>$^./.<sent>$
+[/YVCNkEuUhVAk]
+[YXFH5F7OaUrm#0] ^зелениве/зелен<adj><mfn><pl><nom><prx>$ ^тревници/тревник<n><m><pl><nom><ind>$
+[/YXFH5F7OaUrm]
+[_BSqjWaXN7c-#0] ^да/да<ij>/да<part>$ ^ти/free<prn><pers><p2><mfn><sg><nom>/clitic<prn><pos><clt><p2><mfn><sg>/clitic<prn><pers><clt><p2><mfn><sg><dat>$ ^дам/*дам$ ^на/на<pr>$ ^тебе/free<prn><pers><p2><mfn><sg><acc>/free<prn><pers><p2><mfn><sg><dat>$^./.<sent>$
+[/_BSqjWaXN7c-]
+[_qDtSyPTzEd_#0] ^кому/кој<prn><itg><m><sg><dat>/кој<prn><rel><m><sg><dat>$^./.<sent>$
+[/_qDtSyPTzEd_]
+[a4PTX2PUTCdg#0] ^Книгата/книга<n><f><sg><nom><def>$ ^е/е<vbser><pres><p3><sg>$ ^на/на<pr>$ ^масата/маса<n><f><sg><nom><def>$^./.<sent>$
+[/a4PTX2PUTCdg]
+[a9MTTXOVd_qw#0] ^неколцинава/неколцина<prn><ind><prx>$^./.<sent>$
+[/a9MTTXOVd_qw]
+[bLvDM_rAewV2#0] ^Книгата/книга<n><f><sg><nom><def>$ ^е/е<vbser><pres><p3><sg>$ ^големата/голем<adj><f><sg><nom><def>$^./.<sent>$
+[/bLvDM_rAewV2]
+[bqALRYUqrXtv#0] ^имало/има<vbhaver><lp><pii><nt><sg>/има<vbhaver><lp><aor><nt><sg>$ ^читано/чита<vblex><imperf><tv><pp><nt><sg><ind>/чита<vblex><imperf><iv><pp><nt><sg><ind>$^./.<sent>$
+[/bqALRYUqrXtv]
+[brTLhm3SRvUa#0] ^николку/николку<prn><neg>$^./.<sent>$
+[/brTLhm3SRvUa]
+[cKEXomrUq6_l#0] ^имал/има<vbhaver><lp><pii><m><sg>/има<vbhaver><lp><aor><m><sg>$ ^читано/чита<vblex><imperf><tv><pp><nt><sg><ind>/чита<vblex><imperf><iv><pp><nt><sg><ind>$^./.<sent>$
+[/cKEXomrUq6_l]
+[cOQ-mBy0eVuc#0] ^имам/има<vbhaver><pres><p1><sg>$ ^читано/чита<vblex><imperf><tv><pp><nt><sg><ind>/чита<vblex><imperf><iv><pp><nt><sg><ind>$^./.<sent>$
+[/cOQ-mBy0eVuc]
+[cOWj93l_Np1m#0] ^зелениов/зелен<adj><m><sg><nom><prx>$ ^тревник/тревник<n><m><sg><nom><ind>$
+[/cOWj93l_Np1m]
+[ceSnpexW6z9U#0] ^возило/возило<n><nt><sg><nom><ind>$
+[/ceSnpexW6z9U]
+[chIt2Rja0OcI#0] ^немавте/нема<vbhaver><pii><p2><pl>/нема<vbhaver><aor><p2><pl>$ ^читано/чита<vblex><imperf><tv><pp><nt><sg><ind>/чита<vblex><imperf><iv><pp><nt><sg><ind>$^./.<sent>$
+[/chIt2Rja0OcI]
+[cx_5Mqg-16yV#0] ^секаква/секаков<prn><tot><f><sg>$^./.<sent>$
+[/cx_5Mqg-16yV]
+[dMjVgAIWSODo#0] ^немало/нема<vbhaver><lp><pii><nt><sg>/нема<vbhaver><lp><aor><nt><sg>$ ^читано/чита<vblex><imperf><tv><pp><nt><sg><ind>/чита<vblex><imperf><iv><pp><nt><sg><ind>$^./.<sent>$
+[/dMjVgAIWSODo]
+[e1rwX1o3nKHl#0] ^неколку/неколку<prn><ind><ind>$^./.<sent>$
+[/e1rwX1o3nKHl]
+[eJdcpvtykpyI#0] ^Рихтеровата скала/рихтерова<n><f><sg><nom><def># скала$
+[/eJdcpvtykpyI]
+[etI9JTWEeMul#0] ^Мора/мора<vbmod><pres><p3><sg>/мора<vbmod><aor><p2><sg>/мора<vbmod><aor><p3><sg>$ ^да/да<ij>/да<part>$ ^одиш/оди<vblex><imperf><iv><pres><p2><sg>$^./.<sent>$
+[/etI9JTWEeMul]
+[ffTCVvfSUoGg#0] ^живина/живина<n><f><sg><nom><ind>$
+[/ffTCVvfSUoGg]
+[k2QV0T3fXdNg#0] ^немав/нема<vbhaver><pii><p1><sg>/нема<vbhaver><aor><p1><sg>$ ^читано/чита<vblex><imperf><tv><pp><nt><sg><ind>/чита<vblex><imperf><iv><pp><nt><sg><ind>$^./.<sent>$
+[/k2QV0T3fXdNg]
+[kJeLP-iMh4aE#0] ^да/да<ij>/да<part>$ ^му/clitic<prn><pos><clt><p3><m><sg>/clitic<prn><pos><clt><p3><nt><sg>/clitic<prn><pers><clt><p3><m><sg><dat>/clitic<prn><pers><clt><p3><nt><sg><dat>$ ^кажам/каже<vblex><perf><tv><pres><p1><sg>$ ^на/на<pr>$ ^брат/брат<n><m><sg><nom><ind>$ ^ми/мие<vblex><imperf><tv><aor><p2><sg>/мие<vblex><imperf><tv><aor><p3><sg>/мие<vblex><imperf><iv><aor><p2><sg>/мие<vblex><imperf><iv><aor><p3><sg>/clitic<prn><pos><clt><p1><mfn><sg>/clitic<prn><pers><clt><p1><mfn><sg><dat>$^./.<sent>$
+[/kJeLP-iMh4aE]
+[kVtAJM3LIsOo#0] ^Јас/free<prn><pers><p1><mfn><sg><nom>$ ^ја/clitic<prn><pers><clt><p3><f><sg><acc>$ ^имам/има<vbhaver><pres><p1><sg>$ ^прочитано/*прочитано$ ^книгата/книга<n><f><sg><nom><def>$^./.<sent>$
+[/kVtAJM3LIsOo]
+[kXCTSrJ-ol1P#0] ^имав/има<vbhaver><pii><p1><sg>/има<vbhaver><aor><p1><sg>$ ^читано/чита<vblex><imperf><tv><pp><nt><sg><ind>/чита<vblex><imperf><iv><pp><nt><sg><ind>$^./.<sent>$
+[/kXCTSrJ-ol1P]
+[kbGoRFMfLA09#0] ^зелените/зелен<adj><mfn><pl><nom><def>$ ^тревници/тревник<n><m><pl><nom><ind>$
+[/kbGoRFMfLA09]
+[klZqw8T2STnS#0] ^пресвртници/пресвртница<n><f><pl><nom><ind>$
+[/klZqw8T2STnS]
+[kzAg3d39HxLt#0] ^чијашто/којшто<prn><rel><f><sg><gen>$^./.<sent>$
+[/kzAg3d39HxLt]
+[lgDhbHXk5u3C#0] ^немале/нема<vbhaver><lp><pii><mfn><pl>/нема<vbhaver><lp><aor><mfn><pl>$ ^читано/чита<vblex><imperf><tv><pp><nt><sg><ind>/чита<vblex><imperf><iv><pp><nt><sg><ind>$^./.<sent>$
+[/lgDhbHXk5u3C]
+[lkf4eq7zBMZn#0] ^кого/кој<prn><itg><m><sg><acc>/кој<prn><rel><m><sg><acc>$^./.<sent>$
+[/lkf4eq7zBMZn]
+[m5lJaI8N4Jjk#0] ^имавте/има<vbhaver><pii><p2><pl>/има<vbhaver><aor><p2><pl>$ ^читано/чита<vblex><imperf><tv><pp><nt><sg><ind>/чита<vblex><imperf><iv><pp><nt><sg><ind>$^./.<sent>$
+[/m5lJaI8N4Jjk]
+[muCByghPS-eB#0] ^Она/оној<prn><dem><nt><sg>/free<prn><pers><p3><f><sg><nom>$ ^е/е<vbser><pres><p3><sg>$ ^тука/тука<adv>$^./.<sent>$
+[/muCByghPS-eB]
+[nqRAwIMI1gXy#0] ^твојон/твој<prn><pos><m><sg><dst>$ ^маж/маж<n><m><sg><nom><ind>$ ^е/е<vbser><pres><p3><sg>$ ^тука/тука<adv>$^./.<sent>$
+[/nqRAwIMI1gXy]
+[ny1itqLXtzbv#0] ^бидејќи/бидејќи<prn><rel>$^./.<sent>$
+[/ny1itqLXtzbv]
+[nyds357KXscQ#0] ^стотен/стотен<num><ord><m><sg><nom><ind>$^./.<sent>$
+[/nyds357KXscQ]
+[omzmab9c3bCQ#0] ^колкави/колкав<prn><itg><mfn><pl>$^./.<sent>$
+[/omzmab9c3bCQ]
+[pIRl3ErOG4Cp#0] ^Убиецот/убиец<n><m><sg><nom><def>$ ^должел/должи<vblex><imperf><tv><lp><pii><m><sg>$ ^пари/пара<n><f><pl><nom><ind>$^./.<sent>$
+[/pIRl3ErOG4Cp]
+[pMtVs3-v-dxl#0] ^животна средина/животна<n><f><sg><nom><ind># средина$
+[/pMtVs3-v-dxl]
+[qSWPZ-OkBiLV#0] ^никому/никој<prn><neg><m><sg><dat>$^./.<sent>$
+[/qSWPZ-OkBiLV]
+[qZAw6FfYp8M2#0] ^неколцина/неколцина<prn><ind><ind>$^./.<sent>$
+[/qZAw6FfYp8M2]
+[qgnd-P3O0106#0] ^Вие/free<prn><pers><p2><mfn><pl><nom>$ ^сте/е<vbser><pres><p2><pl>$ ^тука/тука<adv>$^./.<sent>$
+[/qgnd-P3O0106]
+[qh5SMCQDVA_v#0] ^физибилити студии/физибилити студија<n><f><pl><nom><ind>$
+[/qh5SMCQDVA_v]
+[rHgY3apLix9-#0] ^книгата/книга<n><f><sg><nom><def>$ ^ти/free<prn><pers><p2><mfn><sg><nom>/clitic<prn><pos><clt><p2><mfn><sg>/clitic<prn><pers><clt><p2><mfn><sg><dat>$^./.<sent>$
+[/rHgY3apLix9-]
+[rJXVqK7OLP7Z#0] ^Тој/тој<prn><dem><m><sg>/free<prn><pers><p3><m><sg><nom>$ ^е/е<vbser><pres><p3><sg>$ ^тука/тука<adv>$^./.<sent>$
+[/rJXVqK7OLP7Z]
+[rdYANkjqXk0h#0] ^неговите/негов<prn><pos><mfn><pl><def>$ ^раце/рака<n><f><pl><nom><ind>$^./.<sent>$
+[/rdYANkjqXk0h]
+[ryiHYpnd4_L0#0] ^Она/оној<prn><dem><nt><sg>/free<prn><pers><p3><f><sg><nom>$ ^мие/мие<vblex><imperf><tv><pres><p3><sg>/мие<vblex><imperf><iv><pres><p3><sg>$ ^своите/free<prn><ref><pos><mfn><pl><def>$ ^раце/рака<n><f><pl><nom><ind>$^./.<sent>$
+[/ryiHYpnd4_L0]
+[s-ZIec6YFaks#0] ^за/за<pr>$ ^нив/free<prn><pers><p3><mfn><pl><acc>$^./.<sent>$
+[/s-ZIec6YFaks]
+[sSFJGD-duX9f#0] ^Ќе/ќе<part>$ ^пристигнев/пристигне<vblex><perf><iv><pii><p1><sg>$^./.<sent>$
+[/sSFJGD-duX9f]
+[saHD3uhYrMNz#0] ^потсекретар/потсекретар<n><m><sg><nom><ind>$
+[/saHD3uhYrMNz]
+[tTuGYNnuxfYE#0] ^мажов/маж<n><m><sg><nom><prx>$ ^е/е<vbser><pres><p3><sg>$ ^убав/убав<adj><m><sg><nom><ind>$^./.<sent>$
+[/tTuGYNnuxfYE]
+[uVh16MJ0u4vG#0] ^новите/нов<adj><mfn><pl><nom><def>$ ^аеродроми/аеродром<n><m><pl><nom><ind>$
+[/uVh16MJ0u4vG]
+[ubU_7SGb1E1V#0] ^Јас/free<prn><pers><p1><mfn><sg><nom>$ ^сум/е<vbser><pres><p1><sg>$ ^македонец/македонец<n><m><sg><nom><ind>$^./.<sent>$
+[/ubU_7SGb1E1V]
+[wYKZJZprx61W#0] ^еден/еден<num><m><sg><nom><ind>$^./.<sent>$
+[/wYKZJZprx61W]
+[wplIK-q3YZnN#0] ^недвижност/недвижност<n><f><sg><nom><ind>$
+[/wplIK-q3YZnN]
+[wsdjw7BchVHi#0] ^гасови со ефект на стаклена бавча/гас<n><m><pl><nom><ind># со ефект на стаклена бавча$
+[/wsdjw7BchVHi]
+[xGymJNHi66-E#0] ^неколцинана/неколцина<prn><ind><dst>$^./.<sent>$
+[/xGymJNHi66-E]
+[xMep6PJC_cYO#0] ^Јас/free<prn><pers><p1><mfn><sg><nom>$ ^сум/е<vbser><pres><p1><sg>$ ^тука/тука<adv>$^./.<sent>$
+[/xMep6PJC_cYO]
+[yC67TeQ7Z2qA#0] ^рацете/рака<n><f><pl><nom><def>$ ^му/clitic<prn><pos><clt><p3><m><sg>/clitic<prn><pos><clt><p3><nt><sg>/clitic<prn><pers><clt><p3><m><sg><dat>/clitic<prn><pers><clt><p3><nt><sg><dat>$^./.<sent>$
+[/yC67TeQ7Z2qA]
+[yVDKYPL2fSLU#0] ^новиот/нов<adj><m><sg><nom><def>$ ^аеродром/аеродром<n><m><sg><nom><ind>$
+[/yVDKYPL2fSLU]
+[yacpFAmNqxIW#0] ^ќе/ќе<part>$ ^дојдеше/дојде<vblex><perf><iv><pii><p2><sg>/дојде<vblex><perf><iv><pii><p3><sg>$^./.<sent>$
+[/yacpFAmNqxIW]
+[z2cAgU7Cjg3y#0] ^сена/сиот<prn><tot><f><sg><dst>$^./.<sent>$
+[/z2cAgU7Cjg3y]
+[zuDyrwVG_TaG#0] ^Тие/тој<prn><dem><mfn><pl>/free<prn><pers><p3><mfn><pl><nom>$ ^се/е<vbser><pres><p3><pl>/clitic<prn><ref><pers><mfn><sp><acc>$ ^тука/тука<adv>$^./.<sent>$
+[/zuDyrwVG_TaG]
+[zzAB-clTFKy_#0] ^Ти/free<prn><pers><p2><mfn><sg><nom>/clitic<prn><pos><clt><p2><mfn><sg>/clitic<prn><pers><clt><p2><mfn><sg><dat>$ ^си/е<vbser><pres><p2><sg>/clitic<prn><ref><pos>/clitic<prn><ref><pers><mfn><sp><dat>$ ^тука/тука<adv>$^./.<sent>$
+[/zzAB-clTFKy_]

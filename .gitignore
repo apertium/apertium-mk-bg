@@ -15,3 +15,15 @@
 /missing
 /modes
 /stamp-h1
+/*.hfst
+/*.gz
+/*.pc
+/*.zhfst
+/.DS_Store
+/ap_include.am
+/autom4te.cache
+/config.log
+/config.status
+/*-*.prob
+/config.in
+/test/*-output.txt

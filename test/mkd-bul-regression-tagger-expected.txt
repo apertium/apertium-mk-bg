@@ -1,0 +1,48 @@
+[4fmalO5ZU-lI#0] ^Од<pr>$ ^денес<adv>$^,<cm>$ ^криза<n><f><sg><nom><def><@SUBJ→>$ ^е<vbser><pres><p3><sg>$ ^негов<prn><pos><f><sg><ind>$^.<sent>$
+[/4fmalO5ZU-lI]
+[6yIjpWJ6aFZ0#0] ^adj<pref><comp>+нов<adj><m><sg><nom><ind>$^.<sent>$
+[/6yIjpWJ6aFZ0]
+[8UVTFzt8vAt-#0] ^Од<pr>$ ^денес<adv>$^,<cm>$ ^криза<n><f><sg><nom><def><@SUBJ→>$ ^е<vbser><pres><p3><sg>$ ^мој<prn><pos><f><sg><ind>$^.<sent>$
+[/8UVTFzt8vAt-]
+[8V7C3JtVMMgs#0] ^тежок<adj><m><sg><nom><ind>$^.<sent>$
+[/8V7C3JtVMMgs]
+[ExmrWPMewjab#0] ^аеродром<n><m><pl><nom><ind>$
+[/ExmrWPMewjab]
+[JaLU3eP7NlUl#0] ^Од<pr>$ ^денес<adv>$^,<cm>$ ^криза<n><f><sg><nom><def><@SUBJ→>$ ^е<vbser><pres><p3><sg>$ ^ваш<prn><pos><f><sg><ind>$^.<sent>$
+[/JaLU3eP7NlUl]
+[Jo_TIUrK6gG1#0] ^Од<pr>$ ^денес<adv>$^,<cm>$ ^криза<n><f><sg><nom><def><@SUBJ→>$ ^е<vbser><pres><p3><sg>$ ^твој<prn><pos><f><sg><ind>$^.<sent>$
+[/Jo_TIUrK6gG1]
+[Sw03je2GsXLf#0] ^adj<pref><comp>+тежок<adj><m><sg><nom><ind>$^.<sent>$
+[/Sw03je2GsXLf]
+[T4VCyfFG0f8-#0] ^аеродром<n><m><pl><nom><prx>$
+[/T4VCyfFG0f8-]
+[ThC_I6teqUox#0] ^аеродром<n><m><pl><nom><dst>$
+[/ThC_I6teqUox]
+[Ui14bMQVuJHq#0] ^нов<adj><m><sg><nom><ind>$^.<sent>$
+[/Ui14bMQVuJHq]
+[XOULUxS4tsWF#0] ^аеродром<n><m><sg><nom><dst>$
+[/XOULUxS4tsWF]
+[Z4qVEpO7_OvW#0] ^многу<adv>$^.<sent>$
+[/Z4qVEpO7_OvW]
+[a-EyChMDOUS9#0] ^аеродром<n><m><sg><nom><prx>$
+[/a-EyChMDOUS9]
+[bUtXTJyc3Hqu#0] ^аеродром<n><m><pl><nom><def>$
+[/bUtXTJyc3Hqu]
+[ePn8cpg6IdZZ#0] ^аеродром<n><m><sg><nom><ind>$
+[/ePn8cpg6IdZZ]
+[f1rk0_Q9KOZO#0] ^adj<pref><sup>+тежок<adj><m><sg><nom><ind>$^.<sent>$
+[/f1rk0_Q9KOZO]
+[jhrjNw2xmcMm#0] ^Од<pr>$ ^денес<adv>$^,<cm>$ ^криза<n><f><sg><nom><def><@SUBJ→>$ ^е<vbser><pres><p3><sg>$ ^free<prn><ref><pos><f><sg><ind>$^.<sent>$
+[/jhrjNw2xmcMm]
+[ngeWkItlLT2Y#0] ^аеродром<n><m><sg><nom><def>$
+[/ngeWkItlLT2Y]
+[njiF_QEsiGwI#0] ^повеќе<adv>$^.<sent>$
+[/njiF_QEsiGwI]
+[sURAk2EJr8op#0] ^Од<pr>$ ^денес<adv>$^,<cm>$ ^криза<n><f><sg><nom><def><@SUBJ→>$ ^е<vbser><pres><p3><sg>$ ^наш<prn><pos><f><sg><ind>$^.<sent>$
+[/sURAk2EJr8op]
+[t4tx4VQIiE18#0] ^adj<pref><sup>+нов<adj><m><sg><nom><ind>$^.<sent>$
+[/t4tx4VQIiE18]
+[tt6iECpW5i6q#0] ^Од<pr>$ ^денес<adv>$^,<cm>$ ^криза<n><f><sg><nom><def><@SUBJ→>$ ^е<vbser><pres><p3><sg>$ ^нејзин<prn><pos><f><sg><ind>$^.<sent>$
+[/tt6iECpW5i6q]
+[vK6qutiGu3yG#0] ^Од<pr>$ ^денес<adv>$^,<cm>$ ^криза<n><f><sg><nom><def><@SUBJ→>$ ^е<vbser><pres><p3><sg>$ ^нивен<prn><pos><f><sg><ind>$^.<sent>$
+[/vK6qutiGu3yG]
